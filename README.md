@@ -901,3 +901,17 @@ http://210.210.155.66/h/h07/01.m3u8
 http://210.210.155.66/h/h03/02.m3u8
 #EXTINF:-1,MAL: LIFE STYLE
 http://210.210.155.66/h/h28/02.m3u8
+#EXTINF:-1,HBO
+http://vtv.iptvfree.gq:2086/live/hbo.m3u8
+#EXTINF:-1,AXN
+http://vtv.iptvfree.gq:2086/live/axn.m3u8
+#EXTINF:-1,Boomerang
+http://vtv.iptvfree.gq:2086/live/boomerang.m3u8
+#EXTINF:-1,Cartoon Network
+http://vtv.iptvfree.gq:2086/live/cartoon.m3u8
+#EXTINF:-1,Disney Channel
+http://vtv.iptvfree.gq:2086/live/disney.m3u8
+#EXTINF:-1,Fox Movies
+http://vtv.iptvfree.gq:2086/live/foxmovies.m3u8
+#EXTINF:-1,Fox Life
+http://vtv.iptvfree.gq:2086/live/foxlife.m3u8
