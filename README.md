@@ -916,3 +916,4 @@ http://vtv.iptvfree.gq:2086/live/foxmovies.m3u8
 #EXTINF:-1,Fox Life
 http://vtv.iptvfree.gq:2086/live/foxlife.m3u8
 #EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/1200px-Sony_MAX.svg.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX (IN) 
+http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8 
