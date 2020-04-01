@@ -929,3 +929,4 @@ http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1,IN: SONY TEN 1 HD
 https://joey.vbkt.ga/LiveApp/streams/603668652894062794141419.m3u8
+#EXTINF:-1,AU: FOX NEWS 
