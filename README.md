@@ -945,3 +945,4 @@ https://ch.iptvmate.net/5f24f642017e3fae6fca576aaf4ef0f3.m3u8
 https://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:-1,INT: PORN TV
 https://usb.bozztv.com/ssh101/TBB2/TBB2/index.m3u8
+#EXTINF:-1,INT: XXX TV
