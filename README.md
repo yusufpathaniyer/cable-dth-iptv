@@ -932,3 +932,4 @@ https://joey.vbkt.ga/LiveApp/streams/603668652894062794141419.m3u8
 #EXTINF:-1,USA: FOX NEWS 
 https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
 #EXTINF:-1,IN: NAT GEO WILD
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/nat-geo-wild.m3u8
