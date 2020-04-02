@@ -934,3 +934,4 @@ https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
 #EXTINF:-1,RU: NAT GEO WILD
 http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/nat-geo-wild.m3u8
 #EXTINF:-1,USA: Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
