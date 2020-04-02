@@ -943,9 +943,9 @@ https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u
 https://ch.iptvmate.net/5f24f642017e3fae6fca576aaf4ef0f3.m3u8
 #EXTINF:-1,INT: AST TV
 https://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1,INT: PORN TV
+#EXTINF:-1,INT: BLUE TV
 https://usb.bozztv.com/ssh101/TBB2/TBB2/index.m3u8
-#EXTINF:-1,INT: XXX TV
+#EXTINF:-1,INT: NAKED TV
 https://usb.bozztv.com/ssh101/TBB5/TBB5/index.m3u8
 #EXTINF:-1,IN: 18 PLUS TV
 https://usb.bozztv.com/ssh101/TBB4/TBB4/index.m3u8
