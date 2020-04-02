@@ -939,3 +939,4 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 http://188.35.9.5:10020/stolen/487n/hot.dll
 #EXTINF:-1,INT: FASHION TV
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,USA: NEWS ENTER
