@@ -951,3 +951,4 @@ https://usb.bozztv.com/ssh101/TBB5/TBB5/index.m3u8
 https://usb.bozztv.com/ssh101/TBB4/TBB4/index.m3u8
 #EXTINF:-1,INT: XXX TV
 https://usb.bozztv.com/ssh101/TBB3/TBB3/index.m3u8
+#EXTINF:-1,RU: BOOMERANG
