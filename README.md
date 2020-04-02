@@ -931,3 +931,4 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 https://joey.vbkt.ga/LiveApp/streams/603668652894062794141419.m3u8
 #EXTINF:-1,USA: FOX NEWS 
 https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
+#EXTINF:-1,IN: NAT GEO WILD
