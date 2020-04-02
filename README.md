@@ -949,3 +949,4 @@ https://usb.bozztv.com/ssh101/TBB2/TBB2/index.m3u8
 https://usb.bozztv.com/ssh101/TBB5/TBB5/index.m3u8
 #EXTINF:-1,IN: 18 PLUS TV
 https://usb.bozztv.com/ssh101/TBB4/TBB4/index.m3u8
+#EXTINF:-1,INT: XXX TV
