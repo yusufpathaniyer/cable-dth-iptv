@@ -942,3 +942,4 @@ https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u
 #EXTINF:-1,USA: NEWS ENTER
 https://ch.iptvmate.net/5f24f642017e3fae6fca576aaf4ef0f3.m3u8
 #EXTINF:-1,INT: AST TV
+https://www.ast.tv/stream/1/cellular.m3u8
