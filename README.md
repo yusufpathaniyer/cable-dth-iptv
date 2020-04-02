@@ -953,3 +953,4 @@ https://usb.bozztv.com/ssh101/TBB4/TBB4/index.m3u8
 https://usb.bozztv.com/ssh101/TBB3/TBB3/index.m3u8
 #EXTINF:-1,RU: BOOMERANG
 http://proxyts.ec.cx:8082/hls1/boomerang.m3u8
+#EXTINF:-1,ME: DUBAI ONE
