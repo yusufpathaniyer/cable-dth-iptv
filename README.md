@@ -947,3 +947,4 @@ https://www.ast.tv/stream/1/cellular.m3u8
 https://usb.bozztv.com/ssh101/TBB2/TBB2/index.m3u8
 #EXTINF:-1,INT: XXX TV
 https://usb.bozztv.com/ssh101/TBB5/TBB5/index.m3u8
+#EXTINF:-1,IN: HOT TV
