@@ -977,3 +977,4 @@ http://proxyts.ec.cx:8082/hls1/hot.m3u8
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1,ME: MBC MAX
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
+#EXTINF:-1,US: FOX4
