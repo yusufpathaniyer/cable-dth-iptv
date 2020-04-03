@@ -981,3 +981,4 @@ http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
 http://api.new.livestream.com/accounts/6395980/events/2598380/live.m3u8
 #EXTINF:-1,UK: ITV2
 http://51.52.156.22:8888/http/005
+#EXTINF:-1,UK: DISNEY CHANNEL
