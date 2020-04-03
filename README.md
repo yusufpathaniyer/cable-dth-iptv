@@ -982,3 +982,4 @@ http://api.new.livestream.com/accounts/6395980/events/2598380/live.m3u8
 #EXTINF:-1,UK: ITV2
 http://51.52.156.22:8888/http/005
 #EXTINF:-1,UK: DISNEY CHANNEL
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=disney
