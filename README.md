@@ -984,3 +984,4 @@ http://51.52.156.22:8888/http/005
 #EXTINF:-1,UK: DISNEY CHANNEL
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=disney
 #EXTINF:-1,IN: DISCOVERY CHANNEL
+https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8
