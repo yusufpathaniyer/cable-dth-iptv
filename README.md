@@ -966,3 +966,4 @@ https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1,INT: SEMALE TV
 https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1,USA: ID
+http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
