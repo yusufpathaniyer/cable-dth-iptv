@@ -974,3 +974,4 @@ http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 #EXTINF:-1,INT: HOT SEX
 http://proxyts.ec.cx:8082/hls1/hot.m3u8
 #EXTINF:-1,USA: FOOD CHANNEL
+http://5.135.92.133:52841/out/u/502_1.m3u8
