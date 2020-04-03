@@ -969,3 +969,4 @@ https://www.ast.tv/stream/2/ultra.m3u8
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 #EXTINF:-1,USA: CW (WSFL) 
 http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
+#EXTINF:-1,IN: FOX
