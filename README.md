@@ -979,3 +979,4 @@ http://5.135.92.133:52841/out/u/502_1.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,US: FOX4
 http://api.new.livestream.com/accounts/6395980/events/2598380/live.m3u8
+#EXTINF:-1,UK: ITV2
