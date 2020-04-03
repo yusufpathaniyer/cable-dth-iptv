@@ -964,3 +964,4 @@ http://hls-live-media.cdn01.net/default/stream_14889.m3u8
 #EXTINF:-1,USA: 23 ABC
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1,INT: SEMALE TV
+https://www.ast.tv/stream/2/ultra.m3u8
