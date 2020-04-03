@@ -961,4 +961,5 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
 #EXTINF:-1,USA: Faith 
 http://hls-live-media.cdn01.net/default/stream_14889.m3u8
-#EXTINF:-1,USA: ABC
+#EXTINF:-1,USA: 23 ABC
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
