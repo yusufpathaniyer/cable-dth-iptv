@@ -986,3 +986,4 @@ http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=disney
 #EXTINF:-1,IN: DISCOVERY CHANNEL
 https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8
 #EXTINF:-1,IN: ZEE BANGLA
+http://43.251.86.2:8080/hls/channel_1.m3u8
