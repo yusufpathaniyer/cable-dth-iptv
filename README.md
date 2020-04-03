@@ -956,3 +956,4 @@ http://proxyts.ec.cx:8082/hls1/boomerang.m3u8
 #EXTINF:-1,ME: DUBAI ONE
 https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
 #EXTINF:-1,UK: ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
