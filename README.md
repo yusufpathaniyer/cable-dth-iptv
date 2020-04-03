@@ -971,3 +971,4 @@ http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,IN: FOX
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
+#EXTINF:-1,INT: HOT SEX
