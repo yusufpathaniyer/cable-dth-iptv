@@ -990,3 +990,4 @@ http://43.251.86.2:8080/hls/channel_1.m3u8
 #EXTINF:-1,CA: ONE STUDIO
 https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,US: ET LIVE
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
