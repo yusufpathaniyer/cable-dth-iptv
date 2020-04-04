@@ -1003,3 +1003,4 @@ http://210.210.155.66/h/h23/index.m3u8
 https://delivery.ghanacloud.ga/LiveApp/streams/762070855668632070854894.m3u8
 #EXTINF:-1,IN: SONY TV
 https://delivery.ghanacloud.ga/LiveApp/streams/981519428048087825671758.m3u8
+#EXTINF:-1,IN: SONY MAX
