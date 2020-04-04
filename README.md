@@ -997,3 +997,4 @@ http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8?fluxustv.m3u8
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1,UK: Portal Foxmix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1,JP: NHK WORLD
