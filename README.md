@@ -993,3 +993,4 @@ https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8?fluxustv.m3u8
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1,ME: DOCU BOX
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8?fluxustv.m3u8
+#EXTINF:-1,MALAYSIA: FOX ACTION MOVIES
