@@ -1001,3 +1001,4 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 http://210.210.155.66/h/h23/index.m3u8
 #EXTINF:-1,IN: 9XO
 https://delivery.ghanacloud.ga/LiveApp/streams/762070855668632070854894.m3u8
+#EXTINF:-1,IN: SONY TV
