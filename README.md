@@ -1007,3 +1007,4 @@ https://delivery.ghanacloud.ga/LiveApp/streams/981519428048087825671758.m3u8
 https://delivery.ghanacloud.ga/LiveApp/streams/989966766527473929921256.m3u8
 #EXTINF:-1,US: RT
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8
+#EXTINF:-1,RU: ANIMAL PLANET HD
