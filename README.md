@@ -1051,3 +1051,4 @@ http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8
 http://103.115.159.37:8080/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: STAR JALSHA HD
 http://103.115.159.37:8080/starjalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: AXN
