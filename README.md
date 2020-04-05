@@ -1049,3 +1049,4 @@ https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/chunklist_w805691612
 http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: ZEE BANGLA HD
 http://103.115.159.37:8080/zeebangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: STAR JALSHA HD
