@@ -1011,3 +1011,4 @@ http://uiptv.do.am/1ufc/702424953/playlist.m3u8
 http://78.129.228.178/iptv/AGCFZVZNQQ3Z64/218/index.m3u8
 #EXTINF:-1,AU: RACING TV
 http://78.110.169.226:8000/play/a01z
+#EXTINF:-1,AU: ESPN 2
