@@ -1040,3 +1040,4 @@ http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ASIA: FOX LIFE
 http://103.115.159.37:8080/foxlife/tracks-v1a1/mono.m3u8
 #EXTINF:-1,INT: HUSTLER HD
+http://188.35.9.26:2030/udp/047c
