@@ -1026,3 +1026,4 @@ http://103.115.159.37:8080/zeecinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: SONY MAX
 http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: STAR GOLD HD
+http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8
