@@ -1047,3 +1047,4 @@ https://cdn1.ibizastream.biz:441/free/2/playlist.m3u8
 https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/chunklist_w805691612.m3u8
 #EXTINF:-1,IN: NICK
 http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: ZEE BANGLA HD
