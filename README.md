@@ -1012,3 +1012,4 @@ http://78.129.228.178/iptv/AGCFZVZNQQ3Z64/218/index.m3u8
 #EXTINF:-1,AU: RACING TV
 http://78.110.169.226:8000/play/a01z
 #EXTINF:-1,AU: ESPN 2
+http://npse.brots.world/espn2.m3u8
