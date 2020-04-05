@@ -1019,3 +1019,4 @@ https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8
 http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1,APAC: ZEE TV
 http://103.115.159.37:8080/zeetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: SONY TV
