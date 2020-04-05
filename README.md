@@ -1035,3 +1035,4 @@ http://103.115.159.37:8080/Sonyten1/tracks-v1a1/mono.m3u8
 http://103.115.159.37:8080/sonyten2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: SONY TEN 3
 http://103.115.159.37:8080/Sonyten3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ASIA: HBO
