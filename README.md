@@ -1024,3 +1024,4 @@ http://103.115.159.37:8080/sony/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ME: ZEE CINEMA
 http://103.115.159.37:8080/zeecinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: SONY MAX
+http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
