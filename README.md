@@ -1029,3 +1029,4 @@ http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
 http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: NAT GEO
 http://103.115.159.37:8080/natgeo/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: SONY TEN 1 HD
