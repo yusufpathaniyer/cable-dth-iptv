@@ -1053,3 +1053,4 @@ http://103.115.159.37:8080/zeebangla/tracks-v1a1/mono.m3u8
 http://103.115.159.37:8080/starjalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: AXN
 http://103.115.159.37:8080/axn/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: SONY AATH
