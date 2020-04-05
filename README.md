@@ -1020,3 +1020,4 @@ http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1,APAC: ZEE TV
 http://103.115.159.37:8080/zeetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: SONY TV
+http://103.115.159.37:8080/sony/tracks-v1a1/mono.m3u8
