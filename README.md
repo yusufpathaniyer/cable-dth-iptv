@@ -1015,3 +1015,4 @@ http://78.110.169.226:8000/play/a01z
 http://npse.brots.world/espn2.m3u8
 #EXTINF:-1,IN: DISCOVERY CHANNEL
 https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8
+#EXTINF:-1,IN: STAR PLUS HD
