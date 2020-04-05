@@ -1009,3 +1009,4 @@ https://delivery.ghanacloud.ga/LiveApp/streams/989966766527473929921256.m3u8
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8
 #EXTINF:-1,RU: ANIMAL PLANET HD
 http://78.129.228.178/iptv/AGCFZVZNQQ3Z64/218/index.m3u8
+#EXTINF:-1,AU: RACING TV
