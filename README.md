@@ -1094,3 +1094,4 @@ https://delivery.macan.live/stream/id_fox/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,ID: ANIMAL PLANET
 https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,ID: FX
+https://delivery.macan.live/stream/id_fx/index.m3u8?token=Yq91Jdf0&v=20200308
