@@ -1099,4 +1099,5 @@ https://delivery.macan.live/stream/id_fx/index.m3u8?token=Yq91Jdf0&v=20200308
 https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,ID: CHANNEL V
 https://delivery.macan.live/stream/id_channelv/index.m3u8?token=Yq91Jdf0&v=20200308
-#EXTINF:-1,IN: WANER TV
+#EXTINF:-1,IN: WARNER TV
+https://delivery.macan.live/stream/warnwrtv/index.m3u8?token=Yq91Jdf0&v=20200308
