@@ -1073,3 +1073,4 @@ https://delivery.macan.live/stream/disneyxd/index.m3u8?token=Yq91Jdf0&v=20200308
 https://delivery.macan.live/stream/zeetv/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,ASIA: BABY TV
 https://delivery.macan.live/stream/babytv/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1,INT: NICK
