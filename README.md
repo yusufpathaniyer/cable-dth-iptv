@@ -1101,3 +1101,4 @@ https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=Yq91Jdf0
 https://delivery.macan.live/stream/id_channelv/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,IN: WARNER TV
 https://delivery.macan.live/stream/warnertv/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1,ID: LIFETIME
