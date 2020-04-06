@@ -1079,3 +1079,4 @@ https://delivery.macan.live/stream/nickelodeon/index.m3u8?token=Yq91Jdf0&v=20200
 https://delivery.macan.live/stream/cartoonnetwork/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,BBK: TLC
 https://delivery.macan.live/stream/tlc/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1,JKT: HISTORY
