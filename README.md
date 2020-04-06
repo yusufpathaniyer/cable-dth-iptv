@@ -1123,3 +1123,5 @@ https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=Yq91Jdf0&v=
 https://delivery.macan.live/stream/id_bloomberg/index.m3u8?token=Yq91Jdf0&v=20200308 
 #EXTINF:-1,Astro SuperSport
 http://103.93.55.116:8080/stream/channelid/621737785
+#EXTINF:-1,Animax
+http://103.93.55.116:8080/stream/channelid/469544661
