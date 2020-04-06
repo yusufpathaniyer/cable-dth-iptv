@@ -1121,3 +1121,4 @@ https://delivery.macan.live/stream/id_bbcworldnews/index.m3u8?token=Yq91Jdf0&v=2
 https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,ID: BLOOMBERG
 https://delivery.macan.live/stream/id_bloomberg/index.m3u8?token=Yq91Jdf0&v=20200308 
+#EXTINF:-1,IN: NEWS 18
