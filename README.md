@@ -1114,3 +1114,4 @@ https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=Yq91Jdf0
 #EXTINF:-1,ID: NHK WORLD
 https://delivery.macan.live/stream/id_nhkworld/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,ID: CNA
+https://delivery.macan.live/stream/id_cna/index.m3u8?token=Yq91Jdf0&v=20200308
