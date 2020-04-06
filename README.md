@@ -1090,3 +1090,4 @@ https://delivery.macan.live/stream/cinemax/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,MAL: ASIAN FOOD CHANNEL
 https://delivery.macan.live/stream/id_afc/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,ID: FOX
+https://delivery.macan.live/stream/id_fox/index.m3u8?token=Yq91Jdf0&v=20200308
