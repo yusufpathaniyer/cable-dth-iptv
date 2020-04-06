@@ -1125,3 +1125,11 @@ https://delivery.macan.live/stream/id_bloomberg/index.m3u8?token=Yq91Jdf0&v=2020
 http://103.93.55.116:8080/stream/channelid/621737785
 #EXTINF:-1,Animax
 http://103.93.55.116:8080/stream/channelid/469544661
+#EXTINF:-1,BALI TV
+http://103.93.55.116:8080/stream/channelid/136786428
+#EXTINF:-1,Bloomberg HD
+http://103.93.55.116:8080/stream/channelid/1619940221
+#EXTINF:-1,Blue Ant Entertainment
+http://103.93.55.116:8080/stream/channelid/22228952
+#EXTINF:-1,Blue Ant Extreme
+http://103.93.55.116:8080/stream/channelid/831837045
