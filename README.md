@@ -1081,3 +1081,4 @@ https://delivery.macan.live/stream/cartoonnetwork/index.m3u8?token=Yq91Jdf0&v=20
 https://delivery.macan.live/stream/tlc/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,JKT: HISTORY
 https://delivery.macan.live/stream/history/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1,MAL: ZOOMOO
