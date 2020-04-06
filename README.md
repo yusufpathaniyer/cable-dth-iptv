@@ -1083,3 +1083,4 @@ https://delivery.macan.live/stream/tlc/index.m3u8?token=Yq91Jdf0&v=20200308
 https://delivery.macan.live/stream/history/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,MAL: ZOOMOO
 https://delivery.macan.live/stream/zoomoo/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1,MAL: HGTV
