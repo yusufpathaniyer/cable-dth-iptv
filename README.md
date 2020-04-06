@@ -1065,3 +1065,4 @@ http://vtv.iptvfree.gq:2086/live/hbo.m3u8
 http://vtv.iptvfree.gq:2086/live/axn.m3u8
 #EXTINF:-1,BBK: FOX LIFE
 http://vtv.iptvfree.gq:2086/live/foxlife.m3u8
+#EXTINF:-1,INT: PRIVATE TV
