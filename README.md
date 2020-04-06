@@ -1133,3 +1133,5 @@ http://103.93.55.116:8080/stream/channelid/1619940221
 http://103.93.55.116:8080/stream/channelid/22228952
 #EXTINF:-1,Blue Ant Extreme
 http://103.93.55.116:8080/stream/channelid/831837045
+#EXTINF:-1,Cinema World
+http://103.93.55.116:8080/stream/channelid/2090148319
