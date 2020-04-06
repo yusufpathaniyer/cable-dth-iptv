@@ -1070,3 +1070,4 @@ https://ch.iptvmate.net/118f7bb441e27ef9d855b3bb9a487614.m3u8
 #EXTINF:-1,JKT: DISNEY XD
 https://delivery.macan.live/stream/disneyxd/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,APAC: ZEE TV
+https://delivery.macan.live/stream/zeetv/index.m3u8?token=Yq91Jdf0&v=20200308
