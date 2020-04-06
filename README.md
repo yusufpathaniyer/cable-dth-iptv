@@ -1137,3 +1137,5 @@ http://103.93.55.116:8080/stream/channelid/831837045
 http://103.93.55.116:8080/stream/channelid/2090148319
 #EXTINF:-1,Discovery Turbo
 http://103.93.55.116:8080/stream/channelid/1461980875
+#EXTINF:-1,FOX Movies Premium HD
+http://103.93.55.116:8080/stream/channelid/1896521609
