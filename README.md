@@ -1059,3 +1059,4 @@ http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
 http://103.144.200.7:8080/hls/zeetv/index.m3u8
 #EXTINF:-1,BBK: FOX ACTION
 http://vtv.iptvfree.gq:2086/live/foxmovies.m3u8
+#EXTINF:-1,IN: HBO
