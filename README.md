@@ -1111,3 +1111,4 @@ https://delivery.macan.live/stream/id_axn/index.m3u8?token=Yq91Jdf0&v=20200308
 https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,ID: DISCOVERY CHANNEL
 https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1,ID: NHK WORLD
