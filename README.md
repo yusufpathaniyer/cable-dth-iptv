@@ -1066,3 +1066,4 @@ http://vtv.iptvfree.gq:2086/live/axn.m3u8
 #EXTINF:-1,BBK: FOX LIFE
 http://vtv.iptvfree.gq:2086/live/foxlife.m3u8
 #EXTINF:-1,INT: PRIVATE TV
+https://ch.iptvmate.net/118f7bb441e27ef9d855b3bb9a487614.m3u8
