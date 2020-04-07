@@ -1170,3 +1170,4 @@ http://bolly360.xyz:80/zee.php?c=ztvme
 #EXTINF:-1,IN: AND TV
 http://bolly360.xyz:80/zee.php?c=andtvsd
 #EXTINF:-1,IN: COLORS TV HD
+https://bracnet.iptv.jadoodigital.com:443/live/colors_hd/chunks.m3u8
