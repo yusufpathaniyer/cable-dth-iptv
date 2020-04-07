@@ -1163,3 +1163,4 @@ http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
 https://ch.iptvmate.net/9fe8cf22585a8f8a3164eb2ef3af2a14.m3u8
 #EXTINF:-1,IN: ZEE ACTION
 https://streamer-1.toffeelive.com/live/zee_action_240/index.m3u8
+#EXTINF:-1,IN: NEWS 18
