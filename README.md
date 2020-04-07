@@ -1160,3 +1160,4 @@ http://103.93.55.116:8080/stream/channelid/1480916800
 #EXTINF:-1,JKT: ID HD
 http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
 #EXTINF:-1,UK: RT
+https://ch.iptvmate.net/9fe8cf22585a8f8a3164eb2ef3af2a14.m3u8
