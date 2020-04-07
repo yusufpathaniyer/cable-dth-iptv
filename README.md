@@ -1141,3 +1141,7 @@ http://103.93.55.116:8080/stream/channelid/1461980875
 http://103.93.55.116:8080/stream/channelid/1896521609
 #EXTINF:-1,HBO
 http://103.93.55.116:8080/stream/channelid/60827846
+#EXTINF:-1,MBC Bollywood
+http://103.93.55.116:8080/stream/channelid/1166839539
+#EXTINF:-1,MBC Max
+http://103.93.55.116:8080/stream/channelid/681354962
