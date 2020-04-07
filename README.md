@@ -1207,13 +1207,13 @@ http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1800.m3u8|user-
 https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/720p-playlist.m3u8
 #EXTINF:-1, Sudarshan News
 http://sudarshan.live/hls/sudarshannews/index.m3u8?_=1582988583335
-#EXTINF:-1, 	Sanskaar
+#EXTINF:-1, Sanskaar
 https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
-#EXTINF:-1, 	Satsang
+#EXTINF:-1, Satsang
 https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
-#EXTINF:-1, 	Sadhna
+#EXTINF:-1, Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
-#EXTINF:-1, 	Shraddha
+#EXTINF:-1, Shraddha
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
 #EXTINF:-1,Divya ND
 http://zee18.site/zee/get.php?channel=divyatv
@@ -1225,3 +1225,11 @@ https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in_480p/index.m3u8
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
 #EXTINF:-1, Star World
 https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
+#EXTINF:-1,ABC
+http://58.96.43.121:9981/stream/channelid/1303336422
+#EXTINF:-1,ABCComedy/Kids
+http://58.96.43.121:9981/stream/channelid/60031137
+#EXTINF:-1,ABC ME
+http://58.96.43.121:9981/stream/channelid/739262830
+#EXTINF:-1,ABC NEWS
+http://58.96.43.121:9981/stream/channelid/409730225
