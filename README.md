@@ -1233,3 +1233,4 @@ http://58.96.43.121:9981/stream/channelid/60031137
 http://58.96.43.121:9981/stream/channelid/739262830
 #EXTINF:-1,ABC NEWS
 http://58.96.43.121:9981/stream/channelid/409730225
+#EXTINF:-1,IN: STAR SPORTS 1 HD
