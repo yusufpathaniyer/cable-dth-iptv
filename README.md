@@ -1178,3 +1178,4 @@ http://188.35.9.26:2031/udp/031a
 #EXTINF:-1,INT: ASS TV
 http://www.ast.tv/stream/2/master.m3u8?fluxuslust.m3u8
 #EXTINF:-1,TH: NAT GEO
+http://78.129.228.178/iptv/AGCFZVZNQQ3Z64/230/index.m3u8
