@@ -1158,3 +1158,4 @@ http://103.93.55.116:8080/stream/channelid/1737782335
 #EXTINF:-1,Red Bull TV
 http://103.93.55.116:8080/stream/channelid/1480916800
 #EXTINF:-1,JKT: ID HD
+http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
