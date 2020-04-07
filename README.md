@@ -1184,3 +1184,4 @@ http://103.93.55.116:8080/stream/channelid/1588425471
 #EXTINF:-1,IN: NAT GEO WILD
 http://136.243.177.164/NATGEOWILD/playlist.m3u8
 #EXTINF:-1,MAL: AXN
+http://136.243.177.164/AXN/playlist.m3u8
