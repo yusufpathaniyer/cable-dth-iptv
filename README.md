@@ -1153,3 +1153,5 @@ http://103.93.55.116:8080/stream/channelid/182469270
 http://103.93.55.116:8080/stream/channelid/1873353651
 #EXTINF:-1,NHK World
 http://103.93.55.116:8080/stream/channelid/252475793
+#EXTINF:-1,Outdoor Channel
+http://103.93.55.116:8080/stream/channelid/1737782335
