@@ -1168,3 +1168,4 @@ https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
 #EXTINF:-1,ME: ZEE TV HD
 http://bolly360.xyz:80/zee.php?c=ztvme
 #EXTINF:-1,IN: AND TV
+http://bolly360.xyz:80/zee.php?c=andtvsd
