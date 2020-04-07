@@ -1166,3 +1166,4 @@ https://streamer-1.toffeelive.com/live/zee_action_240/index.m3u8
 #EXTINF:-1,IN: NEWS 18
 https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
 #EXTINF:-1,ME: ZEE TV HD
+http://bolly360.xyz:80/zee.php?c=ztvme
