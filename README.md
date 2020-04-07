@@ -1173,3 +1173,4 @@ http://bolly360.xyz:80/zee.php?c=andtvsd
 https://bracnet.iptv.jadoodigital.com:443/live/colors_hd/chunks.m3u8
 #EXTINF:-1,IN: STAR PLUS HD
 https://bracnet.iptv.jadoodigital.com:443/live/star_plus_hd/chunks.m3u8
+#EXTINF:-1,UK: Vivid TV Europe
