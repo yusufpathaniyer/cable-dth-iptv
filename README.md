@@ -1205,3 +1205,5 @@ https://starplushd-i.akamaihd.net:443/hls/live/569928-b/starplushd/master_1800.m
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
 #EXTINF:0 "Kids",Kids Central
 https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/720p-playlist.m3u8
+#EXTINF:-1, Sudarshan News
+http://sudarshan.live/hls/sudarshannews/index.m3u8?_=1582988583335
