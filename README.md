@@ -1191,3 +1191,11 @@ http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF:-1,RU: NOVA SPORTS 2
 https://h1-s5.c.markiza.sk/hls/novasport2-hd-master.m3u8
+EXTINF:-1,&PictureHD ND
+http://zee18.site/zee/get.php?channel=andpicshd
+EXTINF:-1,Zee Cinema HD ND
+http://zee18.site/zee/get.php?channel=zeecinemahd
+#EXTINF:-1,Zee Bollywood ND
+http://zee18.site/zee/get.php?channel=classic
+EXTINF:-1,AND PICTURES HD ND
+http://zee18.site/zee/get.php?channel=andpicshd
