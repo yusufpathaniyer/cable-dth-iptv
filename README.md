@@ -1145,3 +1145,9 @@ http://103.93.55.116:8080/stream/channelid/60827846
 http://103.93.55.116:8080/stream/channelid/1166839539
 #EXTINF:-1,MBC Max
 http://103.93.55.116:8080/stream/channelid/681354962
+#EXTINF:-1,Mola Sport
+http://103.93.55.116:8080/stream/channelid/1769649000
+#EXTINF:-1,MTV Music
+http://103.93.55.116:8080/stream/channelid/182469270
+#EXTINF:-1,My Cinema
+http://103.93.55.116:8080/stream/channelid/1873353651
