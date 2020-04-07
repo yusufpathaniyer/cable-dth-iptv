@@ -1165,3 +1165,4 @@ https://ch.iptvmate.net/9fe8cf22585a8f8a3164eb2ef3af2a14.m3u8
 https://streamer-1.toffeelive.com/live/zee_action_240/index.m3u8
 #EXTINF:-1,IN: NEWS 18
 https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
+#EXTINF:-1,ME: ZEE TV HD
