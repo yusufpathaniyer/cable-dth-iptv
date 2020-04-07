@@ -1191,15 +1191,17 @@ http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF:-1,RU: NOVA SPORTS 2
 https://h1-s5.c.markiza.sk/hls/novasport2-hd-master.m3u8
-EXTINF:-1,&PictureHD ND
+#EXTINF:-1,&PictureHD ND
 http://zee18.site/zee/get.php?channel=andpicshd
-EXTINF:-1,Zee Cinema HD ND
+#EXTINF:-1,Zee Cinema HD ND
 http://zee18.site/zee/get.php?channel=zeecinemahd
 #EXTINF:-1,Zee Bollywood ND
 http://zee18.site/zee/get.php?channel=classic
-EXTINF:-1,AND PICTURES HD ND
+#EXTINF:-1,AND PICTURES HD ND
 http://zee18.site/zee/get.php?channel=andpicshd
-EXTINF:0 tvg-id="1132" tvg-logo="https://www.startv.com/media/3356/star-plus-hd_800x600.png" "Hindi",Star Plus HD
+#EXTINF:0 tvg-id="1132" tvg-logo="https://www.startv.com/media/3356/star-plus-hd_800x600.png" "Hindi",Star Plus HD
 https://starplushd-i.akamaihd.net:443/hls/live/569928-b/starplushd/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
 #EXTINF:0 tvg-id="1133" tvg-id="Star_Gold_HD_IND" tvg-logo="https://www.startv.com/media/3351/star-gold-hd_800x600.png" "Hindi",Star Gold HD
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
+#EXTINF:0 "Kids",Kids Central
+https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/720p-playlist.m3u8
