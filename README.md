@@ -1176,3 +1176,4 @@ https://bracnet.iptv.jadoodigital.com:443/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1,UK: Vivid TV Europe
 http://188.35.9.26:2031/udp/031a
 #EXTINF:-1,INT: ASS TV
+http://www.ast.tv/stream/2/master.m3u8?fluxuslust.m3u8
