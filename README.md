@@ -1181,3 +1181,4 @@ http://www.ast.tv/stream/2/master.m3u8?fluxuslust.m3u8
 http://78.129.228.178/iptv/AGCFZVZNQQ3Z64/230/index.m3u8
 #EXTINF:-1,ID: FOX ACTION MOVIES
 http://103.93.55.116:8080/stream/channelid/1588425471
+#EXTINF:-1,IN: NAT GEO WILD
