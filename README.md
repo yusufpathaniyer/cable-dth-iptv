@@ -1236,3 +1236,4 @@ http://58.96.43.121:9981/stream/channelid/409730225
 #EXTINF:-1,IN: STAR SPORTS 1 HD
 http://195.181.169.120/StarSports_Hd3/playlist.m3u8
 #EXTINF:-1,IN: ROMEDY NOW
+http://t100v.com/play.php?token=yRv5IgbHOrEy9JUmOu-6_g%3D%3D%2C1586293904.1679989495&id=47875
