@@ -1244,3 +1244,4 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1,UK: PAEL
 http://v.iisfu.top/live/gt/gat/mzt.m3u8
 #EXTINF:-1,UK: CARTOON NETWORK
+http://fr01.spr24.net/22338/index.m3u8?token=BQF9PmuRpcxUqR
