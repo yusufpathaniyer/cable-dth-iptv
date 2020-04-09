@@ -1253,3 +1253,4 @@ http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
 https://delivery.ghanacloud.ga/LiveApp/streams/948604368535075072553167.m3u8
 #EXTINF:-1,IN: STAR SPORTS 2
 https://delivery.ghanacloud.ga/LiveApp/streams/481469011891252731171336.m3u8
+#EXTINF:-1,JKT: AXN
