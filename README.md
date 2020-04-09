@@ -1249,4 +1249,5 @@ http://fr01.spr24.net/22338/index.m3u8?token=BQF9PmuRpcxUqR
 https://delivery.ghanacloud.ga/LiveApp/streams/842293636447220341220267.m3u8
 #EXTINF:-1,UK: SONY TV
 http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-1,USA: FOOD NETWORK
+#EXTINF:-1,PK: PTV SPORTS
+https://delivery.ghanacloud.ga/LiveApp/streams/948604368535075072553167.m3u8
