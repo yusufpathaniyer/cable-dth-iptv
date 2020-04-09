@@ -1256,3 +1256,4 @@ https://delivery.ghanacloud.ga/LiveApp/streams/481469011891252731171336.m3u8
 #EXTINF:-1,IN: AMAR UJALA
 http://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:-1,JP: NHK WORLD
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
