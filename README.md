@@ -1258,3 +1258,4 @@ http://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:-1,JP: NHK WORLD
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1,UK: ANIMAL PLANET
+http://203.162.235.46:19004/hls/EROSPORTNEWS_HD/playlist.m3u8
