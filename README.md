@@ -1247,3 +1247,4 @@ http://v.iisfu.top/live/gt/gat/mzt.m3u8
 http://fr01.spr24.net/22338/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1,USA: FOOD NETWORK
 https://delivery.ghanacloud.ga/LiveApp/streams/842293636447220341220267.m3u8
+#EXTINF:-1,UK: SONY TV
