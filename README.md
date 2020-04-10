@@ -1267,3 +1267,4 @@ http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/1101.m3u8
 #EXTINF:-1,INT: JUST 89
 http://188.35.9.5:10005/stolen/153a/imposter.rar
+#EXTINF:-1,EU: VIVID TV
