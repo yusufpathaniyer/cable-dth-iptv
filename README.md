@@ -1263,3 +1263,4 @@ http://203.162.235.46:19004/hls/EROSPORTNEWS_HD/playlist.m3u8
 http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1,INT: TRT WORLD
 http://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,INT: DORCEL TV
