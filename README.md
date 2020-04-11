@@ -1291,3 +1291,4 @@ http://live1.cdn.iptv8k.org/live/x14/s.m3u8
 http://111.13.111.192/125.227.198.89:8027
 #EXTINF:-1,ME: STAR BHARAT
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
+#EXTINF:-1,APAC: STAR PLUS
