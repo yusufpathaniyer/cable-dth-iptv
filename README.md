@@ -1281,3 +1281,4 @@ http://desiclub.ca:8880/StarSports1HD-Hindi_1657/index.m3u8?token=fff
 http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
 #EXTINF:-1,APAC: ZEE CINEMA
 http://103.205.133.42:1935/local/zee_cinema_720/playlist.m3u8
+#EXTINF:-1,IN: STAR PLUS HD
