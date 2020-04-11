@@ -1293,3 +1293,4 @@ http://111.13.111.192/125.227.198.89:8027
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 #EXTINF:-1,APAC: STAR PLUS
 https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
+#EXTINF:-1,IN: FYI 18 HD
