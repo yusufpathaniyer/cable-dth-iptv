@@ -1289,3 +1289,4 @@ http://130.185.150.79:1935/db24/zeebangla/playlist.m3u8
 http://live1.cdn.iptv8k.org/live/x14/s.m3u8
 #EXTINF:-1,ASIA: FX
 http://111.13.111.192/125.227.198.89:8027
+#EXTINF:-1,ME: STAR BHARAT
