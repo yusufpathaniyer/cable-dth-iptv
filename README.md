@@ -1283,3 +1283,5 @@ http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
 http://103.205.133.42:1935/local/zee_cinema_720/playlist.m3u8
 #EXTINF:-1,IN: STAR PLUS HD
 http://130.185.150.79:1935/db24/starplus/playlist.m3u8
+#EXTINF:-1,IN: ZEE BANGLA
+http://130.185.150.79:1935/db24/zeebangla/playlist.m3u8
