@@ -1303,3 +1303,4 @@ https://bracnet.iptv.jadoodigital.com/live/nat_geo_people/chunks.m3u8
 http://tamilgo.com/zee5/z5theather.php?c=out&e=.m3u8
 #EXTINF:-1,IN: STAR SPORTS SELECT 1
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect1/playlist.m3u8
+#EXTINF:-1,IN: STAR SPORTS SELECT 2
