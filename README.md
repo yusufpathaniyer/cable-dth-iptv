@@ -1276,3 +1276,4 @@ http://111.13.111.192/125.227.198.89:8027
 #EXTINF:-1,RU: ANIMAL PLANET
 http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/animal-planet.m3u8
 #EXTINF:-1,IN: STAR SPORTS 1 HD 
+http://desiclub.ca:8880/StarSports1HD-Hindi_1657/index.m3u8?token=fff
