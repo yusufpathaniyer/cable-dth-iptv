@@ -1279,3 +1279,5 @@ http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/animal-planet.m3u8
 http://desiclub.ca:8880/StarSports1HD-Hindi_1657/index.m3u8?token=fff
 #EXTINF:-1,IN: ZEE BANGLA
 http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
+#EXTINF:-1,APAC: ZEE CINEMA
+http://103.205.133.42:1935/local/zee_cinema_720/playlist.m3u8
