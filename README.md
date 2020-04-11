@@ -1296,3 +1296,4 @@ https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
 #EXTINF:-1,IN: FYI 18 HD
 https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
 #EXTINF:-1,IN: NICK JR
+https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
