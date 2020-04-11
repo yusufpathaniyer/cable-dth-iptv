@@ -1301,3 +1301,4 @@ https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/nat_geo_people/chunks.m3u8
 #EXTINF:-1,IN: ZEE THEATER
 http://tamilgo.com/zee5/z5theather.php?c=out&e=.m3u8
+#EXTINF:-1,IN: STAR SPORTS SELECT 1
