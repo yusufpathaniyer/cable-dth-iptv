@@ -1287,3 +1287,4 @@ http://130.185.150.79:1935/db24/starplus/playlist.m3u8
 http://130.185.150.79:1935/db24/zeebangla/playlist.m3u8
 #EXTINF:-1,INT: CNA
 http://live1.cdn.iptv8k.org/live/x14/s.m3u8
+#EXTINF:-1,ASIA: FX
