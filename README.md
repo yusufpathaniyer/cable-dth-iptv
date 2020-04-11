@@ -1298,3 +1298,4 @@ https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
 #EXTINF:-1,IN: NICK JR
 https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
 #EXTINF:-1,ME: NAT GEO PEOPLE
+https://bracnet.iptv.jadoodigital.com/live/nat_geo_people/chunks.m3u8
