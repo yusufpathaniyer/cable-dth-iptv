@@ -1295,3 +1295,4 @@ https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
 #EXTINF:-1,IN: FYI 18 HD
 https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
+#EXTINF:-1,IN: NICK JR
