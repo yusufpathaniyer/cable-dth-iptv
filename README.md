@@ -1340,3 +1340,4 @@ https://bracnet.iptv.jadoodigital.com/live/cnn/chunks.m3u8
 #EXTINF:-1,IN: LORD BHUDHA TV
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsfirst/playlist.m3u8
 #EXTINF:-1,IN: TLC
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/tlc/playlist.m3u8
