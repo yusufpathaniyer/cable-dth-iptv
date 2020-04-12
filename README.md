@@ -1329,3 +1329,4 @@ https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/Nat_geo_wild/chunks.m3u8
 #EXTINF:-1,ME: NAT GEO PEOPLE
 https://bracnet.iptv.jadoodigital.com/live/Nat_geo_people/chunks.m3u8
+#EXTINF:-1,IN: FOX LIFE
