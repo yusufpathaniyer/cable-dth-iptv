@@ -1318,3 +1318,4 @@ http://fr01.spr24.net/22936/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.co
 #EXTINF:-1,UK: MTV HITS
 http://fr01.spr24.net/22353/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.com
 #EXTINF:-1,IN: STAR GOLD 2
+https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
