@@ -1324,3 +1324,4 @@ https://bracnet.iptv.jadoodigital.com/live/zee_tv/chunks.m3u8
 #EXTINF:-1,ME: ZEE CINEMA
 https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
 #EXTINF:-1,IN: STAR GOLD HD
+https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
