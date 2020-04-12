@@ -1313,5 +1313,6 @@ http://111.13.111.192/125.227.198.89:8028?Loggia=.m3u8
 http://cdn.cvattv.com.ar/live/c2live/History_2/verimatrix_rotating/History_2.m3u8
 #EXTINF:-1,ASIA: AMC
 http://cdn.ch01.spr24.net:81/22312/mpegts?token=hiVi8EHiq86NZA
-#EXTINF:-1,UK: VH1
+#EXTINF:-1,UK: VH1 HITS
 http://fr01.spr24.net/22936/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.com
+#EXTINF:-1,UK: MTV HITS
