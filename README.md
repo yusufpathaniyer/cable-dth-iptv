@@ -1316,3 +1316,4 @@ http://cdn.ch01.spr24.net:81/22312/mpegts?token=hiVi8EHiq86NZA
 #EXTINF:-1,UK: VH1 HITS
 http://fr01.spr24.net/22936/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.com
 #EXTINF:-1,UK: MTV HITS
+http://fr01.spr24.net/22353/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.com
