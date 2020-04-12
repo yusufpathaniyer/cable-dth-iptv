@@ -1308,3 +1308,4 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 #EXTINF:-1,IN: STAR SPORTS 1 HD
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsports2/playlist.m3u8
 #EXTINF:-1,ASIA: DISCOVERY ASIA
+http://111.13.111.192/125.227.198.89:8028?Loggia=.m3u8
