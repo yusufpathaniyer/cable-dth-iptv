@@ -1337,4 +1337,4 @@ https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/rishtey/chunks.m3u8
 #EXTINF:-1,USA: CNN
 https://bracnet.iptv.jadoodigital.com/live/cnn/chunks.m3u8
-#EXTINF:-1,IN: STAR SPORTS 2 HD
+#EXTINF:-1,IN: LORD BHUDHA TV
