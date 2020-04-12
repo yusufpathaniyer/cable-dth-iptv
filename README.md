@@ -1334,3 +1334,4 @@ https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
 #EXTINF:-1,IN: COLORS HD
 https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
 #EXTINF:-1,ME: COLORS RISHTEY
+https://bracnet.iptv.jadoodigital.com/live/rishtey/chunks.m3u8
