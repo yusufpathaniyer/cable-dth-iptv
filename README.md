@@ -1305,8 +1305,8 @@ http://tamilgo.com/zee5/z5theather.php?c=out&e=.m3u8
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect1/playlist.m3u8
 #EXTINF:-1,IN: STAR SPORTS SELECT 2
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect2/playlist.m3u8
-#EXTINF:-1,IN: STAR SPORTS 1 HD
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsports1/playlist.m3u8
+#EXTINF:-1,IN: STAR SPORTS 2 HD
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsports2/playlist.m3u8
 #EXTINF:-1,ASIA: DISCOVERY ASIA
 http://111.13.111.192/125.227.198.89:8028?Loggia=.m3u8
 #EXTINF:-1,ASIA: HISTORY2
