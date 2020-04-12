@@ -1320,3 +1320,4 @@ http://fr01.spr24.net/22353/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.co
 #EXTINF:-1,IN: STAR GOLD 2
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 #EXTINF:-1,IN: ZEE TV
+https://bracnet.iptv.jadoodigital.com/live/zee_tv/chunks.m3u8
