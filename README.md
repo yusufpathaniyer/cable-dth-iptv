@@ -1376,3 +1376,4 @@ http://95.170.215.107/hls/m3u8/ON-Sport.m3u8
 #EXTINF:-1,IN: AAJ TAK
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 #EXTINF:-1,INT: PENTHOUSE GOLD
+http://fr01.spr24.net/909/index.m3u8?token=BQF9PmuRpcxUqR
