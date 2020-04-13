@@ -1349,3 +1349,5 @@ http://tv.ebox.live/live/colors.m3u8
 http://10.16.100.204:8080/tv204/sonyentertainmnt_hd720.m3u8
 #EXTINF:-1, Monoranjan
 https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
+#EXTINF:-1, VH1
+https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
