@@ -1361,3 +1361,7 @@ https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
 #EXTINF:-1, Nick Sonic Bangla
 https://bracnet.iptv.jadoodigital.com/live/sonic/chunks.m3u8
+#EXTINF:-1,Sony TEN 2
+http://103.81.104.222/live/sony-ten-02/index.m3u8
+#EXTINF:-1,Sony TEN 3
+http://103.81.104.222/live/sony-ten-03/index.m3u8
