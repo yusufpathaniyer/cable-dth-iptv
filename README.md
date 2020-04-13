@@ -1357,3 +1357,7 @@ https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
 #EXTINF:-1, Lotus TV Macau
 https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
+#EXTINF:-1, Nick Bangla
+https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
+#EXTINF:-1, Nick Sonic Bangla
+https://bracnet.iptv.jadoodigital.com/live/sonic/chunks.m3u8
