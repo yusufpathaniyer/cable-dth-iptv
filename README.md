@@ -1387,3 +1387,4 @@ http://fr01.spr24.net/903/index.m3u8?token=BQF9PmuRpcxUqR
 http://fr01.spr24.net/902/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1,INT: SEXT6SENSO
 http://fr01.spr24.net/901/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,ASIA: HBO
