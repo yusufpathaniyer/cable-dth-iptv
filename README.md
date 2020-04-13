@@ -1353,3 +1353,7 @@ https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
 #EXTINF:-1, Star world
 https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
+#EXTINF:-1, Movies Now
+https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
+#EXTINF:-1, Lotus TV Macau
+https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
