@@ -1347,3 +1347,5 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://tv.ebox.live/live/colors.m3u8
 #EXTINF:-1, Sony TV HD
 http://10.16.100.204:8080/tv204/sonyentertainmnt_hd720.m3u8
+#EXTINF:-1, Monoranjan
+https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
