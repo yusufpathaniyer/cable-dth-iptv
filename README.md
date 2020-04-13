@@ -1369,3 +1369,4 @@ http://103.81.104.222/live/sony-ten-03/index.m3u8
 http://103.81.104.222/live/sony-ten-01/index.m3u8
 #EXTINF:-1,Sony ESPN
 http://103.81.104.222/live/sony-espn/index.m3u8
+#EXTINF:-1,USA: BUZZR
