@@ -1379,3 +1379,7 @@ http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.sm
 http://fr01.spr24.net/909/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1,INT: JUST 89
 http://fr01.spr24.net/906/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,INT: REDLIGHT HD
+http://fr01.spr24.net/904/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,INT: PENTHOUSE QUICK
+http://fr01.spr24.net/903/index.m3u8?token=BQF9PmuRpcxUqR
