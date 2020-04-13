@@ -1371,4 +1371,5 @@ http://103.81.104.222/live/sony-ten-01/index.m3u8
 http://103.81.104.222/live/sony-espn/index.m3u8
 #EXTINF:-1,USA: BUZZR
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_8.m3u8
-#EXTINF:-1,INT: ON SPORTS
+#EXTINF:-1,INT: ON SPORT
+http://95.170.215.107/hls/m3u8/ON-Sport.m3u8
