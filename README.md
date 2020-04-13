@@ -1343,3 +1343,7 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/tlc/playlist.m3u8
 #EXTINF:-1,IN: NAT GEO WILD
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/natgeowild/playlist.m3u8
+#EXTINF:-1, Colors HD
+http://tv.ebox.live/live/colors.m3u8
+#EXTINF:-1, Sony TV HD
+http://10.16.100.204:8080/tv204/sonyentertainmnt_hd720.m3u8
