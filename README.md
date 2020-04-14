@@ -1390,3 +1390,4 @@ http://fr01.spr24.net/901/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1,ASIA: HBO
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1,JKT: LIFETIME
+http://vtv.iptvfree.gq:2086/live/lifetime.m3u8
