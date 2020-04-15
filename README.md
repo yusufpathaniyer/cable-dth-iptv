@@ -1397,3 +1397,4 @@ https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
 http://playhls.media.nic.in/live/vyas-360p/index.m3u8
 #EXTINF:-1,INT: ENJOY
 https://www.ast.tv/stream/1/normal.m3u8
+#EXTINF:-1,INT: PRIVE
