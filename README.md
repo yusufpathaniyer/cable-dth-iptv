@@ -1393,3 +1393,4 @@ http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 http://vtv.iptvfree.gq:2086/live/lifetime.m3u8
 #EXTINF:-1,USA: CBSN
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
+#EXTINF:-1,IN: DD VYES
