@@ -1404,3 +1404,4 @@ http://live.redtraffic.net/woman.m3u8?auth=zarin:RJsKR
 #EXTINF:-1,USA: NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1,ME: BAHRIN SPORTS
+http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
