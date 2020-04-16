@@ -1403,3 +1403,4 @@ http://t.gregorek.host:8880/Przemyslawlipinski/wfrdHMQG/41824?auth=zarin:RJsKR
 http://live.redtraffic.net/woman.m3u8?auth=zarin:RJsKR
 #EXTINF:-1,USA: NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1,ME: BAHRIN SPORTS
