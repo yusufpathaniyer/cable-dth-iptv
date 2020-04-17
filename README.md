@@ -1415,3 +1415,4 @@ http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?fluxustv.m3u8
 #EXTINF:-1,INT: VIVID RED
 http://bit.ly/37Ir2n6
+#EXTINF:-1,INT: DOCEL TV
