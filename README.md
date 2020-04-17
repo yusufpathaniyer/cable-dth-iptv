@@ -1409,3 +1409,4 @@ http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
 http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
 #EXTINF:-1,INT: UTV MOVIES
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/utvmoviesint/playlist.m3u8
+#EXTINF:-1,USA: FLOK TV
