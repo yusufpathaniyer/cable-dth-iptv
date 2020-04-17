@@ -1419,3 +1419,4 @@ http://bit.ly/37Ir2n6
 http://188.35.9.11:21141/udp/214h
 #EXTINF:-1,UK: CARTOON NETWORK
 http://fr01.spr24.net/24302/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.com
+#EXTINF:-1,UK: UVSAT NATURE
