@@ -1407,3 +1407,4 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
 #EXTINF:-1,USA: BEACH TV
 http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+#EXTINF:-1,INT: UTV MOVIES
