@@ -41,64 +41,6 @@ http://51.15.8.16:8081/lolind2/sonysabhd/playlist.m3u8
 http://51.15.8.16:8081/lolind2/sonysabhd/playlist.m3u8
 #EXTINF:-1,IN: &TV HD
 http://45.120.188.76:8080/0.ts
-#EXTINF:-1,USA: &TV HD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhdusa/index.m3u8
-#EXTINF:-1,MAL: AXN 
-http://210.210.155.66/h/h141/01.m3u8
-#EXTINF:-1,IN: &TV
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvsd/index.m3u8
-#EXTINF:-1,IN: &TV HD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
-#EXTINF:-1,IN: ZEE TV HD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
-#EXTINF:-1,IN: ZEE TV
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvsd/index.m3u8
-#EXTINF:-1,USA: ZEE TV HD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ztvhdusa/index.m3u8
-#EXTINF:-1,USA: ZEE TV
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ztvsdusa/index.m3u8
-#EXTINF:-1,UK: ZEE TV
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvsduk/index.m3u8
-#EXTINF:-1,CA: ZEE TV
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/canadahd/index.m3u8
-#EXTINF:-1,APAC: ZEE TV
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/apacsea/index.m3u8
-#EXTINF:-1,USA: ZEE SMILE
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/smileusa/index.m3u8
-#EXTINF:-1,IN: ZEE CAFE
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecafesd/index.m3u8
-#EXTINF:-1,IN: & PRIVE HD 
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
-#EXTINF:-1,IN: & FLIX
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflix/index.m3u8
-#EXTINF:-1,USA: ZING
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zingusa/index.m3u8
-#EXTINF:-1,IN: & PICTURES HD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
-#EXTINF:-1,IN: ZEE ACTION
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8
-#EXTINF:-1,IN: ZEE CINEMA HD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8
-#EXTINF:-1,USA: ZEE CINEMA
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemausa/index.m3u8
-#EXTINF:-1,UK: ZEE CINEMA
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemauk/index.m3u8
-#EXTINF:-1,ME: ZEE CINEMA
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecinemame/index.m3u8
-#EXTINF:-1,USA: ZEE LIVING
-http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v3a1/mono.m3u8
-#EXTINF:-1,IN: SHOW BOX
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/live/amlst:showbox_,b180,b320,b640,b860,b1400,.smil/playlist.m3u8
-#EXTINF:-1,IN: BBC WORLD NEWS
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/bbcworldnews/index.m3u8
-#EXTINF:-1,IN: WION
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/wion/index.m3u8
-#EXTINF:-1,IN: LIVING FOODZ
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/livingfoodz/index.m3u8
-#EXTINF:-1,IN: ZEE NEWS
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
-#EXTINF:-1,IN: ZEE BUSINESS
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebusiness/index.m3u8
 #EXTINF:-1,IN: ZING
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 #EXTINF:-1,IN: SONY MIX
@@ -305,7 +247,7 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 #EXTINF:-1,ME: B4U PLUS
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/03.m3u8
-#EXTINF:-1,UK: ZEE CLASSIC
+#EXTINF:-1,UK: ZEE LIVING
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1,ME: MBC BOLLYWOOD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8
@@ -595,9 +537,6 @@ http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 #EXTINF:-1,INT: SRK
 http://188.35.9.26:5031/udp/058j
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvsd/index.m3u8
-#EXTINF:-1 tvg-id="And_TV" tvg-name="And TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png"group-title="Entertainment",And TV 
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvsd/index.m3u8
 #EXTINF:-1,IN: REMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1,ASIA: HBO
@@ -1121,42 +1060,6 @@ https://delivery.macan.live/stream/id_bbcworldnews/index.m3u8?token=Yq91Jdf0&v=2
 https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,ID: BLOOMBERG
 https://delivery.macan.live/stream/id_bloomberg/index.m3u8?token=Yq91Jdf0&v=20200308 
-#EXTINF:-1,Astro SuperSport
-http://103.93.55.116:8080/stream/channelid/621737785
-#EXTINF:-1,Animax
-http://103.93.55.116:8080/stream/channelid/469544661
-#EXTINF:-1,BALI TV
-http://103.93.55.116:8080/stream/channelid/136786428
-#EXTINF:-1,Bloomberg HD
-http://103.93.55.116:8080/stream/channelid/1619940221
-#EXTINF:-1,Blue Ant Entertainment
-http://103.93.55.116:8080/stream/channelid/22228952
-#EXTINF:-1,Blue Ant Extreme
-http://103.93.55.116:8080/stream/channelid/831837045
-#EXTINF:-1,Cinema World
-http://103.93.55.116:8080/stream/channelid/2090148319
-#EXTINF:-1,Discovery Turbo
-http://103.93.55.116:8080/stream/channelid/1461980875
-#EXTINF:-1,FOX Movies Premium HD
-http://103.93.55.116:8080/stream/channelid/1896521609
-#EXTINF:-1,HBO
-http://103.93.55.116:8080/stream/channelid/60827846
-#EXTINF:-1,MBC Bollywood
-http://103.93.55.116:8080/stream/channelid/1166839539
-#EXTINF:-1,MBC Max
-http://103.93.55.116:8080/stream/channelid/681354962
-#EXTINF:-1,Mola Sport
-http://103.93.55.116:8080/stream/channelid/1769649000
-#EXTINF:-1,MTV Music
-http://103.93.55.116:8080/stream/channelid/182469270
-#EXTINF:-1,My Cinema
-http://103.93.55.116:8080/stream/channelid/1873353651
-#EXTINF:-1,NHK World
-http://103.93.55.116:8080/stream/channelid/252475793
-#EXTINF:-1,Outdoor Channel
-http://103.93.55.116:8080/stream/channelid/1737782335
-#EXTINF:-1,Red Bull TV
-http://103.93.55.116:8080/stream/channelid/1480916800
 #EXTINF:-1,JKT: ID HD
 http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
 #EXTINF:-1,UK: RT
