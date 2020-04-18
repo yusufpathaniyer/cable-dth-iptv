@@ -1348,3 +1348,4 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8
 #EXTINF:-1,IN: STAR PLUS HD
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starplus/playlist.m3u8
+#EXTINF:-1,IN: STAR BHARAT HD
