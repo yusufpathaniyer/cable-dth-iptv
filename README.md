@@ -1434,3 +1434,4 @@ http://89.187.169.204:2200/R-EX/ENGLISH_HBO_HD-in/tracks-v1a1/mono.m3u8?token=RE
 #EXTINF:-1,ME: BEIN SPORTS 3
 https://www.streamer2mytv.com:443/cache/Bein-A-KL-V-E-3/master.m3u8
 #EXTINF:-1,ME: BEIN SPORTS 1
+http://tv.vodu.me:2052/bein1/1/tracks-v1a1/mono.m3u8
