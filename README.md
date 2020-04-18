@@ -1379,3 +1379,4 @@ https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
 #EXTINF:-1,CA: PRIME CANADA TV
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 #EXTINF:-1,USA: Montreal Greek TV
+http://94.130.180.175:8081/live/greektv/playlist.m3u8
