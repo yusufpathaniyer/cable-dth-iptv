@@ -1438,3 +1438,4 @@ http://tv.vodu.me:2052/bein1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ME: ALFAJER TV HD
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1,ME: ZEE AFLAM
+http://95.170.215.109/hls/m3u8/ZEE-AFLAM-Backup.m3u8
