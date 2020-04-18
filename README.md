@@ -1344,3 +1344,4 @@ http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 http://95.170.215.109/hls/m3u8/ZEE-AFLAM-Backup.m3u8
 #EXTINF:-1,IN: AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1,IN: STAR WORLD
