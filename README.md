@@ -1428,3 +1428,4 @@ http://178.217.72.66:80/225.201.2.33/tracks-v1a1/mono.m3u8
 #EXTINF:-1,UK: DEEJAY TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1,ME: DISNEY CHANNEL HD
+http://app.powerfhd.me/live/sup.php?z=998&u=osmpzewxjq&s=3515815441&id=460&t=live&f=ts
