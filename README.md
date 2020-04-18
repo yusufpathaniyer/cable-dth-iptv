@@ -1373,3 +1373,4 @@ http://94.125.54.238:999/udp/239.191.255.6:15285
 #EXTINF:-1,INT: ALL SPORTS TV
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1,ME: SS TV
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
