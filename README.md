@@ -1433,3 +1433,4 @@ http://app.powerfhd.me/live/sup.php?z=998&u=osmpzewxjq&s=3515815441&id=460&t=liv
 http://89.187.169.204:2200/R-EX/ENGLISH_HBO_HD-in/tracks-v1a1/mono.m3u8?token=RED_8O6ySLAR397VPo3O1nhWFg==,1587258003.0123456789
 #EXTINF:-1,ME: BEIN SPORTS 3
 https://www.streamer2mytv.com:443/cache/Bein-A-KL-V-E-3/master.m3u8
+#EXTINF:-1,ME: BEIN SPORTS 1
