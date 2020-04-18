@@ -1371,3 +1371,4 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1,INT: ERO XXX HD
 http://94.125.54.238:999/udp/239.191.255.6:15285
 #EXTINF:-1,INT: ALL SPORTS TV
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
