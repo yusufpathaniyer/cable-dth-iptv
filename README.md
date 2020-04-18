@@ -1437,3 +1437,4 @@ https://www.streamer2mytv.com:443/cache/Bein-A-KL-V-E-3/master.m3u8
 http://tv.vodu.me:2052/bein1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ME: ALFAJER TV HD
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:-1,ME: ZEE AFLAM
