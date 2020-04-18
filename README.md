@@ -1425,3 +1425,4 @@ http://fr01.spr24.net/20119/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.co
 http://195.88.126.168:8008/play/a07d/index.m3u8?em9uYS1pcHR2LnJ1
 #EXTINF:-1,ASIA: ANIMAL PLANET HD
 http://178.217.72.66:80/225.201.2.33/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: STAR PLUS
