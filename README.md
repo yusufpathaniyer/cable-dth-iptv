@@ -1345,3 +1345,4 @@ http://95.170.215.109/hls/m3u8/ZEE-AFLAM-Backup.m3u8
 #EXTINF:-1,IN: AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1,IN: STAR WORLD
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8
