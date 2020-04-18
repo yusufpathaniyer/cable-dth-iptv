@@ -1350,3 +1350,4 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starplus/playlist.m3u8
 #EXTINF:-1,IN: STAR BHARAT HD
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starbharat/playlist.m3u8
+#EXTINF:-1,UK: STAR PLUS 
