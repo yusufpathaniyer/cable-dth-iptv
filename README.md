@@ -1431,3 +1431,4 @@ http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 http://app.powerfhd.me/live/sup.php?z=998&u=osmpzewxjq&s=3515815441&id=460&t=live&f=ts
 #EXTINF:-1,IN: HBO HD
 http://89.187.169.204:2200/R-EX/ENGLISH_HBO_HD-in/tracks-v1a1/mono.m3u8?token=RED_8O6ySLAR397VPo3O1nhWFg==,1587258003.0123456789
+#EXTINF:-1,ME: BEIN SPORTS 3
