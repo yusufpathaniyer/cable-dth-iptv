@@ -1451,3 +1451,4 @@ http://proxyts.canais.ink:8080/a/hls/sexhot.m3u8
 #EXTINF:-1,USA: YOUNG HOLLYWOOD
 https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/low/c.m3u8
 #EXTINF:-1,ME: STAR PLUS
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starplusme/playlist.m3u8
