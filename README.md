@@ -1427,3 +1427,4 @@ https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3
 #EXTINF:-1,USA: Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1,UK: SKY NEWS
+https://cdn-laos.workpoint.news/uk-skynews_480/index.m3u8
