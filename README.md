@@ -1394,3 +1394,4 @@ https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
 http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1,FR: ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1,UK: MAA TV
