@@ -1385,3 +1385,4 @@ https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 #EXTINF:-1,CA: Hamdard TV
 http://cdn.samtv.ca/hamdard/index.m3u8
 #EXTINF:-1,CA: EWTN
+http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
