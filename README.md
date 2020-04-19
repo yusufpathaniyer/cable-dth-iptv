@@ -1455,3 +1455,4 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 #EXTINF:-1,ME: STAR BHARAT
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starbharatme/playlist.m3u8
 #EXTINF:-1,CH: NAT GEO
+http://54.36.165.216:8080/NATGEO/index.m3u8
