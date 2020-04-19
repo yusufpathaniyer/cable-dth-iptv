@@ -1421,3 +1421,4 @@ https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 #EXTINF:-1,USA: Horizon Sports
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/low/c.m3u8
 #EXTINF:-1,USA: World Of Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/low/c.m3u8
