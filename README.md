@@ -1383,3 +1383,4 @@ http://94.130.180.175:8081/live/greektv/playlist.m3u8
 #EXTINF:-1,CA: Miracle Channel
 https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 #EXTINF:-1,CA: Hamdard TV
+http://cdn.samtv.ca/hamdard/index.m3u8
