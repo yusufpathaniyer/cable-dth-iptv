@@ -1418,3 +1418,4 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1,UK: NRJ Hits TV
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+#EXTINF:-1,USA: Horizon Sports
