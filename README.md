@@ -1406,3 +1406,4 @@ https://a.jsrdn.com/broadcast/7536b84786/+0000/low/c.m3u8
 https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 #EXTINF:-1,USA: NBC News Now
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
+#EXTINF:-1,USA: Everyday Heroes
