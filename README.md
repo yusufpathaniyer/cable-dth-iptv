@@ -1447,3 +1447,4 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 #EXTINF:-1,USA: MMN
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
 #EXTINF:-1,INT: SEXY HOT
+http://proxyts.canais.ink:8080/a/hls/sexhot.m3u8
