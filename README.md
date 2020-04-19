@@ -1381,3 +1381,4 @@ http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 #EXTINF:-1,USA: Montreal Greek TV
 http://94.130.180.175:8081/live/greektv/playlist.m3u8
 #EXTINF:-1,CA: Miracle Channel
+https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
