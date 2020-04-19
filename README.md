@@ -1424,3 +1424,4 @@ https://a.jsrdn.com/broadcast/20dc4269f3/+0000/low/c.m3u8
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/low/c.m3u8
 #EXTINF:-1,USA: LAX SPORTS NETWORK
 https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,USA: Tennis Channel
