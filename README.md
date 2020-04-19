@@ -1403,3 +1403,4 @@ https://a.jsrdn.com/broadcast/256ad9e679/+0000/low/c.m3u8
 #EXTINF:-1,USA: Field & Stream
 https://a.jsrdn.com/broadcast/7536b84786/+0000/low/c.m3u8
 #EXTINF:-1,USA: Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
