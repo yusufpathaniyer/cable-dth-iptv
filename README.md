@@ -1430,3 +1430,4 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://cdn-laos.workpoint.news/uk-skynews_480/index.m3u8
 #EXTINF:-1,ASIA: ID
 http://fr01.spr24.net/22326/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.com
+#EXTINF:-1,IN: STAR USTAV MOVIES
