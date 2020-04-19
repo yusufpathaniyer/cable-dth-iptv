@@ -1400,3 +1400,4 @@ https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8
 https://grid-xumo.akamaized.net/SPGD.stream_all/playlist.m3u8
 #EXTINF:-1,USA: Motorcyclist
 https://a.jsrdn.com/broadcast/256ad9e679/+0000/low/c.m3u8
+#EXTINF:-1,USA: Field & Stream
