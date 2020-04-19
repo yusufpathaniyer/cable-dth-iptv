@@ -1410,3 +1410,4 @@ https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 https://a.jsrdn.com/broadcast/7b1451fa52/+0000/low/c.m3u8
 #EXTINF:-1,USA: Monarch
 https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8
+#EXTINF:-1,USA: Honor TV
