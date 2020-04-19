@@ -1398,3 +1398,4 @@ http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8
 #EXTINF:-1,USA: Sportsgrid Network
 https://grid-xumo.akamaized.net/SPGD.stream_all/playlist.m3u8
+#EXTINF:-1,USA: Motorcyclist
