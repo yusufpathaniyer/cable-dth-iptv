@@ -1450,3 +1450,4 @@ https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
 http://proxyts.canais.ink:8080/a/hls/sexhot.m3u8
 #EXTINF:-1,USA: YOUNG HOLLYWOOD
 https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/low/c.m3u8
+#EXTINF:-1,ME: STAR PLUS
