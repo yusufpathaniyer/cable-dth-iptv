@@ -1483,3 +1483,4 @@ http://188.35.9.26:5031/udp/058j
 #EXTINF:-1,ASIA: BOING
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:-1,USA: AIR SPORTS1
+http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
