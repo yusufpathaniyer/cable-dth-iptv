@@ -1467,3 +1467,4 @@ http://ott.artmott.com/outdoorchannel/index.m3u8
 #EXTINF:-1,UK: COURT TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
 #EXTINF:-1,UK: NICK JR
+http://188.35.9.6:10019/stolen/418j/rainbow.udf
