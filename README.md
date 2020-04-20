@@ -1450,3 +1450,4 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: STAR UTSAV
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starutsav/playlist.m3u8
+#EXTINF:-1,UK: BOOMERANG
