@@ -1457,3 +1457,4 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 #EXTINF:-1,CH: NAT GEO
 http://54.36.165.216:8080/NATGEO/index.m3u8
 #EXTINF:-1,USA: TV SPORTS
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
