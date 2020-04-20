@@ -1470,3 +1470,4 @@ https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
 http://188.35.9.6:10019/stolen/418j/rainbow.udf
 #EXTINF:-1,USA: CW
 http://190.80.3.28/CW/CW.isml/index.m3u8
+#EXTINF:-1,USA: FOX
