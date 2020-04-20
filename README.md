@@ -1476,4 +1476,5 @@ http://190.80.3.28/FOX/FOX.isml/index.m3u8
 http://190.80.3.28/ABC/ABC.isml/index.m3u8
 #EXTINF:-1,USA: NBC 15 Madison (WMTV)
 http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
-#EXTINF:-1,USA: 
+#EXTINF:-1,USA: CBS 4
+http://190.80.3.28/CBS/CBS.isml/index.m3u8
