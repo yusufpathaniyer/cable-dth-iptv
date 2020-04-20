@@ -1472,3 +1472,4 @@ http://188.35.9.6:10019/stolen/418j/rainbow.udf
 http://190.80.3.28/CW/CW.isml/index.m3u8
 #EXTINF:-1,USA: FOX
 http://190.80.3.28/FOX/FOX.isml/index.m3u8
+#EXTINF:-1,USA: ABC
