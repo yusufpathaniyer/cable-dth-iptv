@@ -507,12 +507,6 @@ http://31.14.40.58:8080/AAJTAK_h264/index.m3u8
 http://188.35.9.26:9031/udp/117m
 #EXTINF:-1,USA: WWE
 http://cdnak10.cast4u.info/channels/3/10803.m3u8 
-#EXTINF:-1,INT: VUNES
-http://cdn.miptv.ws:8880/live/787980/787980/900.m3u8
-#EXTINF:-1,INT: SEXTREME
-http://cdn.miptv.ws:8880/live/787980/787980/512.m3u8
-#EXTINF:-1,INT: SEXY HOT
-http://cdn.miptv.ws:8880/live/787980/787980/1052.m3u8
 #EXTINF:-1,IN: INDIA NEWS
 http://streamidvo.multitvsolution.in//live//IndiaNews-a//p2.m3u8
 #EXTINF:-1,UK: DISCOVERY SHOWCASE HD
@@ -726,8 +720,6 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1,UK: WWE
 https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=Yq91Jdf0&v=20200308
-#EXTINF:-1,USA: WWE
-https://peer3.ustv.to/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yOS8yMDIwIDM6MjI6MTQgQU0maGFzaF92YWx1ZT1mNGV0SFl5NGJXeFhUMVVnalV4bXRRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
 #EXTINF:-1,UK: PASS TV
 https://delivery.macan.live/stream/macan_sport_41/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,MAL: STAR CRICKET
@@ -800,8 +792,6 @@ http://ddn.amrbd.com:8081/live/starsports2/playlist.m3u8
 https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,UK: START TIME
 https://v-pi.mybtv.net/event/17.2/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
-#EXTINF:-1,IN: SONY TEN 1 HD
-https://joey.vbkt.ga/LiveApp/streams/603668652894062794141419.m3u8
 #EXTINF:-1,USA: ComedyCentral
 http://78.110.169.226:8000/play/a01m
 #EXTINF:-1,USA: CARTOON NETWORK
@@ -882,14 +872,6 @@ https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u
 https://ch.iptvmate.net/5f24f642017e3fae6fca576aaf4ef0f3.m3u8
 #EXTINF:-1,INT: AST TV
 https://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1,INT: BLUE TV
-https://usb.bozztv.com/ssh101/TBB2/TBB2/index.m3u8
-#EXTINF:-1,INT: NAKED TV
-https://usb.bozztv.com/ssh101/TBB5/TBB5/index.m3u8
-#EXTINF:-1,IN: 18 PLUS TV
-https://usb.bozztv.com/ssh101/TBB4/TBB4/index.m3u8
-#EXTINF:-1,INT: XXX TV
-https://usb.bozztv.com/ssh101/TBB3/TBB3/index.m3u8
 #EXTINF:-1,RU: BOOMERANG
 http://proxyts.ec.cx:8082/hls1/boomerang.m3u8
 #EXTINF:-1,ME: DUBAI ONE
@@ -1102,10 +1084,6 @@ http://zee18.site/zee/get.php?channel=zeecinemahd
 http://zee18.site/zee/get.php?channel=classic
 #EXTINF:-1,AND PICTURES HD ND
 http://zee18.site/zee/get.php?channel=andpicshd
-#EXTINF:0 tvg-id="1132" tvg-logo="https://www.startv.com/media/3356/star-plus-hd_800x600.png" "Hindi",Star Plus HD
-https://starplushd-i.akamaihd.net:443/hls/live/569928-b/starplushd/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
-#EXTINF:0 tvg-id="1133" tvg-id="Star_Gold_HD_IND" tvg-logo="https://www.startv.com/media/3351/star-gold-hd_800x600.png" "Hindi",Star Gold HD
-http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
 #EXTINF:0 "Kids",Kids Central
 https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/720p-playlist.m3u8
 #EXTINF:-1, Sudarshan News
