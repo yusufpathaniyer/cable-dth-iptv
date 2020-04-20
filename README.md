@@ -1456,3 +1456,4 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starbharatme/playlist.m3u8
 #EXTINF:-1,CH: NAT GEO
 http://54.36.165.216:8080/NATGEO/index.m3u8
+#EXTINF:-1,USA: TV SPORTS
