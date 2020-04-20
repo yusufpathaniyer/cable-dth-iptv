@@ -1466,3 +1466,4 @@ https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5
 http://ott.artmott.com/outdoorchannel/index.m3u8
 #EXTINF:-1,UK: COURT TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
+#EXTINF:-1,UK: NICK JR
