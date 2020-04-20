@@ -91,12 +91,8 @@ http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 http://210.210.155.66/h/h23/01.m3u8
 #EXTINF:-1,ASIA: CNA
 http://210.210.155.66/h/h29/02.m3u8
-#EXTINF:-1,INT: PLAY BOY TV
-http://62.203.143.51:9981/play/PlayyTV
 #EXTINF:-1,INT: RAMPAN TV
 http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8
-#EXTINF:-1,UK: VUNES
-http://209.126.102.141/FQVbwkwBzMaUy9v3/lamvtv/get.php?get=live&url=aHR0cDovLzIzLjIzNy4zNi45ODoyNTQ2MS9saXZlL0FEVUxUT1MtTEFNVFYvbG5tTXd4akJ2cy8xODUubTN1OA==&type=playlist.m3u8
 #EXTINF:-1,INT: HUSTLER HD
 http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hwVv4Mb5yarbaGHAIfET&uid=491
 #EXTINF:-1,INT: BIG DICK
@@ -123,8 +119,6 @@ http://185.180.12.90:8080/DORCEL/index.m3u8?token=test
 https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
 #EXTINF:-1,ASIA: TURE SPORTS
 https://tv4.chang55.com/live2/tv4ch18.stream/chunks.m3u8
-#EXTINF:-1,IN: SONY TEN 2 HD
-http://51.15.8.16:8081/lolind2/sonyten2hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgMTE6MjM6MzcgQU0maGFzaF92YWx1ZT1vM1NPQzhMZFhtUHo0UUZ1Y1lWRWNRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,IN: STAR SPORTS 1
 http://51.15.8.16:8081/ind1live/starsports1hindi/playlist.m3u8
 #EXTINF:-1,IN: STAR SPORTS SELECT 1
@@ -609,8 +603,6 @@ http://ndasat.net:8000/live/493093298206867/1593574628/6876.m3u8
 http://163.172.209.107:8000/play/a006/index.m3u8
 #EXTINF:-1,IN: XXX TV
 http://5.135.92.133:52841/out/u/107_1.m3u8
-#EXTINF:-1,MAL: AXN
-http://50.7.89.10:25000/live/nenad/nenad/3007.m3u8?token=TxcOAkVaFgMbUVtUBlZWBFNTUlACAlBTXQUDClJVB1QBDFNUAgNQWF9ATkRFEUZTAl06D1YSXAJUAlEVRBdHV0ZqDwcUCBYNDVRbUBRJFkIKXQBECABKExRbAhtcQAYHBARUQRoQUUFNBxAIVwlrUgZGDAVXElxfEV4KFUQNWm1QUAsCWFYWAxtSQEoUDEdGQQoLE15cShMGWxJLBxZREA4XV1EBBxYVGwENE1gRRk9BCkckdRJKEwFKElwIEV1dWhdcQVsBQQEbTkAPRTpGUxBEFwNTXQNDRghECUROFl9VTTkAWVxaXFoWCwlYFhYMQQFHShBdCV8NRglLORJdVhYPRFUHBQEbRA==
 #EXTINF:-1,APAC: ANIMAL PLANET
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: STAR GOLD HD
@@ -637,8 +629,6 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1,RU: BOLLYWOOD CLASSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,IN: STAR SPORTS 1
-http://tv.b4ucast.me/tv/vJ9lsiZFOE20190929/chunklist_w1028838267_tkaGxzZW5kdGltZT0xNTg0NjE2MDgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9bkN3S2ZnVkhoOXM5b3ppb3phOExuQ2Q1eUIzbXlibkZGWU9OZlBhMjNkWT0=.m3u8
 #EXTINF:-1,IN: STAR SPORTS 1 HD
 http://103.111.120.46/hls/star-sports-1-hd.m3u8
 #EXTINF:-1,UK: MTV
@@ -663,8 +653,6 @@ https://vbkt.ga/bet-uk
 https://vbkt.ga/nikkk111
 #EXTINF:-1,USA: AMC
 http://84.22.33.254/unicast.amc/index.m3u8
-#EXTINF:-1,INT: VUNES
-http://d2uy4ep1ygc4za.cloudfront.net/a/hls1/venus.m3u8
 #EXTINF:-1,MAL: DISCOVERY ASIA
 http://111.13.111.192/125.227.198.89:8028
 #EXTINF:-1,MX: ANIMAL PLANET
@@ -892,8 +880,6 @@ http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,IN: FOX
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
-#EXTINF:-1,INT: HOT SEX
-http://proxyts.ec.cx:8082/hls1/hot.m3u8
 #EXTINF:-1,USA: FOOD CHANNEL
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1,ME: MBC MAX
