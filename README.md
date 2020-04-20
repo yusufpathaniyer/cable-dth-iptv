@@ -1460,3 +1460,4 @@ http://54.36.165.216:8080/NATGEO/index.m3u8
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1,USA: PEOPLE TV
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
+#EXTINF:-1,UK: OUTDOOR CHANNEL
