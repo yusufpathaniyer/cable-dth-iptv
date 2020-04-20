@@ -1480,4 +1480,5 @@ http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_toke
 http://190.80.3.28/CBS/CBS.isml/index.m3u8
 #EXTINF:-1,INT: REALITY KING
 http://188.35.9.26:5031/udp/058j
-#EXTINF:-1,ASIA: 
+#EXTINF:-1,ASIA: BOING
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
