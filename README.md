@@ -1462,3 +1462,4 @@ http://195.88.126.168:8008/play/a0co/index.m3u8
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
 #EXTINF:-1,INT: PINKO TV
 http://cdn.fr01.spr24.net/5880/mono.m3u8?token=hiVi8EHiq86NZA
+#EXTINF:-1,INT: Sexpossion xxx
