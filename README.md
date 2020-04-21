@@ -1465,3 +1465,4 @@ http://cdn.fr01.spr24.net/5880/mono.m3u8?token=hiVi8EHiq86NZA
 #EXTINF:-1,INT: possion xxx
 http://cdn.fr01.spr24.net/5881/mono.m3u8?token=hiVi8EHiq86NZA
 #EXTINF:-1,INT: PATHOUS GOLD
+#EXTINF:-1,ASIA: THRILL
