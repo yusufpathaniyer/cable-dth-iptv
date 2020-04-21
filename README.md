@@ -1460,3 +1460,4 @@ http://195.88.126.168:8008/play/a0f6/index.m3u8
 http://195.88.126.168:8008/play/a0co/index.m3u8
 #EXTINF:-1,ME: DUBAI ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+#EXTINF:-1,INT: PINKO TV
