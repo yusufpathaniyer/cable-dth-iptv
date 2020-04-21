@@ -1456,3 +1456,4 @@ https://livecdn.fptplay.net/qnetlive/boomerang_1000.stream/chunklist.m3u8
 http://ndasat.net:8000/live/493093298206867/1593574628/6863.m3u8
 #EXTINF:-1,INT: PRIVATE HD
 http://195.88.126.168:8008/play/a0f6/index.m3u8
+#EXTINF:-1,INT: RED LIGHT TV
