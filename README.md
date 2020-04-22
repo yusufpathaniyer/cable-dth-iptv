@@ -1480,3 +1480,4 @@ http://chronostv.com/123456/654321/69125
 #EXTINF:-1,ASIA: DISCOVERY
 http://185.22.183.147:8085/media/hls_183_147/discovery/index.m3u8
 #EXTINF:-1,ASIA: DISNEY
+http://playlist.hmara.tv:80/4a8a78be/cede4d97dc3f7f6ac6d9298834ab9d96684147d8.m3u8
