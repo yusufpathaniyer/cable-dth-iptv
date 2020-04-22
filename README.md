@@ -1468,3 +1468,4 @@ http://cdn.fr01.spr24.net/5881/mono.m3u8?token=hiVi8EHiq86NZA
 #EXTINF:-1,ASIA: THRILL
 https://cdn-laos.workpoint.news/sd-thrill_480/index.m3u8
 #EXTINF:-1,INT: HOT
+http://185.236.229.19:8000/play/a02p/index.m3u8
