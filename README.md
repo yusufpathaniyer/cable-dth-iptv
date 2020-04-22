@@ -1475,3 +1475,4 @@ http://185.236.229.19:8000/play/a01p/index.m3u8
 http://chronostv.com/123456/654321/69172
 #EXTINF:-1,UK: FOX NEWS
 http://chronostv.com/123456/654321/71277
+#EXTINF:-1,USA: ESPN
