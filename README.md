@@ -1476,3 +1476,4 @@ http://chronostv.com/123456/654321/69172
 #EXTINF:-1,UK: FOX NEWS
 http://chronostv.com/123456/654321/71277
 #EXTINF:-1,USA: ESPN
+http://chronostv.com/123456/654321/69125
