@@ -1479,3 +1479,4 @@ http://chronostv.com/123456/654321/71277
 http://chronostv.com/123456/654321/69125
 #EXTINF:-1,ASIA: DISCOVERY
 http://185.22.183.147:8085/media/hls_183_147/discovery/index.m3u8
+#EXTINF:-1,ASIA: DISNEY
