@@ -1571,3 +1571,4 @@ http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
 #EXTINF:-1,ME: CARTOON NETWORK
 http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
+#EXTINF:-1,INT: CARTOON CLUB
