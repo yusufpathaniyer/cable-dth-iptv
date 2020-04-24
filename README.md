@@ -1490,3 +1490,4 @@ http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1,ASIA: ANIMAL PLANET
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF:-1,INT: FASHION TV
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
