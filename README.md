@@ -1516,3 +1516,4 @@ http://103.205.133.19/hls/sonysab.m3u8
 #EXTINF:-1,IN: AND PICTURES HD
 http://103.205.133.19/hls/andpicture.m3u8
 #EXTINF:-1,IN: SONY MAX
+http://103.205.133.19/hls/sonymax.m3u8
