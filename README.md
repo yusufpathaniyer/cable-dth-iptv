@@ -1497,3 +1497,4 @@ http://103.205.133.19/hls/starplus.m3u8
 http://103.205.133.19/hls/starbharat.m3u8
 #EXTINF:-1,IN: STAR SPORTS 1
 http://103.205.133.19/hls/starsports1.m3u8
+#EXTINF:-1,APAC: ZEE TV
