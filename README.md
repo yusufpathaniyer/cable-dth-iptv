@@ -1567,3 +1567,4 @@ http://103.115.159.37:8080/starjalsha/tracks-v1a1/mono.m3u8
 http://103.115.159.37:8080/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: SONY AATH
 http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ME: DUBAI ONE
