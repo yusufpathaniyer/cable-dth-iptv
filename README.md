@@ -1485,3 +1485,4 @@ http://playlist.hmara.tv:80/4a8a78be/cede4d97dc3f7f6ac6d9298834ab9d96684147d8.m3
 https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
 #EXTINF:-1,INT: PETHOUSE GOLD
 http://stream:starperkish@85.187.232.3:8000/udp/239.100.100.47:8888
+#EXTINF:-1,ASIA: AXN
