@@ -1492,3 +1492,4 @@ http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF:-1,INT: FASHION TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1,IN: STAR PLUS HD
+http://103.205.133.19/hls/starplus.m3u8
