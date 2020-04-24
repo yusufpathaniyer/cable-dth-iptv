@@ -1575,3 +1575,4 @@ http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
 #EXTINF:-1,INT: HUSTLER HD
 http://str06.ottg.tv/1971/video.m3u8?username=docron&password=d7g11y7m8s0&token=9ff5a371ed02f5923c20e80e78d30688&ch_id=70&req_host=pkjX3BL
+#EXTINF:-1,UK: THE NOW NETWORK
