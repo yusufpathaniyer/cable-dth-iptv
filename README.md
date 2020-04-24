@@ -1487,3 +1487,4 @@ https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5
 http://stream:starperkish@85.187.232.3:8000/udp/239.100.100.47:8888
 #EXTINF:-1,ASIA: AXN
 http://136.243.177.164/AXN/playlist.m3u8
+#EXTINF:-1,ASIA: ANIMAL PLANET
