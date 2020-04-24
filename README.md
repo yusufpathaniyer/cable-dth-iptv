@@ -1512,3 +1512,4 @@ http://103.205.133.19/hls/zeenews.m3u8
 #EXTINF:-1,IN: &TV
 http://103.205.133.19/hls/andtv.m3u8
 #EXTINF:-1,IN: SONY SAB
+http://103.205.133.19/hls/sonysab.m3u8
