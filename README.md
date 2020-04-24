@@ -1536,3 +1536,4 @@ http://103.205.133.19/hls/ten3.m3u8
 #EXTINF:-1,IN: ZEE BANGLA
 http://103.205.133.19/hls/zeebangla.m3u8
 #EXTINF:-1,IN: SONY MAX
+http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
