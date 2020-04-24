@@ -1521,3 +1521,4 @@ http://103.205.133.19/hls/sonymax.m3u8
 http://103.205.133.19/hls/sonypix.m3u8
 #EXTINF:-1,IN: wow CINEMA ONE
 http://103.205.133.19/hls/wowcinema.m3u8
+#EXTINF:-1,IN: B4U MOVIES
