@@ -1494,3 +1494,4 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1,IN: STAR PLUS HD
 http://103.205.133.19/hls/starplus.m3u8
 #EXTINF:-1,IN: STAR BHARAT
+http://103.205.133.19/hls/starbharat.m3u8
