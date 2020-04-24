@@ -1524,3 +1524,4 @@ http://103.205.133.19/hls/wowcinema.m3u8
 #EXTINF:-1,IN: B4U MOVIES
 http://103.205.133.19/hls/b4umovies.m3u8
 #EXTINF:-1,IN: E24
+http://103.205.133.19/hls/e24.m3u8
