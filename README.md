@@ -1488,3 +1488,4 @@ http://stream:starperkish@85.187.232.3:8000/udp/239.100.100.47:8888
 #EXTINF:-1,ASIA: AXN
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1,ASIA: ANIMAL PLANET
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8
