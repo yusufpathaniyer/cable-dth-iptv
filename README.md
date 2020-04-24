@@ -1527,3 +1527,9 @@ http://103.205.133.19/hls/b4umovies.m3u8
 http://103.205.133.19/hls/e24.m3u8
 #EXTINF:-1,IN: SONY SIX
 http://103.205.133.19/hls/sonysix.m3u8
+#EXTINF:-1,IN: SONY TEN 1
+http://103.205.133.19/hls/ten1.m3u8
+#EXTINF:-1,IN: SONY TEN 2
+http://103.205.133.19/hls/ten2.m3u8
+#EXTINF:-1,IN: SONY TEN 3
+http://103.205.133.19/hls/ten3.m3u8
