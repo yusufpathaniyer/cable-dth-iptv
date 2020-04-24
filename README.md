@@ -1579,3 +1579,4 @@ http://str06.ottg.tv/1971/video.m3u8?username=docron&password=d7g11y7m8s0&token=
 https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
 #EXTINF:-1,ASIA: REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,UK: Bloomberg TV
