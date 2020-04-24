@@ -1539,15 +1539,31 @@ http://103.205.133.19/hls/zeebangla.m3u8
 http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: SONY TV
 http://103.115.159.37:8080/sony/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: SONY MAX
-http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: SONY TV
-http://103.115.159.37:8080/sony/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: SONY MAX
-http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: SONY TV
-http://103.115.159.37:8080/sony/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: SONY MAX
-http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: SONY TV
-http://103.115.159.37:8080/sony/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: STAR PLUS HD
+http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: STAR GOLD HD
+http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ASIA: AXN
+http://103.115.159.37:8080/axn/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ASIA: HBO
+http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1,APAC: ZEE TV
+http://103.115.159.37:8080/zeetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ME: ZEE CINEMA
+http://103.115.159.37:8080/zeecinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ASIA: MTV
+http://103.115.159.37:8080/mtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: & TV
+http://103.115.159.37:8080/andtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: NAT GEO
+http://103.115.159.37:8080/natgeo/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: NICK
+http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: FOX LIFE
+http://103.115.159.37:8080/foxlife/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: STAR JALSHA
+http://103.115.159.37:8080/starjalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: ZEE BANGLA
+http://103.115.159.37:8080/zeebangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: SONY AATH
+http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
