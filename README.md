@@ -1507,3 +1507,4 @@ http://livecdnh1.tvanywhere.ae/hls/zee_action/index.m3u8
 http://103.205.133.19/hls/zeeaction.m3u8
 #EXTINF:-1,IN: ZING
 http://103.205.133.19/hls/zing.m3u8
+#EXTINF:-1,IN: ZEE NEWS
