@@ -1582,3 +1582,4 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1,UK: Bloomberg TV
 https://ch.iptvmate.net/d45029521a599f98f4f0383aacc33b92.m3u8
 #EXTINF:-1,IN: SONY TV HD
+http://channels.ooguy.com:80/auth?channel=SonyTvHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
