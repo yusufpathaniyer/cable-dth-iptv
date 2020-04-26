@@ -1590,3 +1590,4 @@ http://178.217.72.66/225.201.2.33/tracks-v1a1/mono.m3u8
 #EXTINF:-1,UK: ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1,UK: 4FUN TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
