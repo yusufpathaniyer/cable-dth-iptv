@@ -1600,3 +1600,4 @@ http://137.59.155.253:8088/hls/Star_Plus.m3u8
 #EXTINF:-1,ME: STAR GOLD
 http://137.59.155.253:8088/hls/Star_Gold.m3u8
 #EXTINF:-1,IN: SONY AATH
+http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
