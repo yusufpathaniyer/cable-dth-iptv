@@ -1594,3 +1594,4 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1,INT: Rugby World TV
 https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
 #EXTINF:-1,UK: SONY TV HD
+http://channels.ooguy.com:80/auth?channel=SonyTvHdUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
