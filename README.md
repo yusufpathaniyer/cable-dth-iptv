@@ -1596,3 +1596,4 @@ https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
 #EXTINF:-1,UK: SONY TV HD
 http://channels.ooguy.com:80/auth?channel=SonyTvHdUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1,APAC: STAR PLUS
+http://137.59.155.253:8088/hls/Star_Plus.m3u8
