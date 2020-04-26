@@ -1584,3 +1584,4 @@ https://ch.iptvmate.net/d45029521a599f98f4f0383aacc33b92.m3u8
 #EXTINF:-1,IN: SONY TV HD
 http://channels.ooguy.com:80/auth?channel=SonyTvHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1,RUS: NAT GEO
+http://178.124.182.25:7011/play/a00f_a11
