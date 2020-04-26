@@ -1587,3 +1587,4 @@ http://channels.ooguy.com:80/auth?channel=SonyTvHdIndia&type=index.m3u8&authoriz
 http://178.124.182.25:7011/play/a00f_a11
 #EXTINF:-1,IN: ANIMAL PLANET
 http://178.217.72.66/225.201.2.33/tracks-v1a1/mono.m3u8
+#EXTINF:-1,UK: ONE GOLF
