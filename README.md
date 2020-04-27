@@ -1614,3 +1614,4 @@ http://ok2.se:80/live/e63cF1UAM62D2m9TT/0d2cF1UwaURyh2zyA/407.m3u8
 http://ok2.se:8000/live/1ba1F1UYdgn7iOCC0/9b6F1UxsBHjC2dN1/407.m3u8
 #EXTINF:-1,USA: Popular Science
 http://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
+#EXTINF:-1,UK: Discovery Shed
