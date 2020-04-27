@@ -1612,3 +1612,4 @@ http://iptv.xtreamiptv.net:8000/live/0ZTmKn2TSx/dSpI0Qf4jW/1628.m3u8
 #EXTINF:-1,USA: SONY TV HD
 http://ok2.se:80/live/e63cF1UAM62D2m9TT/0d2cF1UwaURyh2zyA/407.m3u8
 http://ok2.se:8000/live/1ba1F1UYdgn7iOCC0/9b6F1UxsBHjC2dN1/407.m3u8
+#EXTINF:-1,USA: Popular Science
