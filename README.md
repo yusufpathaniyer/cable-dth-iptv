@@ -1607,3 +1607,4 @@ http://137.59.155.253:8088/hls/Colors.m3u8
 http://220.158.149.28:8180/TV00000000000000000112@HHZT
 #EXTINF:-1,USA: BLOCK TV
 https://video.sekindo.com/blocktv/ch1/tracks-v3a1/mono.m3u8
+#EXTINF:-1,INT: EXO XXX
