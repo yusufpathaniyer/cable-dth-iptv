@@ -1610,3 +1610,4 @@ https://video.sekindo.com/blocktv/ch1/tracks-v3a1/mono.m3u8
 #EXTINF:-1,INT: EXO XXX
 http://iptv.xtreamiptv.net:8000/live/0ZTmKn2TSx/dSpI0Qf4jW/1628.m3u8
 #EXTINF:-1,USA: SONY TV HD
+http://ok2.se:80/live/e63cF1UAM62D2m9TT/0d2cF1UwaURyh2zyA/407m3u8
