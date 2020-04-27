@@ -1616,3 +1616,4 @@ http://ok2.se:8000/live/1ba1F1UYdgn7iOCC0/9b6F1UxsBHjC2dN1/407.m3u8
 http://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
 #EXTINF:-1,UK: Discovery Shed
 https://ch.iptvmate.net/5e936849e5eae225a0410838.m3u8
+#EXTINF:-1,UK: Travel Channel
