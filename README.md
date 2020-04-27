@@ -1609,3 +1609,4 @@ http://220.158.149.28:8180/TV00000000000000000112@HHZT
 https://video.sekindo.com/blocktv/ch1/tracks-v3a1/mono.m3u8
 #EXTINF:-1,INT: EXO XXX
 http://iptv.xtreamiptv.net:8000/live/0ZTmKn2TSx/dSpI0Qf4jW/1628.m3u8
+#EXTINF:-1,USA: SONY TV HD
