@@ -1618,3 +1618,4 @@ http://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
 https://ch.iptvmate.net/5e936849e5eae225a0410838.m3u8
 #EXTINF:-1,UK: Travel Channel
 https://ch.iptvmate.net/5e9350a9e2844e1edf210b35.m3u8
+#EXTINF:-1,UK: TRAVEL CHANNEL
