@@ -1623,3 +1623,4 @@ http://lazyserg.iptvbot.biz/iptv/6GDSQPVR5HGB9M/1070/index.m3u8
 #EXTINF:-1,INT: PATHOUSE PASSION
 http://lazyserg.iptvbot.biz/iptv/6GDSQPVR5HGB9M/1073/index.m3u8
 #EXTINF:-1,INT: BULK TV
+https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
