@@ -1619,3 +1619,4 @@ https://ch.iptvmate.net/5e936849e5eae225a0410838.m3u8
 #EXTINF:-1,UK: Travel Channel
 https://ch.iptvmate.net/5e9350a9e2844e1edf210b35.m3u8
 #EXTINF:-1,UK: TRAVEL CHANNEL
+http://lazyserg.iptvbot.biz/iptv/6GDSQPVR5HGB9M/1070/index.m3u8
