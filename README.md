@@ -1629,3 +1629,4 @@ http://80.32.125.233:8000/play/a002/index.m3u8
 #EXTINF:-1,ITV 1
 http://80.32.125.233:8000/play/a003/index.m3u8
 #EXTINF:-1,INT:Fashion TV (Slovakia) 
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
