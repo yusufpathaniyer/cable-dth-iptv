@@ -1647,3 +1647,4 @@ https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 #EXTINF:-,USA: SONY TV HD
 http://ok2.se:8000/live/e4f1F1Uvb5cccME2H/7deeF1UDa6PNxFp03/407.m3u8
 #EXTINF:-,USA: ENTERTAINMENT-F
+http://54.39.105.133:25461/live/Galaxy/Fubo/63.m3u8
