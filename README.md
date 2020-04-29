@@ -1634,3 +1634,4 @@ http://80.94.54.42/fashiontv/stream/playlist.m3u8
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1,USA: Shout Factory TV
 https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
+#EXTINF:-1,USA: Futurism
