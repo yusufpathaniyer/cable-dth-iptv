@@ -1878,3 +1878,16 @@ http://178.159.5.210:1000/play/a03x/index.m3u8
 #EXTINF:-1,Primal Living
 http://178.159.5.210:1000/play/a040/index.m3u8
 #EXTINF:-1,Racing 
+http://178.159.5.210:1000/play/a046/index.m3u8
+#EXTINF:-1,Sp Racing
+http://178.159.5.210:1000/play/sportsracing/index.m3u8
+#EXTINF:-1,SonLife
+http://178.159.5.210:1000/play/a03p/index.m3u8
+#EXTINF:-1,Sony Action
+http://178.159.5.210:1000/play/Sonyaction/index.m3u8
+#EXTINF:-1,Sony Action
+http://178.159.5.210:1000/play/a03r/index.m3u8
+#EXTINF:-1,Sony Christmas
+http://178.159.5.210:1000/play/a03s/index.m3u8
+#EXTINF:-1,Spotlight TV
+http://178.159.5.210:1000/play/a04d/index.m3u8
