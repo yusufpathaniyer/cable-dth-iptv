@@ -1636,3 +1636,4 @@ https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
 #EXTINF:-1,USA: Futurism
 https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
+#EXTINF:-1,USA: Dust (Sci-Fi)
