@@ -1653,3 +1653,115 @@ http://54.39.105.133:25461/live/Galaxy/Fubo/63.m3u8
 http://93.114.120.137:9981/stream/channelid/612955824
 #EXTINF:-1,Bollywood Clasic
 http://93.114.120.137:9981/stream/channelid/61203011
+#EXTINF:-1,4Seven
+http://178.159.5.210:1000/play/4Seven/index.m3u8
+#EXTINF:-1,55310
+http://178.159.5.210:1000/play/a00p/index.m3u8
+#EXTINF:-1,A1TV
+http://178.159.5.210:1000/play/A1TV/index.m3u8
+#EXTINF:-1,ABN TV
+http://178.159.5.210:1000/play/a01q/index.m3u8
+#EXTINF:-1,AIT
+http://178.159.5.210:1000/play/AIT/index.m3u8
+#EXTINF:-1,AMC from BT
+http://178.159.5.210:1000/play/AMC/index.m3u8
+#EXTINF:-1,AlJazeeraEng
+http://178.159.5.210:1000/play/AlJazeeraEng/index.m3u8
+#EXTINF:-1,Animal Planet
+http://178.159.5.210:1000/play/AnimalPlanet/index.m3u8
+#EXTINF:-1,B4UMovies
+http://178.159.5.210:1000/play/B4UMovies/index.m3u8
+#EXTINF:-1,B4UMusic
+http://178.159.5.210:1000/play/B4UMusic/index.m3u8
+#EXTINF:-1,BBC CBEEBIES
+http://178.159.5.210:1000/play/BBCCBEEBIES/index.m3u8
+#EXTINF:-1,BBC ONE
+http://178.159.5.210:1000/play/BBCONE/index.m3u8
+#EXTINF:-1,BBC RED BUTTON1
+http://178.159.5.210:1000/play/BBCREDBUTTON1/index.m3u8
+#EXTINF:-1,BBC TWO
+http://178.159.5.210:1000/play/BBCTWO/index.m3u8
+#EXTINF:-1,BBCALBA
+http://178.159.5.210:1000/play/BBCALBA/index.m3u8
+#EXTINF:-1,BBCONESCOTLAND
+http://178.159.5.210:1000/play/BBCONESCOTLAND/index.m3u8
+#EXTINF:-1,BEN
+http://178.159.5.210:1000/play/BEN/index.m3u8
+#EXTINF:-1,BET:BlackEntTv
+http://178.159.5.210:1000/play/BETUK/index.m3u8
+#EXTINF:-1,BLAZE
+http://178.159.5.210:1000/play/BLAZE/index.m3u8
+#EXTINF:-1,BloombergHD
+http://178.159.5.210:1000/play/BloombergHD/index.m3u8
+#EXTINF:-1,Boomerang
+http://178.159.5.210:1000/play/Boomerang/index.m3u8
+#EXTINF:-1,British Muslim
+http://178.159.5.210:1000/play/BritishMuslim/index.m3u8
+#EXTINF:-1,CBS Action
+http://178.159.5.210:1000/play/CBSAction/index.m3u8
+#EXTINF:-1,CBS Drama
+http://178.159.5.210:1000/play/CBSDrama/index.m3u8
+#EXTINF:-1,CBS Reality
+http://178.159.5.210:1000/play/CBSReality/index.m3u8
+#EXTINF:-1,CHANNEL 4 FHD
+http://178.159.5.210:1000/play/CHANNEL4FHD/index.m3u8
+#EXTINF:-1,CNBC
+http://178.159.5.210:1000/play/CNBC/index.m3u8
+#EXTINF:-1,CNN
+http://178.159.5.210:1000/play/CNN/index.m3u8
+#EXTINF:-1,CNN HD
+http://178.159.5.210:1000/play/CNNFHD/index.m3u8
+#EXTINF:-1,COLORS HD
+http://178.159.5.210:1000/play/COLORSHD/index.m3u8
+#EXTINF:-1,Channel 44
+http://178.159.5.210:1000/play/Channel44/index.m3u8
+#EXTINF:-1,Channel4
+http://178.159.5.210:1000/play/Channel4/index.m3u8
+#EXTINF:-1,Channels 24
+http://178.159.5.210:1000/play/Channels24/index.m3u8
+#EXTINF:-1,Chartshow Hits
+http://178.159.5.210:1000/play/ChartshowHits/index.m3u8
+#EXTINF:-1,Christmas Hits
+http://178.159.5.210:1000/play/ChristmasHits/index.m3u8
+#EXTINF:-1,ComedyCentral
+http://178.159.5.210:1000/play/ComedyCentral/index.m3u8
+#EXTINF:-1,ComedyXtra
+http://178.159.5.210:1000/play/ComedyXtra/index.m3u8
+#EXTINF:-1,DAVE
+http://178.159.5.210:1000/play/DAVE/index.m3u8
+#EXTINF:-1,DAYSTAR HD
+http://178.159.5.210:1000/play/a00o/index.m3u8
+#EXTINF:-1,DMAX
+http://178.159.5.210:1000/play/DMAX/index.m3u8
+#EXTINF:-1,Discovery History
+http://178.159.5.210:1000/play/DiscoveryHistory/index.m3u8
+#EXTINF:-1,Discovery Science
+http://178.159.5.210:1000/play/DiscoveryScience/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://178.159.5.210:1000/play/DiscoveryTurbo/index.m3u8
+#EXTINF:-1,Drama
+http://178.159.5.210:1000/play/Drama/index.m3u8
+#EXTINF:-1,E4
+http://178.159.5.210:1000/play/E4/index.m3u8
+#EXTINF:-1,Eden
+http://178.159.5.210:1000/play/Eden/index.m3u8
+#EXTINF:-1,Euronews
+http://178.159.5.210:1000/play/Euronews/index.m3u8
+#EXTINF:-1,FAME TV
+http://178.159.5.210:1000/play/FAMETV/index.m3u8
+#EXTINF:-1,Film4
+http://178.159.5.210:1000/play/Film4/index.m3u8
+#EXTINF:-1,Food Network
+http://178.159.5.210:1000/play/FoodNetwork/index.m3u8
+#EXTINF:-1,GOLD
+http://178.159.5.210:1000/play/GOLD/index.m3u8
+#EXTINF:-1,ITV GRANADA HD
+http://178.159.5.210:1000/play/ITVGRANADAHD/index.m3u8
+#EXTINF:-1,ITV HD 1
+http://178.159.5.210:1000/play/ITVHD1/index.m3u8
+#EXTINF:-1,ITV HD 2
+http://178.159.5.210:1000/play/ITVHD2/index.m3u8
+#EXTINF:-1,ITV WALES HD
+http://178.159.5.210:1000/play/ITVWALESHD/index.m3u8
+#EXTINF:-1,ITV3FHD
+http://178.159.5.210
