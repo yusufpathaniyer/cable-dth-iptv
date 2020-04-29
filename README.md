@@ -1765,3 +1765,116 @@ http://178.159.5.210:1000/play/ITVHD2/index.m3u8
 http://178.159.5.210:1000/play/ITVWALESHD/index.m3u8
 #EXTINF:-1,ITV3FHD
 http://178.159.5.210
+#EXTINF:-1,ITV WALES HD
+http://178.159.5.210:1000/play/ITVWALESHD/index.m3u8
+#EXTINF:-1,ITV3FHD
+http://178.159.5.210:1000/play/ITV3FHD/index.m3u8
+#EXTINF:-1,ITVFHD
+http://178.159.5.210:1000/play/ITVFHD/index.m3u8
+#EXTINF:-1,KTV
+http://178.159.5.210:1000/play/KTV/index.m3u8
+#EXTINF:-1,Keep It Country
+http://178.159.5.210:1000/play/KeepItCountry/index.m3u8
+#EXTINF:-1,LondonLive
+http://178.159.5.210:1000/play/LondonLive/index.m3u8
+#EXTINF:-1,NOW 80s
+http://178.159.5.210:1000/play/NOW80s/index.m3u8
+#EXTINF:-1,NTV
+http://178.159.5.210:1000/play/NTV/index.m3u8
+#EXTINF:-1,Nick Jr.
+http://178.159.5.210:1000/play/NickJr/index.m3u8
+#EXTINF:-1,Nicktoons
+http://178.159.5.210:1000/play/Nicktoons/index.m3u8
+#EXTINF:-1,PICKTV
+http://178.159.5.210:1000/play/PICKTV/index.m3u8
+#EXTINF:-1,POP
+http://178.159.5.210:1000/play/POP/index.m3u8
+#EXTINF:-1,POP Max
+http://178.159.5.210:1000/play/POPMax/index.m3u8
+#EXTINF:-1,PTVGlobal
+http://178.159.5.210:1000/play/PTVGlobal/index.m3u8
+#EXTINF:-1,QUEST
+http://178.159.5.210:1000/play/QUEST/index.m3u8
+#EXTINF:-1,QUEST RED
+http://178.159.5.210:1000/play/QUESTRED/index.m3u8
+#EXTINF:-1,Retro Movies
+http://178.159.5.210:1000/play/a01j/index.m3u8
+#EXTINF:-1,STVFHD
+http://178.159.5.210:1000/play/STVFHD/index.m3u8
+#EXTINF:-1,Samaa
+http://178.159.5.210:1000/play/Samaa/index.m3u8
+#EXTINF:-1,Samaa
+http://178.159.5.210:1000/play/a039/index.m3u8
+#EXTINF:-1,Showcase
+http://178.159.5.210:1000/play/Showcase/index.m3u8
+#EXTINF:-1,Sikh Channel
+http://178.159.5.210:1000/play/SikhChannel/index.m3u8
+#EXTINF:-1, News
+http://178.159.5.210:1000/play/News/index.m3u8
+#EXTINF:-1,Smithsonian HD
+http://178.159.5.210:1000/play/SmithsonianHD/index.m3u8
+#EXTINF:-1,Sony Crime
+http://178.159.5.210:1000/play/SonyCrime/index.m3u8
+#EXTINF:-1,Sony Crime 2
+http://178.159.5.210:1000/play/SonyCrime2/index.m3u8
+#EXTINF:-1,Sony Movies
+http://178.159.5.210:1000/play/sonymovies/index.m3u8
+#EXTINF:-1,Starz TV
+http://178.159.5.210:1000/play/StarzTV/index.m3u8
+#EXTINF:-1,TLC
+http://178.159.5.210:1000/play/TLC/index.m3u8
+#EXTINF:-1,TV One
+http://178.159.5.210:1000/play/TVOne/index.m3u8
+#EXTINF:-1,The Vault
+http://178.159.5.210:1000/play/TheVault/index.m3u8
+#EXTINF:-1,Tiny Pop
+http://178.159.5.210:1000/play/TinyPop/index.m3u8
+#EXTINF:-1,Travel Channel
+http://178.159.5.210:1000/play/TravelChannel/index.m3u8
+#EXTINF:-1,True Christmas
+http://178.159.5.210:1000/play/TrueChristmas/index.m3u8
+#EXTINF:-1,True Ent
+http://178.159.5.210:1000/play/TrueEnt/index.m3u8
+#EXTINF:-1,UTVFHD
+http://178.159.5.210:1000/play/UTVFHD/index.m3u8
+#EXTINF:-1,VenusTV
+http://178.159.5.210:1000/play/VenusTV/index.m3u8
+#EXTINF:-1,YESTERDAY
+http://178.159.5.210:1000/play/YESTERDAY/index.m3u8
+#EXTINF:-1,YourTV
+http://178.159.5.210:1000/play/YourTV/index.m3u8
+#EXTINF:-1,horror channel
+http://178.159.5.210:1000/play/horrorchannel/index.m3u8
+#EXTINF:-1,movies4men
+http://178.159.5.210:1000/play/movies4men/index.m3u8
+#EXTINF:-1,zeetv
+http://178.159.5.210:1000/play/zeetv/index.m3u8
+#EXTINF:-1,Aastha
+http://178.159.5.210:1000/play/a03z/index.m3u8
+#EXTINF:-1,Boomerang+1
+http://178.159.5.210:1000/play/Boomerang1/index.m3u8
+#EXTINF:-1,CN+1
+http://178.159.5.210:1000/play/cartoonnetwork1/index.m3u8
+#EXTINF:-1,ComedyCent+1
+http://178.159.5.210:1000/play/ComedyCent1/index.m3u8
+#EXTINF:-1,ComedyXtra+1
+http://178.159.5.210:1000/play/ComedyXtra1/index.m3u8
+#EXTINF:-1,HUM EUROPE
+http://178.159.5.210:1000/play/HUMEUROPE/index.m3u8
+#EXTINF:-1,HUM Masala
+http://178.159.5.210:1000/play/a03o/index.m3u8
+#EXTINF:-1,HUM News
+http://178.159.5.210:1000/play/a03q/index.m3u8
+#EXTINF:-1,Nick Jr+1
+http://178.159.5.210:1000/play/nickjr1/index.m3u8
+#EXTINF:-1,Nick
+http://178.159.5.210:1000/play/NickJrPeppa/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://178.159.5.210:1000/play/Nickelodeon/index.m3u8
+#EXTINF:-1,Nickelodeon+1
+http://178.159.5.210:1000/play/a04a/index.m3u8
+#EXTINF:-1,PTC PUNJABI
+http://178.159.5.210:1000/play/a03x/index.m3u8
+#EXTINF:-1,Primal Living
+http://178.159.5.210:1000/play/a040/index.m3u8
+#EXTINF:-1,Racing 
