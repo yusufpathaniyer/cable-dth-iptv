@@ -1649,3 +1649,7 @@ http://ok2.se:8000/live/e4f1F1Uvb5cccME2H/7deeF1UDa6PNxFp03/407.m3u8
 #EXTINF:-,USA: ENTERTAINMENT-F
 http://54.39.105.133:25461/live/Galaxy/Fubo/63.m3u8
 #EXTINF:-1,USA: HALLMARK-F
+#EXTINF:-1,Bollywood TV Film
+http://93.114.120.137:9981/stream/channelid/612955824
+#EXTINF:-1,Bollywood Clasic
+http://93.114.120.137:9981/stream/channelid/61203011
