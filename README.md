@@ -1995,3 +1995,7 @@ http://45.162.144.114:9981/stream/channelid/756652569
 http://45.162.144.114:9981/stream/channelid/838920846
 #EXTINF:-1,ANIMAL PLANET
 http://45.162.144.114:9981/stream/channelid/863367251
+#EXTINF:-1,FOX LIFE
+http://45.162.144.114:9981/stream/channelid/985056250
+#EXTINF:-1,DISCOVERY SCIENCE
+http://45.162.144.114:9981/stream/channelid/991523767
