@@ -1899,3 +1899,5 @@ http://93.114.120.137:9981/stream/channelid/884387326
 http://93.114.120.137:9981/stream/channelid/1941945904
 #EXTINF:-1,Filmbox
 http://93.114.120.137:9981/stream/channelid/1465382141
+#EXTINF:-1,The Fishing and Hunting Channel
+http://93.114.120.137:9981/stream/channelid/1285115982
