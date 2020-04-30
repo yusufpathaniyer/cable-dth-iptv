@@ -1981,3 +1981,5 @@ http://45.162.144.114:9981/stream/channelid/342526896
 http://45.162.144.114:9981/stream/channelid/521466236
 #EXTINF:-1,FOX HD
 http://45.162.144.114:9981/stream/channelid/566104096
+#EXTINF:-1,FASHION TV
+http://45.162.144.114:9981/stream/channelid/573888097
