@@ -2029,3 +2029,5 @@ http://45.162.144.114:9981/stream/channelid/1646220377
 http://45.162.144.114:9981/stream/channelid/1683885476
 #EXTINF:-1,Fish TV
 http://45.162.144.114:9981/stream/channelid/1695497951
+#EXTINF:-1,FX
+http://45.162.144.114:9981/stream/channelid/1813030360
