@@ -1919,3 +1919,43 @@ http://93.114.120.137:9981/stream/channelid/581693153
 http://93.114.120.137:9981/stream/channelid/1260061229
 #EXTINF:-1,VH1
 http://93.114.120.137:9981/stream/channelid/1156552112
+#EXTINF:-1,Happy Channel
+http://93.114.120.137:9981/stream/channelid/1259484297
+#EXTINF:-1,Fine Living
+http://93.114.120.137:9981/stream/channelid/1882647991
+#EXTINF:-1,Food Network
+http://93.114.120.137:9981/stream/channelid/1271395277
+#EXTINF:-1,Travel Mix
+http://93.114.120.137:9981/stream/channelid/1358232819
+#EXTINF:-1,TLC
+http://93.114.120.137:9981/stream/channelid/1466241905
+#EXTINF:-1,Travel Channel
+http://93.114.120.137:9981/stream/channelid/938409158
+#EXTINF:-1,Medika TV
+http://93.114.120.137:9981/stream/channelid/1612978197
+#EXTINF:-1,BBC Earth
+http://93.114.120.137:9981/stream/channelid/702674132
+#EXTINF:-1,DocuBox
+http://93.114.120.137:9981/stream/channelid/652110447
+#EXTINF:-1,History
+http://93.114.120.137:9981/stream/channelid/1308789758
+#EXTINF:-1,Viasat Nature
+http://93.114.120.137:9981/stream/channelid/726544011
+#EXTINF:-1,Discovery Channel
+http://93.114.120.137:9981/stream/channelid/924983200
+#EXTINF:-1,Da Vinci
+http://93.114.120.137:9981/stream/channelid/806201258
+#EXTINF:-1,Investigation Discovery
+http://93.114.120.137:9981/stream/channelid/1211582373
+#EXTINF:-1,Arcadia World
+http://93.114.120.137:9981/stream/channelid/1689446268
+#EXTINF:-1,HGTV
+http://93.114.120.137:9981/stream/channelid/1992234226
+#EXTINF:-1,HGTV HD
+http://93.114.120.137:9981/stream/channelid/3340230
+#EXTINF:-1,Crime and Investigation
+http://93.114.120.137:9981/stream/channelid/2138734824
+#EXTINF:-1,Viasat Explore
+http://93.114.120.137:9981/stream/channelid/1577036147
+#EXTINF:-1,Viasat History
+http://93.114.120.137:9981/stream/channelid/62074292
