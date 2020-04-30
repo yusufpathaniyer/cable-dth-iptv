@@ -2053,3 +2053,4 @@ http://45.162.144.114:9981/stream/channelid/2091371733
 http://45.162.144.114:9981/stream/channelid/2108556575
 #EXTINF:-1,AL JAZEERA
 http://45.162.144.114:9981/stream/channelid/2137145620
+#EXTINF:-1,UK: EURO SPORTS
