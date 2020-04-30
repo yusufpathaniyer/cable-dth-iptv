@@ -1891,3 +1891,5 @@ http://178.159.5.210:1000/play/a03r/index.m3u8
 http://178.159.5.210:1000/play/a03s/index.m3u8
 #EXTINF:-1,Spotlight TV
 http://178.159.5.210:1000/play/a04d/index.m3u8
+#EXTINF:-1,CNN International
+http://93.114.120.137:9981/stream/channelid/1956899118
