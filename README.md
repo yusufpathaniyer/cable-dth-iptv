@@ -2061,3 +2061,4 @@ http://91.126.39.98:8086/udp/224.169.11.247:3247
 http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ID: DISCOVERY CHANNEL
 https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=gratisan
+#EXTINF:-1,APAC: ZEE TV
