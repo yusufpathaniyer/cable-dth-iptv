@@ -1991,3 +1991,7 @@ http://45.162.144.114:9981/stream/channelid/725521009
 http://45.162.144.114:9981/stream/channelid/734676281
 #EXTINF:-1,Disc. Home&Health
 http://45.162.144.114:9981/stream/channelid/756652569
+#EXTINF:-1,TRAVEL BOX BRAZIL
+http://45.162.144.114:9981/stream/channelid/838920846
+#EXTINF:-1,ANIMAL PLANET
+http://45.162.144.114:9981/stream/channelid/863367251
