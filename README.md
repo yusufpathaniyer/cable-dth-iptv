@@ -2031,3 +2031,25 @@ http://45.162.144.114:9981/stream/channelid/1683885476
 http://45.162.144.114:9981/stream/channelid/1695497951
 #EXTINF:-1,FX
 http://45.162.144.114:9981/stream/channelid/1813030360
+#EXTINF:-1,DISNEY JUNIOR
+http://45.162.144.114:9981/stream/channelid/1864412620
+#EXTINF:-1,AGRO CANAL
+http://45.162.144.114:9981/stream/channelid/1895956574
+#EXTINF:-1,NICK
+http://45.162.144.114:9981/stream/channelid/1902683530
+#EXTINF:-1,Paramount Filmes
+http://45.162.144.114:9981/stream/channelid/1948343952
+#EXTINF:-1,LOVE NATURE HD
+http://45.162.144.114:9981/stream/channelid/1975503339
+#EXTINF:-1,ZOOMOO
+http://45.162.144.114:9981/stream/channelid/2034378843
+#EXTINF:-1,DISCOVERY CHANNEL
+http://45.162.144.114:9981/stream/channelid/2039147008
+#EXTINF:-1,Boomerang
+http://45.162.144.114:9981/stream/channelid/2088384697
+#EXTINF:-1,DISCOVERY KIDS
+http://45.162.144.114:9981/stream/channelid/2091371733
+#EXTINF:-1,REDE TV
+http://45.162.144.114:9981/stream/channelid/2108556575
+#EXTINF:-1,AL JAZEERA
+http://45.162.144.114:9981/stream/channelid/2137145620
