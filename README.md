@@ -2059,3 +2059,4 @@ http://91.126.39.98:8086/udp/224.168.32.2:3202
 http://91.126.39.98:8086/udp/224.169.11.247:3247
 #EXTINF:-1,UK: MTV
 http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ID: DISCOVERY CHANNEL
