@@ -1897,3 +1897,5 @@ http://93.114.120.137:9981/stream/channelid/1956899118
 http://93.114.120.137:9981/stream/channelid/884387326
 #EXTINF:-1,HBO
 http://93.114.120.137:9981/stream/channelid/1941945904
+#EXTINF:-1,Filmbox
+http://93.114.120.137:9981/stream/channelid/1465382141
