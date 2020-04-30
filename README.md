@@ -1973,3 +1973,5 @@ http://93.114.120.137:9981/stream/channelid/432154137
 http://93.114.120.137:9981/stream/channelid/1242496764
 #EXTINF:-1,Investigation Discovery HD
 http://93.114.120.137:9981/stream/channelid/963292099
+#EXTINF:-1,CNN INTERNACIONAL
+http://45.162.144.114:9981/stream/channelid/215733024
