@@ -1959,3 +1959,17 @@ http://93.114.120.137:9981/stream/channelid/2138734824
 http://93.114.120.137:9981/stream/channelid/1577036147
 #EXTINF:-1,Viasat History
 http://93.114.120.137:9981/stream/channelid/62074292
+#EXTINF:-1,Travel Channel HD
+http://93.114.120.137:9981/stream/channelid/207202935
+#EXTINF:-1,BBC Earth HD
+http://93.114.120.137:9981/stream/channelid/637044253
+#EXTINF:-1,History HD
+http://93.114.120.137:9981/stream/channelid/1643795427
+#EXTINF:-1,Viasat History HD
+http://93.114.120.137:9981/stream/channelid/1420354142
+#EXTINF:-1,DocuBox HD
+http://93.114.120.137:9981/stream/channelid/432154137
+#EXTINF:-1,Viasat Nature HD
+http://93.114.120.137:9981/stream/channelid/1242496764
+#EXTINF:-1,Investigation Discovery HD
+http://93.114.120.137:9981/stream/channelid/963292099
