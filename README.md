@@ -1901,3 +1901,21 @@ http://93.114.120.137:9981/stream/channelid/1941945904
 http://93.114.120.137:9981/stream/channelid/1465382141
 #EXTINF:-1,The Fishing and Hunting Channel
 http://93.114.120.137:9981/stream/channelid/1285115982
+#EXTINF:-1,Nick Jr
+http://93.114.120.137:9981/stream/channelid/1451403806
+#EXTINF:-1,Cartoon Network
+http://93.114.120.137:9981/stream/channelid/116489437
+#EXTINF:-1,Duck TV
+http://93.114.120.137:9981/stream/channelid/1338944484
+#EXTINF:-1,Boomerang TV
+http://93.114.120.137:9981/stream/channelid/1064358586
+#EXTINF:-1,Nicktoons
+http://93.114.120.137:9981/stream/channelid/1761052840
+#EXTINF:-1,Nickelodeon
+http://93.114.120.137:9981/stream/channelid/443810411
+#EXTINF:-1,Music Channel
+http://93.114.120.137:9981/stream/channelid/581693153
+#EXTINF:-1,Kiss TV
+http://93.114.120.137:9981/stream/channelid/1260061229
+#EXTINF:-1,VH1
+http://93.114.120.137:9981/stream/channelid/1156552112
