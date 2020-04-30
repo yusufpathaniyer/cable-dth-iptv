@@ -1983,3 +1983,11 @@ http://45.162.144.114:9981/stream/channelid/521466236
 http://45.162.144.114:9981/stream/channelid/566104096
 #EXTINF:-1,FASHION TV
 http://45.162.144.114:9981/stream/channelid/573888097
+#EXTINF:-1,BAND SPORTS
+http://45.162.144.114:9981/stream/channelid/712511291
+#EXTINF:-1,Vh1 MEGAHITS
+http://45.162.144.114:9981/stream/channelid/725521009
+#EXTINF:-1,ID – INVESTIGACAO DISCOVERY
+http://45.162.144.114:9981/stream/channelid/734676281
+#EXTINF:-1,Disc. Home&Health
+http://45.162.144.114:9981/stream/channelid/756652569
