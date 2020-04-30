@@ -1977,3 +1977,7 @@ http://93.114.120.137:9981/stream/channelid/963292099
 http://45.162.144.114:9981/stream/channelid/215733024
 #EXTINF:-1,DISNEY XD
 http://45.162.144.114:9981/stream/channelid/342526896
+#EXTINF:-1,NAT GEO KIDS
+http://45.162.144.114:9981/stream/channelid/521466236
+#EXTINF:-1,FOX HD
+http://45.162.144.114:9981/stream/channelid/566104096
