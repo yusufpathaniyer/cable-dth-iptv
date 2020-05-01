@@ -2065,3 +2065,4 @@ https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=gratisan
 https://delivery.macan.live/stream/zeetv/index.m3u8?token=gratisan
 #EXTINF:-1,UK: SONY SAB
 http://mytv.fun:8080/live/gz0i545yfe/i2x7gjq4a6/672323.m3u8
+#EXTINF:-1,INT: HUSTLER TV
