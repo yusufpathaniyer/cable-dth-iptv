@@ -2064,3 +2064,4 @@ https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=gratisan
 #EXTINF:-1,APAC: ZEE TV
 https://delivery.macan.live/stream/zeetv/index.m3u8?token=gratisan
 #EXTINF:-1,UK: SONY SAB
+http://mytv.fun:8080/live/gz0i545yfe/i2x7gjq4a6/.m3u8
