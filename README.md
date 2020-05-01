@@ -2069,3 +2069,4 @@ http://mytv.fun:8080/live/gz0i545yfe/i2x7gjq4a6/672323.m3u8
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR
 #EXTINF:-1,ME: Adjarasport TV
 https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
+#EXTINF:-1,UK: DISCOVERY
