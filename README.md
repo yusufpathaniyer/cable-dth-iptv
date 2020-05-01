@@ -2071,3 +2071,4 @@ http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdz
 https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
 #EXTINF:-1,UK: DISCOVERY
 http://212.0.215.106/Discovery/mpegts?checkedby:www.iptvcat.com
+#EXTINF:-1,INT: AUTOMOTO TV
