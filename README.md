@@ -2073,3 +2073,4 @@ https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
 http://212.0.215.106/Discovery/mpegts?checkedby:www.iptvcat.com
 #EXTINF:-1,INT: AUTOMOTO TV
 https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/chunklist.m3u8
+#EXTINF:-1,USA: MORNING STAR TV
