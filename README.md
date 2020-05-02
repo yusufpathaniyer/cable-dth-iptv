@@ -2088,3 +2088,4 @@ http://178.217.72.66/225.201.2.156/tracks-v1a1/mono.m3u8
 #EXTINF:-1,INT: VUNES
 https://bit.ly/3bXptnH
 #EXTINF:-1,UK: FOX
+https://stream.suryaiptv.net/streams/107_.m3u8
