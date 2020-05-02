@@ -2081,3 +2081,4 @@ http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
 https://s.yam.com/LYQ6T
 #EXTINF:-1,INT: PINKO TV
 https://s.yam.com/5ynjw
+#EXTINF:-1,INT: EROTIC2
