@@ -2081,4 +2081,5 @@ http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
 https://s.yam.com/LYQ6T
 #EXTINF:-1,INT: PINKO TV
 https://s.yam.com/5ynjw
-#EXTINF:-1,INT: EROTIC2
+#EXTINF:-1,INT: HUSTLER HD
+http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hwVv4Mb5yarbaGHAIfET&uid=491
