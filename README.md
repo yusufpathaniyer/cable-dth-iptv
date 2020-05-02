@@ -2090,3 +2090,4 @@ https://bit.ly/3bXptnH
 #EXTINF:-1,ASIA: FOX
 https://stream.suryaiptv.net/streams/107_.m3u8
 #EXTINF:-1,ASIA: FOX LIFE
+https://stream.suryaiptv.net/streams/109_.m3u8
