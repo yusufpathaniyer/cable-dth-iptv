@@ -2078,3 +2078,4 @@ http://morningside-lh.akamaihd.net/i/jblive_1@303354/index_2008_av-p.m3u8
 #EXTINF:-1,INT: WF TV
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
 #EXTINF:-1,INT: REDLIGHT HD
+https://s.yam.com/LYQ6T
