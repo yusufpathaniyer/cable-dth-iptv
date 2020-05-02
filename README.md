@@ -2084,3 +2084,4 @@ https://s.yam.com/5ynjw
 #EXTINF:-1,INT: HUSTLER HD
 http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hwVv4Mb5yarbaGHAIfET&uid=491
 #EXTINF:-1,INT: BBC WORLD NEWS
+http://178.217.72.66/225.201.2.156/tracks-v1a1/mono.m3u8
