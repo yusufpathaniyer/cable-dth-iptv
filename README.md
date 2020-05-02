@@ -2092,3 +2092,4 @@ https://stream.suryaiptv.net/streams/107_.m3u8
 #EXTINF:-1,ASIA: FOX LIFE
 https://stream.suryaiptv.net/streams/109_.m3u8
 #EXTINF:-1,ASIA: HBO
+https://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan
