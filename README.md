@@ -2121,3 +2121,15 @@ http://42.98.239.149:9981/stream/channelid/876114273
 http://42.98.239.149:9981/stream/channelid/41604549
 #EXTINF:-1,Nick
 http://42.98.239.149:9981/stream/channelid/321906652
+#EXTINF:-1,Sony Max
+http://42.98.239.149:9981/stream/channelid/1597286721
+#EXTINF:-1,Sony Sab
+http://42.98.239.149:9981/stream/channelid/2076489617
+#EXTINF:-1,Sony Six
+http://42.98.239.149:9981/stream/channelid/1559351927
+#EXTINF:-1,Sony Ten 1
+http://42.98.239.149:9981/stream/channelid/1382712878
+#EXTINF:-1,Sony Ten 2
+http://42.98.239.149:9981/stream/channelid/487833512
+#EXTINF:-1,Sony Ten 3
+http://42.98.239.149:9981/stream/channelid/704909020
