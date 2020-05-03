@@ -2159,3 +2159,4 @@ http://42.98.239.149:9981/stream/channelid/477082133
 http://42.98.239.149:9981/stream/channelid/349138937
 #EXTINF:-1,UK: HUM
 http://178.159.5.210:1000/play/HUMEUROPE/index.m3u8
+#EXTINF:-1,IN: SONY MAX HD
