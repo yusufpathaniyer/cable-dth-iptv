@@ -2168,3 +2168,4 @@ http://175.41.46.16:8081/hls/7.m3u8
 #EXTINF:-1,IN: 
 http://175.41.46.16:8081/hls/4.m3u8
 #EXTINF:-1,IN: TATA SKY IBADAT
+http://175.41.46.16:8081/hls/2.m3u8
