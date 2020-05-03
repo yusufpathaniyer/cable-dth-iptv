@@ -2103,3 +2103,5 @@ http://42.98.239.149:9981/stream/channelid/1654937978
 http://42.98.239.149:9981/stream/channelid/24269676
 #EXTINF:-1,&TV
 http://42.98.239.149:9981/stream/channelid/1458942133
+#EXTINF:-1,AXN
+http://42.98.239.149:9981/stream/channelid/222144844
