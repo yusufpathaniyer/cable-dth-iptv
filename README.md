@@ -2095,3 +2095,4 @@ https://stream.suryaiptv.net/streams/109_.m3u8
 https://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan
 #EXTINF:-1,INT: HAPPY CHANNEL
 http://58.99.33.2:1935/liveedge2/oPUmhZgU_402_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1,UK: ITV
