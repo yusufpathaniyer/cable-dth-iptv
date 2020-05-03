@@ -2097,3 +2097,9 @@ https://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan
 http://58.99.33.2:1935/liveedge2/oPUmhZgU_402_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 #EXTINF:-1,UK: ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1,&Flix
+http://42.98.239.149:9981/stream/channelid/1654937978
+#EXTINF:-1,&Pictures
+http://42.98.239.149:9981/stream/channelid/24269676
+#EXTINF:-1,&TV
+http://42.98.239.149:9981/stream/channelid/1458942133
