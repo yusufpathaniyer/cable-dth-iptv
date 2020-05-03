@@ -2113,3 +2113,5 @@ http://42.98.239.149:9981/stream/channelid/199218879
 http://42.98.239.149:9981/stream/channelid/1242718245
 #EXTINF:-1,Disney
 http://42.98.239.149:9981/stream/channelid/918113217
+#EXTINF:-1,HBO
+http://42.98.239.149:9981/stream/channelid/1458381187
