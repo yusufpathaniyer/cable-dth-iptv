@@ -2107,3 +2107,5 @@ http://42.98.239.149:9981/stream/channelid/1458942133
 http://42.98.239.149:9981/stream/channelid/222144844
 #EXTINF:-1,Cartoon Network
 http://42.98.239.149:9981/stream/channelid/1877824829
+#EXTINF:-1,Colors
+http://42.98.239.149:9981/stream/channelid/199218879
