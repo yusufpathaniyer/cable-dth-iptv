@@ -2157,3 +2157,4 @@ http://42.98.239.149:9981/stream/channelid/1367212255
 http://42.98.239.149:9981/stream/channelid/477082133
 #EXTINF:-1,Zee TV
 http://42.98.239.149:9981/stream/channelid/349138937
+#EXTINF:-1,UK: HUM
