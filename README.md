@@ -2147,3 +2147,7 @@ http://42.98.239.149:9981/stream/channelid/1386957452
 http://42.98.239.149:9981/stream/channelid/674139231
 #EXTINF:-1,Star World
 http://42.98.239.149:9981/stream/channelid/1527992704
+#EXTINF:-1,UTV Action
+http://42.98.239.149:9981/stream/channelid/1528580255
+#EXTINF:-1,WB
+http://42.98.239.149:9981/stream/channelid/234445812
