@@ -2111,3 +2111,5 @@ http://42.98.239.149:9981/stream/channelid/1877824829
 http://42.98.239.149:9981/stream/channelid/199218879
 #EXTINF:-1,Discovery
 http://42.98.239.149:9981/stream/channelid/1242718245
+#EXTINF:-1,Disney
+http://42.98.239.149:9981/stream/channelid/918113217
