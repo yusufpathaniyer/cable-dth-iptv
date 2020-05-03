@@ -2133,3 +2133,17 @@ http://42.98.239.149:9981/stream/channelid/1382712878
 http://42.98.239.149:9981/stream/channelid/487833512
 #EXTINF:-1,Sony Ten 3
 http://42.98.239.149:9981/stream/channelid/704909020
+#EXTINF:-1,Star Gold
+http://42.98.239.149:9981/stream/channelid/721342523
+#EXTINF:-1,Star Movies
+http://42.98.239.149:9981/stream/channelid/1024797284
+#EXTINF:-1,Star Plus
+http://42.98.239.149:9981/stream/channelid/1136814305
+#EXTINF:-1,Star Sports 1
+http://42.98.239.149:9981/stream/channelid/935448432
+#EXTINF:-1,Star Sports 1 Hindi
+http://42.98.239.149:9981/stream/channelid/1386957452
+#EXTINF:-1,Star Sports 2
+http://42.98.239.149:9981/stream/channelid/674139231
+#EXTINF:-1,Star World
+http://42.98.239.149:9981/stream/channelid/1527992704
