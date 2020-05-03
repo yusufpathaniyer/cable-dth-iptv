@@ -2151,3 +2151,9 @@ http://42.98.239.149:9981/stream/channelid/1527992704
 http://42.98.239.149:9981/stream/channelid/1528580255
 #EXTINF:-1,WB
 http://42.98.239.149:9981/stream/channelid/234445812
+#EXTINF:-1,Zee Bollywood
+http://42.98.239.149:9981/stream/channelid/1367212255
+#EXTINF:-1,Zee Cinema
+http://42.98.239.149:9981/stream/channelid/477082133
+#EXTINF:-1,Zee TV
+http://42.98.239.149:9981/stream/channelid/349138937
