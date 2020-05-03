@@ -2119,3 +2119,5 @@ http://42.98.239.149:9981/stream/channelid/1458381187
 http://42.98.239.149:9981/stream/channelid/876114273
 #EXTINF:-1,Movies Now
 http://42.98.239.149:9981/stream/channelid/41604549
+#EXTINF:-1,Nick
+http://42.98.239.149:9981/stream/channelid/321906652
