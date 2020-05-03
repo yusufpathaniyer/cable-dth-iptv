@@ -2109,3 +2109,5 @@ http://42.98.239.149:9981/stream/channelid/222144844
 http://42.98.239.149:9981/stream/channelid/1877824829
 #EXTINF:-1,Colors
 http://42.98.239.149:9981/stream/channelid/199218879
+#EXTINF:-1,Discovery
+http://42.98.239.149:9981/stream/channelid/1242718245
