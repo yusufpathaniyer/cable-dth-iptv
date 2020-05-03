@@ -2117,3 +2117,5 @@ http://42.98.239.149:9981/stream/channelid/918113217
 http://42.98.239.149:9981/stream/channelid/1458381187
 #EXTINF:-1,History Channel
 http://42.98.239.149:9981/stream/channelid/876114273
+#EXTINF:-1,Movies Now
+http://42.98.239.149:9981/stream/channelid/41604549
