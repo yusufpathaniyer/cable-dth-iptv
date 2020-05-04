@@ -2230,3 +2230,4 @@ https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
 #EXTINF:-1,ASIA: NICK JR
 http://proxyts.ec.cx:8082/hls1/nickjr.m3u8
 #EXTINF:-1,JP: NHK WORLD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
