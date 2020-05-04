@@ -707,21 +707,21 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,USA: ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1,UK: WWE
-https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=gratisan 
 #EXTINF:-1,UK: PASS TV
-https://delivery.macan.live/stream/macan_sport_41/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/macan_sport_41/index.m3u8?token=gratisan 
 #EXTINF:-1,MAL: STAR CRICKET
-https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=gratisan 
 #EXTINF:-1,MAL: FOX SPORTS
-https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=gratisan 
 #EXTINF:-1,MAL: DISCOVERY ASIA
-https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=gratisan 
 #EXTINF:-1,MAL: BIEN SPORTS
-https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=gratisan 
 #EXTINF:-1,MAL: BOOMERANG
-https://delivery.macan.live/stream/boomerang/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/boomerang/index.m3u8?token=gratisan 
 #EXTINF:-1,MAL: HBO
-https://delivery.macan.live/stream/hbo/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan 
 #EXTINF:-1,USA: VH1
 http://185.59.223.82:8080/vh1/mpegts
 #EXTINF:-1,UK: FREE SPORTS
