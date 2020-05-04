@@ -975,29 +975,29 @@ http://vtv.iptvfree.gq:2086/live/foxlife.m3u8
 #EXTINF:-1,INT: PRIVATE TV
 https://ch.iptvmate.net/118f7bb441e27ef9d855b3bb9a487614.m3u8
 #EXTINF:-1,JKT: DISNEY XD
-https://delivery.macan.live/stream/disneyxd/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/disneyxd/index.m3u8?token=gratisan 
 #EXTINF:-1,APAC: ZEE TV
-https://delivery.macan.live/stream/zeetv/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/zeetv/index.m3u8?token=gratisan 
 #EXTINF:-1,ASIA: BABY TV
-https://delivery.macan.live/stream/babytv/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/babytv/index.m3u8?token=gratisan 
 #EXTINF:-1,BBK: NICK
-https://delivery.macan.live/stream/nickelodeon/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/nickelodeon/index.m3u8?token=gratisan 
 #EXTINF:-1,JKT: CARTOON NETWORK
-https://delivery.macan.live/stream/cartoonnetwork/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/cartoonnetwork/index.m3u8?token=gratisan 
 #EXTINF:-1,BBK: TLC
-https://delivery.macan.live/stream/tlc/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/tlc/index.m3u8?token=gratisan 
 #EXTINF:-1,JKT: HISTORY
-https://delivery.macan.live/stream/history/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/history/index.m3u8?token=gratisan 
 #EXTINF:-1,MAL: ZOOMOO
-https://delivery.macan.live/stream/zoomoo/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/zoomoo/index.m3u8?token=gratisan 
 #EXTINF:-1,MAL: HGTV
-https://delivery.macan.live/stream/hgtv/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/hgtv/index.m3u8?token=gratisan 
 #EXTINF:-1,MAL: CINEMAX
-https://delivery.macan.live/stream/cinemax/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/cinemax/index.m3u8?token=gratisan 
 #EXTINF:-1,MAL: ASIAN FOOD CHANNEL
-https://delivery.macan.live/stream/id_afc/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/id_afc/index.m3u8?token=gratisan 
 #EXTINF:-1,ID: FOX
-https://delivery.macan.live/stream/id_fox/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/id_fox/index.m3u8?token=gratisan 
 #EXTINF:-1,ID: ANIMAL PLANET
 https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,ID: FX
