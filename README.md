@@ -2173,3 +2173,4 @@ http://175.41.46.16:8081/hls/2.m3u8
 http://175.41.46.16:8081/hls/10.m3u8
 #EXTINF:-1,USA: MMN
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
+#EXTINF:-1,USA: AAPKA COLORS HD
