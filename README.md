@@ -2226,3 +2226,4 @@ http://87.120.36.62:8104/hls/streama121816/index.m3u8
 #EXTINF:-1,ESPN
 http://87.120.36.62:8104/hls/streama121817/index.m3u8
 #EXTINF:-1,INT: STREET MUSIC
+https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
