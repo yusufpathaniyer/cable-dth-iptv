@@ -999,35 +999,35 @@ https://delivery.macan.live/stream/id_afc/index.m3u8?token=gratisan
 #EXTINF:-1,ID: FOX
 https://delivery.macan.live/stream/id_fox/index.m3u8?token=gratisan 
 #EXTINF:-1,ID: ANIMAL PLANET
-https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=gratisan Yq91Jdf0&v=20200308
 #EXTINF:-1,ID: FX
-https://delivery.macan.live/stream/id_fx/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/id_fx/index.m3u8?token=gratisan Yq91Jdf0&v=20200308
 #EXTINF:-1,ID: DISCOVERY CHANNEL
-https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=gratisan Yq91Jdf0&v=20200308
 #EXTINF:-1,ID: CHANNEL V
-https://delivery.macan.live/stream/id_channelv/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/id_channelv/index.m3u8?token=gratisan Yq91Jdf0&v=20200308
 #EXTINF:-1,IN: WARNER TV
-https://delivery.macan.live/stream/warnertv/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/warnertv/index.m3u8?token=gratisan Yq91Jdf0&v=20200308
 #EXTINF:-1,ID: LIFETIME
-https://delivery.macan.live/stream/lifetime/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/lifetime/index.m3u8?token=gratisan Yq91Jdf0&v=20200308
 #EXTINF:-1,MAL: FIGHTSPORT
-https://delivery.macan.live/stream/fightsport/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/fightsport/index.m3u8?token=gratisan Yq91Jdf0&v=20200308
 #EXTINF:-1,ID: AXN
-https://delivery.macan.live/stream/id_axn/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/id_axn/index.m3u8?token=gratisan Yq91Jdf0&v=20200308
 #EXTINF:-1,ID: FOX LIFE
-https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=gratisan Yq91Jdf0&v=20200308
 #EXTINF:-1,ID: DISCOVERY CHANNEL
-https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=gratisan Yq91Jdf0&v=20200308
 #EXTINF:-1,ID: NHK WORLD
-https://delivery.macan.live/stream/id_nhkworld/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/id_nhkworld/index.m3u8?token=gratisan Yq91Jdf0&v=20200308
 #EXTINF:-1,ID: CNA
-https://delivery.macan.live/stream/id_cna/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/id_cna/index.m3u8?token=gratisan Yq91Jdf0&v=20200308
 #EXTINF:-1,ID: BBC WORLD NEWS
 https://delivery.macan.live/stream/id_bbcworldnews/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,ID: DISNEY CHANNEL
-https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=Yq91Jdf0&v=20200308
+https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=gratisan Yq91Jdf0&v=20200308
 #EXTINF:-1,ID: BLOOMBERG
-https://delivery.macan.live/stream/id_bloomberg/index.m3u8?token=Yq91Jdf0&v=20200308 
+https://delivery.macan.live/stream/id_bloomberg/index.m3u8?token=gratisan Yq91Jdf0&v 
 #EXTINF:-1,JKT: ID HD
 http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
 #EXTINF:-1,UK: RT
