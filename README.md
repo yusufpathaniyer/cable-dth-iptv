@@ -2236,3 +2236,4 @@ https://s.yam.com/sZmeQ
 #EXTINF:-1,INT: TROCC
 https://s.yam.com/hDCdb
 #EXTINF:-1,ASIA: NAT GEO
+http://bbdd.228888888.xyz:8081/hls/ch316.m3u8
