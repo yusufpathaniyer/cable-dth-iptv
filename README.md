@@ -2290,3 +2290,4 @@ http://87.120.36.62:8099/hls/streama121817/index.m3u8
 #EXTINF:-1,ASIA: FIGHT BOX
 http://84.22.33.210/FIGHTBOX/index.m3u8
 #EXTINF:-1,UK: BBC NEWS
+http://51.52.156.22:8888/http/004
