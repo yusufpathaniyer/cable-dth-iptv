@@ -2292,3 +2292,4 @@ http://84.22.33.210/FIGHTBOX/index.m3u8
 #EXTINF:-1,UK: BBC NEWS
 http://51.52.156.22:8888/http/004
 #EXTINF:-1,USA: CON TV
+https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
