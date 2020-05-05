@@ -2235,3 +2235,4 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://s.yam.com/sZmeQ
 #EXTINF:-1,INT: TROCC
 https://s.yam.com/hDCdb
+#EXTINF:-1,ASIA: NAT GEO
