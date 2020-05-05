@@ -2287,3 +2287,4 @@ http://87.120.36.62:8099/hls/streama121815/index.m3u8
 http://87.120.36.62:8099/hls/streama121816/index.m3u8
 #EXTINF:-1,ESPN
 http://87.120.36.62:8099/hls/streama121817/index.m3u8
+#EXTINF:-1,ASIA: FIGHT SPORT
