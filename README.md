@@ -2237,3 +2237,53 @@ https://s.yam.com/sZmeQ
 https://s.yam.com/hDCdb
 #EXTINF:-1,ASIA: NAT GEO
 http://bbdd.228888888.xyz:8081/hls/ch316.m3u8
+#EXTINF:-1,ID
+http://87.120.36.62:8099/hls/streama121790/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://87.120.36.62:8099/hls/streama121791/index.m3u8
+#EXTINF:-1,CNN
+http://87.120.36.62:8099/hls/streama121792/index.m3u8
+#EXTINF:-1,nick
+http://87.120.36.62:8099/hls/streama121793/index.m3u8
+#EXTINF:-1,amc
+http://87.120.36.62:8099/hls/streama121794/index.m3u8
+#EXTINF:-1,FX
+http://87.120.36.62:8099/hls/streama121795/index.m3u8
+#EXTINF:-1,bravo
+http://87.120.36.62:8099/hls/streama121796/index.m3u8
+#EXTINF:-1,A MTV
+http://87.120.36.62:8099/hls/streama121797/index.m3u8
+#EXTINF:-1,FREFORM
+http://87.120.36.62:8099/hls/streama121799/index.m3u8
+#EXTINF:-1,800
+http://87.120.36.62:8099/hls/streama121800/index.m3u8
+#EXTINF:-1,Disney Junior
+http://87.120.36.62:8099/hls/streama121802/index.m3u8
+#EXTINF:-1,Syfy
+http://87.120.36.62:8099/hls/streama121801/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://87.120.36.62:8099/hls/streama121803/index.m3u8
+#EXTINF:-1,Trvl
+http://87.120.36.62:8099/hls/streama121805/index.m3u8
+#EXTINF:-1,FILM1
+http://87.120.36.62:8099/hls/streama121806/index.m3u8
+#EXTINF:-1,National Geographic
+http://87.120.36.62:8099/hls/streama121807/index.m3u8
+#EXTINF:-1,Nick Jr
+http://87.120.36.62:8099/hls/streama121808/index.m3u8
+#EXTINF:-1,OWN
+http://87.120.36.62:8099/hls/streama121809/index.m3u8
+#EXTINF:-1,Comedy Central
+http://87.120.36.62:8099/hls/streama121810/index.m3u8
+#EXTINF:-1,tru tv
+http://87.120.36.62:8099/hls/streama121811/index.m3u8
+#EXTINF:-1,Husr
+http://87.120.36.62:8099/hls/streama121812/index.m3u8
+#EXTINF:-1,E
+http://87.120.36.62:8099/hls/streama121814/index.m3u8
+#EXTINF:-1,Disney XD
+http://87.120.36.62:8099/hls/streama121815/index.m3u8
+#EXTINF:-1,USA
+http://87.120.36.62:8099/hls/streama121816/index.m3u8
+#EXTINF:-1,ESPN
+http://87.120.36.62:8099/hls/streama121817/index.m3u8
