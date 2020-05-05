@@ -2233,3 +2233,4 @@ http://proxyts.ec.cx:8082/hls1/nickjr.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1,INT: POSSISON HARDCORE
 https://s.yam.com/sZmeQ
+#EXTINF:-1,INT: TROCC
