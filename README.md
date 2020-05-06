@@ -2311,4 +2311,5 @@ http://87.144.182.87:9981/stream/channelid/1289618010
 http://87.144.182.87:9981/stream/channelid/615860565
 #EXTINF:-1,CNN Int.
 http://87.144.182.87:9981/stream/channelid/1886755561
-#EXTINF:-1,INT: AJ
+#EXTINF:-1,INT: AJZ
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
