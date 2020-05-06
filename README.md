@@ -2301,3 +2301,5 @@ http://87.144.182.87:9981/stream/channelid/533889883
 http://87.144.182.87:9981/stream/channelid/912143240
 #EXTINF:-1,Bloomberg
 http://87.144.182.87:9981/stream/channelid/1350584647
+#EXTINF:-1,Comedy Central
+http://87.144.182.87:9981/stream/channelid/1263641424
