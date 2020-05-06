@@ -2316,3 +2316,4 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1,USA: TVS Family Channel
 https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
 #EXTINF:-1,USA: TVS Travel Network
+https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
