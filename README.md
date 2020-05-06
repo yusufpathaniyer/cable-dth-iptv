@@ -2318,3 +2318,4 @@ https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
 #EXTINF:-1,USA: TVS Travel Network
 https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
 #EXTINF:-1,IN: HORROR TV
+https://nrpus.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
