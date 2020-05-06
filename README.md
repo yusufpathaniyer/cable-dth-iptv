@@ -2309,3 +2309,5 @@ http://87.144.182.87:9981/stream/channelid/1567927709
 http://87.144.182.87:9981/stream/channelid/1289618010
 #EXTINF:-1,Disney Channel HD
 http://87.144.182.87:9981/stream/channelid/615860565
+#EXTINF:-1,CNN Int.
+http://87.144.182.87:9981/stream/channelid/1886755561
