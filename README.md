@@ -2295,3 +2295,5 @@ http://51.52.156.22:8888/http/004
 https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
 #EXTINF:-1,ASIA: NAT GEO HD
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
+#EXTINF:-1,Animal Planet HD
+http://87.144.182.87:9981/stream/channelid/533889883
