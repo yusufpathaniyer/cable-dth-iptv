@@ -2297,3 +2297,7 @@ https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 #EXTINF:-1,Animal Planet HD
 http://87.144.182.87:9981/stream/channelid/533889883
+#EXTINF:-1,BBC World
+http://87.144.182.87:9981/stream/channelid/912143240
+#EXTINF:-1,Bloomberg
+http://87.144.182.87:9981/stream/channelid/1350584647
