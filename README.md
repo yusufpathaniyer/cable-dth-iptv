@@ -2315,3 +2315,4 @@ http://87.144.182.87:9981/stream/channelid/1886755561
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1,USA: TVS Family Channel
 https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1,USA: TVS Travel Network
