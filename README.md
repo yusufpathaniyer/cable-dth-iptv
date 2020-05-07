@@ -2323,3 +2323,4 @@ https://nrpus.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
 https://livestream.5centscdn.com/pakustv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1,USA: Horizon Sports
 https://a.jsrdn.com/broadcast/22705/+0000/low/c.m3u8
+#EXTINF:-1,ASIA: TV5Monde Maghreb-Orient
