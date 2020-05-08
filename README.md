@@ -2347,3 +2347,5 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 http://45.120.188.65:8080/0.ts
 #EXTINF:-1,IN: Dil Se
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+#EXTINF:-1,IN: Dsports HD 
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
