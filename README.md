@@ -2359,3 +2359,4 @@ https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,INT: DORCEL TV
 http://188.35.9.11:21141/udp/214h?codec=mpeg4
+#EXTINF:-1,USA: FTV
