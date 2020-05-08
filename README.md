@@ -2333,3 +2333,7 @@ http://bolly360.xyz/zee.php?c=out/v1/061be0ece7a849939ac2d9031f8fc532&e=index_6.
 http://ok2.se:8000/aef7F1UFqFSB3ZcZD/fd00F1UZhFAEqt9UJ/3885
 #EXTINF:-1,UN: Sony MAX2 
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
+#EXTINF:-1,IN: Anjan
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580000.m3u8
+#EXTINF:-1,IN: JOO MUSIC
+https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
