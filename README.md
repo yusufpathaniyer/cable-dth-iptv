@@ -2329,3 +2329,5 @@ http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8
 http://45.77.90.56:8080/hls/mystream.m3u8
 #EXTINF:-1,IN: DD National HD 
 http://bolly360.xyz/zee.php?c=out/v1/061be0ece7a849939ac2d9031f8fc532&e=index_6.m3u8
+#EXTINF:-1,USA: &TV HD
+http://ok2.se:8000/aef7F1UFqFSB3ZcZD/fd00F1UZhFAEqt9UJ/3885
