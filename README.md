@@ -2341,3 +2341,5 @@ https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 http://bbnnews.livebox.co.in/Movieexpresshls/live.m3u8
 #EXTINF:-1,IN: CNBC Bajar
 https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+#EXTINF:-1,IN: Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
