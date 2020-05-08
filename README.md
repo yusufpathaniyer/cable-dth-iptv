@@ -2339,3 +2339,5 @@ https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580
 https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 #EXTINF:-1,IN: Movies express
 http://bbnnews.livebox.co.in/Movieexpresshls/live.m3u8
+#EXTINF:-1,IN: CNBC Bajar
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
