@@ -2360,3 +2360,4 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby:iptvca
 #EXTINF:-1,INT: DORCEL TV
 http://188.35.9.11:21141/udp/214h?codec=mpeg4
 #EXTINF:-1,USA: FTV
+http://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
