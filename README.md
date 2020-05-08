@@ -2353,3 +2353,5 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 http://siyatv.herokuapp.com/https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1,IN: Dish POSITIVE
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/corona/corona.isml/index.m3u8?hdnts=st=1586268190~exp=1586271190~acl=/*~hmac=902f48dc1950d9be1a15e04dc8ed2e4c5a03259adf993575ab1904737474b429
+#EXTINF:-1,IN: COLORS INFINITY
+https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
