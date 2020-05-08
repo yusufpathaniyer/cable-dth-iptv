@@ -2345,3 +2345,5 @@ https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 #EXTINF:-1,IN: UTV Bindass
 http://45.120.188.65:8080/0.ts
+#EXTINF:-1,IN: Dil Se
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
