@@ -2343,3 +2343,5 @@ http://bbnnews.livebox.co.in/Movieexpresshls/live.m3u8
 https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
 #EXTINF:-1,IN: Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:-1,IN: UTV Bindass
+http://45.120.188.65:8080/0.ts
