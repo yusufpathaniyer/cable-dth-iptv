@@ -2357,3 +2357,4 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/corona/corona.isml/index.m3u8?hdnts
 https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 #EXTINF:-1,INT: ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,INT: DORCEL TV
