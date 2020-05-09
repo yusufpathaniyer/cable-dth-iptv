@@ -2366,3 +2366,4 @@ https://ch.iptvmate.net/26f06d52728628823e35e35359efb466.m3u8
 #EXTINF:-1,INT: AST TV
 http://www.ast.tv/stream/2/master.m3u8?fluxuslust.m3u8
 #EXTINF:-1,USA: Chardik Time North America
+http://radio.lapunjabiradio.com/hls/chardiklanorthamerica.m3u8
