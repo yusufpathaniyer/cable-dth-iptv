@@ -2368,3 +2368,4 @@ http://www.ast.tv/stream/2/master.m3u8?fluxuslust.m3u8
 #EXTINF:-1,USA: Chardik Time North America
 http://radio.lapunjabiradio.com/hls/chardiklanorthamerica.m3u8
 #EXTINF:-1,USA: DISCOVERY CHANNEL
+http://ott.artmott.com/DiscoveryCH/tracks-v1a1/mono.m3u8
