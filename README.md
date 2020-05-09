@@ -2364,3 +2364,4 @@ http://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
 #EXTINF:-1,UK: ACC TV
 https://ch.iptvmate.net/26f06d52728628823e35e35359efb466.m3u8
 #EXTINF:-1,INT: AST TV
+http://www.ast.tv/stream/2/master.m3u8?fluxuslust.m3u8
