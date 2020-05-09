@@ -2362,3 +2362,4 @@ http://188.35.9.11:21141/udp/214h?codec=mpeg4
 #EXTINF:-1,USA: FTV
 http://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
 #EXTINF:-1,UK: ACC TV
+https://ch.iptvmate.net/26f06d52728628823e35e35359efb466.m3u8
