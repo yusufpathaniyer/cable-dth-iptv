@@ -2471,3 +2471,23 @@ http://202.163.117.6:9981/stream/channelid/1602273918
 http://202.163.117.6:9981/stream/channelid/292734525
 #EXTINF:-1,Nat Geo Wild HD
 http://202.163.117.6:9981/stream/channelid/1042083878
+#EXTINF:-1,zoom HD
+http://185.246.209.251:9090/zoom/index.m3u8?token=test
+#EXTINF:-1,zeetv HD
+http://185.246.209.251:9090/zeetv/index.m3u8?token=test
+#EXTINF:-1,starworld HD
+http://185.246.209.251:9090/starworld/index.m3u8?token=test
+#EXTINF:-1,zeebusiness
+http://185.246.209.251:9090/zeebusiness/index.m3u8?token=test
+#EXTINF:-1,Zing
+http://185.246.209.251:9090/zing/index.m3u8?token=test
+#EXTINF:-1,Colors
+http://185.246.209.251:9090/colors/index.m3u8?token=test
+#EXTINF:-1,Star Plus
+http://185.246.209.251:9090/starplus/index.m3u8?token=test
+#EXTINF:-1,Sony TV
+http://185.246.209.251:9090/sony/index.m3u8?token=test
+#EXTINF:-1,Sony Pix
+http://185.246.209.251:9090/sonypix/index.m3u8?token=test
+#EXTINF:-1,Zee News
+http://185.246.209.251:9090/zeenews/index.m3u8?token=test
