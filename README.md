@@ -2469,3 +2469,5 @@ http://202.163.117.6:9981/stream/channelid/811848655
 http://202.163.117.6:9981/stream/channelid/1602273918
 #EXTINF:-1,HBO2 HD
 http://202.163.117.6:9981/stream/channelid/292734525
+#EXTINF:-1,Nat Geo Wild HD
+http://202.163.117.6:9981/stream/channelid/1042083878
