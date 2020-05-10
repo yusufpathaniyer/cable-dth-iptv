@@ -2493,3 +2493,4 @@ http://185.246.209.251:9090/sonypix/index.m3u8?token=test
 http://185.246.209.251:9090/zeenews/index.m3u8?token=test
 #EXTINF:-1,IN: STAR SPORTS 2
 http://202.163.117.6:9981/stream/channelid/1408292452
+#EXTINF:-1,IN: & FLIX
