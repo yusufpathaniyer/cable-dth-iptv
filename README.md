@@ -2369,3 +2369,103 @@ http://www.ast.tv/stream/2/master.m3u8?fluxuslust.m3u8
 http://radio.lapunjabiradio.com/hls/chardiklanorthamerica.m3u8
 #EXTINF:-1,USA: DISCOVERY CHANNEL
 http://ott.artmott.com/DiscoveryCH/tracks-v1a1/mono.m3u8
+#EXTINF:-1,&Flix
+http://202.163.117.6:9981/stream/channelid/1160757101
+#EXTINF:-1,Colors Infinity
+http://202.163.117.6:9981/stream/channelid/388441008
+#EXTINF:-1,Sony Max
+http://202.163.117.6:9981/stream/channelid/1248151812
+#EXTINF:-1,Star Plus
+http://202.163.117.6:9981/stream/channelid/1880028910
+#EXTINF:-1,UTV Action
+http://202.163.117.6:9981/stream/channelid/135894982
+#EXTINF:-1,Zee Cafe
+http://202.163.117.6:9981/stream/channelid/1244355271
+#EXTINF:-1,Zee TV
+http://202.163.117.6:9981/stream/channelid/1206744636
+#EXTINF:-1,&Pictures
+http://202.163.117.6:9981/stream/channelid/1294487949
+#EXTINF:-1,Cartoon Network
+http://202.163.117.6:9981/stream/channelid/630600262
+#EXTINF:-1,Colors
+http://202.163.117.6:9981/stream/channelid/385031847
+#EXTINF:-1,HBO
+http://202.163.117.6:9981/stream/channelid/1860181278
+#EXTINF:-1,History Channel
+http://202.163.117.6:9981/stream/channelid/500932124
+#EXTINF:-1,Movies Now
+http://202.163.117.6:9981/stream/channelid/2092415501
+#EXTINF:-1,Nat Geo Wild
+http://202.163.117.6:9981/stream/channelid/461088822
+#EXTINF:-1,Nick
+http://202.163.117.6:9981/stream/channelid/1926341614
+#EXTINF:-1,Sony Ten 2
+http://202.163.117.6:9981/stream/channelid/520610693
+#EXTINF:-1,Star Bharat
+http://202.163.117.6:9981/stream/channelid/1050542208
+#EXTINF:-1,Star Sports 1 Hindi
+http://202.163.117.6:9981/stream/channelid/44268758
+#EXTINF:-1,Star Sports 2
+http://202.163.117.6:9981/stream/channelid/1408292452
+#EXTINF:-1,UTV Movies
+http://202.163.117.6:9981/stream/channelid/1095695221
+#EXTINF:-1,WB
+http://202.163.117.6:9981/stream/channelid/1644274073
+#EXTINF:-1,Zee Cinema
+http://202.163.117.6:9981/stream/channelid/1464378661
+#EXTINF:-1,MNX
+http://202.163.117.6:9981/stream/channelid/641118728
+#EXTINF:-1,Nat Geo
+http://202.163.117.6:9981/stream/channelid/1614117988
+#EXTINF:-1,Sony Six
+http://202.163.117.6:9981/stream/channelid/1986083816
+#EXTINF:-1,Sony TV
+http://202.163.117.6:9981/stream/channelid/535681899
+#EXTINF:-1,Sony Ten 3
+http://202.163.117.6:9981/stream/channelid/1156450698
+#EXTINF:-1,&TV
+http://202.163.117.6:9981/stream/channelid/1522697368
+#EXTINF:-1,Animal Planet
+http://202.163.117.6:9981/stream/channelid/1549287726
+#EXTINF:-1,Comedy Central
+http://202.163.117.6:9981/stream/channelid/642795655
+#EXTINF:-1,Discovery
+http://202.163.117.6:9981/stream/channelid/84862204
+#EXTINF:-1,Disney
+http://202.163.117.6:9981/stream/channelid/349051393
+#EXTINF:-1,Hugama
+http://202.163.117.6:9981/stream/channelid/1357890196
+#EXTINF:-1,Living Foodz
+http://202.163.117.6:9981/stream/channelid/1550066415
+#EXTINF:-1,Pogo
+http://202.163.117.6:9981/stream/channelid/872564616
+#EXTINF:-1,Sony Sab
+http://202.163.117.6:9981/stream/channelid/1478402532
+#EXTINF:-1,Star Movies
+http://202.163.117.6:9981/stream/channelid/1210441427
+#EXTINF:-1,Star Gold
+http://202.163.117.6:9981/stream/channelid/1849392591
+#EXTINF:-1,Star Sports 1
+http://202.163.117.6:9981/stream/channelid/1089518334
+#EXTINF:-1,Star World
+http://202.163.117.6:9981/stream/channelid/737644736
+#EXTINF:-1,Zee Action
+http://202.163.117.6:9981/stream/channelid/147188177
+#EXTINF:-1,Zee ETC Bollywood
+http://202.163.117.6:9981/stream/channelid/1904160431
+#EXTINF:-1,AXN- Rs 5
+http://202.163.117.6:9981/stream/channelid/1602018627
+#EXTINF:-1,Star Gold 2- Rs 1
+http://202.163.117.6:9981/stream/channelid/1181652461
+#EXTINF:-1,SONY TEN 1- Rs 19
+http://202.163.117.6:9981/stream/channelid/1603316717
+#EXTINF:-1,ZEE BOLLYWOOD- Rs 2
+http://202.163.117.6:9981/stream/channelid/498882443
+#EXTINF:-1,POP HD
+http://202.163.117.6:9981/stream/channelid/526967533
+#EXTINF:-1,BBC Earth HD
+http://202.163.117.6:9981/stream/channelid/811848655
+#EXTINF:-1,BBC First
+http://202.163.117.6:9981/stream/channelid/1602273918
+#EXTINF:-1,HBO2 HD
+http://202.163.117.6:9981/stream/channelid/292734525
