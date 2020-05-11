@@ -2504,3 +2504,4 @@ http://120.159.54.101:9981/stream/channelid/160027847
 #EXTINF:-1,IN: ZEE ACTION
 http://livecdnh1.tvanywhere.ae/hls/zee_action/index.m3u8
 #EXTINF:-1,UK: CBC SPORTS HD
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
