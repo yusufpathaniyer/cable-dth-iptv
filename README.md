@@ -2510,3 +2510,4 @@ http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wi
 #EXTINF:-1,USA: CARTOON NETWORK
 http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: ZEE BANGLA
+http://cdn.banglatv.xyz/beeiptv-stb/zeebangla/chunks.m3u8
