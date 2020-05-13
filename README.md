@@ -2536,3 +2536,4 @@ http://103.81.104.222/live/sony-ten-03/index.m3u8
 #EXTINF:-1,IN: SONY SIX
 http://103.81.104.222/live/sony-six/index.m3u8
 #EXTINF:-1,PK: FILM WORLD
+http://stream.tapmad.com:1935/pitvlive2/filmworld3/chunklist.m3u8
