@@ -2525,3 +2525,4 @@ http://103.81.104.222/live/starsport-s1hd/index.m3u8
 http://103.81.104.222/live/startsports-select-1hd/index.m3u8
 #EXTINF:-1,IN: STAR SPORTS SELECT 2 HD
 http://103.81.104.222/live/startsports-select-2hd/index.m3u8
+#EXTINF:-1,APAC: STAR PLUS
