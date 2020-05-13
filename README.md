@@ -2538,3 +2538,4 @@ http://103.81.104.222/live/sony-six/index.m3u8
 #EXTINF:-1,PK: FILM WORLD
 http://stream.tapmad.com:1935/pitvlive2/filmworld3/chunklist.m3u8
 #EXTINF:-1,PK: VENUS TV
+http://45.77.90.56:8080/hls/mystream.m3u8
