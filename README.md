@@ -2547,3 +2547,5 @@ https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
 http://185.246.209.251:9090/sonypix/index.m3u8?token=test
 #EXTINF:-1,IN: STAR PLUS HD
 http://185.246.209.251:9090/starplus/index.m3u8?token=test
+#EXTINF:-1,IN: AAPKA COLORS
+http://185.246.209.251:9090/colors/index.m3u8?token=test
