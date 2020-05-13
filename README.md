@@ -2514,3 +2514,4 @@ http://cdn.banglatv.xyz/beeiptv-stb/zeebangla/chunks.m3u8
 #EXTINF:-1,UK: COLORS TV
 http://cdn.banglatv.xyz/beeiptv-stb/colors/chunks.m3u8
 #EXTINF:-1,IN: SONY MAX HD
+http://cdn.banglatv.xyz/beeiptv-stb/sonymax/chunks.m3u8
