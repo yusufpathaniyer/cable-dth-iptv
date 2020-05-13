@@ -2512,3 +2512,4 @@ http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: ZEE BANGLA
 http://cdn.banglatv.xyz/beeiptv-stb/zeebangla/chunks.m3u8
 #EXTINF:-1,UK: COLORS TV
+http://cdn.banglatv.xyz/beeiptv-stb/colors/chunks.m3u8
