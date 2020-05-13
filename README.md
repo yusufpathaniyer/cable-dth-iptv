@@ -2517,3 +2517,4 @@ http://cdn.banglatv.xyz/beeiptv-stb/colors/chunks.m3u8
 http://cdn.banglatv.xyz/beeiptv-stb/sonymax/chunks.m3u8
 #EXTINF:-1,IN: STAR JALSHA
 http://cdn.banglatv.xyz/beeiptv-stb/starjalsha/chunks.m3u8
+#EXTINF:-1,BD: GAZI TV
