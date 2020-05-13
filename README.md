@@ -2521,3 +2521,4 @@ http://cdn.banglatv.xyz/beeiptv-stb/starjalsha/chunks.m3u8
 http://cdn.banglatv.xyz/beeiptv-stb/gazitv/chunks.m3u8
 #EXTINF:-1,IN: STAR SPORTS 1 HD
 http://103.81.104.222/live/starsport-s1hd/index.m3u8
+#EXTINF:-1,IN: STAR SPORTS SELECT 1 HD
