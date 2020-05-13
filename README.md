@@ -2544,3 +2544,4 @@ http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 #EXTINF:-1,USA: POP STAR
 https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
 #EXTINF:-1,IN: SONY PIX HD
+http://185.246.209.251:9090/sonypix/index.m3u8?token=test
