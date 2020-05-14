@@ -2553,3 +2553,4 @@ http://185.246.209.251:9090/colors/index.m3u8?token=test
 http://185.246.209.251:9090/starworld/index.m3u8?token=test
 #EXTINF:-1,USA: &TV HD
 http://185.246.209.251:9090/andtv/index.m3u8?token=test
+#EXTINF:-1,UK: MTV HITS HD
