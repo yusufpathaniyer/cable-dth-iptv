@@ -2556,3 +2556,4 @@ http://185.246.209.251:9090/andtv/index.m3u8?token=test
 #EXTINF:-1,UK: MTV HITS HD
 https://cdn-laos.workpoint.news/hd-mtvlive_720/index.m3u8
 #EXTINF:-1,INT: NAT GEO HD
+http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
