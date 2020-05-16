@@ -1363,3 +1363,4 @@ https://edge01.iptv.digijadoo.net/live/dd_national/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/dd_news/chunks.m3u8
 #EXTINF:-1,ASIA: WB TV
 https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
+#EXTINF:-1,ASIA: ZEE CINEMA
