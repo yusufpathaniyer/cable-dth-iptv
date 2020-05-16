@@ -11,8 +11,6 @@ https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 http://45.120.188.76:8080/0.ts
 #EXTINF:-1,IN: ZING
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
-#EXTINF:-1,IN: SONY MIX
-http://51.15.8.16:8081/lolind2/sonymix/playlist.m3u8
 #EXTINF:-1,IN: ZOOM TV
 http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
 #EXTINF:-1,USA: VH1
@@ -839,44 +837,16 @@ http://178.217.72.66:80/225.201.2.33/tracks-v1a1/mono.m3u8
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1,ME: DISNEY CHANNEL HD
 http://app.powerfhd.me/live/sup.php?z=998&u=osmpzewxjq&s=3515815441&id=460&t=live&f=ts
-#EXTINF:-1,IN: HBO HD
-http://89.187.169.204:2200/R-EX/ENGLISH_HBO_HD-in/tracks-v1a1/mono.m3u8?token=RED_8O6ySLAR397VPo3O1nhWFg==,1587258003.0123456789
 #EXTINF:-1,ME: BEIN SPORTS 3
 https://www.streamer2mytv.com:443/cache/Bein-A-KL-V-E-3/master.m3u8
 #EXTINF:-1,ME: BEIN SPORTS 1
 http://tv.vodu.me:2052/bein1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ME: ALFAJER TV HD
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
-#EXTINF:-1,ME: ZEE AFLAM
-http://95.170.215.109/hls/m3u8/ZEE-AFLAM-Backup.m3u8
 #EXTINF:-1,IN: AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1,IN: STAR WORLD
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8
-#EXTINF:-1,IN: STAR PLUS HD
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starplus/playlist.m3u8
-#EXTINF:-1,IN: STAR BHARAT HD
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starbharat/playlist.m3u8
-#EXTINF:-1,UK: STAR PLUS 
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starplusuk/playlist.m3u8
-#EXTINF:-1,UK: STAR GOLD
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/stargolduk/playlist.m3u8
-#EXTINF:-1,UK: STAR BHARAT
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starbharatuk/playlist.m3u8
-#EXTINF:-1,IN: TRAVEL XP HD
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/travelxphd/playlist.m3u8
-#EXTINF:-1,IN: ZEE ACTION
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeeaction/playlist.m3u8
-#EXTINF:-1,ME: ZEE TV HD
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeetvme/playlist.m3u8
-#EXTINF:-1,UK: ZEE TV
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeetvuk/playlist.m3u8
-#EXTINF:-1,IN: ZEE TV HD
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeetvhd/playlist.m3u8
 #EXTINF:-1,USA: KBP SPORTS
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1,INT: ERO XXX HD
-http://94.125.54.238:999/udp/239.191.255.6:15285
 #EXTINF:-1,INT: ALL SPORTS TV
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1,ME: SS TV
@@ -935,46 +905,18 @@ https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1,UK: SKY NEWS
 https://cdn-laos.workpoint.news/uk-skynews_480/index.m3u8
-#EXTINF:-1,ASIA: ID
-http://fr01.spr24.net/22326/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.com
-#EXTINF:-1,IN: STAR USTAV MOVIES
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starutsavmovies/playlist.m3u8
-#EXTINF:-1,IN: ZEE CLASSIC
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeeclassic/playlist.m3u8
-#EXTINF:-1,IN: ZEE NEWS
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeenews/playlist.m3u8
-#EXTINF:-1,IN: ZEE CINEMA
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeecinema/playlist.m3u8
-#EXTINF:-1,UK: ZEE CINEMA
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeecinemauk/playlist.m3u8
-#EXTINF:-1,ME: ZEE CINEMA
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeecinemame/playlist.m3u8
-#EXTINF:-1,IN: ZEE CINEMA HD
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeecinemahd/playlist.m3u8
 #EXTINF:-1,USA: MMN
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
-#EXTINF:-1,INT: SEXY HOT
-http://proxyts.canais.ink:8080/a/hls/sexhot.m3u8
 #EXTINF:-1,USA: YOUNG HOLLYWOOD
 https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/low/c.m3u8
-#EXTINF:-1,ME: STAR PLUS
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starplusme/playlist.m3u8
-#EXTINF:-1,ME: STAR BHARAT
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starbharatme/playlist.m3u8
-#EXTINF:-1,CH: NAT GEO
-http://54.36.165.216:8080/NATGEO/index.m3u8
 #EXTINF:-1,USA: TV SPORTS
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1,USA: PEOPLE TV
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 #EXTINF:-1,USA: OUTDOOR CHANNEL
 https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
-#EXTINF:-1,UK: OUTDOOR CHANNEL
-http://ott.artmott.com/outdoorchannel/index.m3u8
 #EXTINF:-1,UK: COURT TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
-#EXTINF:-1,UK: NICK JR
-http://188.35.9.6:10019/stolen/418j/rainbow.udf
 #EXTINF:-1,USA: CW
 http://190.80.3.28/CW/CW.isml/index.m3u8
 #EXTINF:-1,USA: FOX
@@ -989,45 +931,14 @@ http://190.80.3.28/CBS/CBS.isml/index.m3u8
 http://188.35.9.26:5031/udp/058j
 #EXTINF:-1,ASIA: BOING
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-#EXTINF:-1,USA: AIR SPORTS1
-http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: STAR UTSAV
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starutsav/playlist.m3u8
-#EXTINF:-1,UK: BOOMERANG
-https://livecdn.fptplay.net/qnetlive/boomerang_1000.stream/chunklist.m3u8
-#EXTINF:-1,IN: STAR PLUS HD
-http://ndasat.net:8000/live/493093298206867/1593574628/6863.m3u8
-#EXTINF:-1,INT: PRIVATE HD
-http://195.88.126.168:8008/play/a0f6/index.m3u8
-#EXTINF:-1,INT: RED LIGHT TV
-http://195.88.126.168:8008/play/a0co/index.m3u8
 #EXTINF:-1,ME: DUBAI ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
-#EXTINF:-1,INT: PINKO TV
-http://cdn.fr01.spr24.net/5880/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1,INT: possion xxx
-http://cdn.fr01.spr24.net/5881/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1,INT: PATHOUS GOLD
 #EXTINF:-1,ASIA: THRILL
 https://cdn-laos.workpoint.news/sd-thrill_480/index.m3u8
-#EXTINF:-1,INT: HOT
-http://185.236.229.19:8000/play/a02p/index.m3u8
-#EXTINF:-1,UK: FYHY
-http://185.236.229.19:8000/play/a01p/index.m3u8
-#EXTINF:-1,RUS: FISH TV
-http://chronostv.com/123456/654321/69172
-#EXTINF:-1,UK: FOX NEWS
-http://chronostv.com/123456/654321/71277
-#EXTINF:-1,USA: ESPN
-http://chronostv.com/123456/654321/69125
 #EXTINF:-1,ASIA: DISCOVERY
 http://185.22.183.147:8085/media/hls_183_147/discovery/index.m3u8
 #EXTINF:-1,ASIA: DISNEY
 http://playlist.hmara.tv:80/4a8a78be/cede4d97dc3f7f6ac6d9298834ab9d96684147d8.m3u8
-#EXTINF:-1,ASIA: OUTDOOR CHANNEL
-https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
-#EXTINF:-1,INT: PETHOUSE GOLD
-http://stream:starperkish@85.187.232.3:8000/udp/239.100.100.47:8888
 #EXTINF:-1,ASIA: AXN
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1,ASIA: ANIMAL PLANET
@@ -1112,20 +1023,12 @@ http://103.115.159.37:8080/zeebangla/tracks-v1a1/mono.m3u8
 http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ME: DUBAI ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
-#EXTINF:-1,ME: CARTOON NETWORK
-http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
-#EXTINF:-1,INT: CARTOON CLUB
-http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
-#EXTINF:-1,INT: HUSTLER HD
-http://str06.ottg.tv/1971/video.m3u8?username=docron&password=d7g11y7m8s0&token=9ff5a371ed02f5923c20e80e78d30688&ch_id=70&req_host=pkjX3BL
 #EXTINF:-1,UK: THE NOW NETWORK
 https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
 #EXTINF:-1,ASIA: REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1,UK: Bloomberg TV
 https://ch.iptvmate.net/d45029521a599f98f4f0383aacc33b92.m3u8
-#EXTINF:-1,IN: SONY TV HD
-http://channels.ooguy.com:80/auth?channel=SonyTvHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1,RUS: NAT GEO
 http://178.124.182.25:7011/play/a00f_a11
 #EXTINF:-1,IN: ANIMAL PLANET
