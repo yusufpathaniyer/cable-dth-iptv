@@ -2565,3 +2565,4 @@ http://tamilhdtv.000webhostapp.com/cdn/Zee5.php?c=zeecinemame.m3u8
 http://tamilhdtv.000webhostapp.com/cdn/Zee5.php?c=zetvme.m3u8
 #EXTINF:-1,IN: SONY AATH
 http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
+#EXTINF:-1,IN: DD 1 HD
