@@ -771,48 +771,24 @@ http://58.96.43.121:9981/stream/channelid/60031137
 http://58.96.43.121:9981/stream/channelid/739262830
 #EXTINF:-1,ABC NEWS
 http://58.96.43.121:9981/stream/channelid/409730225
-#EXTINF:-1,IN: ROMEDY NOW
-http://t100v.com/play.php?token=yRv5IgbHOrEy9JUmOu-6_g%3D%3D%2C1586293904.1679989495&id=47875
 #EXTINF:-1,INT: 100% Auto Moto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1,USA: ET
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1,UK: PAEL
 http://v.iisfu.top/live/gt/gat/mzt.m3u8
-#EXTINF:-1,UK: CARTOON NETWORK
-http://fr01.spr24.net/22338/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1,USA: FOOD NETWORK
-https://delivery.ghanacloud.ga/LiveApp/streams/842293636447220341220267.m3u8
-#EXTINF:-1,UK: SONY TV
-http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-1,PK: PTV SPORTS
-https://delivery.ghanacloud.ga/LiveApp/streams/948604368535075072553167.m3u8
-#EXTINF:-1,IN: STAR SPORTS 2
-https://delivery.ghanacloud.ga/LiveApp/streams/481469011891252731171336.m3u8
 #EXTINF:-1,IN: AMAR UJALA
 http://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:-1,JP: NHK WORLD
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1,UK: ANIMAL PLANET
-http://203.162.235.46:19004/hls/EROSPORTNEWS_HD/playlist.m3u8
 #EXTINF:-1,UK: MUSIC BOX
 http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1,INT: TRT WORLD
 http://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,INT: DORCEL TV
-http://t.gregorek.host:8880/live/Przemyslawlipinski/wfrdHMQG/1101.m3u8
-#EXTINF:-1,INT: JUST 89
-http://188.35.9.5:10005/stolen/153a/imposter.rar
 #EXTINF:-1,EU: VIVID TV
 http://188.35.9.26:2031/udp/031a
 #EXTINF:-1,ASIA: HBO
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
-#EXTINF:-1,ASIA: FX
-http://111.13.111.192/125.227.198.89:8027
-#EXTINF:-1,RU: ANIMAL PLANET
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/animal-planet.m3u8
-#EXTINF:-1,IN: STAR SPORTS 1 HD 
-http://desiclub.ca:8880/StarSports1HD-Hindi_1657/index.m3u8?token=fff
 #EXTINF:-1,IN: ZEE BANGLA
 http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
 #EXTINF:-1,APAC: ZEE CINEMA
@@ -825,56 +801,10 @@ http://130.185.150.79:1935/db24/zeebangla/playlist.m3u8
 http://live1.cdn.iptv8k.org/live/x14/s.m3u8
 #EXTINF:-1,ASIA: FX
 http://111.13.111.192/125.227.198.89:8027
-#EXTINF:-1,ME: STAR BHARAT
-https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
-#EXTINF:-1,APAC: STAR PLUS
-https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
-#EXTINF:-1,IN: FYI 18 HD
-https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
-#EXTINF:-1,IN: NICK JR
-https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
-#EXTINF:-1,ME: NAT GEO PEOPLE
-https://bracnet.iptv.jadoodigital.com/live/nat_geo_people/chunks.m3u8
 #EXTINF:-1,IN: ZEE THEATER
 http://tamilgo.com/zee5/z5theather.php?c=out&e=.m3u8
-#EXTINF:-1,IN: STAR SPORTS SELECT 1
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect1/playlist.m3u8
-#EXTINF:-1,IN: STAR SPORTS SELECT 2
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect2/playlist.m3u8
-#EXTINF:-1,IN: STAR SPORTS 2 HD
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsports2/playlist.m3u8
-#EXTINF:-1,ASIA: DISCOVERY ASIA
-http://111.13.111.192/125.227.198.89:8028?Loggia=.m3u8
 #EXTINF:-1,ASIA: HISTORY2
 http://cdn.cvattv.com.ar/live/c2live/History_2/verimatrix_rotating/History_2.m3u8
-#EXTINF:-1,ASIA: AMC
-http://cdn.ch01.spr24.net:81/22312/mpegts?token=hiVi8EHiq86NZA
-#EXTINF:-1,UK: VH1 HITS
-http://fr01.spr24.net/22936/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.com
-#EXTINF:-1,UK: MTV HITS
-http://fr01.spr24.net/22353/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.com
-#EXTINF:-1,IN: STAR GOLD 2
-https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
-#EXTINF:-1,APAC: ZEE TV
-https://bracnet.iptv.jadoodigital.com/live/zee_tv/chunks.m3u8
-#EXTINF:-1,ME: ZEE CINEMA
-https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
-#EXTINF:-1,IN: STAR GOLD HD
-https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
-#EXTINF:-1,IN: NAT GEO WILD
-https://bracnet.iptv.jadoodigital.com/live/Nat_geo_wild/chunks.m3u8
-#EXTINF:-1,ME: NAT GEO PEOPLE
-https://bracnet.iptv.jadoodigital.com/live/Nat_geo_people/chunks.m3u8
-#EXTINF:-1,IN: FOX LIFE
-https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
-#EXTINF:-1,IN: COLORS HD
-https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
-#EXTINF:-1,ME: COLORS RISHTEY
-https://bracnet.iptv.jadoodigital.com/live/rishtey/chunks.m3u8
-#EXTINF:-1,USA: CNN
-https://bracnet.iptv.jadoodigital.com/live/cnn/chunks.m3u8
-#EXTINF:-1,IN: LORD BHUDHA TV
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsfirst/playlist.m3u8
 #EXTINF:-1,IN: TLC
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/tlc/playlist.m3u8
 #EXTINF:-1,IN: NAT GEO WILD
