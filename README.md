@@ -1371,3 +1371,4 @@ https://bit.ly/2WCTG5W
 https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
 #EXTINF:-1,ME: STAR MOVIES HD
 http://ddn.amrbd.com:8081/live/starmovies/playlist.m3u8
+#EXTINF:-1,IN: &PICTURES
