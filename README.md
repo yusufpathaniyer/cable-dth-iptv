@@ -805,55 +805,12 @@ http://111.13.111.192/125.227.198.89:8027
 http://tamilgo.com/zee5/z5theather.php?c=out&e=.m3u8
 #EXTINF:-1,ASIA: HISTORY2
 http://cdn.cvattv.com.ar/live/c2live/History_2/verimatrix_rotating/History_2.m3u8
-#EXTINF:-1,IN: TLC
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/tlc/playlist.m3u8
-#EXTINF:-1,IN: NAT GEO WILD
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/natgeowild/playlist.m3u8
-#EXTINF:-1, Colors HD
-http://tv.ebox.live/live/colors.m3u8
-#EXTINF:-1, Sony TV HD
-http://10.16.100.204:8080/tv204/sonyentertainmnt_hd720.m3u8
-#EXTINF:-1, Monoranjan
-https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
-#EXTINF:-1, VH1
-https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
-#EXTINF:-1, Star world
-https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
-#EXTINF:-1, Movies Now
-https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
-#EXTINF:-1, Lotus TV Macau
-https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
-#EXTINF:-1, Nick Bangla
-https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
-#EXTINF:-1, Nick Sonic Bangla
-https://bracnet.iptv.jadoodigital.com/live/sonic/chunks.m3u8
-#EXTINF:-1,Sony TEN 2
-http://103.81.104.222/live/sony-ten-02/index.m3u8
-#EXTINF:-1,Sony TEN 3
-http://103.81.104.222/live/sony-ten-03/index.m3u8
-#EXTINF:-1,Sony TEN 1
-http://103.81.104.222/live/sony-ten-01/index.m3u8
-#EXTINF:-1,Sony ESPN
-http://103.81.104.222/live/sony-espn/index.m3u8
 #EXTINF:-1,USA: BUZZR
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_8.m3u8
 #EXTINF:-1,INT: ON SPORT
 http://95.170.215.107/hls/m3u8/ON-Sport.m3u8
 #EXTINF:-1,IN: AAJ TAK
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-#EXTINF:-1,INT: PENTHOUSE GOLD
-http://fr01.spr24.net/909/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1,INT: JUST 89
-http://fr01.spr24.net/906/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1,INT: REDLIGHT HD
-http://fr01.spr24.net/904/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1,INT: PENTHOUSE QUICK
-http://fr01.spr24.net/903/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1,INT: HUSTLER HD
-http://fr01.spr24.net/902/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1,INT: SEXT6SENSO
-http://fr01.spr24.net/901/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1,ASIA: HBO
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1,JKT: LIFETIME
 http://vtv.iptvfree.gq:2086/live/lifetime.m3u8
@@ -2166,3 +2123,4 @@ http://tamilhdtv.000webhostapp.com/cdn/Zee5.php?c=zetvme.m3u8
 http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
 #EXTINF:-1,IN: DD 1 HD
 http://tamilhdtv.000webhostapp.com/cdn/Zee5.php?c=out/v1/061be0ece7a849939ac2d9031f8fc532&e=index_6.m3u8
+#EXTINF:-1,IN: AAJ TAK
