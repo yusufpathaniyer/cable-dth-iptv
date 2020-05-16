@@ -389,8 +389,6 @@ https://sony247channels.akamaized.net/hls/live/2004806/SONYESPNSD/master.m3u8?hd
 http://109.169.56.170/hls/starsports1.m3u8?userAgent=
 #EXTINF:-1,IN: STAR PLUS HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-#EXTINF:-1,INT: EROX HD
-http://84.22.33.254/unicast.eroxhd/index.m3u8
 #EXTINF:-1,IN: INDIA TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
 #EXTINF:-1,INT: BRAZZERS TV EU
@@ -413,7 +411,7 @@ http://43.251.86.2:8080/hls/channel_1.m3u8
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 ,INT: BTV
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
-#EXTINF:-1,INT: SRK
+#EXTINF:-1,INT: SEX TV
 http://188.35.9.26:5031/udp/058j
 #EXTINF:-1,IN: REMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
@@ -437,61 +435,7 @@ https://ch.iptvmate.net/74b9c18d51b3f6ef71af33d28bba81f0.m3u8
 https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
 #EXTINF:-1,IN: News18 Lokmat
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
-#EXTINF:-1,UK: STAR GOLD HD
-http://ndasat.net:8000/live/493093298206867/1593574628/6862.m3u8
-#EXTINF:-1,IN: SONY TV
-http://ndasat.net:8000/live/493093298206867/1593574628/6902.m3u8
-#EXTINF:-1,USA: ZEE TV
-http://ndasat.net:8000/live/493093298206867/1593574628/6894.m3u8
-#EXTINF:-1,IN: ZEE NEWS
-http://ndasat.net:8000/live/493093298206867/1593574628/6887.m3u8
-#EXTINF:-1,USA: ZEE LIVING
-http://ndasat.net:8000/live/493093298206867/1593574628/6886.m3u8
-#EXTINF:-1,UK: ZEE CINEMA
-http://ndasat.net:8000/live/493093298206867/1593574628/6890.m3u8
-#EXTINF:-1,IN: MUSIC INDIA
-http://ndasat.net:8000/live/493093298206867/1593574628/6845.m3u8
-#EXTINF:-1,IN: ZEE ACTION
-http://ndasat.net:8000/live/493093298206867/1593574628/6888.m3u8
-#EXTINF:-1,IN: UTV MOVIES
-http://ndasat.net:8000/live/493093298206867/1593574628/6875.m3u8
-#EXTINF:-1,IN: SONY TEN 3
-http://ndasat.net:8000/live/493093298206867/1593574628/6849.m3u8
-#EXTINF:-1,IN: SONY TEN 3  
-http://ndasat.net:8000/live/493093298206867/1593574628/6850.m3u8
-#EXTINF:-1,IN: STAR SPORTS SELECT HD 2
-http://ndasat.net:8000/live/493093298206867/1593574628/6858.m3u8
-#EXTINF:-1,IN: STAR SPORTS SELECT HD 2
-http://ndasat.net:8000/live/493093298206867/1593574628/6859.m3u8
-#EXTINF:-1,IN: STAR SPORTS 2
-http://ndasat.net:8000/live/493093298206867/1593574628/6860.m3u8
-#EXTINF:-1,IN: STAR SPORTS 1
-http://ndasat.net:8000/live/493093298206867/1593574628/6861.m3u8
-#EXTINF:-1,IN: SONY TV
-http://ndasat.net:8000/live/493093298206867/1593574628/6901.m3u8
-#EXTINF:-1,UK: DISCOVERY TURBO
-http://ndasat.net:8000/live/493093298206867/1593574628/6856.m3u8
-#EXTINF:-1,UK: DISCOVERY 
-http://ndasat.net:8000/live/493093298206867/1593574628/6855.m3u8
-#EXTINF:-1,IN: ZEE BANGLA HD
-http://ndasat.net:8000/live/493093298206867/1593574628/6893.m3u8
-#EXTINF:-1,IN: COLORS BANGLA
-http://ndasat.net:8000/live/493093298206867/1593574628/6878.m3u8
-#EXTINF:-1,UK: CARTOON NETWORK
-http://ndasat.net:8000/live/493093298206867/1593574628/6872.m3u8
-#EXTINF:-1,ME: B4U PLUS
-http://ndasat.net:8000/live/493093298206867/1593574628/6871.m3u8
-#EXTINF:-1,UK: B4U MUSIC
-http://ndasat.net:8000/live/493093298206867/1593574628/6870.m3u8
-#EXTINF:-1,UK: B4U MOVIES
-http://ndasat.net:8000/live/493093298206867/1593574628/6869.m3u8
-#EXTINF:-1,IN: ZEE ETC
-http://ndasat.net:8000/live/493093298206867/1593574628/6880.m3u8
-#EXTINF:-1,UK: COLORS TV
-http://ndasat.net:8000/live/493093298206867/1593574628/6876.m3u8
-#EXTINF:-1,INT: HUSTLER TV
-http://163.172.209.107:8000/play/a006/index.m3u8
-#EXTINF:-1,IN: XXX TV
+#EXTINF:-1,IN: X BUNGA BUNGA
 http://5.135.92.133:52841/out/u/107_1.m3u8
 #EXTINF:-1,APAC: ANIMAL PLANET
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
@@ -519,34 +463,14 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1,RU: BOLLYWOOD CLASSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,IN: STAR SPORTS 1 HD
+#EXTINF:-1,BD: DBC NEWS
 http://103.111.120.46/hls/star-sports-1-hd.m3u8
-#EXTINF:-1,UK: MTV
-https://vbkt.ga/MTVMUSIC1
-#EXTINF:-1,UK: COMEDY CENTRAL
-https://vbkt.ga/CCUK
-#EXTINF:-1,UK: CARTOON NETWORK
-https://vbkt.ga/CN111
-#EXTINF:-1,UK: MTV BASE
-https://vbkt.ga/MTVBase-UK-MPEG2
-#EXTINF:-1,UK: TINEY FAMILY
-https://vbkt.ga/2VN
 #EXTINF:-1,INT: GANGBANG
 http://live.redtraffic.net/gangbang.m3u8
 #EXTINF:-1,IN: STAR SPORTS 1
 http://43.251.86.2:8080/hls/channel_3.m3u8
 #EXTINF:-1,PK: PTV SPORTS
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
-#EXTINF:-1,UK: BET
-https://vbkt.ga/bet-uk
-#EXTINF:-1,UK: NICK+1
-https://vbkt.ga/nikkk111
-#EXTINF:-1,USA: AMC
-http://84.22.33.254/unicast.amc/index.m3u8
-#EXTINF:-1,MAL: DISCOVERY ASIA
-http://111.13.111.192/125.227.198.89:8028
-#EXTINF:-1,MX: ANIMAL PLANET
-http://158.69.228.135:8000/////////lenaranez/lenaranez2020xyq/8926
 #EXTINF:-1,PST: CNN
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1,INT: PLAY BOY
@@ -561,37 +485,16 @@ https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4
 https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
 #EXTINF:-1,UK: BBC CBESE 
 http://51.52.156.22:8888/http/003
-#EXTINF:-1,INT: SEX HOT
-http://177.107.49.211:8000/play/a01a/index.m3u8
-#EXTINF:-1,IN: HUSTLER HD
-#EXTINF:-1,UK: MTV OMG
-https://vbkt.ga/MTV_OMG
-#EXTINF:-1,UK: CBS
-https://vbkt.ga/CBS-DramaUK
-#EXTINF:-1,ME: COLORS TV
-http://1784075063.rsc.cdn77.org/1784075063/index.m3u8
 #EXTINF:-1,INT: FASISON TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-#EXTINF:-1,UK: TRACE VAULT
-https://vbkt.ga/TraceVAULT
-#EXTINF:-1,UK: SONYCRIME
-https://vbkt.ga/SONYCRIME
-#EXTINF:-1,IN: SONY TV HD
-http://51.79.84.156:2500/HIN_sonytv/index.m3u8
 #EXTINF:-1,ASIA: FOX LIFE
 https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
 #EXTINF:-1,ASIA: KIK
 http://210.210.155.66/h/h07/01.m3u8
-#EXTINF:-1,RU: NAT GEO WILD
-http://fr01.spr24.net/1931/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1,ASIA: FOX SPORTS
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1,ASIA: FOX CRIME
 https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
-#EXTINF:-1,APAC: DISCOVERY ASIA
-http://111.13.111.192/125.227.198.89:8028
-#EXTINF:-1,INT: ADULT TV
-https://usb.bozztv.com/ssh101/TBB1/TBB1/index.m3u8
 #EXTINF:-1,INT: HD FASHION
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,USA: ABC News
@@ -614,28 +517,8 @@ https://delivery.macan.live/stream/boomerang/index.m3u8?token=gratisan
 https://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan 
 #EXTINF:-1,USA: VH1
 http://185.59.223.82:8080/vh1/mpegts
-#EXTINF:-1,UK: FREE SPORTS
-https://vbkt.ga/freesportsuk
-#EXTINF:-1,INT: PINK TV
-http://cdn.fr01.spr24.net/5880/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1,INT: XXX
-http://cdn.fr01.spr24.net/22444/mono.m3u8?token=hiVi8EHiq86NZA
 #EXTINF:-1,MAL: STAR SPORTS
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-#EXTINF:-1,IN: STAR SPORTS 1 HD
-http://175.41.46.16:8081/hls/1.m3u8
-#EXTINF:-1,IN: SONY SIX HD
-http://175.41.46.16:8081/hls/2.m3u8
-#EXTINF:-1,IN: STAR SPORTS SELECT 1 HD
-http://175.41.46.16:8081/hls/4.m3u8
-#EXTINF:-1,IN: SONY TEN 1 HD
-http://175.41.46.16:8081/hls/6.m3u8
-#EXTINF:-1,IN: SONY TEN 2 HD
-http://175.41.46.16:8081/hls/7.m3u8
-#EXTINF:-1,IN: SONY TEN 3 HD
-http://175.41.46.16:8081/hls/8.m3u8
-#EXTINF:-1,BD: MASSRANGA TV
-http://175.41.46.16:8081/hls/10.m3u8
 #EXTINF:-1,INT: Al Jazeera
 https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
 #EXTINF:-1,MAL: AXN
@@ -656,8 +539,6 @@ https://cdn-laos.workpoint.news/hd-discovery_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
 #EXTINF:-1,MAL: HISTORY
 https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
-#EXTINF:-1,UK: AXN
-http://gg.gg/lvttaxn1
 #EXTINF:-1,INT: BBC WORLD NEWS
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1,ME: STAR MOVIES
@@ -670,34 +551,14 @@ http://ddn.amrbd.com:8081/live/starsports2/playlist.m3u8
 https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,UK: START TIME
 https://v-pi.mybtv.net/event/17.2/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
-#EXTINF:-1,USA: ComedyCentral
-http://78.110.169.226:8000/play/a01m
-#EXTINF:-1,USA: CARTOON NETWORK
-http://78.110.169.226:8000/play/a021
-#EXTINF:-1,IN: SONY TEN 1 HD
-https://vbkt.ga/5hj
 #EXTINF:-1,IN: AAJ TAK
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L720P/chunklist_b700000.m3u8
-#EXTINF:-1,EU: BOOMERANG
-https://usb.bozztv.com/ssh101/BoomerangDCN/BoomerangDCN/playlist.m3u8
-#EXTINF:-1,USA: BOOMERANG
-http://proxyts.ec.cx:8082/hls1/boomerang.m3u8?wmsAuthSign
-#EXTINF:-1,UK: BOOMERANG
-http://178.159.5.210:1000/play/Boomerang/index.m3u8
 #EXTINF:-1,UK: Boston 25 News (WFXT)
 https://ch.iptvmate.net/6b2e4d0c46578a2d1087181cc07ccc75.m3u8
 #EXTINF:-1,ASIA: NAT GEO
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
-#EXTINF:-1,ASIA: HBO
-https://vbkt.ga/HBO
-#EXTINF:-1,ASIA: HBO
-http://iptvfree.gq/live/hbo.m3u8
-#EXTINF:-1,RU: NAT GEO WILD
-http://178.124.183.13/hls/ESCMSBZJ8X/bw1200000/playlist.m3u8
 #EXTINF:-1,IN: NAT GEO
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
-#EXTINF:-1,ID: DISCOVERY CHANNEL
-https://delivery.macan.live/stream/I'd_discoverychannel/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,RU: DISCOVERY CHANNEL
 http://185.22.183.147:8085/media/hls_183_147/discovery/index.m3u8
 #EXTINF:-1,JP: NHK WORLD
@@ -708,20 +569,6 @@ http://210.210.155.66/h/h07/01.m3u8
 http://210.210.155.66/h/h03/02.m3u8
 #EXTINF:-1,MAL: LIFE STYLE
 http://210.210.155.66/h/h28/02.m3u8
-#EXTINF:-1,HBO
-http://vtv.iptvfree.gq:2086/live/hbo.m3u8
-#EXTINF:-1,AXN
-http://vtv.iptvfree.gq:2086/live/axn.m3u8
-#EXTINF:-1,Boomerang
-http://vtv.iptvfree.gq:2086/live/boomerang.m3u8
-#EXTINF:-1,Cartoon Network
-http://vtv.iptvfree.gq:2086/live/cartoon.m3u8
-#EXTINF:-1,Disney Channel
-http://vtv.iptvfree.gq:2086/live/disney.m3u8
-#EXTINF:-1,Fox Movies
-http://vtv.iptvfree.gq:2086/live/foxmovies.m3u8
-#EXTINF:-1,Fox Life
-http://vtv.iptvfree.gq:2086/live/foxlife.m3u8
 #EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/1200px-Sony_MAX.svg.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX (IN) 
 http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8 
 #EXTINF:-1,USA: The Outdoor Cooking Channel
@@ -734,24 +581,16 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/in
 http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
 #EXTINF:-1,AU: Bek Sports East
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1,IN: SONY TEN 1 HD
-https://joey.vbkt.ga/LiveApp/streams/603668652894062794141419.m3u8
 #EXTINF:-1,USA: FOX NEWS 
 https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
-#EXTINF:-1,RU: NAT GEO WILD
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/nat-geo-wild.m3u8
 #EXTINF:-1,USA: Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1,RU: NAT GEO WILD
 http://188.35.9.5:10020/stolen/487n/hot.dll
-#EXTINF:-1,INT: FASHION TV
-https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,USA: NEWS ENTER
 https://ch.iptvmate.net/5f24f642017e3fae6fca576aaf4ef0f3.m3u8
 #EXTINF:-1,INT: AST TV
 https://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1,RU: BOOMERANG
-http://proxyts.ec.cx:8082/hls1/boomerang.m3u8
 #EXTINF:-1,ME: DUBAI ONE
 https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
 #EXTINF:-1,UK: ITV
@@ -764,8 +603,6 @@ http://hls-live-media.cdn01.net/default/stream_14889.m3u8
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1,INT: SEMALE TV
 https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1,USA: ID
-http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 #EXTINF:-1,USA: CW (WSFL) 
 http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,IN: FOX
