@@ -2561,3 +2561,4 @@ http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 https://cdn-laos.workpoint.news/hd-natgeowild_720/index.m3u8
 #EXTINF:-1,ME: ZEE CINEMA
 http://tamilhdtv.000webhostapp.com/cdn/Zee5.php?c=zeecinemame.m3u8
+#EXTINF:-1,ME: ZEE TV HD
