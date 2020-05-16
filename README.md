@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,IN: STAR PLUS HD
-http://51.15.8.16:8081/ind1live/starplususa/playlist.m3u8
 #EXTINF:-1,APAC: ZEE TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1,ME: STAR BHARAT
@@ -9,24 +7,6 @@ https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1,IN: STAR WORLD
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
-#EXTINF:-1,IN: STAR WORLD HD
-http://51.15.8.16:8081/ind1live/starworld/playlist.m3u8
-#EXTINF:-1,ME: ZEE TV HD
-http://51.15.8.16:8081/ind1live/zeetvme/playlist.m3u8
-#EXTINF:-1,IN: SONY TV 
-http://51.15.8.16:8081/ind1live/sonytv/playlist.m3u8
-#EXTINF:-1,UK: STAR PLUS 
-http://51.15.8.16:8081/ind1live/starplusuk/playlist.m3u8
-#EXTINF:-1,UK: ZEE TV
-http://51.15.8.16:8081/ind1live/zeetvuk/playlist.m3u8
-#EXTINF:-1,IN: ZEE TV HD
-http://51.15.8.16:8081/ind1live/zeetvhd/playlist.m3u8
-#EXTINF:-1,IN: ZEE TV 
-http://51.15.8.16:8081/ind1live/zeetv/playlist.m3u8
-#EXTINF:-1,IN: STAR BHARAT HD
-http://51.15.8.16:8081/ind1live/starbharat/playlist.m3u8
-#EXTINF:-1,IN: STAR PLUS 
-http://51.15.8.16:8081/ind1live/starplus/playlist.m3u8
 #EXTINF:-1,MAL: AXN
 http://av.xemtivinet.net:8080/hls/axn/index.m3u8
 #EXTINF:-1,RU: ID
