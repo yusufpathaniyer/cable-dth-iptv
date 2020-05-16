@@ -811,9 +811,6 @@ https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_8.m3u8
 http://95.170.215.107/hls/m3u8/ON-Sport.m3u8
 #EXTINF:-1,IN: AAJ TAK
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-#EXTINF:-1,JKT: LIFETIME
-http://vtv.iptvfree.gq:2086/live/lifetime.m3u8
 #EXTINF:-1,USA: CBSN
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
 #EXTINF:-1,IN: DD VYAS
@@ -2123,4 +2120,5 @@ http://tamilhdtv.000webhostapp.com/cdn/Zee5.php?c=zetvme.m3u8
 http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
 #EXTINF:-1,IN: DD 1 HD
 http://tamilhdtv.000webhostapp.com/cdn/Zee5.php?c=out/v1/061be0ece7a849939ac2d9031f8fc532&e=index_6.m3u8
-#EXTINF:-1,IN: AAJ TAK
+#EXTINF:-1,ASIA: HBO
+http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
