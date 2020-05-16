@@ -1361,3 +1361,4 @@ https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/dd_national/chunks.m3u8
 #EXTINF:-1,IN: DD NEWS
 https://edge01.iptv.digijadoo.net/live/dd_news/chunks.m3u8
+#EXTINF:-1,ASIA: WB TV
