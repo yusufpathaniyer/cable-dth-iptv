@@ -1366,3 +1366,4 @@ https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
 #EXTINF:-1,ASIA: ZEE CINEMA
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:-1,EU: DORCEL TV
+https://bit.ly/2WCTG5W
