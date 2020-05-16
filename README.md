@@ -7,18 +7,6 @@ https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1,IN: STAR WORLD
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
-#EXTINF:-1,MAL: AXN
-http://av.xemtivinet.net:8080/hls/axn/index.m3u8
-#EXTINF:-1,RU: ID
-http://84.22.33.254/unicast.id/index.m3u8
-#EXTINF:-1,UK: COLORS TV
-http://51.15.8.16:8081/lolind2/colorstvuk/playlist.m3u8
-#EXTINF:-1,UK: SONY TV
-http://51.15.8.16:8081/lolind2/sonytvuk/playlist.m3u8
-#EXTINF:-1,IN: SONY HD
-http://51.15.8.16:8081/lolind2/sonysabhd/playlist.m3u8
-#EXTINF:-1,IN: SONY SAB HD
-http://51.15.8.16:8081/lolind2/sonysabhd/playlist.m3u8
 #EXTINF:-1,IN: &TV HD
 http://45.120.188.76:8080/0.ts
 #EXTINF:-1,IN: ZING
@@ -71,8 +59,6 @@ http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 http://210.210.155.66/h/h23/01.m3u8
 #EXTINF:-1,ASIA: CNA
 http://210.210.155.66/h/h29/02.m3u8
-#EXTINF:-1,INT: RAMPAN TV
-http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8
 #EXTINF:-1,INT: HUSTLER HD
 http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hwVv4Mb5yarbaGHAIfET&uid=491
 #EXTINF:-1,INT: BIG DICK
@@ -85,46 +71,12 @@ http://cdn.adultiptv.net/gay.m3u8
 http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1,INT: PORN STAR 
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1,IN: HUSTLER HD
-http://bit.ly/37nMwWw
-#EXTINF:-1,INT: BSX24
-http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
-#EXTINF:-1,INT: BRAZZERS TV EU
-http://185.180.12.90:8080/BRAZZERS/index.m3u8?token=test
-#EXTINF:-1,INT: HUSTLER HD
-http://185.180.12.90:8080/HUSTLER/index.m3u8?token=test
-#EXTINF:-1,INT: DORCEL TV
-http://185.180.12.90:8080/DORCEL/index.m3u8?token=test
-#EXTINF:-1,ASIA: FOX SPORTS
-https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
-#EXTINF:-1,ASIA: TURE SPORTS
-https://tv4.chang55.com/live2/tv4ch18.stream/chunks.m3u8
-#EXTINF:-1,IN: STAR SPORTS 1
-http://51.15.8.16:8081/ind1live/starsports1hindi/playlist.m3u8
-#EXTINF:-1,IN: STAR SPORTS SELECT 1
-http://51.15.8.16:8081/ind1live/starsportsselect1/playlist.m3u8
-#EXTINF:-1,IN: STAR SPORTS SELECT 2 HD
-http://51.15.8.16:8081/ind1live/starsportsselect2/playlist.m3u8
-#EXTINF:-1,IN: STAR SPORTS 2
-http://51.15.8.16:8081/ind1live/starsports2/playlist.m3u8
-#EXTINF:-1,IN: SONY TEN 2 
-http://51.15.8.16:8081/lolind2/sonyten2/playlist.m3u8
-#EXTINF:-1,IN: SONY TEN 3
-http://51.15.8.16:8081/lolind2/sonyten3/playlist.m3u8
 #EXTINF:-1,IN: D SPORTS
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1,ME: SPORTS MAX
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
-#EXTINF:-1,IN: SONY SIX HD
-http://51.15.8.16:8081/lolind2/sonysixhd/playlist.m3u8
 #EXTINF:-1,IN: FOX FILE
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
-#EXTINF:-1,ASIA: DISCOVERY SCIENCE
-http://185.180.12.90:8080/DISCOVERYSCIENCE/index.m3u8?token=test
-#EXTINF:-1,ASIA: HISTORY 2
-https://tv4.chang55.com/live2/tv4ch19.stream/chunks.m3u8
-#EXTINF:-1,APAC: DISCOVERY ASIA
-https://tv4.chang55.com/live2/tv4ch16.stream/chunks.m3u8
 #EXTINF:-1,ASIA: NAT GEO PEOPLE
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 #EXTINF:-1,ME: HISTORY 2 
@@ -135,30 +87,10 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b130
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:-1,ASIA: NAT GEO
 https://cdn.jp.jpnettv.live/jptv/National_geographic/chunklist_w1310243407.m3u8
-#EXTINF:-1,ASIA: HISTORY
-https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
 #EXTINF:-1,ASIA: CGTN DOCUMENTARY
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1,IN: NAT GEO WILD
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
-#EXTINF:-1,IN: NAT GEO WILD
-http://51.15.8.16:8081/lolind2/pogo/playlist.m3u8
-#EXTINF:-1,IN: NAT GEO WILD HD (VPN)
-http://itvago.com/NatGeoWildHD/video.m3u8?token=korolencoanatolkorolenco85
-#EXTINF:-1,ASIA: HBO
-https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
-#EXTINF:-1,UK: STAR GOLD
-http://51.15.8.16:8081/ind1live/stargolduk/playlist.m3u8
-#EXTINF:-1,IN: STAR GOLD
-http://51.15.8.16:8081/ind1live/stargold/playlist.m3u8
-#EXTINF:-1,IN: STAR MOVIES
-http://51.15.8.16:8081/ind1live/starmovies/playlist.m3u8
-#EXTINF:-1,IN: ZEE CINEMA
-http://51.15.8.16:8081/ind1live/zeecinema/playlist.m3u8
-#EXTINF:-1,UK: ZEE CINEMA
-http://51.15.8.16:8081/ind1live/zeecinemauk/playlist.m3u8
-#EXTINF:-1,ASIA: HBO
-http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 #EXTINF:-1,UK: MGM
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1,APAC: ZEE CINEMA
@@ -171,8 +103,6 @@ http://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8
 http://51.15.8.16:8081/lolind2/rishteycineplexuk/chunks.m3u8
 #EXTINF:-1,UAE: MBC BOLLYWOOD
 http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-#EXTINF:-1,UK: SONY MAX 2 
-http://51.15.8.16:8081/lolind2/sonymax2/playlist.m3u8
 #EXTINF:-1,JKT: HITS 
 http://210.210.155.66/h/h37/index.m3u8
 #EXTINF:-1,APAC: COLORS TV
@@ -191,8 +121,6 @@ http://216.144.250.174/S0ny_Sab_HD/playlist.m3u8
 http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN/APAC: STAR PLUS HD/SD
 http://109.169.56.170/hls/starplus.m3u8
-#EXTINF:-1,APAC: COLORS TV 
-http://fr-c.movply.stream/hls/Colors.m3u8
 #EXTINF:-1,IN: STAR BHARAT
 http://109.169.56.170/hls/lifeok.m3u8
 #EXTINF:-1,IN: DD NATIONAL
@@ -201,10 +129,8 @@ http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/in
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1,RU: BOLLYWOOD HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,INT: XXX TV
+#EXTINF:-1,INT: PENTHOUSE GOLD
 http://stream:starperkish@85.187.232.3:8000/udp/239.100.100.47:8888
-#EXTINF:-1,ASIA: FX
-http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 #EXTINF:-1,IN: ZEE CINEMA HD (VPN)
 http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: ZEE ACTION (VPN)
@@ -429,8 +355,6 @@ http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
 http://stream.tapmad.com:1935/pitvlive2/baby_360p/chunklist.m3u8
 #EXTINF:-1,PK: DUNYA NEWS
 https://imob.dunyanews.tv/live/_definst_/ngrp:dunyalive_1_all/chunklist.m3u8
-#EXTINF:-1,INT: BIZARRE
-http://84.22.33.254/unicast.bizarre/index.m3u8
 #EXTINF:-1,UK: ISLAM CHANNEL
 https://59299831b66d0.streamlock.net/islam-live/islam.stream/chunklist.m3u8
 #EXTINF:-1,ME: AL JAZEERA
@@ -439,18 +363,12 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index576.m3u8
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
 #EXTINF:-1,INT: RTSH SPORTS
 http://79.106.48.2/live/rtsh_sport_ott_p2/playlist.m3u8
-#EXTINF:-1,UK: SKY SPORTS FOOTBALL
-http://95.170.215.120/hls/m3u8/Sky-Spo-football.m3u8
-#EXTINF:-1,UK: SKY SPORTS CRICKET
-http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
 #EXTINF:-1,PK: PTV SPORTS 
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 #EXTINF:-1,PK: GEO SPORTS
 https://jk3lz82elw79-hls-live.5centscdn.com/GeoNews/0ce3266d4eb71ad50f7a90aee6d21dcd.sdp/playlist.m3u8
 #EXTINF:-1,IN: GTV HD
 http://109.169.56.170/hls/gtv.m3u8
-#EXTINF:-1,IN: GTV HD
-http://telelivetv.webredirect.org:8081/globeworld2020/gazitv/chunks.m3u8
 #EXTINF:-1,IN: SONY TEN 1 HD 
 http://163.172.85.133:8080/TenS/1/index.m3u8
 #EXTINF:-1,IN: SONY TEN 3
@@ -475,16 +393,12 @@ https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 http://84.22.33.254/unicast.eroxhd/index.m3u8
 #EXTINF:-1,IN: INDIA TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
-#EXTINF:-1,IN: AAJ TAK
-http://31.14.40.58:8080/AAJTAK_h264/index.m3u8
 #EXTINF:-1,INT: BRAZZERS TV EU
 http://188.35.9.26:9031/udp/117m
 #EXTINF:-1,USA: WWE
 http://cdnak10.cast4u.info/channels/3/10803.m3u8 
 #EXTINF:-1,IN: INDIA NEWS
 http://streamidvo.multitvsolution.in//live//IndiaNews-a//p2.m3u8
-#EXTINF:-1,UK: DISCOVERY SHOWCASE HD
-http://178.156.198.68:7612
 #EXTINF:-1,INT: SUPER ONE HD
 http://188.35.9.5:10007/stolen/246r/parasite.install
 #EXTINF:-1,IN: STAR SPORTS 1
