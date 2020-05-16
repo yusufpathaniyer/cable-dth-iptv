@@ -1359,3 +1359,4 @@ http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:-1,IN: DD 1
 https://edge01.iptv.digijadoo.net/live/dd_national/chunks.m3u8
+#EXTINF:-1,IN: DD NEWS
