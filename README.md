@@ -605,8 +605,6 @@ https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1,USA: CW (WSFL) 
 http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
-#EXTINF:-1,IN: FOX
-http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 #EXTINF:-1,USA: FOOD CHANNEL
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1,ME: MBC MAX
@@ -615,8 +613,6 @@ http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
 http://api.new.livestream.com/accounts/6395980/events/2598380/live.m3u8
 #EXTINF:-1,UK: ITV2
 http://51.52.156.22:8888/http/005
-#EXTINF:-1,UK: DISNEY CHANNEL
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=disney
 #EXTINF:-1,IN: DISCOVERY CHANNEL
 https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8
 #EXTINF:-1,IN: ZEE BANGLA
@@ -627,26 +623,12 @@ https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8?fluxustv.m3u8
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1,ME: DOCU BOX
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8?fluxustv.m3u8
-#EXTINF:-1,MALAYSIA: FOX ACTION MOVIES
+#EXTINF:-1,MAL: FOX ACTION MOVIES
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1,UK: Portal Foxmix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:-1,JP: NHK WORLD
-http://210.210.155.66/h/h23/index.m3u8
-#EXTINF:-1,IN: 9XO
-https://delivery.ghanacloud.ga/LiveApp/streams/762070855668632070854894.m3u8
-#EXTINF:-1,IN: SONY TV
-https://delivery.ghanacloud.ga/LiveApp/streams/981519428048087825671758.m3u8
-#EXTINF:-1,IN: SONY MAX
-https://delivery.ghanacloud.ga/LiveApp/streams/989966766527473929921256.m3u8
 #EXTINF:-1,US: RT
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8
-#EXTINF:-1,RU: ANIMAL PLANET HD
-http://78.129.228.178/iptv/AGCFZVZNQQ3Z64/218/index.m3u8
-#EXTINF:-1,AU: RACING TV
-http://78.110.169.226:8000/play/a01z
-#EXTINF:-1,AU: ESPN 2
-http://npse.brots.world/espn2.m3u8
 #EXTINF:-1,IN: DISCOVERY CHANNEL
 https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8
 #EXTINF:-1,IN: STAR PLUS HD
@@ -691,16 +673,6 @@ http://103.115.159.37:8080/axn/tracks-v1a1/mono.m3u8
 http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: ZEE HINDUSTAN
 http://103.144.200.7:8080/hls/zeetv/index.m3u8
-#EXTINF:-1,BBK: FOX ACTION
-http://vtv.iptvfree.gq:2086/live/foxmovies.m3u8
-#EXTINF:-1,IN: HBO
-http://vtv.iptvfree.gq:2086/live/hbo.m3u8
-#EXTINF:-1,JKT: AXN
-http://vtv.iptvfree.gq:2086/live/axn.m3u8
-#EXTINF:-1,BBK: FOX LIFE
-http://vtv.iptvfree.gq:2086/live/foxlife.m3u8
-#EXTINF:-1,INT: PRIVATE TV
-https://ch.iptvmate.net/118f7bb441e27ef9d855b3bb9a487614.m3u8
 #EXTINF:-1,JKT: DISNEY XD
 https://delivery.macan.live/stream/disneyxd/index.m3u8?token=gratisan 
 #EXTINF:-1,APAC: ZEE TV
@@ -757,31 +729,15 @@ https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=gratisan
 https://delivery.macan.live/stream/id_bloomberg/index.m3u8?token=gratisan  
 #EXTINF:-1,JKT: ID HD
 http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
-#EXTINF:-1,UK: RT
-https://ch.iptvmate.net/9fe8cf22585a8f8a3164eb2ef3af2a14.m3u8
-#EXTINF:-1,IN: ZEE ACTION
-https://streamer-1.toffeelive.com/live/zee_action_240/index.m3u8
 #EXTINF:-1,IN: NEWS 18
 https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
-#EXTINF:-1,ME: ZEE TV HD
-http://bolly360.xyz:80/zee.php?c=ztvme
-#EXTINF:-1,IN: AND TV
-http://bolly360.xyz:80/zee.php?c=andtvsd
 #EXTINF:-1,IN: COLORS TV HD
 https://bracnet.iptv.jadoodigital.com:443/live/colors_hd/chunks.m3u8
-#EXTINF:-1,IN: STAR PLUS HD
-https://bracnet.iptv.jadoodigital.com:443/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1,UK: Vivid TV Europe
 http://188.35.9.26:2031/udp/031a
 #EXTINF:-1,INT: ASS TV
 http://www.ast.tv/stream/2/master.m3u8?fluxuslust.m3u8
-#EXTINF:-1,TH: NAT GEO
-http://78.129.228.178/iptv/AGCFZVZNQQ3Z64/230/index.m3u8
-#EXTINF:-1,ID: FOX ACTION MOVIES
-http://103.93.55.116:8080/stream/channelid/1588425471
-#EXTINF:-1,IN: NAT GEO WILD
-http://136.243.177.164/NATGEOWILD/playlist.m3u8
-#EXTINF:-1,MAL: AXN
+#EXTINF:-1,RU: AXN
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1,ID: CARTOON NETWORK
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
@@ -789,14 +745,6 @@ http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF:-1,RU: NOVA SPORTS 2
 https://h1-s5.c.markiza.sk/hls/novasport2-hd-master.m3u8
-#EXTINF:-1,&PictureHD ND
-http://zee18.site/zee/get.php?channel=andpicshd
-#EXTINF:-1,Zee Cinema HD ND
-http://zee18.site/zee/get.php?channel=zeecinemahd
-#EXTINF:-1,Zee Bollywood ND
-http://zee18.site/zee/get.php?channel=classic
-#EXTINF:-1,AND PICTURES HD ND
-http://zee18.site/zee/get.php?channel=andpicshd
 #EXTINF:0 "Kids",Kids Central
 https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/720p-playlist.m3u8
 #EXTINF:-1, Sudarshan News
@@ -809,16 +757,12 @@ https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:-1, Shraddha
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
-#EXTINF:-1,Divya ND
-http://zee18.site/zee/get.php?channel=divyatv
 #EXTINF:-1,Ishwar
 https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in_480p/index.m3u8
 #EXTINF:-1,Katyayani
 https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in_480p/index.m3u8
 #EXTINF:0 "Live Darshan", Shirdi Live
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
-#EXTINF:-1, Star World
-https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
 #EXTINF:-1,ABC
 http://58.96.43.121:9981/stream/channelid/1303336422
 #EXTINF:-1,ABCComedy/Kids
@@ -827,8 +771,6 @@ http://58.96.43.121:9981/stream/channelid/60031137
 http://58.96.43.121:9981/stream/channelid/739262830
 #EXTINF:-1,ABC NEWS
 http://58.96.43.121:9981/stream/channelid/409730225
-#EXTINF:-1,IN: STAR SPORTS 1 HD
-http://195.181.169.120/StarSports_Hd3/playlist.m3u8
 #EXTINF:-1,IN: ROMEDY NOW
 http://t100v.com/play.php?token=yRv5IgbHOrEy9JUmOu-6_g%3D%3D%2C1586293904.1679989495&id=47875
 #EXTINF:-1,INT: 100% Auto Moto TV
