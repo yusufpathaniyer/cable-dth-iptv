@@ -498,11 +498,7 @@ https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 #EXTINF:-1,INT: HD FASHION
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,USA: ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1,UK: WWE
-https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=gratisan 
-#EXTINF:-1,UK: PASS TV
-https://delivery.macan.live/stream/macan_sport_41/index.m3u8?token=gratisan 
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8 
 #EXTINF:-1,MAL: STAR CRICKET
 https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=gratisan 
 #EXTINF:-1,MAL: FOX SPORTS
@@ -827,8 +823,6 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
 #EXTINF:-1,USA: BEACH TV
 http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
-#EXTINF:-1,INT: UTV MOVIES
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/utvmoviesint/playlist.m3u8
 #EXTINF:-1,USA: FLOK TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 #EXTINF:-1,UK: SKY C1
@@ -837,10 +831,6 @@ https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?fluxustv.m3u8
 http://bit.ly/37Ir2n6
 #EXTINF:-1,INT: DOCEL TV
 http://188.35.9.11:21141/udp/214h
-#EXTINF:-1,UK: CARTOON NETWORK
-http://fr01.spr24.net/24302/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.com
-#EXTINF:-1,UK: UVSAT NATURE
-http://fr01.spr24.net/20119/index.m3u8?token=BQF9PmuRpcxUqR&checkedby:iptvcat.com
 #EXTINF:-1,UK: ANIMAL PLANT HD
 http://195.88.126.168:8008/play/a07d/index.m3u8?em9uYS1pcHR2LnJ1
 #EXTINF:-1,ASIA: ANIMAL PLANET HD
