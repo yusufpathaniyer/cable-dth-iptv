@@ -931,8 +931,6 @@ http://190.80.3.28/CBS/CBS.isml/index.m3u8
 http://188.35.9.26:5031/udp/058j
 #EXTINF:-1,ASIA: BOING
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-#EXTINF:-1,ME: DUBAI ONE
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
 #EXTINF:-1,ASIA: THRILL
 https://cdn-laos.workpoint.news/sd-thrill_480/index.m3u8
 #EXTINF:-1,ASIA: DISCOVERY
@@ -1039,8 +1037,6 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1,INT: Rugby World TV
 https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
-#EXTINF:-1,UK: SONY TV HD
-http://channels.ooguy.com:80/auth?channel=SonyTvHdUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1,APAC: STAR PLUS
 http://137.59.155.253:8088/hls/Star_Plus.m3u8
 #EXTINF:-1,ME: STAR GOLD
@@ -1053,21 +1049,8 @@ http://137.59.155.253:8088/hls/Colors.m3u8
 http://220.158.149.28:8180/TV00000000000000000112@HHZT
 #EXTINF:-1,USA: BLOCK TV
 https://video.sekindo.com/blocktv/ch1/tracks-v3a1/mono.m3u8
-#EXTINF:-1,INT: EXO XXX
-http://iptv.xtreamiptv.net:8000/live/0ZTmKn2TSx/dSpI0Qf4jW/1628.m3u8
-#EXTINF:-1,USA: SONY TV HD
-http://ok2.se:80/live/e63cF1UAM62D2m9TT/0d2cF1UwaURyh2zyA/407.m3u8
-http://ok2.se:8000/live/1ba1F1UYdgn7iOCC0/9b6F1UxsBHjC2dN1/407.m3u8
 #EXTINF:-1,USA: Popular Science
 http://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
-#EXTINF:-1,UK: Discovery Shed
-https://ch.iptvmate.net/5e936849e5eae225a0410838.m3u8
-#EXTINF:-1,UK: Travel Channel
-https://ch.iptvmate.net/5e9350a9e2844e1edf210b35.m3u8
-#EXTINF:-1,UK: TRAVEL CHANNEL
-http://lazyserg.iptvbot.biz/iptv/6GDSQPVR5HGB9M/1070/index.m3u8
-#EXTINF:-1,INT: PATHOUSE PASSION
-http://lazyserg.iptvbot.biz/iptv/6GDSQPVR5HGB9M/1073/index.m3u8
 #EXTINF:-1,INT: BULK TV
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
 #EXTINF:-1,BBC 2
@@ -1086,27 +1069,10 @@ https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
 https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
 #EXTINF:-1,USA: Dove Channel
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
-#EXTINF:-1,IN: SRI SANKARA TV
-https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8
 #EXTINF:-1,USA: NBC NEWS
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
-#EXTINF:-,USA: SONY TV HD
-http://ok2.se:8000/live/e4f1F1Uvb5cccME2H/7deeF1UDa6PNxFp03/407.m3u8
 #EXTINF:-,USA: ENTERTAINMENT-F
 http://54.39.105.133:25461/live/Galaxy/Fubo/63.m3u8
-#EXTINF:-1,USA: HALLMARK-F
-#EXTINF:-1,Bollywood TV Film
-http://93.114.120.137:9981/stream/channelid/612955824
-#EXTINF:-1,Bollywood Clasic
-http://93.114.120.137:9981/stream/channelid/61203011
-#EXTINF:-1,4Seven
-http://178.159.5.210:1000/play/4Seven/index.m3u8
-#EXTINF:-1,55310
-http://178.159.5.210:1000/play/a00p/index.m3u8
-#EXTINF:-1,A1TV
-http://178.159.5.210:1000/play/A1TV/index.m3u8
-#EXTINF:-1,ABN TV
-http://178.159.5.210:1000/play/a01q/index.m3u8
 #EXTINF:-1,AIT
 http://178.159.5.210:1000/play/AIT/index.m3u8
 #EXTINF:-1,AMC from BT
