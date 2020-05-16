@@ -409,20 +409,16 @@ http://43.251.86.2:8080/hls/channel_3.m3u8
 http://43.251.86.2:8080/hls/channel_2.m3u8
 #EXTINF:-1,PK: GTV HD
 http://43.251.86.2:8080/hls/channel_1.m3u8
-#EXTINF:-1,INT: PRIVATE
-http://185.180.12.90:8080/PRIVATE/index.m3u8?token=test
-#EXTINF:-1,INT: REDLIGHT
-http://185.180.12.90:8080/REDLIGHT/index.m3u8?token=test
 #EXTINF:-1,USA: NEWS NET
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,IN: http://www.tv-logo.com/pt-data/uploads/images/logo/aaj_tak_uk.jpg
+#EXTINF:-1 ,INT: BTV
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 #EXTINF:-1,INT: SRK
 http://188.35.9.26:5031/udp/058j
 #EXTINF:-1,IN: REMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1,ASIA: HBO
-https://delivery.macan.live/stream/hbo/index.m3u8?token=jITBhpqD&v=20200308
+https://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan
 #EXTINF:-1,USA: HDFashion & LifeStyle
 https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8?xtreamiptv.m3u8
 #EXTINF:-1,IN: FASHION TV
