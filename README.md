@@ -1368,3 +1368,4 @@ http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:-1,EU: DORCEL TV
 https://bit.ly/2WCTG5W
 #EXTINF:-1,INT: ALJEERA
+https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
