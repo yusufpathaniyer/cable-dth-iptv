@@ -1170,3 +1170,4 @@ http://185.246.209.251:9090/ddnational/index.m3u8?token=test
 #EXTINF:-1,IN: SONY PIX HD
 http://185.246.209.251:9090/sonypix/index.m3u8?token=test
 #EXTINF:-1,IN: TV 100
+http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist.m3u8
