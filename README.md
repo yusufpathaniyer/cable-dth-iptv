@@ -1139,3 +1139,4 @@ https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
 http://ddn.amrbd.com:8081/live/starmovies/playlist.m3u8
 #EXTINF:-1,IN: & FLIX
 http://202.163.117.6:9981/stream/channelid/1160757101
+#EXTINF:-1,IN: SONY MAX 2
