@@ -1156,3 +1156,4 @@ http://185.246.209.251:9090/zeetv/index.m3u8?token=test
 #EXTINF:-1,UK: RISHTEY
 http://185.246.209.251:9090/rishtey/index.m3u8?token=test
 #EXTINF:-1,USA: AAPKA COLORS
+http://185.246.209.251:9090/colors/index.m3u8?token=test
