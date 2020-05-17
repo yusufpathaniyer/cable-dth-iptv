@@ -1150,3 +1150,4 @@ http://45.120.188.65:8080/0.ts
 #EXTINF:-1,IN: VH1
 https://113.11.25.242/live/vh1/chunks.m3u8
 #EXTINF:-1,IN: STAR PLUS HD
+http://185.246.209.251:9090/starplus/index.m3u8?token=test
