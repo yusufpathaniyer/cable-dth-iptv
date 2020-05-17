@@ -1143,3 +1143,4 @@ http://202.163.117.6:9981/stream/channelid/1160757101
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
 #EXTINF:-1,IN: ANJAN TV
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580000.m3u8
+#EXTINF:-1,PK: JOO MUSIC
