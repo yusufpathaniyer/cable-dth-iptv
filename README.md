@@ -1174,3 +1174,4 @@ http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist.m3u8
 #EXTINF:-1,IN: SS TV
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 #EXTINF:-1,ME: MBC MX HD
+http://gtv2.tn:8000/live/Aminteleledunet/U5z4irJ7tZowNMLI/18.ts
