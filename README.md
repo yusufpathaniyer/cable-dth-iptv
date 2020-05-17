@@ -1146,3 +1146,4 @@ https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580
 #EXTINF:-1,PK: JOO MUSIC
 https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 #EXTINF:-1,IN: BINDASS
+http://45.120.188.65:8080/0.ts
