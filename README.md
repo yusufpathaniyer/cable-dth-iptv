@@ -1151,9 +1151,10 @@ http://45.120.188.65:8080/0.ts
 https://113.11.25.242/live/vh1/chunks.m3u8
 #EXTINF:-1,IN: STAR PLUS HD
 http://185.246.209.251:9090/starplus/index.m3u8?token=test
-#EXTINF:-1,UK: ZEE TV
+#EXTINF:-1,USA: ZEE TV HD
 http://185.246.209.251:9090/zeetv/index.m3u8?token=test
-#EXTINF:-1,UK: RISHTEY
+#EXTINF:-1,USA: RISHTEY
 http://185.246.209.251:9090/rishtey/index.m3u8?token=test
-#EXTINF:-1,USA: AAPKA COLORS
+#EXTINF:-1,USA: AAPKA COLORS HD
 http://185.246.209.251:9090/colors/index.m3u8?token=test
+#EXTINF:-1,USA: AND TV HD
