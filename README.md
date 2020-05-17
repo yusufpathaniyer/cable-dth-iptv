@@ -1165,3 +1165,4 @@ http://185.246.209.251:9090/sony/index.m3u8?token=test
 http://185.246.209.251:9090/sabtv/index.m3u8?token=test
 #EXTINF:-1,IN: SONY PAL
 http://185.246.209.251:9090/sonypal/index.m3u8?token=test
+#EXTINF:-1,IN: DD 1 HD
