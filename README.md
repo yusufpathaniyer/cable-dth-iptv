@@ -1286,3 +1286,4 @@ http://newhostshare.ddns.net:9981/stream/channelid/265321329
 #EXTINF:-1,NAT GEO WILD HD
 http://newhostshare.ddns.net:9981/stream/channelid/683855471
 #EXTINF:-1,ME: TINY POP
+http://vod.simpletv.eu:8080/en-TinyPop/mono.m3u8?token=test
