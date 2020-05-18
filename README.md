@@ -1184,3 +1184,4 @@ http://103.144.200.7:8080/hls/ttv/index.m3u8
 #EXTINF:-1,IN: BIG MAGIC
 http://103.144.200.7:8080/hls/bigmagic/index.m3u8
 #EXTINF:-1,IN: B4U MUSIC
+http://103.144.200.7:8080/hls/b4umusic/index.m3u8
