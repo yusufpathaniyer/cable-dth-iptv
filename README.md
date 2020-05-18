@@ -1175,4 +1175,5 @@ http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist.m3u8
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 #EXTINF:-1,ME: MBC MX HD
 http://gtv2.tn:8000/live/Aminteleledunet/U5z4irJ7tZowNMLI/18.ts
-#EXTINF:-1,UK: CBS REALTY
+#EXTINF:-1,UK: CBS REALITY
+http://145.239.255.4:8080/CBSReality/mono.m3u8?token=test
