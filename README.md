@@ -1182,3 +1182,4 @@ http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playli
 #EXTINF:-1,IN: MAHA MOVIES
 http://103.144.200.7:8080/hls/ttv/index.m3u8
 #EXTINF:-1,IN: BIG MAGIC
+http://103.144.200.7:8080/hls/bigmagic/index.m3u8
