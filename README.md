@@ -1263,3 +1263,17 @@ http://newhostshare.ddns.net:9981/stream/channelid/824047869
 http://newhostshare.ddns.net:9981/stream/channelid/1131802406
 #EXTINF:-1,Foxlife
 http://newhostshare.ddns.net:9981/stream/channelid/423417248
+#EXTINF:-1,AFN
+http://newhostshare.ddns.net:9981/stream/channelid/828651963
+#EXTINF:-1,DISCOVERY ASIA HD
+http://newhostshare.ddns.net:9981/stream/channelid/280543856
+#EXTINF:-1,DISCOVERY CHANNEL
+http://newhostshare.ddns.net:9981/stream/channelid/1164847519
+#EXTINF:-1,EDGE SPORT
+http://newhostshare.ddns.net:9981/stream/channelid/125584400
+#EXTINF:-1,SPORT
+http://newhostshare.ddns.net:9981/stream/channelid/1768113749
+#EXTINF:-1,FIGHT SPORTS HD
+http://newhostshare.ddns.net:9981/stream/channelid/1953587413
+#EXTINF:-1,FOX HD
+http://newhostshare.ddns.net:9981/stream/channelid/113109120
