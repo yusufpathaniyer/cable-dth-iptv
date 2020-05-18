@@ -1188,3 +1188,4 @@ http://103.144.200.7:8080/hls/b4umusic/index.m3u8
 #EXTINF:-1,IN: ZING
 http://103.144.200.7:8080/hls/zing/index.m3u8
 #EXTINF:-1,IN: ZEE BANGLA
+http://livecdnh1.tvanywhere.ae/hls/zee_bangla/02.m3u8
