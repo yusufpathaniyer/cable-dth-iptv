@@ -1189,3 +1189,19 @@ http://103.144.200.7:8080/hls/b4umusic/index.m3u8
 http://103.144.200.7:8080/hls/zing/index.m3u8
 #EXTINF:-1,IN: ZEE BANGLA
 http://livecdnh1.tvanywhere.ae/hls/zee_bangla/01.m3u8
+#EXTINF:-1,Animal-show
+http://newhostshare.ddns.net:9981/stream/channelid/1435881483
+#EXTINF:-1,BBC WORLD NEWS
+http://newhostshare.ddns.net:9981/stream/channelid/1086259739
+#EXTINF:-1,BBC World News
+http://newhostshare.ddns.net:9981/stream/channelid/456109412
+#EXTINF:-1,BOOMERANG
+http://newhostshare.ddns.net:9981/stream/channelid/1405453260
+#EXTINF:-1,CARTOON CLUB
+http://newhostshare.ddns.net:9981/stream/channelid/963879215
+#EXTINF:-1,CINEMAX net
+http://newhostshare.ddns.net:9981/stream/channelid/1640168379
+#EXTINF:-1,CN HD (CARTOON NETWORK)
+http://newhostshare.ddns.net:9981/stream/channelid/1759983589
+#EXTINF:-1,CNN
+http://newhostshare.ddns.net:9981/stream/channelid/23616012
