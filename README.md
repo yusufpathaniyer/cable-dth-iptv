@@ -1181,3 +1181,4 @@ http://145.239.255.4:8080/CBSReality/mono.m3u8?token=test
 http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
 #EXTINF:-1,IN: MAHA MOVIES
 http://103.144.200.7:8080/hls/ttv/index.m3u8
+#EXTINF:-1,IN: BIG MAGIC
