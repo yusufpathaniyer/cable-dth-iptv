@@ -1259,3 +1259,5 @@ http://newhostshare.ddns.net:9981/stream/channelid/164948620
 http://newhostshare.ddns.net:9981/stream/channelid/1837973732
 #EXTINF:-1,HBO
 http://newhostshare.ddns.net:9981/stream/channelid/824047869
+#EXTINF:-1,star_movies
+http://newhostshare.ddns.net:9981/stream/channelid/1131802406
