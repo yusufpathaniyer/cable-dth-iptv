@@ -1247,3 +1247,15 @@ http://newhostshare.ddns.net:9981/stream/channelid/1463788895
 http://newhostshare.ddns.net:9981/stream/channelid/198521929
 #EXTINF:-1,NBA HD
 http://newhostshare.ddns.net:9981/stream/channelid/1493048228
+#EXTINF:-1, SPORT HD
+http://newhostshare.ddns.net:9981/stream/channelid/1026601074
+#EXTINF:-1, SPORTS 1
+http://newhostshare.ddns.net:9981/stream/channelid/769357711
+#EXTINF:-1,FR : CINE FRISSON HEVC
+http://newhostshare.ddns.net:9981/stream/channelid/2052400145
+#EXTINF:-1,NATIONAL GEO +1
+http://newhostshare.ddns.net:9981/stream/channelid/164948620
+#EXTINF:-1,CSAT Live 1
+http://newhostshare.ddns.net:9981/stream/channelid/1837973732
+#EXTINF:-1,HBO
+http://newhostshare.ddns.net:9981/stream/channelid/824047869
