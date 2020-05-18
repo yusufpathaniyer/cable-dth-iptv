@@ -1239,3 +1239,11 @@ http://newhostshare.ddns.net:9981/stream/channelid/384227114
 http://newhostshare.ddns.net:9981/stream/channelid/1587641415
 #EXTINF:-1,Natgeowild TH
 http://newhostshare.ddns.net:9981/stream/channelid/887478703
+#EXTINF:-1,Thrill IPTV
+http://newhostshare.ddns.net:9981/stream/channelid/78854366
+#EXTINF:-1,FOX MOVIES (Suitles: MY)
+http://newhostshare.ddns.net:9981/stream/channelid/1463788895
+#EXTINF:-1,GOLF CHANNEL HD
+http://newhostshare.ddns.net:9981/stream/channelid/198521929
+#EXTINF:-1,NBA HD
+http://newhostshare.ddns.net:9981/stream/channelid/1493048228
