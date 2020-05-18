@@ -1179,3 +1179,4 @@ http://gtv2.tn:8000/live/Aminteleledunet/U5z4irJ7tZowNMLI/18.ts
 http://145.239.255.4:8080/CBSReality/mono.m3u8?token=test
 #EXTINF:-1,IN: CHANNEL WIN
 http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:-1,IN: MAHA MOVIES
