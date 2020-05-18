@@ -1291,3 +1291,4 @@ http://vod.simpletv.eu:8080/en-TinyPop/mono.m3u8?token=test
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
 #EXTINF:-1,ME: ZEE AFLAM
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+#EXTINF:-1,INT: SEX
