@@ -1205,3 +1205,37 @@ http://newhostshare.ddns.net:9981/stream/channelid/1640168379
 http://newhostshare.ddns.net:9981/stream/channelid/1759983589
 #EXTINF:-1,CNN
 http://newhostshare.ddns.net:9981/stream/channelid/23616012
+#EXTINF:-1,DISNEY Junior (true visions)
+http://newhostshare.ddns.net:9981/stream/channelid/1200828747
+#EXTINF:-1,DISNEY XD (true visions)
+http://newhostshare.ddns.net:9981/stream/channelid/1288978163
+#EXTINF:-1,Discovery (true visions)
+http://newhostshare.ddns.net:9981/stream/channelid/101854856
+#EXTINF:-1,DiscoveryAsia TH
+http://newhostshare.ddns.net:9981/stream/channelid/526760661
+#EXTINF:-1,FOX Action IPTV
+http://newhostshare.ddns.net:9981/stream/channelid/476492717
+#EXTINF:-1,FOX FX IPTV
+http://newhostshare.ddns.net:9981/stream/channelid/2117614331
+#EXTINF:-1,FOX Family IPTV
+http://newhostshare.ddns.net:9981/stream/channelid/1749770164
+#EXTINF:-1,Fox Thai HD IPTV
+http://newhostshare.ddns.net:9981/stream/channelid/846717042
+#EXTINF:-1,Foxcrime
+http://newhostshare.ddns.net:9981/stream/channelid/688595192
+#EXTINF:-1,HBO net
+http://newhostshare.ddns.net:9981/stream/channelid/241946330
+#EXTINF:-1,HISTORY H2 (true visions)
+http://newhostshare.ddns.net:9981/stream/channelid/1262548140
+#EXTINF:-1,History True
+http://newhostshare.ddns.net:9981/stream/channelid/1562496594
+#EXTINF:-1,My SCI HD IPTV
+http://newhostshare.ddns.net:9981/stream/channelid/1503514418
+#EXTINF:-1,NAT GEO WILD
+http://newhostshare.ddns.net:9981/stream/channelid/2007232795
+#EXTINF:-1,NAT GEO people
+http://newhostshare.ddns.net:9981/stream/channelid/384227114
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://newhostshare.ddns.net:9981/stream/channelid/1587641415
+#EXTINF:-1,Natgeowild TH
+http://newhostshare.ddns.net:9981/stream/channelid/887478703
