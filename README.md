@@ -1277,3 +1277,11 @@ http://newhostshare.ddns.net:9981/stream/channelid/1768113749
 http://newhostshare.ddns.net:9981/stream/channelid/1953587413
 #EXTINF:-1,FOX HD
 http://newhostshare.ddns.net:9981/stream/channelid/113109120
+#EXTINF:-1,FOXLIFE HD
+http://newhostshare.ddns.net:9981/stream/channelid/1435847586
+#EXTINF:-1,GOLF
+http://newhostshare.ddns.net:9981/stream/channelid/791244624
+#EXTINF:-1,MTV LIVE HD
+http://newhostshare.ddns.net:9981/stream/channelid/265321329
+#EXTINF:-1,NAT GEO WILD HD
+http://newhostshare.ddns.net:9981/stream/channelid/683855471
