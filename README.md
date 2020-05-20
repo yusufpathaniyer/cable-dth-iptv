@@ -1294,3 +1294,4 @@ http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:-1,INT: SEX
 http://194.15.225.70:8000/play/a03n/index.m3u8
 #EXTINF:-1,IN: STAR BHARAT HD
+http://jiocdn.fun/my/h2x.php?c=starbharat&e=.m3u8 
