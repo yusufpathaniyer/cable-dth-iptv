@@ -1301,3 +1301,4 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/low/c.m3u8
 http://81.171.21.159:4780/discinvestigat-dqwugfowhf/index.m3u8
 #EXTINF:-1,USA: SONY SAB
 http://185.246.209.251:6061/sabtv/index.m3u8?token=test
+#EXTINF:-1,USA: SONY PAL
