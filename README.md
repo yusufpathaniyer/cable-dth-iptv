@@ -1308,3 +1308,4 @@ http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8?auth=zarin:RJs
 #EXTINF:-1,UK: BBC NEWS
 http://145.239.255.4:8080/HDBBC1/mono.m3u8?token=test
 #EXTINF:-1,IN: &TV HD
+http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
