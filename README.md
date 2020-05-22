@@ -1299,3 +1299,4 @@ http://jiocdn.fun/my/h2x.php?c=starbharat&e=.m3u8
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/low/c.m3u8
 #EXTINF:-1,UK: ID HD
 http://81.171.21.159:4780/discinvestigat-dqwugfowhf/index.m3u8
+#EXTINF:-1,USA: SONY SAB
