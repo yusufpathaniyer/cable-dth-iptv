@@ -1303,3 +1303,4 @@ http://81.171.21.159:4780/discinvestigat-dqwugfowhf/index.m3u8
 http://185.246.209.251:6061/sabtv/index.m3u8?token=test
 #EXTINF:-1,USA: SONY PAL
 http://185.246.209.251:6061/sonypal/index.m3u8?token=test
+#EXTINF:-1,CH: ANIMAL PLANET
