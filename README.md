@@ -1318,3 +1318,4 @@ http://188.35.9.5:10005/stolen/153a/imposter.rar
 #EXTINF:-1,UK: VIVID RED
 http://188.35.9.12:21131/udp/142d
 #EXTINF:-1,USA: JOY NEWS
+http://165.22.122.126:25461/live/zero/app/9.m3u8
