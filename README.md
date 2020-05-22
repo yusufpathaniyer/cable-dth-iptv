@@ -1311,3 +1311,4 @@ http://145.239.255.4:8080/HDBBC1/mono.m3u8?token=test
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
 #EXTINF:-1,Uk: The Kingdom Sat
 https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8
+#EXTINF:-1,UK: JUST 89
