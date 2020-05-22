@@ -1297,4 +1297,5 @@ http://194.15.225.70:8000/play/a03n/index.m3u8
 http://jiocdn.fun/my/h2x.php?c=starbharat&e=.m3u8 
 #EXTINF:-1,USA: movie kingdom 
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/low/c.m3u8
-#EXTINF:-1,IN: ID HD
+#EXTINF:-1,UK: ID HD
+http://81.171.21.159:4780/discinvestigat-dqwugfowhf/index.m3u8
