@@ -1304,3 +1304,4 @@ http://185.246.209.251:6061/sabtv/index.m3u8?token=test
 #EXTINF:-1,USA: SONY PAL
 http://185.246.209.251:6061/sonypal/index.m3u8?token=test
 #EXTINF:-1,CH: ANIMAL PLANET
+http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8?auth=zarin:RJsKR
