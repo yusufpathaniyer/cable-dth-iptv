@@ -1332,3 +1332,4 @@ http://145.239.255.4:8080/BOO/mono.m3u8?token=test
 #EXTINF:-1,INT: STAR GOLD
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:-1,UK: SONY MOVIES
+http://145.239.255.4:8080/en-sonymovies/mono.m3u8?token=test
