@@ -1337,3 +1337,4 @@ http://145.239.255.4:8080/en-sonymovies/mono.m3u8?token=test
 http://live.highstream.club/live/Nickelodeon/playlist.m3u8
 #EXTINF:-1,US: BBC AMERICA
 http://live.highstream.club/live/AE/playlist.m3u8
+#EXTINF:-1,ASIA: WB TV
