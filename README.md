@@ -1342,3 +1342,4 @@ https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
 #EXTINF:-1,UK: DISCOVERY HISTORY
 http://178.132.3.162:88/Discovery_History/video.m3u8?token=test
 #EXTINF:-1,UK: DISCOVERY
+http://178.132.3.162:88/Discovery/video.m3u8?token=test
