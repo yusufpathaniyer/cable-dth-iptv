@@ -1330,3 +1330,4 @@ http://91.92.108.254:8080/udp/239.10.10.155:5000
 #EXTINF:-1,UK: BOOMERANG
 http://145.239.255.4:8080/BOO/mono.m3u8?token=test
 #EXTINF:-1,INT: STAR GOLD
+https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
