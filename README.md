@@ -1338,3 +1338,4 @@ http://live.highstream.club/live/Nickelodeon/playlist.m3u8
 #EXTINF:-1,US: BBC AMERICA
 http://live.highstream.club/live/AE/playlist.m3u8
 #EXTINF:-1,ASIA: WB TV
+https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
