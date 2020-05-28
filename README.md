@@ -1345,3 +1345,4 @@ http://178.132.3.162:88/Discovery_History/video.m3u8?token=test
 http://178.132.3.162:88/Discovery/video.m3u8?token=test
 #EXTINF:-1,IN: CNN
 http://203.162.235.41:16918
+#EXTINF:-1,IN: SONY YAY
