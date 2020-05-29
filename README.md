@@ -1457,3 +1457,15 @@ http://115.132.83.227:9981/stream/channelid/253362752
 http://115.132.83.227:9981/stream/channelid/1004288437
 #EXTINF:-1,WB
 http://115.132.83.227:9981/stream/channelid/1060117643
+#EXTINF:-1,Zee Action
+http://115.132.83.227:9981/stream/channelid/420377019
+#EXTINF:-1,Zee Bollywood
+http://115.132.83.227:9981/stream/channelid/533806827
+#EXTINF:-1,Zee Cafe
+http://115.132.83.227:9981/stream/channelid/624232960
+#EXTINF:-1,Zee Cinema
+http://115.132.83.227:9981/stream/channelid/1050515398
+#EXTINF:-1,Zee ETC Bollywood
+http://115.132.83.227:9981/stream/channelid/1518967358
+#EXTINF:-1,Zee TV
+http://115.132.83.227:9981/stream/channelid/1066336852
