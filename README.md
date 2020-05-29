@@ -1403,3 +1403,15 @@ http://115.132.83.227:9981/stream/channelid/188895067
 http://115.132.83.227:9981/stream/channelid/1291708296
 #EXTINF:-1,STAR GOLD 2
 http://115.132.83.227:9981/stream/channelid/941958278
+#EXTINF:-1,Nat Geo
+http://115.132.83.227:9981/stream/channelid/7294566
+#EXTINF:-1,Nat Geo HD
+http://115.132.83.227:9981/stream/channelid/835763218
+#EXTINF:-1,Nat Geo HD
+http://115.132.83.227:9981/stream/channelid/1950155333
+#EXTINF:-1,Nat Geo People HD
+http://115.132.83.227:9981/stream/channelid/2120254546
+#EXTINF:-1,Nat Geo Wild
+http://115.132.83.227:9981/stream/channelid/883273363
+#EXTINF:-1,Nat Geo Wild HD
+http://115.132.83.227:9981/stream/channelid/1685172218
