@@ -1348,3 +1348,4 @@ http://203.162.235.41:16918
 #EXTINF:-1,IN: SONY YAY
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
 #EXTINF:-1,ME: GEM BOLLYWOOD
+http://185.132.177.102:6204/live/hdbox02first1836/10444148445dd99fb952779/54.m3u8
