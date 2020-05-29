@@ -1417,3 +1417,5 @@ http://115.132.83.227:9981/stream/channelid/883273363
 http://115.132.83.227:9981/stream/channelid/1685172218
 #EXTINF:-1,Nick
 http://115.132.83.227:9981/stream/channelid/1615026473
+#EXTINF:-1,Pogo
+http://115.132.83.227:9981/stream/channelid/1789373371
