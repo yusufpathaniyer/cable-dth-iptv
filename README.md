@@ -1381,3 +1381,5 @@ http://115.132.83.227:9981/stream/channelid/2095124786
 http://115.132.83.227:9981/stream/channelid/1692390816
 #EXTINF:-1,Disney
 http://115.132.83.227:9981/stream/channelid/1756797630
+#EXTINF:-1,Fox Life HD
+http://115.132.83.227:9981/stream/channelid/1395019456
