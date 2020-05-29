@@ -1363,3 +1363,5 @@ http://115.132.83.227:9981/stream/channelid/229321709
 http://115.132.83.227:9981/stream/channelid/1758250089
 #EXTINF:-1,Animal Planet
 http://115.132.83.227:9981/stream/channelid/658998395
+#EXTINF:-1,AXN
+http://115.132.83.227:9981/stream/channelid/1173865209
