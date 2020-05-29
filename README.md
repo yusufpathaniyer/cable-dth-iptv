@@ -1391,3 +1391,7 @@ http://115.132.83.227:9981/stream/channelid/1940168363
 http://115.132.83.227:9981/stream/channelid/1838970503
 #EXTINF:-1,History Channel
 http://115.132.83.227:9981/stream/channelid/1874458120
+#EXTINF:-1,Hungama
+http://115.132.83.227:9981/stream/channelid/1398663047
+#EXTINF:-1,Investigation Discovery
+http://115.132.83.227:9981/stream/channelid/489738232
