@@ -1373,3 +1373,5 @@ http://115.132.83.227:9981/stream/channelid/951784583
 http://115.132.83.227:9981/stream/channelid/1451932820
 #EXTINF:-1,Comedy Central
 http://115.132.83.227:9981/stream/channelid/360661962
+#EXTINF:-1,Discovery
+http://115.132.83.227:9981/stream/channelid/1395365471
