@@ -1367,3 +1367,9 @@ http://115.132.83.227:9981/stream/channelid/658998395
 http://115.132.83.227:9981/stream/channelid/1173865209
 #EXTINF:-1,Cartoon Network
 http://115.132.83.227:9981/stream/channelid/648518719
+#EXTINF:-1,Colors
+http://115.132.83.227:9981/stream/channelid/951784583
+#EXTINF:-1,Colors Infinity
+http://115.132.83.227:9981/stream/channelid/1451932820
+#EXTINF:-1,Comedy Central
+http://115.132.83.227:9981/stream/channelid/360661962
