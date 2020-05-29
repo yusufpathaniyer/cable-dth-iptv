@@ -1375,3 +1375,9 @@ http://115.132.83.227:9981/stream/channelid/1451932820
 http://115.132.83.227:9981/stream/channelid/360661962
 #EXTINF:-1,Discovery
 http://115.132.83.227:9981/stream/channelid/1395365471
+#EXTINF:-1,Discovery Channel
+http://115.132.83.227:9981/stream/channelid/2095124786
+#EXTINF:-1,Discovery Life HD
+http://115.132.83.227:9981/stream/channelid/1692390816
+#EXTINF:-1,Disney
+http://115.132.83.227:9981/stream/channelid/1756797630
