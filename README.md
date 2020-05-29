@@ -1365,3 +1365,5 @@ http://115.132.83.227:9981/stream/channelid/1758250089
 http://115.132.83.227:9981/stream/channelid/658998395
 #EXTINF:-1,AXN
 http://115.132.83.227:9981/stream/channelid/1173865209
+#EXTINF:-1,Cartoon Network
+http://115.132.83.227:9981/stream/channelid/648518719
