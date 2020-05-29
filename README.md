@@ -1350,3 +1350,4 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
 #EXTINF:-1,ME: GEM BOLLYWOOD
 http://185.132.177.102:6204/live/hdbox02first1836/10444148445dd99fb952779/54.m3u8
 #EXTINF:-1,ME: NAT GEO WILD
+http://bddb.228888888.xyz:8081/live/ws145.m3u8
