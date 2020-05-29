@@ -1353,3 +1353,9 @@ http://185.132.177.102:6204/live/hdbox02first1836/10444148445dd99fb952779/54.m3u
 http://bddb.228888888.xyz:8081/live/ws145.m3u8
 #EXTINF:-1,ASIA: ASTRO SUPERSPORTS
 http://boyztoyz.us/RonDenston/15.05.19/7510
+#EXTINF:-1,&Flix
+http://115.132.83.227:9981/stream/channelid/487284265
+#EXTINF:-1,&Pictures
+http://115.132.83.227:9981/stream/channelid/1446080137
+#EXTINF:-1,&TV
+http://115.132.83.227:9981/stream/channelid/229321709
