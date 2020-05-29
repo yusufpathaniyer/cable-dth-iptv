@@ -1449,3 +1449,11 @@ http://115.132.83.227:9981/stream/channelid/962480332
 http://115.132.83.227:9981/stream/channelid/507245791
 #EXTINF:-1,Star World
 http://115.132.83.227:9981/stream/channelid/1690444432
+#EXTINF:-1,UTV Action
+http://115.132.83.227:9981/stream/channelid/1792385440
+#EXTINF:-1,UTV Movies
+http://115.132.83.227:9981/stream/channelid/253362752
+#EXTINF:-1,VH1 Classic
+http://115.132.83.227:9981/stream/channelid/1004288437
+#EXTINF:-1,WB
+http://115.132.83.227:9981/stream/channelid/1060117643
