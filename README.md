@@ -1397,3 +1397,5 @@ http://115.132.83.227:9981/stream/channelid/1398663047
 http://115.132.83.227:9981/stream/channelid/489738232
 #EXTINF:-1,Living Foodz
 http://115.132.83.227:9981/stream/channelid/1283123373
+#EXTINF:-1,MNX
+http://115.132.83.227:9981/stream/channelid/188895067
