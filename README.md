@@ -1347,3 +1347,4 @@ http://178.132.3.162:88/Discovery/video.m3u8?token=test
 http://203.162.235.41:16918
 #EXTINF:-1,IN: SONY YAY
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
+#EXTINF:-1,ME: GEM BOLLYWOOD
