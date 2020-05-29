@@ -1385,3 +1385,9 @@ http://115.132.83.227:9981/stream/channelid/1756797630
 http://115.132.83.227:9981/stream/channelid/1395019456
 #EXTINF:-1,FX HD
 http://115.132.83.227:9981/stream/channelid/785628591
+#EXTINF:-1,HBO
+http://115.132.83.227:9981/stream/channelid/1940168363
+#EXTINF:-1,HBO2 HD
+http://115.132.83.227:9981/stream/channelid/1838970503
+#EXTINF:-1,History Channel
+http://115.132.83.227:9981/stream/channelid/1874458120
