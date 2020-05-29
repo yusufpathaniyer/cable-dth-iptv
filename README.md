@@ -1383,3 +1383,5 @@ http://115.132.83.227:9981/stream/channelid/1692390816
 http://115.132.83.227:9981/stream/channelid/1756797630
 #EXTINF:-1,Fox Life HD
 http://115.132.83.227:9981/stream/channelid/1395019456
+#EXTINF:-1,FX HD
+http://115.132.83.227:9981/stream/channelid/785628591
