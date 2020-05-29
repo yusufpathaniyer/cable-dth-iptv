@@ -1419,3 +1419,33 @@ http://115.132.83.227:9981/stream/channelid/1685172218
 http://115.132.83.227:9981/stream/channelid/1615026473
 #EXTINF:-1,Pogo
 http://115.132.83.227:9981/stream/channelid/1789373371
+#EXTINF:-1,Sony Max
+http://115.132.83.227:9981/stream/channelid/1916153643
+#EXTINF:-1,Sony Sab
+http://115.132.83.227:9981/stream/channelid/1321222792
+#EXTINF:-1,Sony Six
+http://115.132.83.227:9981/stream/channelid/1826989571
+#EXTINF:-1,Sony Ten 1
+http://115.132.83.227:9981/stream/channelid/650133036
+#EXTINF:-1,Sony Ten 2
+http://115.132.83.227:9981/stream/channelid/673895639
+#EXTINF:-1,Sony Ten 3
+http://115.132.83.227:9981/stream/channelid/1287900434
+#EXTINF:-1,Sony TV
+http://115.132.83.227:9981/stream/channelid/1799818593
+#EXTINF:-1,Star Bharat
+http://115.132.83.227:9981/stream/channelid/469855188
+#EXTINF:-1,Star Gold
+http://115.132.83.227:9981/stream/channelid/791363818
+#EXTINF:-1,Star Movies
+http://115.132.83.227:9981/stream/channelid/545800134
+#EXTINF:-1,Star Plus
+http://115.132.83.227:9981/stream/channelid/2073573523
+#EXTINF:-1,Star Sports 1
+http://115.132.83.227:9981/stream/channelid/525133265
+#EXTINF:-1,Star Sports 1 Hindi
+http://115.132.83.227:9981/stream/channelid/962480332
+#EXTINF:-1,Star Sports 2
+http://115.132.83.227:9981/stream/channelid/507245791
+#EXTINF:-1,Star World
+http://115.132.83.227:9981/stream/channelid/1690444432
