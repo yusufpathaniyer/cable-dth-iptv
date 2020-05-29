@@ -1415,3 +1415,5 @@ http://115.132.83.227:9981/stream/channelid/2120254546
 http://115.132.83.227:9981/stream/channelid/883273363
 #EXTINF:-1,Nat Geo Wild HD
 http://115.132.83.227:9981/stream/channelid/1685172218
+#EXTINF:-1,Nick
+http://115.132.83.227:9981/stream/channelid/1615026473
