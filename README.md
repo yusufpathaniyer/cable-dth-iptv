@@ -1399,3 +1399,7 @@ http://115.132.83.227:9981/stream/channelid/489738232
 http://115.132.83.227:9981/stream/channelid/1283123373
 #EXTINF:-1,MNX
 http://115.132.83.227:9981/stream/channelid/188895067
+#EXTINF:-1,Movies Now
+http://115.132.83.227:9981/stream/channelid/1291708296
+#EXTINF:-1,STAR GOLD 2
+http://115.132.83.227:9981/stream/channelid/941958278
