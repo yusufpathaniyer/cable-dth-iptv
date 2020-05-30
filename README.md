@@ -97,10 +97,6 @@ https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1,ASIA: BOLLYWOOD TV
 http://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8
-#EXTINF:-1,UK: COLORS CINEPLEX
-http://51.15.8.16:8081/lolind2/rishteycineplexuk/chunks.m3u8
-#EXTINF:-1,UAE: MBC BOLLYWOOD
-http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1,JKT: HITS 
 http://210.210.155.66/h/h37/index.m3u8
 #EXTINF:-1,APAC: COLORS TV
@@ -127,8 +123,6 @@ http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/in
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1,RU: BOLLYWOOD HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,INT: PENTHOUSE GOLD
-http://stream:starperkish@85.187.232.3:8000/udp/239.100.100.47:8888
 #EXTINF:-1,IN: ZEE CINEMA HD (VPN)
 http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: ZEE ACTION (VPN)
@@ -161,10 +155,6 @@ http://livecdnh1.tvanywhere.ae/hls/zoom/01.m3u8
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1,IN: ZING
 http://livecdnh1.tvanywhere.ae/hls/zing/02.m3u8
-#EXTINF:-1,IN: ZING
-http://109.169.56.170/hls/zing.m3u8
-#EXTINF:-1,IN: SONY MIX (VPN)
-http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
 #EXTINF:-1,IN: B4U MUSIC
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1,IN: MASTIII
@@ -435,8 +425,6 @@ https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 #EXTINF:-1,IN: X BUNGA BUNGA
 http://5.135.92.133:52841/out/u/107_1.m3u8
-#EXTINF:-1,APAC: ANIMAL PLANET
-http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: STAR GOLD HD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1,INT: AL JEZARA
@@ -471,8 +459,6 @@ http://43.251.86.2:8080/hls/channel_3.m3u8
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1,PST: CNN
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-#EXTINF:-1,INT: PLAY BOY
-http://nl01.spr24.net/5235/mpegts?token=hiVi8EHiq86NZA
 #EXTINF:-1,USA: CBSN
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
 #EXTINF:-1,USA: BLOOMBERG TV
@@ -625,46 +611,12 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8
 #EXTINF:-1,IN: DISCOVERY CHANNEL
 https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8
-#EXTINF:-1,IN: STAR PLUS HD
-http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1,APAC: ZEE TV
-http://103.115.159.37:8080/zeetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: SONY TV
-http://103.115.159.37:8080/sony/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ME: ZEE CINEMA
-http://103.115.159.37:8080/zeecinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: SONY MAX
-http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: STAR GOLD HD
-http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: NAT GEO
-http://103.115.159.37:8080/natgeo/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: SONY TEN 1 HD
-http://103.115.159.37:8080/Sonyten1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: SONY TEN 2 HD
-http://103.115.159.37:8080/sonyten2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: SONY TEN 3
-http://103.115.159.37:8080/Sonyten3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ASIA: HBO
-http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ASIA: FOX LIFE
-http://103.115.159.37:8080/foxlife/tracks-v1a1/mono.m3u8
 #EXTINF:-1,INT: HUSTLER HD
 http://188.35.9.26:2030/udp/047c
 #EXTINF:-1,INT: NYX MEDIA
 https://cdn1.ibizastream.biz:441/free/2/playlist.m3u8
 #EXTINF:-1,INT: NYX MEDIA
 https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/chunklist_w805691612.m3u8
-#EXTINF:-1,IN: NICK
-http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: ZEE BANGLA HD
-http://103.115.159.37:8080/zeebangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: STAR JALSHA HD
-http://103.115.159.37:8080/starjalsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: AXN
-http://103.115.159.37:8080/axn/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: SONY AATH
-http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: ZEE HINDUSTAN
 http://103.144.200.7:8080/hls/zeetv/index.m3u8
 #EXTINF:-1,JKT: DISNEY XD
@@ -791,8 +743,6 @@ http://103.205.133.42:1935/local/zee_cinema_720/playlist.m3u8
 http://130.185.150.79:1935/db24/starplus/playlist.m3u8
 #EXTINF:-1,IN: ZEE BANGLA
 http://130.185.150.79:1935/db24/zeebangla/playlist.m3u8
-#EXTINF:-1,INT: CNA
-http://live1.cdn.iptv8k.org/live/x14/s.m3u8
 #EXTINF:-1,ASIA: FX
 http://111.13.111.192/125.227.198.89:8027
 #EXTINF:-1,IN: ZEE THEATER
@@ -811,8 +761,6 @@ https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
 http://playhls.media.nic.in/live/vyas-360p/index.m3u8
 #EXTINF:-1,INT: ENJOY
 https://www.ast.tv/stream/1/normal.m3u8
-#EXTINF:-1,INT: PRIVE
-http://t.gregorek.host:8880/Przemyslawlipinski/wfrdHMQG/41824?auth=zarin:RJsKR
 #EXTINF:-1,INT: WOMEN
 http://live.redtraffic.net/woman.m3u8?auth=zarin:RJsKR
 #EXTINF:-1,USA: NASA TV
@@ -943,82 +891,6 @@ http://136.243.177.164/AXN/playlist.m3u8
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF:-1,INT: FASHION TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:-1,IN: STAR PLUS HD
-http://103.205.133.19/hls/starplus.m3u8
-#EXTINF:-1,IN: STAR BHARAT
-http://103.205.133.19/hls/starbharat.m3u8
-#EXTINF:-1,IN: STAR SPORTS 1
-http://103.205.133.19/hls/starsports1.m3u8
-#EXTINF:-1,APAC: ZEE TV
-http://103.205.133.19/hls/zeetv.m3u8
-#EXTINF:-1,APAC: ZEE CINEMA
-http://103.205.133.19/hls/zeecinema.m3u8
-#EXTINF:-1,IN: ZEE ACTION
-http://livecdnh1.tvanywhere.ae/hls/zee_action/index.m3u8
-#EXTINF:-1,IN: ZEE ACTION
-http://103.205.133.19/hls/zeeaction.m3u8
-#EXTINF:-1,IN: ZING
-http://103.205.133.19/hls/zing.m3u8
-#EXTINF:-1,IN: ZEE NEWS
-http://103.205.133.19/hls/zeenews.m3u8
-#EXTINF:-1,IN: &TV
-http://103.205.133.19/hls/andtv.m3u8
-#EXTINF:-1,IN: SONY SAB
-http://103.205.133.19/hls/sonysab.m3u8
-#EXTINF:-1,IN: AND PICTURES HD
-http://103.205.133.19/hls/andpicture.m3u8
-#EXTINF:-1,IN: SONY MAX
-http://103.205.133.19/hls/sonymax.m3u8
-#EXTINF:-1,IN: SONY PIX
-http://103.205.133.19/hls/sonypix.m3u8
-#EXTINF:-1,IN: wow CINEMA ONE
-http://103.205.133.19/hls/wowcinema.m3u8
-#EXTINF:-1,IN: B4U MOVIES
-http://103.205.133.19/hls/b4umovies.m3u8
-#EXTINF:-1,IN: E24
-http://103.205.133.19/hls/e24.m3u8
-#EXTINF:-1,IN: SONY SIX
-http://103.205.133.19/hls/sonysix.m3u8
-#EXTINF:-1,IN: SONY TEN 1
-http://103.205.133.19/hls/ten1.m3u8
-#EXTINF:-1,IN: SONY TEN 2
-http://103.205.133.19/hls/ten2.m3u8
-#EXTINF:-1,IN: SONY TEN 3
-http://103.205.133.19/hls/ten3.m3u8
-#EXTINF:-1,IN: ZEE BANGLA
-http://103.205.133.19/hls/zeebangla.m3u8
-#EXTINF:-1,IN: SONY MAX
-http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: SONY TV
-http://103.115.159.37:8080/sony/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: STAR PLUS HD
-http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: STAR GOLD HD
-http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ASIA: AXN
-http://103.115.159.37:8080/axn/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ASIA: HBO
-http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1,APAC: ZEE TV
-http://103.115.159.37:8080/zeetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ME: ZEE CINEMA
-http://103.115.159.37:8080/zeecinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ASIA: MTV
-http://103.115.159.37:8080/mtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: & TV
-http://103.115.159.37:8080/andtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: NAT GEO
-http://103.115.159.37:8080/natgeo/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: NICK
-http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: FOX LIFE
-http://103.115.159.37:8080/foxlife/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: STAR JALSHA
-http://103.115.159.37:8080/starjalsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: ZEE BANGLA
-http://103.115.159.37:8080/zeebangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: SONY AATH
-http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ME: DUBAI ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
 #EXTINF:-1,UK: THE NOW NETWORK
@@ -1081,8 +953,6 @@ http://91.126.39.98:8086/udp/224.169.11.247:3247
 https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=gratisan
 #EXTINF:-1,APAC: ZEE TV
 https://delivery.macan.live/stream/zeetv/index.m3u8?token=gratisan
-#EXTINF:-1,UK: SONY SAB
-http://mytv.fun:8080/live/gz0i545yfe/i2x7gjq4a6/672323.m3u8
 #EXTINF:-1,ME: Adjarasport TV
 https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
 #EXTINF:-1,UK: DISCOVERY
@@ -1099,16 +969,6 @@ http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hw
 http://178.217.72.66/225.201.2.156/tracks-v1a1/mono.m3u8
 #EXTINF:-1,UK: ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1,IN: SONY MAX HD
-http://175.41.46.16:8081/hls/8.m3u8
-#EXTINF:-1,IN: ZEE BANGLA HD
-http://175.41.46.16:8081/hls/6.m3u8
-#EXTINF:-1,IN: STAR JALSHA HD
-http://175.41.46.16:8081/hls/7.m3u8
-#EXTINF:-1,IN: STAR MOVIES HD
-http://175.41.46.16:8081/hls/2.m3u8
-#EXTINF:-1,BD: MASSARANGA HD
-http://175.41.46.16:8081/hls/10.m3u8
 #EXTINF:-1,USA: MMN
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
 #EXTINF:-1,INT: STREET MUSIC
@@ -1149,26 +1009,6 @@ https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 http://45.120.188.65:8080/0.ts
 #EXTINF:-1,IN: VH1
 https://113.11.25.242/live/vh1/chunks.m3u8
-#EXTINF:-1,IN: STAR PLUS HD
-http://185.246.209.251:9090/starplus/index.m3u8?token=test
-#EXTINF:-1,USA: ZEE TV HD
-http://185.246.209.251:9090/zeetv/index.m3u8?token=test
-#EXTINF:-1,USA: RISHTEY
-http://185.246.209.251:9090/rishtey/index.m3u8?token=test
-#EXTINF:-1,USA: AAPKA COLORS 
-http://185.246.209.251:9090/colors/index.m3u8?token=test
-#EXTINF:-1,USA: AND TV HD
-http://185.246.209.251:9090/andtv/index.m3u8?token=test
-#EXTINF:-1,USA: SONY TV HD
-http://185.246.209.251:9090/sony/index.m3u8?token=test
-#EXTINF:-1,USA: SONY SAB 
-http://185.246.209.251:9090/sabtv/index.m3u8?token=test
-#EXTINF:-1,IN: SONY PAL
-http://185.246.209.251:9090/sonypal/index.m3u8?token=test
-#EXTINF:-1,IN: DD 1 HD
-http://185.246.209.251:9090/ddnational/index.m3u8?token=test
-#EXTINF:-1,IN: SONY PIX HD
-http://185.246.209.251:9090/sonypix/index.m3u8?token=test
 #EXTINF:-1,IN: TV 100
 http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist.m3u8
 #EXTINF:-1,IN: SS TV
@@ -1189,120 +1029,16 @@ http://103.144.200.7:8080/hls/b4umusic/index.m3u8
 http://103.144.200.7:8080/hls/zing/index.m3u8
 #EXTINF:-1,IN: ZEE BANGLA
 http://livecdnh1.tvanywhere.ae/hls/zee_bangla/01.m3u8
-#EXTINF:-1,Animal-show
-http://newhostshare.ddns.net:9981/stream/channelid/1435881483
-#EXTINF:-1,BBC WORLD NEWS
-http://newhostshare.ddns.net:9981/stream/channelid/1086259739
-#EXTINF:-1,BBC World News
-http://newhostshare.ddns.net:9981/stream/channelid/456109412
-#EXTINF:-1,BOOMERANG
-http://newhostshare.ddns.net:9981/stream/channelid/1405453260
-#EXTINF:-1,CARTOON CLUB
-http://newhostshare.ddns.net:9981/stream/channelid/963879215
-#EXTINF:-1,CINEMAX net
-http://newhostshare.ddns.net:9981/stream/channelid/1640168379
-#EXTINF:-1,CN HD (CARTOON NETWORK)
-http://newhostshare.ddns.net:9981/stream/channelid/1759983589
-#EXTINF:-1,CNN
-http://newhostshare.ddns.net:9981/stream/channelid/23616012
-#EXTINF:-1,DISNEY Junior (true visions)
-http://newhostshare.ddns.net:9981/stream/channelid/1200828747
-#EXTINF:-1,DISNEY XD (true visions)
-http://newhostshare.ddns.net:9981/stream/channelid/1288978163
-#EXTINF:-1,Discovery (true visions)
-http://newhostshare.ddns.net:9981/stream/channelid/101854856
-#EXTINF:-1,DiscoveryAsia TH
-http://newhostshare.ddns.net:9981/stream/channelid/526760661
-#EXTINF:-1,FOX Action IPTV
-http://newhostshare.ddns.net:9981/stream/channelid/476492717
-#EXTINF:-1,FOX FX IPTV
-http://newhostshare.ddns.net:9981/stream/channelid/2117614331
-#EXTINF:-1,FOX Family IPTV
-http://newhostshare.ddns.net:9981/stream/channelid/1749770164
-#EXTINF:-1,Fox Thai HD IPTV
-http://newhostshare.ddns.net:9981/stream/channelid/846717042
-#EXTINF:-1,Foxcrime
-http://newhostshare.ddns.net:9981/stream/channelid/688595192
-#EXTINF:-1,HBO net
-http://newhostshare.ddns.net:9981/stream/channelid/241946330
-#EXTINF:-1,HISTORY H2 (true visions)
-http://newhostshare.ddns.net:9981/stream/channelid/1262548140
-#EXTINF:-1,History True
-http://newhostshare.ddns.net:9981/stream/channelid/1562496594
-#EXTINF:-1,My SCI HD IPTV
-http://newhostshare.ddns.net:9981/stream/channelid/1503514418
-#EXTINF:-1,NAT GEO WILD
-http://newhostshare.ddns.net:9981/stream/channelid/2007232795
-#EXTINF:-1,NAT GEO people
-http://newhostshare.ddns.net:9981/stream/channelid/384227114
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://newhostshare.ddns.net:9981/stream/channelid/1587641415
-#EXTINF:-1,Natgeowild TH
-http://newhostshare.ddns.net:9981/stream/channelid/887478703
-#EXTINF:-1,Thrill IPTV
-http://newhostshare.ddns.net:9981/stream/channelid/78854366
-#EXTINF:-1,FOX MOVIES (Suitles: MY)
-http://newhostshare.ddns.net:9981/stream/channelid/1463788895
-#EXTINF:-1,GOLF CHANNEL HD
-http://newhostshare.ddns.net:9981/stream/channelid/198521929
-#EXTINF:-1,NBA HD
-http://newhostshare.ddns.net:9981/stream/channelid/1493048228
-#EXTINF:-1, SPORT HD
-http://newhostshare.ddns.net:9981/stream/channelid/1026601074
-#EXTINF:-1, SPORTS 1
-http://newhostshare.ddns.net:9981/stream/channelid/769357711
-#EXTINF:-1,FR : CINE FRISSON HEVC
-http://newhostshare.ddns.net:9981/stream/channelid/2052400145
-#EXTINF:-1,NATIONAL GEO +1
-http://newhostshare.ddns.net:9981/stream/channelid/164948620
-#EXTINF:-1,CSAT Live 1
-http://newhostshare.ddns.net:9981/stream/channelid/1837973732
-#EXTINF:-1,HBO
-http://newhostshare.ddns.net:9981/stream/channelid/824047869
-#EXTINF:-1,star_movies
-http://newhostshare.ddns.net:9981/stream/channelid/1131802406
-#EXTINF:-1,Foxlife
-http://newhostshare.ddns.net:9981/stream/channelid/423417248
-#EXTINF:-1,AFN
-http://newhostshare.ddns.net:9981/stream/channelid/828651963
-#EXTINF:-1,DISCOVERY ASIA HD
-http://newhostshare.ddns.net:9981/stream/channelid/280543856
-#EXTINF:-1,DISCOVERY CHANNEL
-http://newhostshare.ddns.net:9981/stream/channelid/1164847519
-#EXTINF:-1,EDGE SPORT
-http://newhostshare.ddns.net:9981/stream/channelid/125584400
-#EXTINF:-1,SPORT
-http://newhostshare.ddns.net:9981/stream/channelid/1768113749
-#EXTINF:-1,FIGHT SPORTS HD
-http://newhostshare.ddns.net:9981/stream/channelid/1953587413
-#EXTINF:-1,FOX HD
-http://newhostshare.ddns.net:9981/stream/channelid/113109120
-#EXTINF:-1,FOXLIFE HD
-http://newhostshare.ddns.net:9981/stream/channelid/1435847586
-#EXTINF:-1,GOLF
-http://newhostshare.ddns.net:9981/stream/channelid/791244624
-#EXTINF:-1,MTV LIVE HD
-http://newhostshare.ddns.net:9981/stream/channelid/265321329
-#EXTINF:-1,NAT GEO WILD HD
-http://newhostshare.ddns.net:9981/stream/channelid/683855471
 #EXTINF:-1,ME: TINY POP
 http://vod.simpletv.eu:8080/en-TinyPop/mono.m3u8?token=test
 #EXTINF:-1,ASIA: ABC NEWS
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
 #EXTINF:-1,ME: ZEE AFLAM
-http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
-#EXTINF:-1,INT: SEX
-http://194.15.225.70:8000/play/a03n/index.m3u8
-#EXTINF:-1,IN: STAR BHARAT HD
-http://jiocdn.fun/my/h2x.php?c=starbharat&e=.m3u8 
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8 
 #EXTINF:-1,USA: movie kingdom 
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/low/c.m3u8
 #EXTINF:-1,UK: ID HD
 http://81.171.21.159:4780/discinvestigat-dqwugfowhf/index.m3u8
-#EXTINF:-1,USA: SONY SAB
-http://185.246.209.251:6061/sabtv/index.m3u8?token=test
-#EXTINF:-1,USA: SONY PAL
-http://185.246.209.251:6061/sonypal/index.m3u8?token=test
 #EXTINF:-1,CH: ANIMAL PLANET
 http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8?auth=zarin:RJsKR
 #EXTINF:-1,UK: BBC NEWS
@@ -1329,8 +1065,6 @@ http://91.92.108.254:8080/udp/239.100.10.190:5000
 http://91.92.108.254:8080/udp/239.10.10.155:5000
 #EXTINF:-1,UK: BOOMERANG
 http://145.239.255.4:8080/BOO/mono.m3u8?token=test
-#EXTINF:-1,INT: STAR GOLD
-https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:-1,UK: SONY MOVIES
 http://145.239.255.4:8080/en-sonymovies/mono.m3u8?token=test
 #EXTINF:-1,UK: NICK
@@ -1353,119 +1087,4 @@ http://185.132.177.102:6204/live/hdbox02first1836/10444148445dd99fb952779/54.m3u
 http://bddb.228888888.xyz:8081/live/ws145.m3u8
 #EXTINF:-1,ASIA: ASTRO SUPERSPORTS
 http://boyztoyz.us/RonDenston/15.05.19/7510
-#EXTINF:-1,&Flix
-http://115.132.83.227:9981/stream/channelid/487284265
-#EXTINF:-1,&Pictures
-http://115.132.83.227:9981/stream/channelid/1446080137
-#EXTINF:-1,&TV
-http://115.132.83.227:9981/stream/channelid/229321709
-#EXTINF:-1,AMC
-http://115.132.83.227:9981/stream/channelid/1758250089
-#EXTINF:-1,Animal Planet
-http://115.132.83.227:9981/stream/channelid/658998395
-#EXTINF:-1,AXN
-http://115.132.83.227:9981/stream/channelid/1173865209
-#EXTINF:-1,Cartoon Network
-http://115.132.83.227:9981/stream/channelid/648518719
-#EXTINF:-1,Colors
-http://115.132.83.227:9981/stream/channelid/951784583
-#EXTINF:-1,Colors Infinity
-http://115.132.83.227:9981/stream/channelid/1451932820
-#EXTINF:-1,Comedy Central
-http://115.132.83.227:9981/stream/channelid/360661962
-#EXTINF:-1,Discovery
-http://115.132.83.227:9981/stream/channelid/1395365471
-#EXTINF:-1,Discovery Channel
-http://115.132.83.227:9981/stream/channelid/2095124786
-#EXTINF:-1,Discovery Life HD
-http://115.132.83.227:9981/stream/channelid/1692390816
-#EXTINF:-1,Disney
-http://115.132.83.227:9981/stream/channelid/1756797630
-#EXTINF:-1,Fox Life HD
-http://115.132.83.227:9981/stream/channelid/1395019456
-#EXTINF:-1,FX HD
-http://115.132.83.227:9981/stream/channelid/785628591
-#EXTINF:-1,HBO
-http://115.132.83.227:9981/stream/channelid/1940168363
-#EXTINF:-1,HBO2 HD
-http://115.132.83.227:9981/stream/channelid/1838970503
-#EXTINF:-1,History Channel
-http://115.132.83.227:9981/stream/channelid/1874458120
-#EXTINF:-1,Hungama
-http://115.132.83.227:9981/stream/channelid/1398663047
-#EXTINF:-1,Investigation Discovery
-http://115.132.83.227:9981/stream/channelid/489738232
-#EXTINF:-1,Living Foodz
-http://115.132.83.227:9981/stream/channelid/1283123373
-#EXTINF:-1,MNX
-http://115.132.83.227:9981/stream/channelid/188895067
-#EXTINF:-1,Movies Now
-http://115.132.83.227:9981/stream/channelid/1291708296
-#EXTINF:-1,STAR GOLD 2
-http://115.132.83.227:9981/stream/channelid/941958278
-#EXTINF:-1,Nat Geo
-http://115.132.83.227:9981/stream/channelid/7294566
-#EXTINF:-1,Nat Geo HD
-http://115.132.83.227:9981/stream/channelid/835763218
-#EXTINF:-1,Nat Geo HD
-http://115.132.83.227:9981/stream/channelid/1950155333
-#EXTINF:-1,Nat Geo People HD
-http://115.132.83.227:9981/stream/channelid/2120254546
-#EXTINF:-1,Nat Geo Wild
-http://115.132.83.227:9981/stream/channelid/883273363
-#EXTINF:-1,Nat Geo Wild HD
-http://115.132.83.227:9981/stream/channelid/1685172218
-#EXTINF:-1,Nick
-http://115.132.83.227:9981/stream/channelid/1615026473
-#EXTINF:-1,Pogo
-http://115.132.83.227:9981/stream/channelid/1789373371
-#EXTINF:-1,Sony Max
-http://115.132.83.227:9981/stream/channelid/1916153643
-#EXTINF:-1,Sony Sab
-http://115.132.83.227:9981/stream/channelid/1321222792
-#EXTINF:-1,Sony Six
-http://115.132.83.227:9981/stream/channelid/1826989571
-#EXTINF:-1,Sony Ten 1
-http://115.132.83.227:9981/stream/channelid/650133036
-#EXTINF:-1,Sony Ten 2
-http://115.132.83.227:9981/stream/channelid/673895639
-#EXTINF:-1,Sony Ten 3
-http://115.132.83.227:9981/stream/channelid/1287900434
-#EXTINF:-1,Sony TV
-http://115.132.83.227:9981/stream/channelid/1799818593
-#EXTINF:-1,Star Bharat
-http://115.132.83.227:9981/stream/channelid/469855188
-#EXTINF:-1,Star Gold
-http://115.132.83.227:9981/stream/channelid/791363818
-#EXTINF:-1,Star Movies
-http://115.132.83.227:9981/stream/channelid/545800134
-#EXTINF:-1,Star Plus
-http://115.132.83.227:9981/stream/channelid/2073573523
-#EXTINF:-1,Star Sports 1
-http://115.132.83.227:9981/stream/channelid/525133265
-#EXTINF:-1,Star Sports 1 Hindi
-http://115.132.83.227:9981/stream/channelid/962480332
-#EXTINF:-1,Star Sports 2
-http://115.132.83.227:9981/stream/channelid/507245791
-#EXTINF:-1,Star World
-http://115.132.83.227:9981/stream/channelid/1690444432
-#EXTINF:-1,UTV Action
-http://115.132.83.227:9981/stream/channelid/1792385440
-#EXTINF:-1,UTV Movies
-http://115.132.83.227:9981/stream/channelid/253362752
-#EXTINF:-1,VH1 Classic
-http://115.132.83.227:9981/stream/channelid/1004288437
-#EXTINF:-1,WB
-http://115.132.83.227:9981/stream/channelid/1060117643
-#EXTINF:-1,Zee Action
-http://115.132.83.227:9981/stream/channelid/420377019
-#EXTINF:-1,Zee Bollywood
-http://115.132.83.227:9981/stream/channelid/533806827
-#EXTINF:-1,Zee Cafe
-http://115.132.83.227:9981/stream/channelid/624232960
-#EXTINF:-1,Zee Cinema
-http://115.132.83.227:9981/stream/channelid/1050515398
-#EXTINF:-1,Zee ETC Bollywood
-http://115.132.83.227:9981/stream/channelid/1518967358
-#EXTINF:-1,Zee TV
-http://115.132.83.227:9981/stream/channelid/1066336852
+
