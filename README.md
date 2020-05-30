@@ -25,8 +25,6 @@ http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1,ME: BOOMARANG
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
-#EXTINF:-1,INT: CARTOON NETWORK HD
-https://tv4.chang55.com/live2/tv4ch20.stream/chunks.m3u8
 #EXTINF:-1,USA: DISNEY CHANNEL
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,INT: CNN
@@ -735,8 +733,6 @@ http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 http://188.35.9.26:2031/udp/031a
 #EXTINF:-1,ASIA: HBO
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
-#EXTINF:-1,IN: ZEE BANGLA
-http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
 #EXTINF:-1,APAC: ZEE CINEMA
 http://103.205.133.42:1935/local/zee_cinema_720/playlist.m3u8
 #EXTINF:-1,IN: STAR PLUS HD
