@@ -1085,3 +1085,4 @@ http://bddb.228888888.xyz:8081/live/ws145.m3u8
 http://boyztoyz.us/RonDenston/15.05.19/7510
 #EXTINF:-1,ASIA: WB TV
 http://203.154.243.89:11205/
+#EXTINF:-1,INT: HUSTLER TV
