@@ -1097,3 +1097,4 @@ http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:-1,IN: &PICTURES HD
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
+#EXTINF:-1,ASIA: DISNEY CHANNEL
