@@ -1095,3 +1095,4 @@ http://136.243.177.164/HBO/playlist.m3u8
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 #EXTINF:-1,IN: ZEE CINEMA HD
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
+#EXTINF:-1,IN: &PICTURES HD
