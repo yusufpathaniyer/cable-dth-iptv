@@ -1092,3 +1092,4 @@ http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 #EXTINF:-1,UK: HBO
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1,IN: &FLIX HD
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
