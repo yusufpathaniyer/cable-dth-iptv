@@ -1098,3 +1098,4 @@ http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:-1,IN: &PICTURES HD
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 #EXTINF:-1,ASIA: DISNEY CHANNEL
+https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=uLys6&v=20200308
