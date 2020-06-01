@@ -1090,3 +1090,4 @@ http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdz
 #EXTINF:-1,UK: CARTOON NETWORK
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 #EXTINF:-1,UK: HBO
+http://136.243.177.164/HBO/playlist.m3u8
