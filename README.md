@@ -1087,3 +1087,4 @@ http://boyztoyz.us/RonDenston/15.05.19/7510
 http://203.154.243.89:11205/
 #EXTINF:-1,INT: HUSTLER TV
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR;?streamType=live
+#EXTINF:-1,UK: CARTOON NETWORK
