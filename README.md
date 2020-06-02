@@ -1123,3 +1123,5 @@ http://185.246.209.251:9090/starworld/index.m3u8?token=test
 http://185.246.209.251:9090/zeebusiness/index.m3u8?token=test
 #EXTINF:-1,Zing
 http://185.246.209.251:9090/zing/index.m3u8?token=test
+#EXTINF:-1,Zee News
+http://185.246.209.251:9090/zeenews/index.m3u8?token=test
