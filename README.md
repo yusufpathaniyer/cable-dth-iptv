@@ -1101,3 +1101,5 @@ http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=uLys6&v=20200308
 #EXTINF:-1,USA: AAPKA COLORS
 http://185.246.209.251:9090/colors/index.m3u8?token=test
+#EXTINF:-1,USA: RISHTEY
+http://185.246.209.251:9090/rishtey/index.m3u8?token=test
