@@ -1128,3 +1128,4 @@ http://185.246.209.251:9090/zeenews/index.m3u8?token=test
 #EXTINF:-1,UK: BABES TV
 http://srv1.roshen.live/BM9Oj6yvsL/mpegts?token=bjDdTFdybdh4ugVg
 #EXTINF:-1,ME: ENGLISH CLUB TV
+http://srv1.roshen.live/QtjebuvI9L/mpegts?token=bjDdTFdybdh4ugVg
