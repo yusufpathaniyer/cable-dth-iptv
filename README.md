@@ -1103,3 +1103,7 @@ https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=uLys6&v=202
 http://185.246.209.251:9090/colors/index.m3u8?token=test
 #EXTINF:-1,USA: RISHTEY
 http://185.246.209.251:9090/rishtey/index.m3u8?token=test
+#EXTINF:-1,IN: STAR PLUS HD
+http://185.246.209.251:9090/starplus/index.m3u8?token=test
+#EXTINF:-1,USA: SONY PAL
+http://185.246.209.251:9090/sonypal/index.m3u8?token=test
