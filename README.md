@@ -1147,3 +1147,5 @@ http://z5amshls.akamaized.net/andtvhdusa/tracks-v1a1/playlist.m3u8
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,USA: ZEE CINEMA
 http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,USA: ZEE TV HD
+http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/playlist.m3u8
