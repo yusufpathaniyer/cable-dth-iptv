@@ -1134,3 +1134,4 @@ http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,USA: CNBC
 https://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,UK: NICK
+http://91.92.108.254:8080/udp/239.10.10.58:5000
