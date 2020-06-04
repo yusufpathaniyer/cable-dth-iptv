@@ -1130,3 +1130,4 @@ http://srv1.roshen.live/BM9Oj6yvsL/mpegts?token=bjDdTFdybdh4ugVg
 #EXTINF:-1,ME: ENGLISH CLUB TV
 http://srv1.roshen.live/QtjebuvI9L/mpegts?token=bjDdTFdybdh4ugVg
 #EXTINF:-1,IN: DD 1 HD
+http://z5amshls.akamaized.net/out/v1/061be0ece7a849939ac2d9031f8fc532&e/tracks-v1a1/playlist.m3u8
