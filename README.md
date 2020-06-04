@@ -1141,3 +1141,4 @@ http://91.92.108.254:8080/udp/239.10.10.164:5000
 http://216.144.250.174/Zee_TV_HD_01/playlist.m3u8
 #EXTINF:-1,UK: ZEE TV 
 http://z5amshls.akamaized.net/zeetvsduk/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,USA: &TV HD
