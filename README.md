@@ -1143,3 +1143,4 @@ http://216.144.250.174/Zee_TV_HD_01/playlist.m3u8
 http://z5amshls.akamaized.net/zeetvsduk/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,USA: &TV HD
 http://z5amshls.akamaized.net/andtvhdusa/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,USA: ZEE SMILE
