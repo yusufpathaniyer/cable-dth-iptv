@@ -1137,3 +1137,4 @@ https://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8?checkedby
 http://91.92.108.254:8080/udp/239.10.10.58:5000
 #EXTINF:-1,USA: ERO XXX HD
 http://91.92.108.254:8080/udp/239.10.10.164:5000
+#EXTINF:-1,IN: ZEE TV HD
