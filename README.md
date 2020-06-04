@@ -1131,3 +1131,4 @@ http://srv1.roshen.live/BM9Oj6yvsL/mpegts?token=bjDdTFdybdh4ugVg
 http://srv1.roshen.live/QtjebuvI9L/mpegts?token=bjDdTFdybdh4ugVg
 #EXTINF:-1,ME: ZEE TV HD
 http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,USA: CNBC
