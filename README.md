@@ -1167,3 +1167,4 @@ http://tv-cdn.ihub.live:8083/Colors/tracks-v1a1/mono.m3u8
 http://tv-cdn.ihub.live:8083/ZeeCinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1,APAC: ZEE CINEMA
 http://tv-cdn.ihub.live:8083/StarGold/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: NICK
