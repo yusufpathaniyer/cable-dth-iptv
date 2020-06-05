@@ -1156,3 +1156,4 @@ https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1,IN: STAR JALSHA HD
 http://tv-cdn.ihub.live:8083/StarJalshaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: STAR PLUS HD
+http://tv-cdn.ihub.live:8083/StarPlusHD/tracks-v1a1/mono.m3u8
