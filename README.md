@@ -1159,5 +1159,6 @@ http://tv-cdn.ihub.live:8083/StarJalshaHD/tracks-v1a1/mono.m3u8
 http://tv-cdn.ihub.live:8083/StarPlusHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: STAR JALSHA 
 http://tv-cdn.ihub.live:8083/StarJalsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: STAR PLUS 
+#EXTINF:-1,APAC: STAR PLUS 
 http://tv-cdn.ihub.live:8083/StarPlus/tracks-v1a1/mono.m3u8
+#EXTINF:-1,APAC: COLORS TV
