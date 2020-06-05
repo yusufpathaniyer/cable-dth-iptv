@@ -1151,3 +1151,4 @@ http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
 http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,UK: PORNHOUSE QUICKER
 http://91.92.108.254:8080/udp/239.10.10.165:5000
+#EXTINF:-1,USA: 
