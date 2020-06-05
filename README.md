@@ -1154,3 +1154,4 @@ http://91.92.108.254:8080/udp/239.10.10.165:5000
 #EXTINF:-1,USA: Cbeebies
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1,IN: COLORS BANGLA
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
