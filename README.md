@@ -1153,5 +1153,5 @@ http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/playlist.m3u8
 http://91.92.108.254:8080/udp/239.10.10.165:5000
 #EXTINF:-1,USA: Cbeebies
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
-#EXTINF:-1,IN: COLORS BANGLA
-https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:-1,IN: STAR JALSHA HD
+http://tv-cdn.ihub.live:8083/StarJalshaHD/tracks-v1a1/mono.m3u8
