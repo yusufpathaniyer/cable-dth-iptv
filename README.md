@@ -1162,3 +1162,4 @@ http://tv-cdn.ihub.live:8083/StarJalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1,APAC: STAR PLUS 
 http://tv-cdn.ihub.live:8083/StarPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1,APAC: COLORS TV
+http://tv-cdn.ihub.live:8083/Colors/tracks-v1a1/mono.m3u8
