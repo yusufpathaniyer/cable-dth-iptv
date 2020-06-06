@@ -1174,3 +1174,4 @@ http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/index_2128_av-p.m3u8
 #EXTINF:-1,ME: BOOMERANG
 https://livecdn.fptplay.net/qnetlive/boomerang_1000.stream/chunklist.m3u8
 #EXTINF:-1,USA: CARTOON NETWORK
+http://178.132.3.162:88/cartoon_network/index.m3u8?token=test&lang=eng
