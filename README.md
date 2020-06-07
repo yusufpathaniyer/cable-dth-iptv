@@ -1179,3 +1179,4 @@ http://178.132.3.162:88/cartoon_network/index.m3u8?token=test&lang=eng
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1,IN: CARE WORLD
 http://103.204.164.136:1935/live/smil:careworld.smil/playlist.m3u8
+#EXTINF:-1,USA: BOOMERANG
