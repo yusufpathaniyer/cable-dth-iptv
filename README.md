@@ -1180,3 +1180,4 @@ http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1,IN: CARE WORLD
 http://103.204.164.136:1935/live/smil:careworld.smil/playlist.m3u8
 #EXTINF:-1,USA: BOOMERANG
+http://185.150.130.123:8000/play/str24
