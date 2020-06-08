@@ -1183,3 +1183,4 @@ http://103.204.164.136:1935/live/smil:careworld.smil/playlist.m3u8
 http://185.150.130.123:8000/play/str24
 #EXTINF:-1,INT: PINK 4K
 https://bit.ly/2TYQP5C
+#EXTINF:-1,IN: STAR JALSHA
