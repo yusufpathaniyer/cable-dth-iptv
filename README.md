@@ -1186,3 +1186,4 @@ https://bit.ly/2TYQP5C
 #EXTINF:-1,IN: STAR JALSHA
 http://62.210.69.248:8081/beeweb/starjalsha/chunks.m3u8
 #EXTINF:-1,Zee Bangla 
+http://62.210.69.248:8081/beeweb/zeebangla/chunks.m3u8 
