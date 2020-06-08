@@ -1184,3 +1184,4 @@ http://185.150.130.123:8000/play/str24
 #EXTINF:-1,INT: PINK 4K
 https://bit.ly/2TYQP5C
 #EXTINF:-1,IN: STAR JALSHA
+http://62.210.69.248:8081/beeweb/starjalsha/chunks.m3u8
