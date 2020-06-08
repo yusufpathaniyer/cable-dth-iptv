@@ -1189,3 +1189,4 @@ http://62.210.69.248:8081/beeweb/starjalsha/chunks.m3u8
 http://62.210.69.248:8081/beeweb/zeebangla/chunks.m3u8 
 #EXTINF:-1,natgeowild HD
 http://185.22.183.149:8085/media/hls_183_149/natgeowild_hd/index.m3u8
+#EXTINF:-1,UK: NICK JR
