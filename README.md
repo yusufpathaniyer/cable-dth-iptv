@@ -1205,3 +1205,4 @@ http://62.78.54.251:8000/udp/224.0.90.69:1234
 http://62.78.54.251:8000/udp/224.0.90.252:1234
 #EXTINF:-1,RU: natgeowild HD
 http://185.22.183.149:8085/media/hls_183_149/natgeowild_hd/index.m3u8
+#EXTINF:-1,IN: STAR MOVIES
