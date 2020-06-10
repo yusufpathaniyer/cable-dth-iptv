@@ -1211,3 +1211,4 @@ http://202.163.117.6:9981/stream/channelid/1210441427
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
 #EXTINF:-1,ASIA: CHANNEL V
 https://www.fanmingming.cn/hls/channelv.m3u8
+#EXTINF:-1,IN: DISNEY CHANNEL
