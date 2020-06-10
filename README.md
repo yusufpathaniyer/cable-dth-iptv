@@ -1209,3 +1209,4 @@ http://185.22.183.149:8085/media/hls_183_149/natgeowild_hd/index.m3u8
 http://202.163.117.6:9981/stream/channelid/1210441427
 #EXTINF:-1,IN: ZEE CAFE
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
+#EXTINF:-1,ASIA: CHANNEL V
