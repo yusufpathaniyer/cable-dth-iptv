@@ -1214,3 +1214,4 @@ https://www.fanmingming.cn/hls/channelv.m3u8
 #EXTINF:-1,IN: DISNEY CHANNEL
 http://202.163.117.6:9981/stream/channelid/349051393
 #EXTINF:-1,ME: BOOMERANG
+http://145.239.255.4:8080/BOO/mono.m3u8?token=test
