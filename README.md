@@ -1217,3 +1217,4 @@ http://202.163.117.6:9981/stream/channelid/349051393
 http://145.239.255.4:8080/BOO/mono.m3u8?token=test
 #EXTINF:-1,IN: STAR SPORTS 1
 http://202.163.117.6:9981/stream/channelid/1089518334
+#EXTINF:-1,INT: VARZESH TV
