@@ -1225,3 +1225,4 @@ http://doubleagechanmain.com/123456/123456/1553?checkedby:iptvcat.com
 http://163.172.213.234/live/MLB/playlist.m3u8
 #EXTINF:-1,USA: DISCOVERY
 http://live.highstream.club/live/DISCOVERY/playlist.m3u8
+#EXTINF:-1,USA: EURO SPORTS 2
