@@ -1221,3 +1221,4 @@ http://202.163.117.6:9981/stream/channelid/1089518334
 http://51.158.66.44/hls/stream.m3u8
 #EXTINF:-1,USA: HGTV
 http://doubleagechanmain.com/123456/123456/1553?checkedby:iptvcat.com
+#EXTINF:-1,USA: MLB
