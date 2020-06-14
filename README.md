@@ -1219,3 +1219,4 @@ http://145.239.255.4:8080/BOO/mono.m3u8?token=test
 http://202.163.117.6:9981/stream/channelid/1089518334
 #EXTINF:-1,INT: VARZESH TV
 http://51.158.66.44/hls/stream.m3u8
+#EXTINF:-1,USA: HGTV
