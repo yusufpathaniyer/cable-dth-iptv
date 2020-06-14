@@ -1227,3 +1227,5 @@ http://163.172.213.234/live/MLB/playlist.m3u8
 http://live.highstream.club/live/DISCOVERY/playlist.m3u8
 #EXTINF:-1,USA: EURO SPORT 2
 http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
+#EXTINF:-1,TLC
+http://163.172.213.234/live/TLC/playlist.m3u8
