@@ -1231,3 +1231,5 @@ http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
 http://163.172.213.234/live/TLC/playlist.m3u8
 #EXTINF:-1,USA: FOX
 http://163.172.213.234/live/FOX/playlist.m3u8
+#EXTINF:-1,USA: CNN
+http://163.172.213.234/live/CNN/playlist.m3u8
