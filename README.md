@@ -1235,3 +1235,4 @@ http://163.172.213.234/live/FOX/playlist.m3u8
 http://163.172.213.234/live/CNN/playlist.m3u8
 #EXTINF:-1,UK: COMEDY CENTRAL
 http://tv.skynetmd.eu:25461/live/Corona/Virus/682.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,USA: CINEMAX
