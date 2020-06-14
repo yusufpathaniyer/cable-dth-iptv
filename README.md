@@ -1223,3 +1223,4 @@ http://51.158.66.44/hls/stream.m3u8
 http://doubleagechanmain.com/123456/123456/1553?checkedby:iptvcat.com
 #EXTINF:-1,USA: MLB
 http://163.172.213.234/live/MLB/playlist.m3u8
+#EXTINF:-1,USA: DISCOVERY
