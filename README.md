@@ -1243,3 +1243,5 @@ http://ajantatv.me/FoIder902/jee.php?c=zcinemahd&e=.m3u8
 http://heela.ddns.net:2700/live/sonyindia/index.m3u8
 #EXTINF:-1,IN: ZEE CINEMA HD
 http://tv.flametv.design/USERS/gamer/m3u8.m3u8?c=Zee_Cinema_HD&q=800
+#EXTINF:-1,IN: COLORS HD
+http://tv.flametv.design/USERS/gamer/m3u8.m3u8?c=Colors_HD&q=800
