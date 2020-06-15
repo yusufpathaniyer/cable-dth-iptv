@@ -1238,3 +1238,4 @@ http://tv.skynetmd.eu:25461/live/Corona/Virus/682.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,USA: CINEMAX
 http://193.33.39.108:8107/30709
 #EXTINF:-1,IN: ZEE CINEMA HD
+http://ajantatv.me/FoIder902/jee.php?c=zcinemahd&e=.m3u8
