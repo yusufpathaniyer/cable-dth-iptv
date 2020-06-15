@@ -1237,3 +1237,4 @@ http://163.172.213.234/live/CNN/playlist.m3u8
 http://tv.skynetmd.eu:25461/live/Corona/Virus/682.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,USA: CINEMAX
 http://193.33.39.108:8107/30709
+#EXTINF:-1,IN: ZEE CINEMA HD
