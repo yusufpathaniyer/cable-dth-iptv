@@ -1241,3 +1241,4 @@ http://193.33.39.108:8107/30709
 http://ajantatv.me/FoIder902/jee.php?c=zcinemahd&e=.m3u8
 #EXTINF:-1,IN: SONY TV HD
 http://heela.ddns.net:2700/live/sonyindia/index.m3u8
+#EXTINF:-1,IN: ZEE CINEMA HD
