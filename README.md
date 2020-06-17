@@ -1266,3 +1266,4 @@ http://ccn.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1,UK: DISCOVERY HISTORY
+http://178.132.3.162:88/Discovery_History/mono.m3u8?token=test
