@@ -1267,3 +1267,65 @@ http://ccn.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1,UK: DISCOVERY HISTORY
 http://178.132.3.162:88/Discovery_History/mono.m3u8?token=test
+#EXTINF:-1,Nick
+http://tv.ebox.live:8080/live/nick.m3u8
+#EXTINF:-1,Discovery
+http://tv.ebox.live:8080/live/discovery.m3u8
+#EXTINF:-1,Animal Planet
+http://tv.ebox.live:8080/live/animale-planet.m3u8
+#EXTINF:-1,Nat Geo
+http://tv.ebox.live:8080/live/natg.m3u8
+#EXTINF:-1,HBO
+http://tv.ebox.live:8080/live/hbo.m3u8
+#EXTINF:-1,Star Movies
+http://tv.ebox.live:8080/live/star-movies.m3u8
+#EXTINF:-1,Star Gold
+http://tv.ebox.live:8080/live/star-gold.m3u8
+#EXTINF:-1,Star Plus
+http://tv.ebox.live:8080/live/star-plus.m3u8
+#EXTINF:-1,Zee Cinema
+http://tv.ebox.live:8080/live/zee-cinema.m3u8
+#EXTINF:-1,ZEE TV
+http://tv.ebox.live:8080/live/zee-tv.m3u8
+#EXTINF:-1,Sony Pix
+http://tv.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:-1,Sony Sab
+http://tv.ebox.live:8080/live/sony-sab.m3u8
+#EXTINF:-1,Sony Max
+http://tv.ebox.live:8080/live/sony-max.m3u8
+#EXTINF:-1,Sony Max 2
+http://tv.ebox.live:8080/live/sony-max-2.m3u8
+#EXTINF:-1,Sony TV
+http://tv.ebox.live:8080/live/sonyhd.m3u8
+#EXTINF:-1,PTV Sports
+http://tv.ebox.live:8080/live/ptvsports.m3u8
+#EXTINF:-1,Sony Ten 3
+http://tv.ebox.live:8080/live/sonyten-3.m3u8
+#EXTINF:-1,Ten Sports
+http://tv.ebox.live:8080/live/ten-sports.m3u8
+#EXTINF:-1,Willow Cricket
+http://tv.ebox.live:8080/live/willow-cric.m3u8
+#EXTINF:-1,Sony Ten 2
+http://tv.ebox.live:8080/live/sonyten-2.m3u8
+#EXTINF:-1,Sony Ten 1
+http://tv.ebox.live:8080/live/sonyten-1.m3u8
+#EXTINF:-1,Sony Six
+http://tv.ebox.live:8080/live/sonysix.m3u8
+#EXTINF:-1,Star Sports Select 1 HD
+http://tv.ebox.live:8080/live/starsportsselect-1.m3u8
+#EXTINF:-1,Star Sports Select 2 HD
+http://tv.ebox.live:8080/live/starsportsselect-2.m3u8
+#EXTINF:-1,Star Sports 2 HD
+http://tv.ebox.live:8080/live/starsportshd-2.m3u8
+#EXTINF:-1,Star Sports 1 HD Hindi
+http://tv.ebox.live:8080/live/starsports-1-hind.m3u8
+#EXTINF:-1,Star Sports 1 HD
+http://tv.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:-1,Zee Bangla
+http://tv.ebox.live:8080/live/zee-bangla.m3u8
+#EXTINF:-1,Jalsha Movies HD
+http://tv.ebox.live:8080/live/star-jalsha-movies.m3u8
+#EXTINF:-1,Star Jalsha
+http://tv.ebox.live:8080/live/star-jalsha.m3u8
+#EXTINF:-1,Maasranga TV
+http://tv.ebox.live:8080/live/maasranga.m3u8
