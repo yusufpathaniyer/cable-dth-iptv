@@ -1259,3 +1259,4 @@ http://tv.flametv.design/USERS/gamer/m3u8.m3u8?c=HBO_HD&q=800&e=.m3u8
 http://203.154.243.31:8081/live/boomerrang/index.m3u8
 #EXTINF:-1,APAC: ANIMAX
 http://203.154.243.31:8081/live/animax/index.m3u8
+#EXTINF:-1,IN: MOVIES ACTIVE HD
