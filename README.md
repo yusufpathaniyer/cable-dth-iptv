@@ -1253,3 +1253,4 @@ http://185.229.139.65:8011/play/redlighthd/index.m3u8
 http://79.133.100.48:999/udp/239.191.255.6:15285
 #EXTINF:-1,UK: RT
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
+#EXTINF:-1,IN: HBO HD
