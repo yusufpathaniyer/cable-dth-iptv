@@ -1255,4 +1255,5 @@ http://79.133.100.48:999/udp/239.191.255.6:15285
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 #EXTINF:-1,IN: HBO HD
 http://tv.flametv.design/USERS/gamer/m3u8.m3u8?c=HBO_HD&q=800&e=.m3u8
-#EXTINF:-1,INT: 
+#EXTINF:-1,INT: BOOMERANG
+http://203.154.243.31:8081/live/boomerrang/index.m3u8
