@@ -1329,3 +1329,11 @@ http://tv.ebox.live:8080/live/star-jalsha-movies.m3u8
 http://tv.ebox.live:8080/live/star-jalsha.m3u8
 #EXTINF:-1,Maasranga TV
 http://tv.ebox.live:8080/live/maasranga.m3u8
+#EXTINF:-1,Zee Action
+http://tv.ebox.live:8080/live/zee-action.m3u8
+#EXTINF:-1,Star Gold Select
+http://tv.ebox.live:8080/live/star-gold-select.m3u8
+#EXTINF:-1,Color Infinity
+http://tv.ebox.live:8080/live/color-Infinity.m3u8
+#EXTINF:-1,Discovery
+http://tv.ebox.live:8080/live/colors-bangla.m3u8
