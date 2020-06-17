@@ -1251,3 +1251,4 @@ https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master.m3u8
 http://185.229.139.65:8011/play/redlighthd/index.m3u8
 #EXTINF:-1,INT: EROXXX
 http://79.133.100.48:999/udp/239.191.255.6:15285
+#EXTINF:-1,UK: RT
