@@ -1249,3 +1249,4 @@ http://tv.flametv.design/USERS/gamer/m3u8.m3u8?c=Colors_HD&q=800
 https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master.m3u8
 #EXTINF:-1,INT: REDLIGHT
 http://185.229.139.65:8011/play/redlighthd/index.m3u8
+#EXTINF:-1,INT: EROXXX
