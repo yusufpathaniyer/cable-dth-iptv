@@ -1345,3 +1345,41 @@ http://103.214.202.218:8081/live/mnx/chunks.m3u8
 http://194.44.48.82:8021/play/a017
 #EXTINF:-1,UK: Baby TV
 http://194.44.48.82:8021/play/a00x
+#EXTINF:-1,Biggs
+http://194.44.48.82:8021/play/a013
+#EXTINF:-1,Blaze
+http://194.44.48.82:8021/play/a00y
+#EXTINF:-1,CNN
+http://194.44.48.82:8021/play/a015
+#EXTINF:-1,Disney Junior
+http://194.44.48.82:8021/play/a01c
+#EXTINF:-1,Euronews
+http://194.44.48.82:8021/play/a018
+#EXTINF:-1,FOX Movies
+http://194.44.48.82:8021/play/a00w
+#EXTINF:-1,Hot
+http://194.44.48.82:8021/play/a01b
+#EXTINF:-1,Mezzo
+http://194.44.48.82:8021/play/a011
+#EXTINF:-1,SIC Mulher
+http://194.44.48.82:8021/play/a00u
+#EXTINF:-1,SPORT TV+
+http://194.44.48.82:8021/play/a00z
+#EXTINF:-1, News
+http://194.44.48.82:8021/play/a016
+#EXTINF:-1,Sport TV 5
+http://194.44.48.82:8021/play/a019
+#EXTINF:-1,Sporting TV
+http://194.44.48.82:8021/play/a01d
+#EXTINF:-1,TLC
+http://194.44.48.82:8021/play/a00v
+#EXTINF:-1,TVE 24h
+http://194.44.48.82:8021/play/a014
+#EXTINF:-1,TVE Internacional
+http://194.44.48.82:8021/play/a012
+#EXTINF:-1,TVI Reality
+http://194.44.48.82:8021/play/a00t
+#EXTINF:-1,Toros TV
+http://194.44.48.82:8021/play/a01i
+#EXTINF:-1,VH1
+http://194.44.48.82:8021/play/a010
