@@ -1341,3 +1341,7 @@ http://tv.ebox.live:8080/live/colors-bangla.m3u8
 http://203.154.243.89:11205/
 #EXTINF:-1,IN: MNX
 http://103.214.202.218:8081/live/mnx/chunks.m3u8
+#EXTINF:-1,UK: BBC World News
+http://194.44.48.82:8021/play/a017
+#EXTINF:-1,UK: Baby TV
+http://194.44.48.82:8021/play/a00x
