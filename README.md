@@ -1338,3 +1338,4 @@ http://tv.ebox.live:8080/live/color-Infinity.m3u8
 #EXTINF:-1,Discovery
 http://tv.ebox.live:8080/live/colors-bangla.m3u8
 #EXTINF:-1,APAC: WB TV
+http://203.154.243.89:11205/
