@@ -1387,3 +1387,4 @@ http://194.44.48.82:8021/play/a010
 http://194.44.48.82:8018/play/a00w
 #EXTINF:-1,Veus
 http://194.44.48.82:8022/play/a012
+#EXTINF:-1,UK: HUSTLER TV
