@@ -1388,3 +1388,4 @@ http://194.44.48.82:8018/play/a00w
 #EXTINF:-1,Veus
 http://194.44.48.82:8022/play/a012
 #EXTINF:-1,UK: HUSTLER TV
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&
