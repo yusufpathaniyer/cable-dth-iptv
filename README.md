@@ -1391,3 +1391,5 @@ http://194.44.48.82:8022/play/a012
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&
 #EXTINF:-1,UK: ANIMAL PLANET
 http://193.33.39.108:8107/30704
+#EXTINF:-1,Z Living USA
+http://z5amshls.akamaized.net/zlivingusa/playlist.m3u8
