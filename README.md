@@ -1393,3 +1393,4 @@ http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdz
 http://193.33.39.108:8107/30704
 #EXTINF:-1,Z Living USA
 http://z5amshls.akamaized.net/zlivingusa/playlist.m3u8
+#EXTINF:-1,UK: BBC NEWS
