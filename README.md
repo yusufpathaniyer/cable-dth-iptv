@@ -1401,3 +1401,4 @@ http://ccn.anytv.live:8080/sonyten3/tracks-v1a1/mono.m3u8
 http://103.214.202.218:8081/live/mnx/chunks.m3u8
 #EXTINF:-1,Star Sports 2
 http://ddn.amrbd.com:8081/live/starsports2/playlist.m3u8
+#EXTINF:-1,INT: RED LIGHT HD
