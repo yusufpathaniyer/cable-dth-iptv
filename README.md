@@ -1398,3 +1398,4 @@ http://176.10.117.3:5000/play/a035
 #EXTINF:-1,PK: ARY DIGITAL
 http://ccn.anytv.live:8080/sonyten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: MNX
+http://103.214.202.218:8081/live/mnx/chunks.m3u8
