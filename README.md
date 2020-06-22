@@ -1463,3 +1463,4 @@ http://103.135.208.14/live/ibox/bd/8.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/90.m3u8?RocketTV
 #EXTINF:-1,IN: B4U MUSIC
 http://103.135.208.14/live/ibox/bd/108.m3u8?RocketTV
+#EXTINF:-1,ASIA: CNN STYLE
