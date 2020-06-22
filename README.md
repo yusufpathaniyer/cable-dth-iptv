@@ -1417,3 +1417,4 @@ http://103.135.208.14/live/ibox/bd/2.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/3.m3u8?RocketTV
 #EXTINF:-1,IN: ZEE BANGLA HD
 http://103.135.208.14/live/ibox/bd/96.m3u8?RocketTV
+#EXTINF:-1,IN: &TV PICTURES
