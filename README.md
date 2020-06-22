@@ -1507,3 +1507,4 @@ http://103.135.208.14/live/ibox/bd/51.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/41.m3u8?RocketTV
 #EXTINF:-1,IN: COLORS BANGLA
 http://103.135.208.14/live/ibox/bd/35.m3u8?RocketTV
+#EXTINF:-1,AU: FOX SPORTS 3
