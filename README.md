@@ -1433,3 +1433,4 @@ http://103.135.208.14/live/ibox/bd/70.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/68.m3u8?RocketTV
 #EXTINF:-1,IN: STAR WORLD
 http://103.135.208.14/live/ibox/bd/66.m3u8?RocketTV
+#EXTINF:-1,IN: TLC HD
