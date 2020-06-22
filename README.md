@@ -1437,3 +1437,4 @@ http://103.135.208.14/live/ibox/bd/66.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/62.m3u8?RocketTV
 #EXTINF:-1,IN: STAR SPORTS 2
 http://103.135.208.14/live/ibox/bd/54.m3u8?RocketTV
+#EXTINF:-1,PK: ARY DIGITAL
