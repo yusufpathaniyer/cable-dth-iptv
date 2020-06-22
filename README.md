@@ -1414,3 +1414,4 @@ https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/chu
 #EXTINF:-1,IN: CARTOON NETWORK
 http://103.135.208.14/live/ibox/bd/2.m3u8?RocketTV
 #EXTINF:-1,IN: STAR JALSHA HD
+http://103.135.208.14/live/ibox/bd/3.m3u8?RocketTV
