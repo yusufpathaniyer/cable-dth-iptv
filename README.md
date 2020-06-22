@@ -1425,3 +1425,4 @@ http://103.135.208.14/live/ibox/bd/90.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/82.m3u8?RocketTV
 #EXTINF:-1,IN: STAR WORLD HD
 http://103.135.208.14/live/ibox/bd/78.m3u8?RocketTV
+#EXTINF:-1,IN: ROMEDY NOW
