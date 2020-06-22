@@ -1431,3 +1431,4 @@ http://103.135.208.14/live/ibox/bd/72.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/70.m3u8?RocketTV
 #EXTINF:-1,INT: BBC WORLD NEWS
 http://103.135.208.14/live/ibox/bd/68.m3u8?RocketTV
+#EXTINF:-1,IN: STAR WORLD
