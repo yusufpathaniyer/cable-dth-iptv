@@ -1473,3 +1473,4 @@ http://103.135.208.14/live/ibox/bd/105.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/103.m3u8?RocketTV
 #EXTINF:-1,IN: STAR MOVIES HD
 http://103.135.208.14/live/ibox/bd/101.m3u8?RocketTV
+#EXTINF:-1,IN: STAR GOLD 2
