@@ -1407,3 +1407,4 @@ http://185.229.139.65:8011/play/redlighthd/index.m3u8
 http://103.214.202.218:8081/live/andflix-29/playlist.m3u8
 #EXTINF:-1,Zoom
 http://103.214.202.218:8081/live/zoom-60/chunks.m3u8
+#EXTINF:-1,RU: NAT GRO WILD
