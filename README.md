@@ -1503,3 +1503,4 @@ http://103.135.208.14/live/ibox/bd/53.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/49.m3u8?RocketTV
 #EXTINF:-1,APAC: ZEE TV
 http://103.135.208.14/live/ibox/bd/51.m3u8?RocketTV
+#EXTINF:-1,APAC: STAR PLUS
