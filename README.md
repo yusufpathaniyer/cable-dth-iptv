@@ -1421,3 +1421,4 @@ http://103.135.208.14/live/ibox/bd/96.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/94.m3u8?RocketTV
 #EXTINF:-1,IN: 9XM
 http://103.135.208.14/live/ibox/bd/90.m3u8?RocketTV
+#EXTINF:-1,IN: STAR MOVIES HD
