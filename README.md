@@ -1458,3 +1458,4 @@ http://103.135.208.14/live/ibox/bd/12.m3u8?RocketTV
 #EXTINF:-1,IN: NICK
 http://103.135.208.14/live/ibox/bd/57.m3u8?RocketTV
 #EXTINF:-1,IN: STAR SPORTS 3
+http://103.135.208.14/live/ibox/bd/8.m3u8?RocketTV
