@@ -1428,3 +1428,4 @@ http://103.135.208.14/live/ibox/bd/78.m3u8?RocketTV
 #EXTINF:-1,IN: ROMEDY NOW
 http://103.135.208.14/live/ibox/bd/72.m3u8?RocketTV
 #EXTINF:-1,IN: MNX
+http://103.135.208.14/live/ibox/bd/70.m3u8?RocketTV
