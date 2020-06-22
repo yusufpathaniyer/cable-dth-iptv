@@ -1410,3 +1410,4 @@ http://103.214.202.218:8081/live/zoom-60/chunks.m3u8
 #EXTINF:-1,RU: NAT GRO WILD
 http://live02-cdn.tv.ti.ru:80/dtv/id374_NBN_SG--NatGeo_Wild_HD/04/plst.m3u8
 #EXTINF:-1,PK: PTV SPORTS
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/chunks.m3u8
