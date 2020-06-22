@@ -1455,3 +1455,4 @@ http://103.135.208.14/live/ibox/bd/42.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/14.m3u8?RocketTV
 #EXTINF:-1,IN: MONURANHAN TV
 http://103.135.208.14/live/ibox/bd/12.m3u8?RocketTV
+#EXTINF:-1,IN: NICK
