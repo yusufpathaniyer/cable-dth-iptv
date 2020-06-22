@@ -1439,3 +1439,4 @@ http://103.135.208.14/live/ibox/bd/62.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/54.m3u8?RocketTV
 #EXTINF:-1,PK: ARY DIGITAL
 http://103.135.208.14/live/ibox/bd/56.m3u8?RocketTV
+#EXTINF:-1,IN: TIMES NOW
