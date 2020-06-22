@@ -1477,3 +1477,4 @@ http://103.135.208.14/live/ibox/bd/101.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/99.m3u8?RocketTV
 #EXTINF:-1,IN: STAR WORLD HD
 http://103.135.208.14/live/ibox/bd/97.m3u8?RocketTV
+#EXTINF:-1,IN: ALZEERA
