@@ -1521,3 +1521,4 @@ http://srb.00387.info/ArenaSport1SR/index.m3u8?token=test
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1,IN: SONY TV HD
 http://103.214.202.218:8081/live/sony-40/chunks.m3u8
+#EXTINF:-1,RU: BOLLYWOOD HD
