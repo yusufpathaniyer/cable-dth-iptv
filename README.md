@@ -1523,3 +1523,4 @@ https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 http://103.214.202.218:8081/live/sony-40/chunks.m3u8
 #EXTINF:-1,RU: BOLLYWOOD HD
 http://212.66.34.126/play/81/index.m3u8
+#EXTINF:-1,UK: DISCOVERY SCIENCE
