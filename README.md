@@ -1518,3 +1518,4 @@ http://82.77.146.3:8082/play/a03h
 #EXTINF:-1,ASIA: ARENASPORTS
 http://srb.00387.info/ArenaSport1SR/index.m3u8?token=test
 #EXTINF:-1,ME: Telesur (English)
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
