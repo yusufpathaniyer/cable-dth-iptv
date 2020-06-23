@@ -1529,3 +1529,4 @@ http://62.78.37.48:4022/udp/224.0.90.44:1234
 http://internetowa.tv/?c=hlsPlay&channel=cartoonnetwork&token=2bdae9ac2bd68cf8200f99d6672d0b5cca6d583abbb1da9646e66138cc2fad99dd1c081abfbab2fb3004cc8634231d9a5ade8d47cbe80f3f9269f0420ac8c4bc
 #EXTINF:-1,ASIA: CARTOON NETWORK
 http://178.217.72.66:80/225.201.2.73/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,INT: Jakarta Globe (English)
