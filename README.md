@@ -1527,3 +1527,4 @@ http://212.66.34.126/play/81/index.m3u8
 http://62.78.37.48:4022/udp/224.0.90.44:1234
 #EXTINF:-1,ASIA: CARTOON NETWORK HD
 http://internetowa.tv/?c=hlsPlay&channel=cartoonnetwork&token=2bdae9ac2bd68cf8200f99d6672d0b5cca6d583abbb1da9646e66138cc2fad99dd1c081abfbab2fb3004cc8634231d9a5ade8d47cbe80f3f9269f0420ac8c4bc
+#EXTINF:-1,ASIA: CARTOON NETWORK
