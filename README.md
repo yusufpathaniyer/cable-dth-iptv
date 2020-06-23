@@ -1513,3 +1513,4 @@ http://103.135.208.14/live/ibox/bd/9.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/7.m3u8?RocketTV
 #EXTINF:-1,ME: DUBAI ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
+#EXTINF:-1,INT: LOOKSOORTS
