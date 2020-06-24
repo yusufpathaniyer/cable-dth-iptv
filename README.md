@@ -1539,3 +1539,4 @@ http://free.free-live.xyz:2052/btm_hls/001/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 http://106.54.30.243/gz009/gz.php?id=axn
 #EXTINF:-1,ASIA: HBO
 http://106.54.30.243/gz009/gz.php?id=hbo
+#EXTINF:-1,ASIA: NAT GEO WILD
