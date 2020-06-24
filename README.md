@@ -1544,3 +1544,4 @@ http://153.99.180.70:5021/live/263/playlist.m3u8
 #EXTINF:-1,US: TAG TV
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 #EXTINF:-1,ASIA: LOVE NATURAL
+http://188.40.48.89/restrimfree/fWVyipZrS0/4427?checkedby:iptvcat.com
