@@ -1531,3 +1531,4 @@ http://internetowa.tv/?c=hlsPlay&channel=cartoonnetwork&token=2bdae9ac2bd68cf820
 http://178.217.72.66:80/225.201.2.73/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,INT: Jakarta Globe (English)
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1,USA: CARTOON NETWORK
