@@ -1537,3 +1537,4 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/cartoonnetwork_511a418e_8
 http://free.free-live.xyz:2052/btm_hls/001/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIwIDE6MDE6NTIgQU0maGFzaF92YWx1ZT00M1JhZzRkQlJyQVlrUUJZRDByRk9RPT0mdmFsaWRtaW51dGVzPTEwJmlkPWM0NGRlM2M5NmZhYjQwN2Y=
 #EXTINF:-1,ASIA: AXN
 http://106.54.30.243/gz009/gz.php?id=axn
+#EXTINF:-1,ASIA: HBO
