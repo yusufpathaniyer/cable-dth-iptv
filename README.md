@@ -1546,3 +1546,4 @@ https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 #EXTINF:-1,ASIA: LOVE NATURAL
 http://188.40.48.89/restrimfree/fWVyipZrS0/4427?checkedby:iptvcat.com
 #EXTINF:-1,APAC: BBC LIFE STYLE
+https://bol.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
