@@ -1533,3 +1533,4 @@ http://178.217.72.66:80/225.201.2.73/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1,USA: CARTOON NETWORK
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/cartoonnetwork_511a418e_874cdde9bee19d444ec662a76dc9700b8660e835/playlist.m3u8
+#EXTINF:-1,RU: ANIMAL PLANET
