@@ -1534,3 +1534,4 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1,USA: CARTOON NETWORK
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/cartoonnetwork_511a418e_874cdde9bee19d444ec662a76dc9700b8660e835/playlist.m3u8
 #EXTINF:-1,RU: ANIMAL PLANET
+http://free.free-live.xyz:2052/btm_hls/001/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIwIDE6MDE6NTIgQU0maGFzaF92YWx1ZT00M1JhZzRkQlJyQVlrUUJZRDByRk9RPT0mdmFsaWRtaW51dGVzPTEwJmlkPWM0NGRlM2M5NmZhYjQwN2Y=
