@@ -1542,3 +1542,4 @@ http://106.54.30.243/gz009/gz.php?id=hbo
 #EXTINF:-1,ASIA: NAT GEO WILD
 http://153.99.180.70:5021/live/263/playlist.m3u8
 #EXTINF:-1,US: TAG TV
+https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
