@@ -1562,3 +1562,4 @@ http://84.54.128.52:9090/play/17004/index.m3u8
 #EXTINF:-1,USA: BOLLYWOOD CLASSES
 http://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8
 #EXTINF:-1,US: ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
