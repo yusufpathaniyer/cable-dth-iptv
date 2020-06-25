@@ -1555,3 +1555,4 @@ http://80.32.125.233:8000/play/a004/index.m3u8
 http://z5amshls.akamaized.net/wion/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,RU: NICK
 http://hlstv.kem.211.ru/239.211.211.30/stream.m3u8
+#EXTINF:-1,US: DISCOVERY
