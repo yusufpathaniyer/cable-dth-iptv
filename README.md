@@ -1552,3 +1552,4 @@ https://iptv.burhansyam.com/hbotest/hbo.m3u8
 #EXTINF:-1,UK: CHANNEL 4
 http://80.32.125.233:8000/play/a004/index.m3u8
 #EXTINF:-1,IN: WION
+http://z5amshls.akamaized.net/wion/tracks-v1a1/playlist.m3u8
