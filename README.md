@@ -1561,3 +1561,4 @@ http://136.243.177.164/DISCOVERYCHANNEL/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
 http://84.54.128.52:9090/play/17004/index.m3u8
 #EXTINF:-1,USA: BOLLYWOOD CLASSES
 http://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8
+#EXTINF:-1,US: ONE GOLF
