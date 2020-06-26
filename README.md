@@ -1565,3 +1565,4 @@ http://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1,UK: BOOMERANG
 http://193.33.39.108:8107/30710
+#EXTINF:-1,AU: AUSTRALIA CHANNEL
