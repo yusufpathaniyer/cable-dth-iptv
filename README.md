@@ -1570,3 +1570,4 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 #EXTINF:-1,USA: EDGE SPORTS
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
 #EXTINF:-1,USA: TCT KIDS
+https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
