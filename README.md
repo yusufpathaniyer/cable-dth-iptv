@@ -1568,3 +1568,4 @@ http://193.33.39.108:8107/30710
 #EXTINF:-1,AU: AUSTRALIA CHANNEL
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:-1,USA: EDGE SPORTS
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
