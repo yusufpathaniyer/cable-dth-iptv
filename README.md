@@ -1621,3 +1621,5 @@ http://103.148.44.22:5646/TV5Monde
 http://103.148.44.22:5563/fxhd
 #EXTINF:-1,TV5 Monde
 http://103.148.44.22:5646/TV5Monde
+#EXTINF:-1,foxsport
+http://103.148.44.22:8876/play/a0ab
