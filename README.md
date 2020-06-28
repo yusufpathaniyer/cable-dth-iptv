@@ -1575,3 +1575,5 @@ https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/play
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1,UK: HUSTLER TV
 http://84.85.106.110:8001/1:0:1:100D:451:35:C00000:0:0:0
+#EXTINF:-1,FoxLife HD
+http://80.72.68.81:9981/stream/channelid/33589374
