@@ -1601,3 +1601,13 @@ http://80.72.68.81:9981/stream/channelid/1073980809
 http://80.72.68.81:9981/stream/channelid/364486843
 #EXTINF:-1,Euronews
 http://80.72.68.81:9981/stream/channelid/1350116174
+#EXTINF:-1,FOXLife
+http://80.72.68.81:9981/stream/channelid/2087860121
+#EXTINF:-1,FoxCrime HD
+http://80.72.68.81:9981/stream/channelid/1951792200
+#EXTINF:-1,FOX Crime
+http://80.72.68.81:9981/stream/channelid/668620103
+#EXTINF:-1,FOX HD
+http://80.72.68.81:9981/stream/channelid/190985329
+#EXTINF:-1,FOX
+http://80.72.68.81:9981/stream/channelid/1626939317
