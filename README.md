@@ -1577,3 +1577,21 @@ http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 http://84.85.106.110:8001/1:0:1:100D:451:35:C00000:0:0:0
 #EXTINF:-1,FoxLife HD
 http://80.72.68.81:9981/stream/channelid/33589374
+#EXTINF:-1,Duck TV
+http://80.72.68.81:9981/stream/channelid/1429657265
+#EXTINF:-1,Baby TV
+http://80.72.68.81:9981/stream/channelid/39210794
+#EXTINF:-1,National Geo HD
+http://80.72.68.81:9981/stream/channelid/1251759117
+#EXTINF:-1,National Geographic
+http://80.72.68.81:9981/stream/channelid/1763818855
+#EXTINF:-1,Nat Geo Wild HD
+http://80.72.68.81:9981/stream/channelid/2043695539
+#EXTINF:-1,Nat Geo Wild
+http://80.72.68.81:9981/stream/channelid/1832463663
+#EXTINF:-1,Discovery
+http://80.72.68.81:9981/stream/channelid/1761827731
+#EXTINF:-1,Discovery HD
+http://80.72.68.81:9981/stream/channelid/1855527277
+#EXTINF:-1,TLC
+http://80.72.68.81:9981/stream/channelid/1852573847
