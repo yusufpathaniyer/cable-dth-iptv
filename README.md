@@ -1595,3 +1595,9 @@ http://80.72.68.81:9981/stream/channelid/1761827731
 http://80.72.68.81:9981/stream/channelid/1855527277
 #EXTINF:-1,TLC
 http://80.72.68.81:9981/stream/channelid/1852573847
+#EXTINF:-1,Travel Channel HD
+http://80.72.68.81:9981/stream/channelid/1073980809
+#EXTINF:-1,Travel Channel
+http://80.72.68.81:9981/stream/channelid/364486843
+#EXTINF:-1,Euronews
+http://80.72.68.81:9981/stream/channelid/1350116174
