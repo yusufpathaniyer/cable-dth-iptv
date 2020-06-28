@@ -1611,3 +1611,5 @@ http://80.72.68.81:9981/stream/channelid/668620103
 http://80.72.68.81:9981/stream/channelid/190985329
 #EXTINF:-1,FOX
 http://80.72.68.81:9981/stream/channelid/1626939317
+#EXTINF:-1,Disney
+http://103.148.44.22:5564/DisneyCH
