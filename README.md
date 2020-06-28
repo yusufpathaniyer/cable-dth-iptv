@@ -1615,3 +1615,5 @@ http://80.72.68.81:9981/stream/channelid/1626939317
 http://103.148.44.22:5564/DisneyCH
 #EXTINF:-1,EURONEWS
 http://103.148.44.22:5648/euroNewS
+#EXTINF:-1,TV5 Monde
+http://103.148.44.22:5646/TV5Monde
