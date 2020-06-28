@@ -1619,3 +1619,5 @@ http://103.148.44.22:5648/euroNewS
 http://103.148.44.22:5646/TV5Monde
 #EXTINF:-1,FX HD
 http://103.148.44.22:5563/fxhd
+#EXTINF:-1,TV5 Monde
+http://103.148.44.22:5646/TV5Monde
