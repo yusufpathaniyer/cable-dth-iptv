@@ -1627,3 +1627,4 @@ http://103.148.44.22:8876/play/a0ab
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 #EXTINF:-1,APAC: NAT GEO
 http://178.132.3.162:88/nat_geo/index.m3u8?token=test
+#EXTINF:-1,UK: ERO XXX HD
