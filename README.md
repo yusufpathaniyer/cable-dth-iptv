@@ -1636,3 +1636,4 @@ https://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
 #EXTINF:-1,APAC: RTV SPORTS
 https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,UK: Adjarasport TV
+https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
