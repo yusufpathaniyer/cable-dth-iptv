@@ -1632,3 +1632,4 @@ http://catchup.iptv.iinet.rs/chunklist.m3u8?id=180&profile=3&token=dG9rZW49LVkzb
 #EXTINF:-1,UK: UNIVERSEL
 http://196.179.225.154:10001/stream/channelid/1284278211?profile=pass
 #EXTINF:-1,APAC: BBC EARTH
+https://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
