@@ -1630,3 +1630,4 @@ http://178.132.3.162:88/nat_geo/index.m3u8?token=test
 #EXTINF:-1,UK: ERO XXX HD
 http://catchup.iptv.iinet.rs/chunklist.m3u8?id=180&profile=3&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA
 #EXTINF:-1,UK: UNIVERSEL
+http://196.179.225.154:10001/stream/channelid/1284278211?profile=pass
