@@ -1634,3 +1634,4 @@ http://196.179.225.154:10001/stream/channelid/1284278211?profile=pass
 #EXTINF:-1,APAC: BBC EARTH
 https://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
 #EXTINF:-1,APAC: RTV SPORTS
+https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
