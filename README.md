@@ -1644,3 +1644,4 @@ http://89.38.8.131:39520
 #EXTINF:-1,INT: SEX TV
 https://edge992.ghanacloud.ga/empressleaktv/index.m3u8
 #EXTINF:-1,IN: ZEE BOLLYWOOD
+http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8
