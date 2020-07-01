@@ -1640,3 +1640,4 @@ https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
 #EXTINF:-1,IN: SONY TV
 http://103.214.202.218:8081/live/sony-40/chunks.m3u8
 #EXTINF:-1,INT: TRAVEL MIX
+http://89.38.8.131:39520
