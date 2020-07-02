@@ -1647,3 +1647,4 @@ https://edge992.ghanacloud.ga/empressleaktv/index.m3u8
 http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8
 #EXTINF:-1,IN: ZEE CINEMA HD
 http://103.141.66.36/bpk-tv/10430/default/manifest.mpd?=.m3u8
+#EXTINF:-1,IN: MTV BEATS
