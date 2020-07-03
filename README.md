@@ -1549,8 +1549,7 @@ http://188.40.48.89/restrimfree/fWVyipZrS0/4427?checkedby:iptvcat.com
 https://bol.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
 #EXTINF:-1,UK: HBO
 https://iptv.burhansyam.com/hbotest/hbo.m3u8
-#EXTINF:-1,UK: CHANNEL 4
-http://80.32.125.233:8000/play/a004/index.m3u8
+#EXTINF:-1,UK: CHANNttp://80.32.125.233:8000/play/a004/index.m3u8
 #EXTINF:-1,IN: WION
 http://z5amshls.akamaized.net/wion/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,RU: NICK
@@ -1649,3 +1648,5 @@ http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8
 http://103.141.66.36/bpk-tv/10430/default/manifest.mpd?=.m3u8
 #EXTINF:-1,IN: MTV BEATS
 http://103.141.66.36/bpk-tv/10178/default/manifest.mpd
+#EXTINF:-1,UK: Lotus Macau 
+http://103.135.208.14:80/ibox/bd/69
