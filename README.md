@@ -1650,3 +1650,5 @@ http://103.141.66.36/bpk-tv/10430/default/manifest.mpd?=.m3u8
 http://103.141.66.36/bpk-tv/10178/default/manifest.mpd
 #EXTINF:-1,UK: Lotus Macau 
 http://103.135.208.14:80/ibox/bd/69
+#EXTINF:-1,IN: HBO 
+http://103.135.208.14:80/ibox/bd/63
