@@ -1652,3 +1652,7 @@ http://103.141.66.36/bpk-tv/10178/default/manifest.mpd
 http://103.135.208.14:80/ibox/bd/69
 #EXTINF:-1,IN: HBO 
 http://103.135.208.14:80/ibox/bd/63
+#EXTINF:-1,IN: Star Sports Select 2 HD 
+http://103.135.208.14:80/ibox/bd/83
+#EXTINF:-1,IN: STAR SPORTS SELECT 1 HD 
+http://103.135.208.14:80/ibox/bd/82
