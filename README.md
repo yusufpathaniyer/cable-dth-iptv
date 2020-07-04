@@ -1663,3 +1663,4 @@ http://103.135.208.14:80/ibox/bd/99
 #EXTINF:-1,IN: STAR GOLD HD
 http://103.214.202.218:8081/live/stargold/chunks.m3u8
  #EXTINF:-1,IN: STAR PLUS HD
+http://103.214.202.218:8081/live/starplus/chunks.m3u8
