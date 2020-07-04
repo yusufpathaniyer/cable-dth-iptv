@@ -1665,3 +1665,4 @@ http://103.214.202.218:8081/live/stargold/chunks.m3u8
 #EXTINF:-1,IN: STAR PLUS HD
 http://103.214.202.218:8081/live/starplus/chunks.m3u8
 #EXTINF:-1,IN: STAR SPORTS 2 HD
+http://103.214.202.218:8081/live/starsports2/chunks.m3u8
