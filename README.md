@@ -1670,3 +1670,4 @@ http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1,IN: STAR MOVIES HD
 http://foobtv.co.in:80/iptv/iptv.php?id=47859
+#EXTINF:-1,IN: STAR WORLD PRIUME HD
