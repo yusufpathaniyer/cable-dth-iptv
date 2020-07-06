@@ -1674,3 +1674,4 @@ http://foobtv.co.in:80/iptv/iptv.php?id=47859
 http://foobtv.co.in:80/iptv/iptv.php?id=47860
 #EXTINF:-1,IN: HBO HD
 http://foobtv.co.in:80/iptv/iptv.php?id=47866
+#EXTINF:-1,IN: POGO
