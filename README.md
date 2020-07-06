@@ -1668,3 +1668,4 @@ http://103.214.202.218:8081/live/starplus/chunks.m3u8
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 #EXTINF:-1,IN: DISCOVERY HD
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8
+#EXTINF:-1,IN: STAR MOVIES HD
