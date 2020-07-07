@@ -1687,3 +1687,4 @@ http://foobtv.co.in/iptv/iptv.php?id=47871
 #EXTINF:-1,IN: DISCOVERY
 http://foobtv.co.in/iptv/iptv.php?id=47878
 #EXTINF:-1,UK: PRIVATE
+http://fr01.spr24.net/5758/index.m3u8?token=rCEqTFvRhtEvXt
