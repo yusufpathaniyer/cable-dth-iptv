@@ -1676,3 +1676,4 @@ http://foobtv.co.in:80/iptv/iptv.php?id=47860
 http://foobtv.co.in:80/iptv/iptv.php?id=47866
 #EXTINF:-1,IN: POGO
 http://202.163.117.6:9981/stream/channelid/872564616
+#EXTINF:-1,IN: NAT GEO HD
