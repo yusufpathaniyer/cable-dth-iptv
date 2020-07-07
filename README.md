@@ -1679,3 +1679,4 @@ http://202.163.117.6:9981/stream/channelid/872564616
 #EXTINF:-1,IN: NAT GEO HD
 http://foobtv.co.in/iptv/iptv.php?id=47873
 #EXTINF:-1,IN: DD SPORTS
+http://foobtv.co.in/iptv/iptv.php?id=48121
