@@ -1696,3 +1696,4 @@ http://185.236.229.2:8000/play/a03q/index.m3u8
 http://185.236.229.2:8000/play/a01n/index.m3u8
 #EXTINF:-1,UK: TV 5 MODE
 http://185.236.229.2:8000/play/a010/index.m3u8
+#EXTINF:-1,UK: NICK
