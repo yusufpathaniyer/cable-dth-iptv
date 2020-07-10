@@ -1693,3 +1693,4 @@ http://202.163.117.6:9981/stream/channelid/1156450698
 #EXTINF:-1,RU: NAT GEO WILD
 http://185.236.229.2:8000/play/a03q/index.m3u8
 #EXTINF:-1,UK: DISNEY
+http://185.236.229.2:8000/play/a01n/index.m3u8
