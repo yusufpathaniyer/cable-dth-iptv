@@ -1690,3 +1690,4 @@ http://foobtv.co.in/iptv/iptv.php?id=47878
 http://fr01.spr24.net/5758/index.m3u8?token=rCEqTFvRhtEvXt
 #EXTINF:-1,IN: SONY TEN 3
 http://202.163.117.6:9981/stream/channelid/1156450698
+#EXTINF:-1,RU: NAT GEO WILD
