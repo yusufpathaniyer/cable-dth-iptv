@@ -1702,4 +1702,5 @@ http://185.236.229.2:8000/play/a01h/index.m3u8
 http://185.236.229.2:8000/play/a03y/index.m3u8
 #EXTINF:-1,ASIA: HOT PLAY
 http://t.gerss.cn/dl/htv.php?id=401
- #EXTINF:-1,IN: 
+#EXTINF:-1,IN: 
+http://t.gerss.cn/dl/htv.php?id=414
