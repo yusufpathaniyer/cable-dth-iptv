@@ -1738,3 +1738,4 @@ https://z5ams.akamaized.net/apacsea/index.m3u8?hdnts=st=1594472605~exp=159447560
 https://z5ams.akamaized.net/andpicshd/index.m3u8?hdnts=st=1594473145~exp=1594476145~acl=/*~hmac=c5c6d107927fde6feaf14a4b6375884b0b177490ae4855db9d0bdc95e4205912
 #EXTINF:-1,IN: & FLIX HD
 https://z5ams.akamaized.net/andflixhd/index.m3u8?hdnts=st=1594473415~exp=1594476415~acl=/*~hmac=12a2b66dc3bd99e9479925ee8de9449bc1d46f2d03570407daa8112f106a5bc6
+#EXTINF:-1,PK: FLIM WORLD
