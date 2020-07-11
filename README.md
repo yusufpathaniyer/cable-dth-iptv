@@ -1714,3 +1714,4 @@ http://185.236.229.2:8000/play/a04x/index.m3u8
 https://z5ams.akamaized.net/andtvhdusa/index.m3u8?hdnts=st=1594464073~exp=1594467073~acl=/*~hmac=93550764fb8578e9ce5175c0c3c515d59d617e26477501895512bf99d11cb7f6
 #EXTINF:-1,IN: AND TV HD
 https://z5ams.akamaized.net/andtvhd/index.m3u8?hdnts=st=1594464344~exp=1594467344~acl=/*~hmac=92f65c9bd86a705710f030145a466c1dac0dadcb60631365cf6c39ffb4fc5d7d
+#EXTINF:-1,IN: DD 1
