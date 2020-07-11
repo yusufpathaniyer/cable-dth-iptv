@@ -1705,3 +1705,4 @@ http://t.gerss.cn/dl/htv.php?id=401
 #EXTINF:-1,IN: 
 http://t.gerss.cn/dl/htv.php?id=414
 #EXTINF:-1,INT: HYD HOLLYWOOD
+http://185.236.229.2:8000/play/a05f/index.m3u8
