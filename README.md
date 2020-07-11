@@ -1750,3 +1750,4 @@ http://34.65.21.163:5675/ind2020/setmaxaus/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 http://34.65.21.163:5675/ind2020/SATMAXUK/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6NTk6NDEgUE0maGFzaF92YWx1ZT1NMjRHYWJKRjhtMUlQUEZRTWlLdUxBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,IN: STAR GOLD
 http://zer0live.hjkm.info:13292/juno/stargold/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDI6MDI6MDIgUE0maGFzaF92YWx1ZT1ZRjFadDJkT0llV1dKZFNKa3krTlZRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,IN: WB TV
