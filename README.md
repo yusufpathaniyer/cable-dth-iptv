@@ -1733,3 +1733,4 @@ http://34.65.21.163:5675/ind2020/sabtvuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 #EXTINF:-1,CA: ZEE TV
 https://z5ams.akamaized.net/canadahd/index.m3u8?hdnts=st=1594472335~exp=1594475335~acl=/*~hmac=615e62f04d4633b4aecf90d153c348ece4f56a657dd3c25e06f4e0684dd535fe
 #EXTINF:-1,ASIA: ZEE TV
+https://z5ams.akamaized.net/apacsea/index.m3u8?hdnts=st=1594472605~exp=1594475605~acl=/*~hmac=98fd490e4e4f437ba69cdcfd4976db5cc3375f0b69c3bb53aa76680f1f37309a
