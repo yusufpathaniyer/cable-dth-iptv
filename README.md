@@ -1704,3 +1704,4 @@ http://185.236.229.2:8000/play/a03y/index.m3u8
 http://t.gerss.cn/dl/htv.php?id=401
 #EXTINF:-1,IN: 
 http://t.gerss.cn/dl/htv.php?id=414
+#EXTINF:-1,INT: HYD HOLLYWOOD
