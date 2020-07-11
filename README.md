@@ -1724,3 +1724,4 @@ http://185.149.90.126:4422/pak2020/humtveu/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 http://34.65.21.163:5675/ind2020/sonytvaus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6MTg6NDggUE0maGFzaF92YWx1ZT1ib3NvOEdQTCt4bXB3am40b0dwUXNBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,UK: SONY HD
 http://34.65.21.163:5675/ind2020/sonytvusa/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6MjA6MDggUE0maGFzaF92YWx1ZT1ZWEN5SFpYUEg0VUJHWll6RDZmRHBBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,
