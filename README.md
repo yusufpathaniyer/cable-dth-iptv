@@ -1710,3 +1710,4 @@ http://185.236.229.2:8000/play/a05f/index.m3u8
 http://185.236.229.2:8000/play/a05m/index.m3u8
 #EXTINF:-1,AISA: FOX CRIME HD
 http://185.236.229.2:8000/play/a04x/index.m3u8
+#EXTINF:-1,IN: ZEE TV USA
