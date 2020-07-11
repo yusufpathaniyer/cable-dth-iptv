@@ -1717,3 +1717,4 @@ https://z5ams.akamaized.net/andtvhd/index.m3u8?hdnts=st=1594464344~exp=159446734
 #EXTINF:-1,IN: DD 1
 http://54.255.155.24:1935/Live/_definst_/amlst:sweetbcha1novD235L240P/playlist.m3u8
 #EXTINF:-1,UK: FOX
+http://34.65.21.163:5675/uk2020/foxuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6MDI6NDggUE0maGFzaF92YWx1ZT1DTDJzSmZSSEtZNkZFODN5K1A5bFVnPT0mdmFsaWRtaW51dGVzPTI=
