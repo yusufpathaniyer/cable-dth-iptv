@@ -1742,3 +1742,4 @@ https://z5ams.akamaized.net/andflixhd/index.m3u8?hdnts=st=1594473415~exp=1594476
 http://185.149.90.126:4422/pak2020/filmworld/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6NDY6MjggUE0maGFzaF92YWx1ZT1LY010blFOcVdxUEhRT2E1S2lDV09nPT0mdmFsaWRtaW51dGVzPTU=
 #EXTINF:-1,IN: MN+ HD
 http://34.65.21.163:5675/uk2020/mnplushd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6NTI6MzIgUE0maGFzaF92YWx1ZT0yVXNGdkF0YzVJckE3cTlKWWczaVpBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,IN: MNX HD
