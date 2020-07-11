@@ -1708,3 +1708,4 @@ http://t.gerss.cn/dl/htv.php?id=414
 http://185.236.229.2:8000/play/a05f/index.m3u8
 #EXTINF:-1,USA: MTV
 http://185.236.229.2:8000/play/a05m/index.m3u8
+ #EXTINF:-1,AISA: FOX CRIME HD
