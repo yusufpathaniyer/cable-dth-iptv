@@ -1735,3 +1735,4 @@ https://z5ams.akamaized.net/canadahd/index.m3u8?hdnts=st=1594472335~exp=15944753
 #EXTINF:-1,ASIA: ZEE TV
 https://z5ams.akamaized.net/apacsea/index.m3u8?hdnts=st=1594472605~exp=1594475605~acl=/*~hmac=98fd490e4e4f437ba69cdcfd4976db5cc3375f0b69c3bb53aa76680f1f37309a
 #EXTINF:-1,IN: & PICTURES HD
+https://z5ams.akamaized.net/andpicshd/index.m3u8?hdnts=st=1594473145~exp=1594476145~acl=/*~hmac=c5c6d107927fde6feaf14a4b6375884b0b177490ae4855db9d0bdc95e4205912
