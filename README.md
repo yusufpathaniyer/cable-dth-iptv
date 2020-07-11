@@ -1715,3 +1715,4 @@ https://z5ams.akamaized.net/andtvhdusa/index.m3u8?hdnts=st=1594464073~exp=159446
 #EXTINF:-1,IN: AND TV HD
 https://z5ams.akamaized.net/andtvhd/index.m3u8?hdnts=st=1594464344~exp=1594467344~acl=/*~hmac=92f65c9bd86a705710f030145a466c1dac0dadcb60631365cf6c39ffb4fc5d7d
 #EXTINF:-1,IN: DD 1
+http://54.255.155.24:1935/Live/_definst_/amlst:sweetbcha1novD235L240P/playlist.m3u8
