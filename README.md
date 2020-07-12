@@ -1781,3 +1781,4 @@ http://103.141.66.36/bpk-tv/10241/default/index.m3u8
 #EXTINF:-1,PK: HUM MASHALA
 http://103.141.66.36/bpk-tv/10240/default/index.m3u8
 #EXTINF:-1,IN: ZEE CAFE
+http://103.141.66.36/bpk-tv/10229/default/index.m3u8
