@@ -1807,3 +1807,4 @@ http://103.141.66.36/bpk-tv/10176/default/index.m3u8
 #EXTINF:-1,IN: NICK
 http://103.141.66.36/bpk-tv/10152/default/index.m3u8
 #EXTINF:-1,IN: VH1
+http://103.141.66.36/bpk-tv/10151/default/index.m3u8
