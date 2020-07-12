@@ -1775,3 +1775,4 @@ http://103.141.66.36/bpk-tv/10280/default/index.m3u8
 #EXTINF:-1,IN: DD1
 http://103.141.66.36/bpk-tv/10265/default/index.m3u8
 #EXTINF:-1,IN: ABP NEWS
+http://103.141.66.36/bpk-tv/10252/default/index.m3u8
