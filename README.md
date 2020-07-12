@@ -1760,3 +1760,4 @@ http://103.141.66.36/bpk-tv/10285/default/index.m3u8
 http://103.141.66.36/bpk-tv/10337/default/index.m3u8
 #EXTINF:-1,IN: B4U MOVIES
 http://103.141.66.36/bpk-tv/10331/default/index.m3u8
+#EXTINF:-1,BD: G TV
