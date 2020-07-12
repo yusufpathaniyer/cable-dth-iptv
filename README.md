@@ -1783,3 +1783,4 @@ http://103.141.66.36/bpk-tv/10240/default/index.m3u8
 #EXTINF:-1,IN: ZEE CAFE
 http://103.141.66.36/bpk-tv/10229/default/index.m3u8
 #EXTINF:-1,IN: MASTII
+http://103.141.66.36/bpk-tv/10210/default/index.m3u8
