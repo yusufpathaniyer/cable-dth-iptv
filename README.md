@@ -1765,3 +1765,4 @@ http://103.141.66.36/bpk-tv/10328/default/index.m3u8
 #EXTINF:-1,IN: MUSIC INDIA
 http://103.141.66.36/bpk-tv/10315/default/index.m3u8
 #EXTINF:-1,IN: & FLIX
+http://103.141.66.36/bpk-tv/10304/default/index.m3u8
