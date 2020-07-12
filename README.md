@@ -1798,3 +1798,4 @@ http://103.141.66.36/bpk-tv/10185/default/index.m3u8
 http://103.141.66.36/bpk-tv/10184/default/index.m3u8
 #EXTINF:-1,IN: &TV HD
 http://103.141.66.36/bpk-tv/10182/default/index.m3u8
+#EXTINF:-1,ME: ZEE CINEMA
