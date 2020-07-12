@@ -1768,4 +1768,5 @@ http://103.141.66.36/bpk-tv/10315/default/index.m3u8
 http://103.141.66.36/bpk-tv/10304/default/index.m3u8
 #EXTINF:-1,IN: 9XM
 http://103.141.66.36/bpk-tv/10283/default/index.m3u8
- #EXTINF:-1,IN: B4U MUSIC
+#EXTINF:-1,IN: B4U MUSIC
+http://103.141.66.36/bpk-tv/10282/default/index.m3u8
