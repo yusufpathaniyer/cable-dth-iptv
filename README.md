@@ -1755,3 +1755,4 @@ http://34.65.21.163:5675/uk2020/warnerbros/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 #EXTINF:-1,INT: XXX TV
 https://ded6453-edge9.bcvcdn.com/hls/stream_KrissCrystall/public/stream_KrissCrystall/chunks.m3u8?__fvdNEW
 #EXTINF:-1,IN: ZEE NEWS
+http://103.141.66.36/bpk-tv/10285/default/index.m3u8
