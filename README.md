@@ -1790,3 +1790,4 @@ http://51.89.172.188:25461/824749006/NS1GNk31kM/6500?play_token=mBdIffTqX7&token
 http://103.141.66.36/bpk-tv/10190/default/index.m3u8
 #EXTINF:-1,IN: COLORS HD
 http://103.141.66.36/bpk-tv/10189/default/index.m3u8
+#EXTINF:-1,PK: ARY FAMILY
