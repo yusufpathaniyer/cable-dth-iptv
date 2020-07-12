@@ -1752,3 +1752,4 @@ http://34.65.21.163:5675/ind2020/SATMAXUK/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 http://zer0live.hjkm.info:13292/juno/stargold/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDI6MDI6MDIgUE0maGFzaF92YWx1ZT1ZRjFadDJkT0llV1dKZFNKa3krTlZRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,IN: WB TV
 http://34.65.21.163:5675/uk2020/warnerbros/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDI6MDU6MjEgUE0maGFzaF92YWx1ZT0rTFpVRy9KdFdJdVJpdHZMWkNPaDVnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,INT: XXX TV
