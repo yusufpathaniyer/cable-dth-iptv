@@ -1800,3 +1800,4 @@ http://103.141.66.36/bpk-tv/10184/default/index.m3u8
 http://103.141.66.36/bpk-tv/10182/default/index.m3u8
 #EXTINF:-1,ME: ZEE CINEMA
 http://103.141.66.36/bpk-tv/10180/default/index.m3u8
+#EXTINF:-1,IN: MTV BEATS
