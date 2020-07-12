@@ -1753,3 +1753,4 @@ http://zer0live.hjkm.info:13292/juno/stargold/playlist.m3u8?wmsAuthSign=c2VydmVy
 #EXTINF:-1,IN: WB TV
 http://34.65.21.163:5675/uk2020/warnerbros/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDI6MDU6MjEgUE0maGFzaF92YWx1ZT0rTFpVRy9KdFdJdVJpdHZMWkNPaDVnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,INT: XXX TV
+https://ded6453-edge9.bcvcdn.com/hls/stream_KrissCrystall/public/stream_KrissCrystall/chunks.m3u8?__fvd__
