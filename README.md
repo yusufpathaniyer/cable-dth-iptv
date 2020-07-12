@@ -1757,3 +1757,4 @@ https://ded6453-edge9.bcvcdn.com/hls/stream_KrissCrystall/public/stream_KrissCry
 #EXTINF:-1,IN: ZEE NEWS
 http://103.141.66.36/bpk-tv/10285/default/index.m3u8
 #EXTINF:-1,IN: ZEE ACTION
+http://103.141.66.36/bpk-tv/10337/default/index.m3u8
