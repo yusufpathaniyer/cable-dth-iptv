@@ -1828,3 +1828,41 @@ http://103.141.66.36/bpk-tv/10102/default/index.m3u8
 http://103.141.66.36/bpk-tv/10101/default/index.m3u8
 #EXTINF:-1,IN: ZEE CINEMA HD
 https://z5ams.akamaized.net/zcinemahd/index.m3u8?hdnts=st=1594548809~exp=1594551809~acl=/*~hmac=adccad46ba97f28e99bf626d770ecd77586de8b7037652b16fe9f26c24399e2b
+#EXTINF:-1,IN: &PRIVE HD
+https://z5ams.akamaized.net/zcinemahd/index.m3u8?hdnts=st=1594548809~exp=1594551809~acl=/*~hmac=adccad46ba97f28e99bf626d770ecd77586de8b7037652b16fe9f26c24399e2b
+#EXTINF:-1,ME: ZEE CINEMA
+https://z5ams.akamaized.net/zeecinemame/index.m3u8?hdnts=st=1594549079~exp=1594552079~acl=/*~hmac=ede4cd1ba9512b2b1d18d5d972a84ea7f26d935461549184338fc3e555d0a4f3
+#EXTINF:-1,UK: ZEE CINEMA
+https://z5ams.akamaized.net/cinemauk/index.m3u8?hdnts=st=1594549349~exp=1594552349~acl=/*~hmac=e63676b4bb1cfb3909b580a2b526d992839f9884766ec28c181058d4a2e2b177
+#EXTINF:-1,IN: ZEE ACTION
+https://z5ams.akamaized.net/action/index.m3u8?hdnts=st=1594549349~exp=1594552349~acl=/*~hmac=e63676b4bb1cfb3909b580a2b526d992839f9884766ec28c181058d4a2e2b177
+#EXTINF:-1,IN: BABY TV
+http://34.65.99.24:2132/kids2019/babytv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDEwOjUwOjQ0IEFNJmhhc2hfdmFsdWU9SU5Wako0SlR3WWRxSW5OekVTMHJCUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: BIG MAGIC
+https://z5ams.akamaized.net/bigmagic/index.m3u8?hdnts=st=1594549619~exp=1594552619~acl=/*~hmac=706045e9c5e521b3365fc13199d3bb09fa203acf74bd2f43dfa78128ef41e451
+#EXTINF:-1,UK: BOOMERANG
+http://34.65.99.24:2132/kids2019/boomerang/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDEwOjU0OjQ3IEFNJmhhc2hfdmFsdWU9ZnhQU1U1Ty9JQno3M3AvK0JDdEQrZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: CARTOON NETWORK
+http://34.65.99.24:2132/kids2019/cartoonhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDEwOjU2OjQyIEFNJmhhc2hfdmFsdWU9dVhPZE15QXZDZVltS0dQcUNXUlRLQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,PK: CARTOON NETWORK
+http://34.65.99.24:2132/kids2019/cartoonnetpak/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDEwOjU3OjUzIEFNJmhhc2hfdmFsdWU9RWZDNExQd3diSWQ3VG8rWFN1Y1hOdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: DISCOVERY KIDS
+http://34.65.99.24:2132/kids2019/discoverykidshindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDEwOjU5OjI5IEFNJmhhc2hfdmFsdWU9VUl4UXdKTE95RjVEN1c3T0hPeUZyUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: DISNEY CHANNEL
+http://zer0live.hjkm.info:13292/neptune/disneychannelhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDExOjAyOjAwIEFNJmhhc2hfdmFsdWU9S0lzMkZ5UTV4Z3ptVXFua3Fwdk13QT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: HUNGAMA TV
+http://34.65.99.24:2132/kids2019/hungama/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDExOjA0OjMwIEFNJmhhc2hfdmFsdWU9OFp2WXhGZ2Rtb2tZamdJR2NoYzdQQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: MARBEL HQ
+http://34.65.99.24:2132/kids2019/marvelhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDExOjA2OjU3IEFNJmhhc2hfdmFsdWU9aU9iTHBycHZUOWdJQVhjSk9mb0JXdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: NICK
+http://34.65.99.24:2132/kids2019/nickelodeonhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDExOjA4OjU3IEFNJmhhc2hfdmFsdWU9RVBhbjJWNGxsdzd0NUpwTFJXTVNuZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,PK: NICK
+http://34.65.99.24:2132/kids2019/nickpak/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDExOjEwOjM2IEFNJmhhc2hfdmFsdWU9Q0YvT0JzNW0wYXZtL1g4KzNTUks0QT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,UK: NICK JR
+http://34.65.99.24:2132/kids2019/nickjr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDExOjEzOjI0IEFNJmhhc2hfdmFsdWU9ekRweDNSRW5IZGRLMHBBU25WV1U2QT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: POGO
+http://34.65.99.24:2132/kids2019/pogohindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDExOjE2OjAyIEFNJmhhc2hfdmFsdWU9SU1HcnRSdXJPWkhEQm05VUV6YndrZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: SONY YAY
+http://34.65.99.24:2132/kids2019/sonyyayhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDExOjE5OjE1IEFNJmhhc2hfdmFsdWU9bWtQbkgyVnpZVWw2UW12ajNGTDRCUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: WOW KIDS
+p://34.65.99.24:2132/kids2019/wowkidshindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDExOjIyOjExIEFNJmhhc2hfdmFsdWU9YVd3OXpLTncyL0xHeUZxNmJFSE15Zz09JnZhbGlkbWludXRlcz0y
