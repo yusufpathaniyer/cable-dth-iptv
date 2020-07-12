@@ -1777,3 +1777,4 @@ http://103.141.66.36/bpk-tv/10265/default/index.m3u8
 #EXTINF:-1,IN: ABP NEWS
 http://103.141.66.36/bpk-tv/10252/default/index.m3u8
 #EXTINF:-1,PK: HUM SITERY
+http://103.141.66.36/bpk-tv/10241/default/index.m3u8
