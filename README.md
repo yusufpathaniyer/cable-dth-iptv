@@ -1803,3 +1803,4 @@ http://103.141.66.36/bpk-tv/10180/default/index.m3u8
 #EXTINF:-1,IN: MTV BEATS
 http://103.141.66.36/bpk-tv/10178/default/index.m3u8
 #EXTINF:-1,IN: CARE WORLD
+http://103.141.66.36/bpk-tv/10176/default/index.m3u8
