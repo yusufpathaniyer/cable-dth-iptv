@@ -1791,3 +1791,4 @@ http://103.141.66.36/bpk-tv/10190/default/index.m3u8
 #EXTINF:-1,IN: COLORS HD
 http://103.141.66.36/bpk-tv/10189/default/index.m3u8
 #EXTINF:-1,PK: ARY FAMILY
+http://103.141.66.36/bpk-tv/10186/default/index.m3u8
