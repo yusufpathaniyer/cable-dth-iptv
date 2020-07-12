@@ -1810,9 +1810,19 @@ http://103.141.66.36/bpk-tv/10152/default/index.m3u8
 http://103.141.66.36/bpk-tv/10151/default/index.m3u8
 #EXTINF:-1,IN: 9XM JHAKASS
 http://103.141.66.36/bpk-tv/10141/default/index.m3u8
-#EXTINF:-1,IN: MOVIES PLUS 
+#EXTINF:-1,IN: MOVIE PLUS 
 http://103.141.66.36/bpk-tv/10138/default/index.m3u8
 #EXTINF:-1,IN: ENTER 10
 http://103.141.66.36/bpk-tv/10137/default/index.m3u8
 #EXTINF:-1,IN: MONURANJAN TV
 http://103.141.66.36/bpk-tv/10136/default/index.m3u8
+#EXTINF:-1,IN: MONURANJAN MOVIES
+http://103.141.66.36/bpk-tv/10127/default/index.m3u8
+#EXTINF:-1,IN: MTV
+http://103.141.66.36/bpk-tv/10110/default/index.m3u8
+#EXTINF:-1,IN: ZEE
+http://103.141.66.36/bpk-tv/10106/default/index.m3u8
+#EXTINF:-1,IN: ZING
+http://103.141.66.36/bpk-tv/10102/default/index.m3u8
+#EXTINF:-1,PK: PTV WORLD
+http://103.141.66.36/bpk-tv/10101/default/index.m3u8
