@@ -1826,3 +1826,4 @@ http://103.141.66.36/bpk-tv/10106/default/index.m3u8
 http://103.141.66.36/bpk-tv/10102/default/index.m3u8
 #EXTINF:-1,PK: PTV WORLD
 http://103.141.66.36/bpk-tv/10101/default/index.m3u8
+#EXTINF:-1,IN: ZEE CINEMA HD
