@@ -1771,3 +1771,4 @@ http://103.141.66.36/bpk-tv/10283/default/index.m3u8
 #EXTINF:-1,IN: B4U MUSIC
 http://103.141.66.36/bpk-tv/10282/default/index.m3u8
 #EXTINF:-1,IN: BIG MAGIC
+http://103.141.66.36/bpk-tv/10280/default/index.m3u8
