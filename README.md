@@ -1880,3 +1880,23 @@ http://185.149.90.126:4422/pak2020/hummasala/playlist.m3u8?wmsAuthSign=c2VydmVyX
 https://z5ams.akamaized.net/wion/index.m3u8?hdnts=st=1594638198~exp=1594641198~acl=/*~hmac=edba5275d2e54871c0badcc65eed934c6a9afe0542525ef53b2c3b9f5021933e
 #EXTINF:-1,IN: DIVYA TV
 https://z5ams.akamaized.net/divyatv/index.m3u8?hdnts=st=1594654291~exp=1594657291~acl=/*~hmac=ec6f6e35b2ee1ec315aad19e4dac1a7cc6ffdadd1f218de7e43043f615c74db5
+#EXTINF:-1,IN: SANSKAR TV
+https://z5ams.akamaized.net/sanskartv/index.m3u8?hdnts=st=1594654581~exp=1594657581~acl=/*~hmac=4a3e24a8d5cd49db795d8420177af38479776851a8e464b36134767867121af4
+#EXTINF:-1,UK: TV ONE
+http://185.149.90.92:3244/bangla2020/tvoneuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDQ6MDU6MTkgUE0maGFzaF92YWx1ZT1KU1lJempyT3B6NEw4bXB6b3hKMmVRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,IN: SATSANG
+https://z5ams.akamaized.net/satsangtv/index.m3u8?hdnts=st=1594654853~exp=1594657853~acl=/*~hmac=37709c5f15571f6510239a76b1eae7fea6828d34b1e5e56e54a6f82b702efc38
+#EXTINF:-1,IN: STAR SPORTS 3 VPN
+http://34.65.220.96:4747/sports2020/starsports3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDQ6MTc6NDkgUE0maGFzaF92YWx1ZT1RWXhxRVY1RmFHOGRrV21VeGdiRER3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,ME: COLORS vpn
+http://34.91.11.215:5675/ind2020/colorsme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDQ6MjM6MjUgUE0maGFzaF92YWx1ZT1nVXkxQlBIQzE0ZUttTHg0bDA5TkxRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,UK: COLORS vpn
+http://34.91.11.215:5675/ind2020/colorseurope/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDQ6MjQ6NDIgUE0maGFzaF92YWx1ZT1ucjYxMzVjMjU3ZDd2ZXhBbXdYQyt3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,IN: COLORS vpn
+http://34.91.11.215:5675/ind2020/colorsindia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDQ6MjU6NDUgUE0maGFzaF92YWx1ZT12a1BWRUcxZjBZYVN1Rlk3ZTRMeHVBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,IN: STAR UTSAV vpn
+http://34.91.11.215:5675/ind2020/starutsuv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDQ6Mjg6MjcgUE0maGFzaF92YWx1ZT01YURMRGQ2Rzc1MFYxM0hyek5reUFnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,IN: STAR PLUS VPN
+http://34.91.11.215:5675/ind2020/starplusin/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDQ6MzA6MDYgUE0maGFzaF92YWx1ZT0xdzNud2gwUFFqY1lyMHhqd1ArUkpRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,UK: ZEE TV
+https://z5ams.akamaized.net/zeetvsduk/index.m3u8?hdnts=st=1594656384~exp=1594659384~acl=/*~hmac=6de19ad4273de070623393d08b29a0801b217e4a1e82c9ac21bee8c911097724
