@@ -1874,3 +1874,7 @@ http://9c67d51b.akadatel.com/iptv/NAQ9GGSU4ACX5N/6196/index.m3u8
 https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
 #EXTINF:-1,ASIA: HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1,PK: HUM MASHALA
+http://185.149.90.126:4422/pak2020/hummasala/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDExOjIwOjQ1IEFNJmhhc2hfdmFsdWU9TmYxWEd1OUV2MjBJZHc1Q0ErMHFJQT09JnZhbGlkbWludXRlcz01
+#EXTINF:-1,IN: WION
+https://z5ams.akamaized.net/wion/index.m3u8?hdnts=st=1594638198~exp=1594641198~acl=/*~hmac=edba5275d2e54871c0badcc65eed934c6a9afe0542525ef53b2c3b9f5021933e
