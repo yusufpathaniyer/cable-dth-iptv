@@ -1865,4 +1865,12 @@ http://34.65.99.24:2132/kids2019/pogohindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 #EXTINF:-1,IN: SONY YAY
 http://34.65.99.24:2132/kids2019/sonyyayhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDExOjE5OjE1IEFNJmhhc2hfdmFsdWU9bWtQbkgyVnpZVWw2UW12ajNGTDRCUT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1,IN: WOW KIDS
-p://34.65.99.24:2132/kids2019/wowkidshindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDExOjIyOjExIEFNJmhhc2hfdmFsdWU9YVd3OXpLTncyL0xHeUZxNmJFSE15Zz09JnZhbGlkbWludXRlcz0y
+http://34.65.99.24:2132/kids2019/wowkidshindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDExOjIyOjExIEFNJmhhc2hfdmFsdWU9YVd3OXpLTncyL0xHeUZxNmJFSE15Zz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,INT: sex
+http://9c67d51b.akadatel.com/iptv/NAQ9GGSU4ACX5N/6220/index.m3u8
+#EXTINF:-1,INT: SEX
+http://9c67d51b.akadatel.com/iptv/NAQ9GGSU4ACX5N/6196/index.m3u8
+#EXTINF:-1,INT: SEX
+https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
+#EXTINF:-1,ASIA: HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
