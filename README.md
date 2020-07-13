@@ -1878,3 +1878,5 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 http://185.149.90.126:4422/pak2020/hummasala/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDExOjIwOjQ1IEFNJmhhc2hfdmFsdWU9TmYxWEd1OUV2MjBJZHc1Q0ErMHFJQT09JnZhbGlkbWludXRlcz01
 #EXTINF:-1,IN: WION
 https://z5ams.akamaized.net/wion/index.m3u8?hdnts=st=1594638198~exp=1594641198~acl=/*~hmac=edba5275d2e54871c0badcc65eed934c6a9afe0542525ef53b2c3b9f5021933e
+#EXTINF:-1,IN: DIVYA TV
+https://z5ams.akamaized.net/divyatv/index.m3u8?hdnts=st=1594654291~exp=1594657291~acl=/*~hmac=ec6f6e35b2ee1ec315aad19e4dac1a7cc6ffdadd1f218de7e43043f615c74db5
