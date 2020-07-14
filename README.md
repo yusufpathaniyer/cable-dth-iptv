@@ -1908,3 +1908,91 @@ https://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
 http://107.152.234.10:8080/indian/hindi-COLORSUK/index.m3u8
 #EXTINF:-1,IN: ZEE TV
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/zeetv/isml/index.m3u8
+#EXTINF:-1,UK: A PLUS vpn
+http://78.129.241.19:8554/hera/apluseu/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjAyOjEwIEFNJmhhc2hfdmFsdWU9MCsvZmw3NUxTSWlWcEppN0NpZEhzZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,UK: HUM vpn
+http://78.129.241.19:8554/hera/humeu/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjA2OjIyIEFNJmhhc2hfdmFsdWU9SDRUVkJuMWdvYzVIWFBiV05SdGJIdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: ARRE VPN
+http://dpasdl08.tth.cl:8745/eros/arre/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjA5OjQwIEFNJmhhc2hfdmFsdWU9NVptTUErQTFOMDJQNVBHOVAyd21PUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: BIG MAGIC vpn
+http://45.58.139.242:9630/toto/bigmagic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjExOjA5IEFNJmhhc2hfdmFsdWU9MWVtd0JNZzhBbU8wS1V6VEhKRnhnZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: UTV BINDASS VPN
+http://dpasdl08.tth.cl:8745/eros/utvbindaas/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjEyOjI3IEFNJmhhc2hfdmFsdWU9YmVBSmZUdzFRekJydGFIcHlrSnMxQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: COLORS HD VPN
+http://51.15.1.206:5432/xrdctfv/colorchd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjEzOjM1IEFNJmhhc2hfdmFsdWU9SS82b1lGYjdKSnhaNlJtL21MaXM5QT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: COLORS HD VPN
+http://dpasdl08.tth.cl:8745/eros/colorstvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjE1OjAzIEFNJmhhc2hfdmFsdWU9b3ZOYURGbkpuVnNMQzBKUlM4UHNpUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: COLORS VPN
+http://51.15.175.14:5432/miunyt/color/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjE2OjE2IEFNJmhhc2hfdmFsdWU9bmErUWVHNU4rTENLbkVydWxRRFV6dz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: COLORS VPN
+http://geni.ktk.si:49310/dione/colorsindia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjE3OjA2IEFNJmhhc2hfdmFsdWU9Mkxva2xadnIxMFZhL0EyeW5wdThpQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,ME: COLORS vpn
+http://45.58.139.242:9630/toto/colorstvme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjE4OjE1IEFNJmhhc2hfdmFsdWU9Zy9VVWZ3MWNVdTBqa3VsRGRGaGF4Zz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: COLORS VPN
+http://45.58.139.242:9630/toto/colorstv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjE5OjIzIEFNJmhhc2hfdmFsdWU9UWJ4RzNtbG1LNGl2YUd3QVZubE0yZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,UK: COLORS VPN
+http://45.58.139.242:9630/toto/colorstvuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjIwOjI4IEFNJmhhc2hfdmFsdWU9TUhiU243TXI5SXhLYzdoWGxkbzNoQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: COLORS VPN
+http://ediug.info.gf:63590/corpus/colorssd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjIxOjM2IEFNJmhhc2hfdmFsdWU9VUtLWjFNNE5WczU1dnRNazhLbmc5QT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: DANGAL VPN
+http://45.58.139.242:9630/toto/dangaaltv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjIzOjU1IEFNJmhhc2hfdmFsdWU9cTVtV3FKRldlaEhkeUs3ekFPUEhVUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: DD 1 VPN
+http://45.58.139.242:9630/toto/ddnational/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjI0OjUyIEFNJmhhc2hfdmFsdWU9VjljWDlKVktyUnl5N25nRllsaTgrZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: MTV PLUS HD VPN
+http://dpasdl08.tth.cl:8745/eros/mtvhdplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjI2OjA0IEFNJmhhc2hfdmFsdWU9dkpLVThoV290TEpKb1hSdWV4bVFFUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,ASIA: MTV INDIA VPN
+http://45.58.139.242:9630/toto/mtvindia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjI3OjAzIEFNJmhhc2hfdmFsdWU9bjdUUmpSV3lCd3ViV2lIb1ZrTWdwZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: MTV VPN
+http://dpasdl08.tth.cl:8745/eros/mtvindia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjI4OjQ5IEFNJmhhc2hfdmFsdWU9Y1doNGZZWUx0VGpjOTc4UnN2QXNDUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: RISHTEY VPN
+http://45.58.139.242:9630/toto/rishteyindia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjI5OjU1IEFNJmhhc2hfdmFsdWU9ZDRNczNadDRwZERZbDVSem0xekM2QT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,UK: RISHTEY vpn
+http://45.58.139.242:9630/toto/rishteyeu/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjMxOjEwIEFNJmhhc2hfdmFsdWU9MG1uQVlsMVRSWjBuWG41ZXpWc2dFQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,ME: RISHTEY VPN
+http://45.58.139.242:9630/toto/rishtayasia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjMyOjEyIEFNJmhhc2hfdmFsdWU9WW45U1NubTAxWld2ZXcyM2FLVTdxdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: SHAHARA ONE VPN
+http://80.243.180.72:5432/eos/saharaone/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjMzOjA5IEFNJmhhc2hfdmFsdWU9V1phQzhJanVLRUxRTE1YZVZ4Vk5jUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: SONY SAB VPN
+http://45.58.139.242:9456/xrdctfv/sonysab/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjM0OjM5IEFNJmhhc2hfdmFsdWU9UWFBQ2F0V1cxNkVpb1FKUFZOUjhUZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: SONY SAB VPN
+http://45.58.139.242:9630/toto/sonysabtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjM1OjQ0IEFNJmhhc2hfdmFsdWU9cWxYUVhIZTdrMXo3WXhYVEswdVNrQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,UK: SONY SAB vpn
+http://45.58.139.242:9630/toto/sonysabuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjM2OjU4IEFNJmhhc2hfdmFsdWU9Z2JMbE54ZUsya2lnWVF2Y2lnK3p6Zz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: SONY HD VPN
+http://195.154.119.3:5432/xrdctfv/sonysabhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjM4OjAzIEFNJmhhc2hfdmFsdWU9cHJYaVV6UjZOK2tZMDZLVWt4UjIrQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: SONY HD VPN
+http://45.58.139.242:9630/toto/sonysabhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjM5OjEyIEFNJmhhc2hfdmFsdWU9cUpBcjhWT1ZoODhjY3BXQ1BXanM0Zz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: SONY VPN
+http://45.58.139.242:9456/xrdctfv/sonytv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjQwOjMzIEFNJmhhc2hfdmFsdWU9eHFvWFZCTkJZUjZ4bUtEdkl2bXRDUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: SONY VPN
+http://dpasdl08.tth.cl:8745/eros/sonytv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjQxOjM2IEFNJmhhc2hfdmFsdWU9Ty9kbnZIOEhuSFErYkJNcFk4TWlUUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: SONY VPN
+http://geni.ktk.si:49310/dione/sonytvindia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjQzOjQ0IEFNJmhhc2hfdmFsdWU9bGtxMlBHVndWS21zWkdnNmFSbVM3QT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: SONY HD VPN
+http://51.15.175.14:5432/xrdctfv/sonytvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjQ1OjUxIEFNJmhhc2hfdmFsdWU9bjFRN0IvTnYzM2JzZjE1NzJXMFNCUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: SONY HD VPN
+http://45.58.139.242:9630/toto/sonytvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjQ2OjUzIEFNJmhhc2hfdmFsdWU9UmUzSDlvdWFqRXJMRUNmTzZuMnMrUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,ME: STAR BHARAT VPN
+http://dpasdl08.tth.cl:8745/eros/starbharatme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjUxOjQ0IEFNJmhhc2hfdmFsdWU9bEI3Q0I1aTZiMmY3Z0NqZGdNV25Idz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: STAR BHARAT HD VPN
+http://dpasdl08.tth.cl:8745/eros/starbharathd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjU0OjE3IEFNJmhhc2hfdmFsdWU9dERqRjRjTGpYMDd6aElmZFF1MVFtQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,UK: STAR BHARAT VPN
+http://dpasdl08.tth.cl:8745/eros/starbharatuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjU0OjUzIEFNJmhhc2hfdmFsdWU9N1UzS1k3dlR1RnQyZ1hjaDNiSmdkUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: STAR PLUS VPN
+http://dpasdl08.tth.cl:8745/eros/starplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjU1OjU4IEFNJmhhc2hfdmFsdWU9cldKSDNYZ0tQRHhBQWxEK0dqaXlaQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,ME: STAR PLUS VPN
+http://dpasdl08.tth.cl:8745/eros/starplusme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjU3OjI3IEFNJmhhc2hfdmFsdWU9Wng4RzJIQ1dMWCt3bldHY0dmVU1nQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,UK: STAR PLUS vpn
+http://dpasdl08.tth.cl:8745/eros/starplusuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjU5OjAzIEFNJmhhc2hfdmFsdWU9a1g4K2ZDRTI0Ylc3eS8wTkprT3d4Zz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: STAR PLUS HD VPN
+http://dpasdl08.tth.cl:8745/eros/starplushd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjU5OjQ1IEFNJmhhc2hfdmFsdWU9blF5T0dBZXF5SFdrNjQ3MGMxYTR3dz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: STAR USTAV VPN
+http://dpasdl08.tth.cl:8745/eros/starutsav/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjAwOjQ5IFBNJmhhc2hfdmFsdWU9TWdjRFdXQVgxM3VIZVF0ZWs2WTV5dz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: ZEE ANMOL VPN
+http://dpasdl08.tth.cl:8745/eros/zeeanmol/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjAxOjUxIFBNJmhhc2hfdmFsdWU9dmtLM2Fxa1V3YWYrdWJnOHN5aGJxUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: ZEE TV VPN
+http://51.15.1.206:5432/xrdctfv/zeet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjAzOjIzIFBNJmhhc2hfdmFsdWU9Q3hQcTduTkVWSndHWWpDTlBEOVlJZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: ZEE TV VPN
+http://dpasdl08.tth.cl:8745/eros/zeetv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjA0OjMzIFBNJmhhc2hfdmFsdWU9RVpGQmRrVDdnV05rUXZYcm44K0JVUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,UK: ZEE TV VPN
+http://dpasdl08.tth.cl:8745/eros/zeetvuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjA1OjM0IFBNJmhhc2hfdmFsdWU9UWR2OWF1cnQ1aVJ3Z2lCRFNrWnllUT09JnZhbGlkbWludXRlcz0y
