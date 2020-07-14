@@ -1904,3 +1904,5 @@ https://z5ams.akamaized.net/zeetvsduk/index.m3u8?hdnts=st=1594656384~exp=1594659
 http://zer0live.hjkm.info:13292/neptune/b4umusic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDQ6NDA6NTYgUE0maGFzaF92YWx1ZT1PTnJwL1duK2MvWjhoYU5KeEtsZnZ3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,ASIA: BBC EARTH
 https://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
+#EXTINF:-1,UK: COLORS
+http://107.152.234.10:8080/indian/hindi-COLORSUK/index.m3u8
