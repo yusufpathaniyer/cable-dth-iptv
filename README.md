@@ -1996,3 +1996,19 @@ http://51.15.1.206:5432/xrdctfv/zeet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9N
 http://dpasdl08.tth.cl:8745/eros/zeetv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjA0OjMzIFBNJmhhc2hfdmFsdWU9RVpGQmRrVDdnV05rUXZYcm44K0JVUT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1,UK: ZEE TV VPN
 http://dpasdl08.tth.cl:8745/eros/zeetvuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjA1OjM0IFBNJmhhc2hfdmFsdWU9UWR2OWF1cnQ1aVJ3Z2lCRFNrWnllUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,US: E!
+http://dpasdl08.tth.cl:8745/thana/eentertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjA4OjE3IFBNJmhhc2hfdmFsdWU9N1JLQ1VyRVFEZXpvR09sUE45VkhCZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,US: FX
+http://stream.tvtap.live:8081/live/us-fx.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjEwOjM2IFBNJmhhc2hfdmFsdWU9ZlNIT0l3M0U1U2svSWt5TGxIbmtUdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1,US: TLC
+http://dpasdl08.tth.cl:8745/thana/tlc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjEyOjExIFBNJmhhc2hfdmFsdWU9TVBhRlhmeTVRdXh1d2M4Z2R2Rmtzdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,US: VH1
+http://dpasdl08.tth.cl:8745/thana/vh1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjEzOjE5IFBNJmhhc2hfdmFsdWU9Z05DVCtOK1NCczBqdkpCQ1pzT0FMZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,UK: BBC ENTERTAINMENT
+http://stream.tvtap.live:8081/live/bbcent.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjE0OjQxIFBNJmhhc2hfdmFsdWU9ZGp1NVRSN1lVMWVRZ1VmMHl0MVZkdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1,UK: COMEDY CENTRAL
+http://stream.tvtap.live:8081/live/cc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjE3OjEzIFBNJmhhc2hfdmFsdWU9TjVrUlAwTFRUNzI5QjdYZldnM0Y0UT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1,UK: MTV
+http://45.58.139.242:9630/libris/MTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjE4OjM2IFBNJmhhc2hfdmFsdWU9VUxDYU1BTVVVdktVL3NtTnFFbEJNZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,UK: TLC
+http://45.58.139.242:9630/libris/TLC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjE5OjQ1IFBNJmhhc2hfdmFsdWU9VHZXU2tRL1dhTTlEeklRcFBhb2tyQT09JnZhbGlkbWludXRlcz0y
