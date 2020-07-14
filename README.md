@@ -1901,4 +1901,6 @@ http://34.91.11.215:5675/ind2020/starplusin/playlist.m3u8?wmsAuthSign=c2VydmVyX3
 #EXTINF:-1,UK: ZEE TV
 https://z5ams.akamaized.net/zeetvsduk/index.m3u8?hdnts=st=1594656384~exp=1594659384~acl=/*~hmac=6de19ad4273de070623393d08b29a0801b217e4a1e82c9ac21bee8c911097724
 #EXTINF:-1,UK: B4U MUSIC
-zer0live.hjkm.info:13292/neptune/b4umusic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDQ6NDA6NTYgUE0maGFzaF92YWx1ZT1PTnJwL1duK2MvWjhoYU5KeEtsZnZ3PT0mdmFsaWRtaW51dGVzPTI=
+http://zer0live.hjkm.info:13292/neptune/b4umusic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDQ6NDA6NTYgUE0maGFzaF92YWx1ZT1PTnJwL1duK2MvWjhoYU5KeEtsZnZ3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,ASIA: BBC EARTH
+https://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
