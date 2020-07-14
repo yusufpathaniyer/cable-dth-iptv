@@ -1906,3 +1906,5 @@ http://zer0live.hjkm.info:13292/neptune/b4umusic/playlist.m3u8?wmsAuthSign=c2Vyd
 https://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
 #EXTINF:-1,UK: COLORS
 http://107.152.234.10:8080/indian/hindi-COLORSUK/index.m3u8
+#EXTINF:-1,IN: ZEE TV
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/zeetv/isml/index.m3u8
