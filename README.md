@@ -2078,3 +2078,57 @@ http://dpasdl08.tth.cl:8745/thana/CNBC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 https://1636691764.rsc.cdn77.org/W3B_5_qfmbWU9hdyyF66ag==,1594818250/LS-ATL-54548-11/index.m3u8
 #EXTINF:-1,US: RT 
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1594833015/ei/F-QOX6f2N6TOz7sPrPKmkAU/ip/45.10.234.221/id/hdUUwBizbIw.0/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r2---sn-npoeenez.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/7140/mh/0-/mm/44/mn/sn-npoeenez/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/mt/1594811357/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAJotu2dV4EnLv0nLChd2ZjD3C1_Io6N2lziQldlSTYBqAiEA0W3cRU0iOr0NHus38dpgc6Aak-R3hOlvvxz6uG3__zU%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAJaynBCdwMZvK-fXIqAExT4xXClnjLHpqzDaTo4Ln_JMAiEA3eXGR6UMNCIAhcxCW9JR_CdmtaTYysul2VE6qVv6Zfg%3D/playlist/index.m3u8
+#EXTINF:-1,PK: GEO SUPER
+http://51.15.175.14:5432/xrdctfv/gsuper/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjExOjM5IEFNJmhhc2hfdmFsdWU9V0VmRW93RUVSYU96T1RXdHk5dG9DUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,PK: GEO SUPER
+http://ediug.info.gf:63590/corpus/geosuper/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjEyOjU5IEFNJmhhc2hfdmFsdWU9TzlwenZKci9YVmthTXhEVVk2N1JKdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,PK: PTV NEWS
+http://163.172.58.208:5432/xrdctfv/ptvsp/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjE0OjU3IEFNJmhhc2hfdmFsdWU9clg4UjdoeGpxUFp4bWdqY0ljVkNkdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,PK: TEN SPORTS
+http://45.58.139.242:9456/xrdctfv/tens/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjE2OjE0IEFNJmhhc2hfdmFsdWU9SnJzUkZROGtMb2xENnRjTkhSakhnUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,PK: TEN SPORTS
+http://ediug.info.gf:63590/corpus/tensports/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjE4OjA4IEFNJmhhc2hfdmFsdWU9aFVNZVBHRy9MVTAxZnlFWnNMUk1uQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: DD RETRO
+http://51.15.1.206:5432/xrdctfv/ddsp/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjE5OjM2IEFNJmhhc2hfdmFsdWU9KzBjUERteStTU2NaeU5yQ20vYkc2Zz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: STAR SPORTS 2 HD
+http://dpasdl08.tth.cl:8745/eros/starsports1hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjIyOjMzIEFNJmhhc2hfdmFsdWU9NFhWdUNwYXpsTk0rRlFkRXlBRHN3QT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: STAR SPORTS SELECTED 1
+http://dpasdl08.tth.cl:8745/eros/starsportsselect1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjIzOjQ0IEFNJmhhc2hfdmFsdWU9NVFOWFFBNEpVU1A4NnVnQmhqeWNVQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: STAR SPORTS SELECT 2
+http://dpasdl08.tth.cl:8745/eros/starsportsselect2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjI1OjE4IEFNJmhhc2hfdmFsdWU9ZndBTUkwcHdYK25xQVZWai9qNVRhdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: STAR SPORTS 1 HINDI
+http://dpasdl08.tth.cl:8745/eros/starsports1hindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjI3OjM1IEFNJmhhc2hfdmFsdWU9OXBiYk54U045WEVMMHU2QmhUa04wUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: STAR SPORTS 2
+http://dpasdl08.tth.cl:8745/eros/starsports2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjI4OjM3IEFNJmhhc2hfdmFsdWU9cXM1NThaWkNEaGpsYlhMTzRzVkdaQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: STAR SPORTS 3
+http://dpasdl08.tth.cl:8745/eros/ssp3new/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjI5OjM3IEFNJmhhc2hfdmFsdWU9MS9wS01XdkxUeWdack5od1U0TlRFZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: LORD BHUDHA
+http://dpasdl08.tth.cl:8745/eros/starsportsfirst/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjMwOjMwIEFNJmhhc2hfdmFsdWU9SnpmZ2c0NE1YNkcyN2gydmQzTTZGUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,INT: ASTRO CRICKET
+http://51.15.1.206:5432/xrdctfv/astrocric/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjMzOjA0IEFNJmhhc2hfdmFsdWU9RC9hcU00Z2F0bTVjWDl4TnB1cnppQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,US: BEIN SPORTS HD
+http://195.154.108.53:5432/xrdctfv/beinspusa/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjM0OjEwIEFNJmhhc2hfdmFsdWU9azRZVjNKOGduL20ycnNYTzZLUE1RZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,US: BTN
+http://dpasdl08.tth.cl:8745/thana/bigten/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjM1OjQwIEFNJmhhc2hfdmFsdWU9TktHNEtNQS9SM3E4andQdjJpMjdDdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,US: ESPN
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjQyOjUxIEFNJmhhc2hfdmFsdWU9T0VuWHEyMm9pZ2NJUEhEU25jQTd5dz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1,US: ESPN
+http://ediug.info.gf:63590/alibi/ESPN1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjQzOjUzIEFNJmhhc2hfdmFsdWU9Vmp6anp1bWdHOHBCZ0paLzAwMklFQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,US: FREE SPORTS
+http://dpasdl08.tth.cl:8745/hades/freesports/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjQ0OjU0IEFNJmhhc2hfdmFsdWU9K05SVjI3M2dOQyt6RjRxUDBCVG5sUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,US: GOLF
+http://80.243.180.72:5432/eos/nbcgolf/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjQ5OjI3IEFNJmhhc2hfdmFsdWU9RjRGcSsvQ1dSdzQ5bUhMYnFvcWNkUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,US: PERIAM SPORTS
+http://ediug.info.gf:63590/alibi/premire/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjUwOjI3IEFNJmhhc2hfdmFsdWU9Yy8rUmZPd2xHRGlGR1h4aVh2RXlWdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,US: SPORTS NET WORLD
+http://ediug.info.gf:63590/corpus/sportsnetworld/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjUyOjAxIEFNJmhhc2hfdmFsdWU9U055ZG5NWmtPZnZXWjgvanl2Y3VKdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,US: WILLOW HD
+http://51.15.175.14:5432/xrdctfv/whd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjU0OjI2IEFNJmhhc2hfdmFsdWU9NFgvTVg5aCt1T3gzZHdWdnRuMGdMQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,US: WWE
+http://195.154.108.53:5432/xrdctfv/wwe/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjU1OjMxIEFNJmhhc2hfdmFsdWU9a3IrQVY1Yk9WOC85cGV6WmZkQkdCZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,US: WWE
+http://ediug.info.gf:63590/corpus/wwesd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjU2OjMwIEFNJmhhc2hfdmFsdWU9UFA3OUNJSGtoLzk3RUFmL0xjM2lqdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,UK: RACING
+http://195.154.108.53:5432/xrdctfv/racinguk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjU3OjUwIEFNJmhhc2hfdmFsdWU9NXloRVpJVGxCUGFkZ2tYL0tvTzNCZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,UK:SKY SPORTS RACING
+http://45.58.139.242:9456/xrdctfv/atraces/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjU4OjUyIEFNJmhhc2hfdmFsdWU9T3hSUllSVTAyT3pDbVlWZnBSejhqZz09JnZhbGlkbWludXRlcz0y
