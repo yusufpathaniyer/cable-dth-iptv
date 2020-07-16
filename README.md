@@ -1730,8 +1730,6 @@ http://34.65.21.163:5675/ind2020/sabtvasia/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 http://34.65.21.163:5675/ind2020/sabtvuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6MjQ6NDUgUE0maGFzaF92YWx1ZT1NYVBwcXRvZnRKK0pmZVJsVitEZDFBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,USA: ZEE TV
 http://34.65.21.163:5675/ind2020/sabtvuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6MjQ6NDUgUE0maGFzaF92YWx1ZT1NYVBwcXRvZnRKK0pmZVJsVitEZDFBPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,CA: ZEE TV
-https://z5ams.akamaized.net/canadahd/index.m3u8?hdnts=st=1594472335~exp=1594475335~acl=/*~hmac=615e62f04d4633b4aecf90d153c348ece4f56a657dd3c25e06f4e0684dd535fe
 #EXTINF:-1,ASIA: ZEE TV
 https://z5ams.akamaized.net/apacsea/index.m3u8?hdnts=st=1594472605~exp=1594475605~acl=/*~hmac=98fd490e4e4f437ba69cdcfd4976db5cc3375f0b69c3bb53aa76680f1f37309a
 #EXTINF:-1,IN: & PICTURES HD
@@ -1830,10 +1828,6 @@ http://103.141.66.36/bpk-tv/10101/default/index.m3u8
 https://z5ams.akamaized.net/zcinemahd/index.m3u8?hdnts=st=1594548809~exp=1594551809~acl=/*~hmac=adccad46ba97f28e99bf626d770ecd77586de8b7037652b16fe9f26c24399e2b
 #EXTINF:-1,IN: &PRIVE HD
 https://z5ams.akamaized.net/zcinemahd/index.m3u8?hdnts=st=1594548809~exp=1594551809~acl=/*~hmac=adccad46ba97f28e99bf626d770ecd77586de8b7037652b16fe9f26c24399e2b
-#EXTINF:-1,ME: ZEE CINEMA
-https://z5ams.akamaized.net/zeecinemame/index.m3u8?hdnts=st=1594549079~exp=1594552079~acl=/*~hmac=ede4cd1ba9512b2b1d18d5d972a84ea7f26d935461549184338fc3e555d0a4f3
-#EXTINF:-1,UK: ZEE CINEMA
-https://z5ams.akamaized.net/cinemauk/index.m3u8?hdnts=st=1594549349~exp=1594552349~acl=/*~hmac=e63676b4bb1cfb3909b580a2b526d992839f9884766ec28c181058d4a2e2b177
 #EXTINF:-1,IN: ZEE ACTION
 https://z5ams.akamaized.net/action/index.m3u8?hdnts=st=1594549349~exp=1594552349~acl=/*~hmac=e63676b4bb1cfb3909b580a2b526d992839f9884766ec28c181058d4a2e2b177
 #EXTINF:-1,IN: BABY TV
