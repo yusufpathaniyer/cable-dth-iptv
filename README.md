@@ -2126,3 +2126,5 @@ http://ediug.info.gf:63590/corpus/wwesd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 http://195.154.108.53:5432/xrdctfv/racinguk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjU3OjUwIEFNJmhhc2hfdmFsdWU9NXloRVpJVGxCUGFkZ2tYL0tvTzNCZz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1,UK:SKY SPORTS RACING
 http://45.58.139.242:9456/xrdctfv/atraces/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjU4OjUyIEFNJmhhc2hfdmFsdWU9T3hSUllSVTAyT3pDbVlWZnBSejhqZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,IN: SONY MAX HD
+http://jiocdn.fun/sonyliv/liv.php?c=4867313348001&e=.m3u8
