@@ -2152,3 +2152,7 @@ http://193.64.188.131:8021/bysid/449
 https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
 #EXTINF:-1,NEPAL: FLIMY BUZZ
 http://stream-e30453a4b.nmbs.top/m3u/Nepal/6a45212329.m3u8
+#EXTINF:-1,IN: SONY TEN 1
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+#EXTINF:-1,IN: STAR MOVIES
+https://stream.amrbd.com/kn7a/index.m3u8
