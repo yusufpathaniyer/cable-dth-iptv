@@ -2134,3 +2134,5 @@ https://stream.amrbd.com/AndPicturesHD/index.m3u8
 https://stream.amrbd.com/kn6a/index.m3u8
 #EXTINF:-1,IN: STAR SPORTS 2 HD
 https://stream.amrbd.com/kn2a/index.m3u8
+#EXTINF:-1,IN: SONY HD
+http://heela.ddns.net:2700/live/sonyindia/index.m3u8
