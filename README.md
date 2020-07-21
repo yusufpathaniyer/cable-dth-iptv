@@ -2150,3 +2150,5 @@ http://tv-cdn.ihub.live:8080/j-StarPlusHD/tracks-v1a1/mono.m3u8
 http://193.64.188.131:8021/bysid/449
 #EXTINF:-1,ASIA: DISCOVERY HISTORY
 https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
+#EXTINF:-1,NEPAL: FLIMY BUZZ
+http://stream-e30453a4b.nmbs.top/m3u/Nepal/6a45212329.m3u8
