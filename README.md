@@ -2128,3 +2128,9 @@ http://195.154.108.53:5432/xrdctfv/racinguk/playlist.m3u8?wmsAuthSign=c2VydmVyX3
 http://45.58.139.242:9456/xrdctfv/atraces/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjU4OjUyIEFNJmhhc2hfdmFsdWU9T3hSUllSVTAyT3pDbVlWZnBSejhqZz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1,IN: SONY MAX HD
 http://jiocdn.fun/sonyliv/liv.php?c=4867313348001&e=.m3u8
+#EXTINF:-1,IN: &PICTURES HD
+https://stream.amrbd.com/AndPicturesHD/index.m3u8
+#EXTINF:-1,IN: ANIMAL PLANET
+https://stream.amrbd.com/kn6a/index.m3u8
+#EXTINF:-1,IN: STAR SPORTS 2 HD
+https://stream.amrbd.com/kn2a/index.m3u8
