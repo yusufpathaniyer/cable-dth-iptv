@@ -2138,3 +2138,15 @@ https://stream.amrbd.com/kn2a/index.m3u8
 http://heela.ddns.net:2700/live/sonyindia/index.m3u8
 #EXTINF:-1,IN: SONY HD
 http://tv-cdn.ihub.live:8080/j-SonyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: STAR GOLD HD
+http://tv-cdn.ihub.live:8080/j-StarGoldHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ASIA: FOX
+http://193.64.188.131:8021/bysid/529
+#EXTINF:-1,UK: STAR BHARAT
+http://tv-cdn.ihub.live:8080/j-StarBharat/tracks-v1a1/mono.m3u8
+#EXTINF:-1,UK: STAR PLUS HD
+http://tv-cdn.ihub.live:8080/j-StarPlusHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ASIA: NAT GEO
+http://193.64.188.131:8021/bysid/449
+#EXTINF:-1,ASIA: DISCOVERY HISTORY
+https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
