@@ -2170,8 +2170,10 @@ http://indtv.online/Sony_Sab_HD.m3u8
 http://indtv.online/Sony_Pix_HD.m3u8
 #EXTINF:-1,IN: ZEE CINEMA HD
 http://indtv.online/Zee_Cinema_HD.m3u8
-EXTINF:-1,IN: & TV
+#EXTINF:-1,IN: & TV
 http://103.205.133.19/hls/andtv.m3u8
-EXTINF:-1,IN: ZEE TV
+#EXTINF:-1,IN: ZEE TV
 http://103.205.133.19/hls/zeetv.m3u8
+#EXTINF:-1,IN: STAR SPORTS 1 HD
+http://87.117.234.107:1935/live/StarSports1FHD/playlist.m3u8
 
