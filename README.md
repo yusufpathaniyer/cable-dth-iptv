@@ -2170,4 +2170,8 @@ http://indtv.online/Sony_Sab_HD.m3u8
 http://indtv.online/Sony_Pix_HD.m3u8
 #EXTINF:-1,IN: ZEE CINEMA HD
 http://indtv.online/Zee_Cinema_HD.m3u8
+EXTINF:-1,IN: & TV
+http://103.205.133.19/hls/andtv.m3u8
+EXTINF:-1,IN: ZEE TV
+http://103.205.133.19/hls/zeetv.m3u8
 
