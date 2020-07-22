@@ -2156,3 +2156,19 @@ http://stream-e30453a4b.nmbs.top/m3u/Nepal/6a45212329.m3u8
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1,IN: STAR MOVIES
 https://stream.amrbd.com/kn7a/index.m3u8
+#EXTINF:-1,IN: ZEE TV HD
+http://indtv.online/Zee_TV_HD.m3u8
+#EXTINF:-1,IN: & TV HD
+http://indtv.online/And_TV_HD.m3u8
+#EXTINF:-1,IN: SONY TV HD
+http://indtv.online/Sony_HD.m3u8
+#EXTINF:-1,IN: SONY MAX HD
+http://indtv.online/Sony_Max_HD.m3u8
+#EXTINF:-1,IN: SONY SAB HD
+http://indtv.online/Sony_Sab_HD.m3u8
+#EXTINF:-1,IN: SONY PIX HD
+http://indtv.online/Sony_Pix_HD.m3u8
+#EXTINF:-1,IN: ZEE CINEMA HD
+http://indtv.online/Zee_Cinema_HD.m3u8
+#EXTINF:-1,IN: SONY PIX HD
+http://indtv.online/Sony_Pix_HD.m3u8
