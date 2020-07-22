@@ -2196,3 +2196,7 @@ http://103.141.66.36/bpk-tv/10180/default/index.m3u8
 http://103.141.66.36/bpk-tv/10182/default/index.m3u8
 #EXTINF:-1,IN: STAR JALSHA HD
 http://103.141.66.36/bpk-tv/10234/default/index.m3u8
+#EXTINF:-1,IN: COLORS HD
+http://103.141.66.36/bpk-tv/10189/default/index.m3u8
+#EXTINF:-1,IN: ZEE BANGLA
+http://103.141.66.36/bpk-tv/10185/default/index.m3u8
