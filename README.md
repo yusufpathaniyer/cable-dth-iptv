@@ -2176,4 +2176,6 @@ http://103.205.133.19/hls/andtv.m3u8
 http://103.205.133.19/hls/zeetv.m3u8
 #EXTINF:-1,IN: STAR SPORTS 1 HD
 http://87.117.234.107:1935/live/StarSports1FHD/playlist.m3u8
+#EXTINF:-1,IN: STAR SPORTS SELECT 1 HD
+http://87.117.234.107:1935/live/StarSports2FHD/playlist.m3u8
 
