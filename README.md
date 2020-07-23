@@ -2206,3 +2206,5 @@ https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 http://103.141.66.36/bpk-tv/10430/default/index.m3u8
 #EXTINF:-1,IN: SAMAROO TV
 http://103.141.66.36/bpk-tv/10313/default/index.m3u8
+#EXTINF:-1,IN: AAJ TAK
+http://103.141.66.36/bpk-tv/10311/default/index.m3u8
