@@ -2208,3 +2208,7 @@ http://103.141.66.36/bpk-tv/10430/default/index.m3u8
 http://103.141.66.36/bpk-tv/10313/default/index.m3u8
 #EXTINF:-1,IN: AAJ TAK
 http://103.141.66.36/bpk-tv/10311/default/index.m3u8
+#EXTINF:-1,IN: & FLIX
+http://103.141.66.36/bpk-tv/10304/default/index.m3u8
+#EXTINF:-1,IN: NDTV INDIA
+http://103.141.66.36/bpk-tv/10305/default/index.m3u8
