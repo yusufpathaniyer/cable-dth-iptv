@@ -2212,3 +2212,7 @@ http://103.141.66.36/bpk-tv/10311/default/index.m3u8
 http://103.141.66.36/bpk-tv/10304/default/index.m3u8
 #EXTINF:-1,IN: NDTV INDIA
 http://103.141.66.36/bpk-tv/10305/default/index.m3u8
+#EXTINF:-1,IN: SONY PAL
+http://indtv.online/Sony_PAL.m3u8
+#EXTINF:-1,IN: SONY SAB
+http://indtv.online/Sony_SAB.m3u8
