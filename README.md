@@ -2218,3 +2218,9 @@ http://indtv.online/Sony_PAL.m3u8
 http://indtv.online/Sony_SAB.m3u8
 #EXTINF:-1,IN: SONY BBC EARTH HD
 http://indtv.online/Sony_BBC_Earth_HD.m3u8
+#EXTINF:-1,IN: JIO BOLLYWOOD HD
+http://indtv.online/EROSNOW_Hindi_Premium.m3u8
+#EXTINF:-1,ME: ZEE TV HD
+http://z5amshls.akamaized.net/ztvme/tracks-v1a1/index.m3u8
+#EXTINF:-1,IN: FOOD FOOD
+http://103.141.66.36/bpk-tv/10014/default/index.m3u8
