@@ -2216,3 +2216,5 @@ http://103.141.66.36/bpk-tv/10305/default/index.m3u8
 http://indtv.online/Sony_PAL.m3u8
 #EXTINF:-1,IN: SONY SAB
 http://indtv.online/Sony_SAB.m3u8
+#EXTINF:-1,IN: SONY BBC EARTH HD
+http://indtv.online/Sony_BBC_Earth_HD.m3u8
