@@ -1874,3 +1874,9 @@ http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8?
 https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
 #EXTINF:-1,IN: ASIANET NEWS
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8
+#EXTINF:-1,IN: SONY TEN 1
+http://indtv.online/Ten_1.m3u8
+#EXTINF:-1,IN: SONY TEN 2
+http://indtv.online/Ten_2.m3u8
+#EXTINF:-1,IN: SONY TEN 3
+http://indtv.online/Ten_3.m3u8
