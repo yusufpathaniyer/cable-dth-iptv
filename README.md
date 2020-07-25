@@ -1866,3 +1866,5 @@ https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/playlis
 http://203.154.243.32:8088/live/wanimal/index.m3u8
 #EXTINF:-1,US: BULL
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
+#EXTINF:-1,IN: SURYA CHAMACHAR
+http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
