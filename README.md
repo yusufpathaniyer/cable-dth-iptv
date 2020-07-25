@@ -2224,3 +2224,9 @@ http://indtv.online/EROSNOW_Hindi_Premium.m3u8
 http://z5amshls.akamaized.net/ztvme/tracks-v1a1/index.m3u8
 #EXTINF:-1,IN: FOOD FOOD
 http://103.141.66.36/bpk-tv/10014/default/index.m3u8
+#EXTINF:-1,IN: ZEE TV
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
+#EXTINF:-1,IN: Comedy Telugu
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/playlist.m3u8
+#EXTINF:-1,CHA: ANIMAL
+http://203.154.243.32:8088/live/wanimal/index.m3u8
