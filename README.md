@@ -759,34 +759,6 @@ http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:-1,IN: &PICTURES HD
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
-#EXTINF:-1,ASIA: DISNEY CHANNEL
-https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=uLys6&v=20200308
-#EXTINF:-1,USA: AAPKA COLORS
-http://185.246.209.251:9090/colors/index.m3u8?token=test
-#EXTINF:-1,USA: RISHTEY
-http://185.246.209.251:9090/rishtey/index.m3u8?token=test
-#EXTINF:-1,IN: STAR PLUS HD
-http://185.246.209.251:9090/starplus/index.m3u8?token=test
-#EXTINF:-1,USA: SONY PAL
-http://185.246.209.251:9090/sonypal/index.m3u8?token=test
-#EXTINF:-1,USA: SONY
-http://185.246.209.251:9090/sony/index.m3u8?token=test
-#EXTINF:-1,USA: ZEE TV HD
-http://185.246.209.251:9090/zeetv/index.m3u8?token=test
-#EXTINF:-1,USA: SONY PIX HD
-http://185.246.209.251:9090/sonypix/index.m3u8?token=test
-#EXTINF:-1,zoom HD
-http://185.246.209.251:9090/zoom/index.m3u8?token=test
-#EXTINF:-1,zeetv HD
-http://185.246.209.251:9090/zeetv/index.m3u8?token=test
-#EXTINF:-1,starworld HD
-http://185.246.209.251:9090/starworld/index.m3u8?token=test
-#EXTINF:-1,zeebusiness
-http://185.246.209.251:9090/zeebusiness/index.m3u8?token=test
-#EXTINF:-1,Zing
-http://185.246.209.251:9090/zing/index.m3u8?token=test
-#EXTINF:-1,Zee News
-http://185.246.209.251:9090/zeenews/index.m3u8?token=test
 #EXTINF:-1,UK: BABES TV
 http://srv1.roshen.live/BM9Oj6yvsL/mpegts?token=bjDdTFdybdh4ugVg
 #EXTINF:-1,ME: ENGLISH CLUB TV
