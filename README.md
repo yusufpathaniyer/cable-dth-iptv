@@ -647,7 +647,6 @@ http://220.158.149.28:8180/TV00000000000000000112@HHZT
 https://video.sekindo.com/blocktv/ch1/tracks-v3a1/mono.m3u8
 #EXTINF:-1,USA: Popular Science
 http://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
-#EXTINF:-1,INT: BULhttps://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
 #EXTINF:-1,BBC 2
 http://80.32.125.233:8000/play/a002/index.m3u8
 #EXTINF:-1,ITV 1
@@ -672,22 +671,14 @@ http://54.39.105.133:25461/live/Galaxy/Fubo/63.m3u8
 http://91.126.39.98:8086/udp/224.168.32.2:3202
 #EXTINF:-1,RU: DISCOVERY HD
 http://91.126.39.98:8086/udp/224.169.11.247:3247
-#EXTINF:-1,ID: DISCOVERY CHANNEL
-https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=gratisan
-#EXTINF:-1,APAC: ZEE TV
-https://delivery.macan.live/stream/zeetv/index.m3u8?token=gratisan
 #EXTINF:-1,ME: Adjarasport TV
 https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
-#EXTINF:-1,UK: DISCOVERY
-http://212.0.215.106/Discovery/mpegts?checkedby:www.iptvcat.com
-#EXTINF:-1,INT: AUTOMOTO TV
-https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/chunklist.m3u8
+#EXTINF:-1,RU: AUTOMOTO TV
+https://dotfvxkfj90ca.cloudfront.net/gautomototv_aac/chunklist.m3u8
 #EXTINF:-1,USA: MORNING STAR TV
 http://morningside-lh.akamaihd.net/i/jblive_1@303354/index_2008_av-p.m3u8
 #EXTINF:-1,INT: WF TV
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
-#EXTINF:-1,INT: HUSTLER HD
-http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hwVv4Mb5yarbaGHAIfET&uid=491
 #EXTINF:-1,INT: BBC WORLD NEWS
 http://178.217.72.66/225.201.2.156/tracks-v1a1/mono.m3u8
 #EXTINF:-1,UK: ITV
@@ -698,11 +689,9 @@ https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
 https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
 #EXTINF:-1,JP: NHK WORLD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1,ASIA: NAT GEO
-http://bbdd.228888888.xyz:8081/hls/ch316.m3u8
 #EXTINF:-1,UK: BBC NEWS
 http://51.52.156.22:8888/http/004
-#EXTINF:-1,USA: CON TV
+#EXTINF:-1,A: CON TV
 https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
 #EXTINF:-1,ASIA: NAT GEO HD
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
@@ -718,8 +707,6 @@ http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 https://bit.ly/2WCTG5W
 #EXTINF:-1,INT: ALJEERA
 https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
-#EXTINF:-1,ME: STAR MOVIES HD
-http://ddn.amrbd.com:8081/live/starmovies/playlist.m3u8
 #EXTINF:-1,IN: & FLIX
 http://202.163.117.6:9981/stream/channelid/1160757101
 #EXTINF:-1,IN: SONY MAX 2
@@ -730,70 +717,18 @@ https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580
 https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 #EXTINF:-1,IN: BINDASS
 http://45.120.188.65:8080/0.ts
-#EXTINF:-1,IN: VH1
-https://113.11.25.242/live/vh1/chunks.m3u8
-#EXTINF:-1,IN: TV 100
-http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist.m3u8
-#EXTINF:-1,IN: SS TV
-http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:-1,ME: MBC MX HD
-http://gtv2.tn:8000/live/Aminteleledunet/U5z4irJ7tZowNMLI/18.ts
-#EXTINF:-1,UK: CBS REALITY
-http://145.239.255.4:8080/CBSReality/mono.m3u8?token=test
-#EXTINF:-1,IN: CHANNEL WIN
-http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
-#EXTINF:-1,IN: MAHA MOVIES
-http://103.144.200.7:8080/hls/ttv/index.m3u8
-#EXTINF:-1,IN: BIG MAGIC
-http://103.144.200.7:8080/hls/bigmagic/index.m3u8
-#EXTINF:-1,IN: B4U MUSIC
-http://103.144.200.7:8080/hls/b4umusic/index.m3u8
-#EXTINF:-1,IN: ZING
-http://103.144.200.7:8080/hls/zing/index.m3u8
-#EXTINF:-1,IN: ZEE BANGLA
-http://livecdnh1.tvanywhere.ae/hls/zee_bangla/01.m3u8
-#EXTINF:-1,ME: TINY POP
-http://vod.simpletv.eu:8080/en-TinyPop/mono.m3u8?token=test
 #EXTINF:-1,ASIA: ABC NEWS
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
-#EXTINF:-1,ME: ZEE AFLAM
-http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8 
-#EXTINF:-1,USA: movie kingdom 
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/low/c.m3u8
-#EXTINF:-1,UK: ID HD
-http://81.171.21.159:4780/discinvestigat-dqwugfowhf/index.m3u8
 #EXTINF:-1,CH: ANIMAL PLANET
 http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8?auth=zarin:RJsKR
-#EXTINF:-1,UK: BBC NEWS
-http://145.239.255.4:8080/HDBBC1/mono.m3u8?token=test
 #EXTINF:-1,IN: &TV HD
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
-#EXTINF:-1,Uk: The Kingdom Sat
-https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8
 #EXTINF:-1,UK: JUST 89
 http://188.35.9.12:21121/udp/129i
 #EXTINF:-1,UK: JUST 89
 http://188.35.9.5:10005/stolen/153a/imposter.rar
 #EXTINF:-1,UK: VIVID RED
 http://188.35.9.12:21131/udp/142d
-#EXTINF:-1,USA: JOY NEWS
-http://165.22.122.126:25461/live/zero/app/9.m3u8
-#EXTINF:-1,UK: SUPER ONE
-http://91.92.108.254:8080/udp/239.100.10.224:5000
-#EXTINF:-1,UK: VH1
-http://91.92.108.254:8080/udp/239.100.10.105:5000
-#EXTINF:-1,UK: BRAZEERS TV
-http://91.92.108.254:8080/udp/239.100.10.190:5000
-#EXTINF:-1,UK: DORCEL TV
-http://91.92.108.254:8080/udp/239.10.10.155:5000
-#EXTINF:-1,UK: BOOMERANG
-http://145.239.255.4:8080/BOO/mono.m3u8?token=test
-#EXTINF:-1,UK: SONY MOVIES
-http://145.239.255.4:8080/en-sonymovies/mono.m3u8?token=test
-#EXTINF:-1,UK: NICK
-http://live.highstream.club/live/Nickelodeon/playlist.m3u8
-#EXTINF:-1,US: BBC AMERICA
-http://live.highstream.club/live/AE/playlist.m3u8
 #EXTINF:-1,ASIA: WB TV
 https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
 #EXTINF:-1,UK: DISCOVERY HISTORY
