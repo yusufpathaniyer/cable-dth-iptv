@@ -1880,3 +1880,7 @@ http://indtv.online/Ten_1.m3u8
 http://indtv.online/Ten_2.m3u8
 #EXTINF:-1,IN: SONY TEN 3
 http://indtv.online/Ten_3.m3u8
+#EXTINF:-1,ME: ANN
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+#EXTINF:-1,IN: SONY SAB HD
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
