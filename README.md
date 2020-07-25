@@ -1868,3 +1868,7 @@ http://203.154.243.32:8088/live/wanimal/index.m3u8
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
 #EXTINF:-1,IN: SURYA CHAMACHAR
 http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
+#EXTINF:-1,IN: ASIANET NEWS
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,IN: AVC NEWS
+https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
