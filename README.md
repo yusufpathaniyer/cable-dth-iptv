@@ -11,22 +11,10 @@ https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 http://45.120.188.76:8080/0.ts
 #EXTINF:-1,IN: ZING
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
-#EXTINF:-1,IN: ZOOM TV
-http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
-#EXTINF:-1,USA: VH1
-http://185.59.223.82:8080/vh1/mpegts
 #EXTINF:-1,USA: MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,IN: 9XO
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
-#EXTINF:-1,USA: CARTOON NETWORK
-http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
-#EXTINF:-1,INT: BABY FIRST
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1,ME: BOOMARANG
-http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
-#EXTINF:-1,USA: DISNEY CHANNEL
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,INT: CNN
 https://tv4.chang55.com/live2/tv4ch27.stream/chunks.m3u8
 #EXTINF:-1,IN: CBSN HD
@@ -35,16 +23,12 @@ https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
 #EXTINF:-1,IN: NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1,IN: ZEE NEWS
-http://51.15.8.16:8081/ind1live/zeenews/playlist.m3u8
 #EXTINF:-1,ASIA: CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1,UK: CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1,IN: NEWS 18 ASSAM
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
-#EXTINF:-1,IN: NDTV INDIA
-https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
 #EXTINF:-1,JP: NHK WORLD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1,ASIA: FOX SPORTS NEWS
@@ -75,14 +59,10 @@ https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1,ASIA: NAT GEO PEOPLE
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1,ME: HISTORY 2 
-http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1,IN: FOOD FOOD
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 #EXTINF:-1,PARIS: FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1,ASIA: NAT GEO
-https://cdn.jp.jpnettv.live/jptv/National_geographic/chunklist_w1310243407.m3u8
 #EXTINF:-1,ASIA: CGTN DOCUMENTARY
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1,IN: NAT GEO WILD
@@ -97,106 +77,32 @@ https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 http://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8
 #EXTINF:-1,JKT: HITS 
 http://210.210.155.66/h/h37/index.m3u8
-#EXTINF:-1,APAC: COLORS TV
-http://103.111.120.46/hls/Colors.m3u8
 #EXTINF:-1,IN: ABP NEWS HD
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1,IN: COLORS  TV HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1,IN: ZEE TV HD (VPN)
-http://216.144.250.174/Zee_TV_HD_o1/playlist.m3u8
-#EXTINF:-1,IN: SONY TV HD (VPN)
-http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
-#EXTINF:-1,IN: SONY SAB HD (VPN)
-http://216.144.250.174/S0ny_Sab_HD/playlist.m3u8
-#EXTINF:-1,UK: STAR PLUS (VPN)
-http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN/APAC: STAR PLUS HD/SD
-http://109.169.56.170/hls/starplus.m3u8
-#EXTINF:-1,IN: STAR BHARAT
-http://109.169.56.170/hls/lifeok.m3u8
 #EXTINF:-1,IN: DD NATIONAL
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
 #EXTINF:-1,IN: THE Q INDIA
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1,RU: BOLLYWOOD HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,IN: ZEE CINEMA HD (VPN)
-http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: ZEE ACTION (VPN)
-http://216.144.250.174/Zee_ActIon_HD/index.m3u8
-#EXTINF:-1,IN: STAR GOLD HD (VPN)
-http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: SONY MAX HD (VPN)
-http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
-#EXTINF:-1,UK: SONY MAX 2 (VPN)
-http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1,IN: B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1,IN: B4U MOVIES
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
-#EXTINF:-1,ME: B4U PLUS
-http://livecdnh3.tvanywhere.ae/hls/b4uplus/03.m3u8
 #EXTINF:-1,UK: ZEE LIVING
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:-1,ME: MBC BOLLYWOOD
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8
 #EXTINF:-1,INT: N TV MOVIES
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
-#EXTINF:-1,ME: STAR WORLD HD
-http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
-#EXTINF:-1,ME: STAR MOVIES HD
-http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
-#EXTINF:-1,IN: ZOOM TV
-http://livecdnh1.tvanywhere.ae/hls/zoom/01.m3u8
 #EXTINF:-1,IN: MUSIC INDIA
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
-#EXTINF:-1,IN: ZING
-http://livecdnh1.tvanywhere.ae/hls/zing/02.m3u8
 #EXTINF:-1,IN: B4U MUSIC
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1,IN: MASTIII
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 #EXTINF:-1,IN: DIL SE
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_828_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,IN: DISCOVERY 
-http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p1.m3u8
-#EXTINF:-1,IN: DISCOVERY KIDS
-http://streamidvo.multitvsolution.in//live//DiscoveryKidsHindi-a//p1.m3u8
-#EXTINF:-1,IN: DISCOVERY TURBO
-http://streamidvo.multitvsolution.in//live//TurboEng-a//p1.m3u8
-#EXTINF:-1,IN: DISCOVERY SCIENCE
-http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p1.m3u8
-#EXTINF:-1,IN: ANIMAL PLANET HD
-http://streamidvo.multitvsolution.in/live/APHDHindi-a/p1.m3u8
-#EXTINF:-1,IN: TLC HD
-http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p1.m3u8
-#EXTINF:-1,ME: NAT GEO
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
-#EXTINF:-1,ME: NAT GEO PEOPLE
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/01.m3u8
-#EXTINF:-1,ME: NAT GEO WILD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/01.m3u8
-#EXTINF:-1,IN: ID
-https://streamidvo.multitvsolution.in/live/Investigation_Discovery-a/p2.m3u8
-#EXTINF:-1,IN: SONY MAX
-https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1,IN: SONY MAX HD
-https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1,IN: SONY TV HD
-https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1,IN: SONY SAB HD
-https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1,IN: SONY MIX
-https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1,IN: SONY BBC EARTH HD
-https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1,IN: SONY YAY
-https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1,IN: SONY PIX HD
-https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1,IN: AXN HD
-https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,IN: AAJ TAK TAZ
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/aajtaktez.smil/chunklist.m3u8
 #EXTINF:-1,IN: DD SPORTS
@@ -325,8 +231,6 @@ http://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD63L360P/index.m3u8
 #EXTINF:-1,IN: TV 100 NEWS
 http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/media.m3u8
-#EXTINF:-1,IN: CARTOON NETWORK
-https://stream.simpaisa.com/pitvlive2/cartoon_240p/chunklist.m3u8
 #EXTINF:-1,USA: HUMRAAZ TV
 http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 #EXTINF:-1,UK: ARY FAMILY
@@ -335,10 +239,6 @@ http://95.211.211.168/live/aryfamily0071/playlist.m3u8
 http://stream.tapmad.com:1935/pitvlive2/express3_240p/chunklist.m3u8
 #EXTINF:-1,UK: SUB RANG
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
-#EXTINF:-1,IN: CARTOON NETWORK
-http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
-#EXTINF:-1,IN: BABY TV
-http://stream.tapmad.com:1935/pitvlive2/baby_360p/chunklist.m3u8
 #EXTINF:-1,PK: DUNYA NEWS
 https://imob.dunyanews.tv/live/_definst_/ngrp:dunyalive_1_all/chunklist.m3u8
 #EXTINF:-1,UK: ISLAM CHANNEL
@@ -359,20 +259,6 @@ http://109.169.56.170/hls/gtv.m3u8
 http://163.172.85.133:8080/TenS/1/index.m3u8
 #EXTINF:-1,IN: SONY TEN 3
 http://163.172.85.133:8080/TenS/3/index.m3u8
-#EXTINF:-1,IN: SONY SIX
-http://109.169.56.170/hls/sonysix.m3u8
-#EXTINF:-1,IN: SONY TEN 1 HD
-https://sony247channels.akamaized.net/hls/live/2004807/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1,UK: SONY TEN 2
-https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1,IN: SONY TEN 3 HD
-https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1,IN: SONY SIX HD
-https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1,IN: SONY ESPN
-https://sony247channels.akamaized.net/hls/live/2004806/SONYESPNSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1,IN: STAR SPORTS 1
-http://109.169.56.170/hls/starsports1.m3u8?userAgent=
 #EXTINF:-1,IN: STAR PLUS HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1,IN: INDIA TV
@@ -381,8 +267,6 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV
 http://188.35.9.26:9031/udp/117m
 #EXTINF:-1,USA: WWE
 http://cdnak10.cast4u.info/channels/3/10803.m3u8 
-#EXTINF:-1,IN: INDIA NEWS
-http://streamidvo.multitvsolution.in//live//IndiaNews-a//p2.m3u8
 #EXTINF:-1,INT: SUPER ONE HD
 http://188.35.9.5:10007/stolen/246r/parasite.install
 #EXTINF:-1,IN: STAR SPORTS 1
@@ -401,8 +285,6 @@ https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 http://188.35.9.26:5031/udp/058j
 #EXTINF:-1,IN: REMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:-1,ASIA: HBO
-https://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan
 #EXTINF:-1,USA: HDFashion & LifeStyle
 https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8?xtreamiptv.m3u8
 #EXTINF:-1,IN: FASHION TV
@@ -427,24 +309,12 @@ http://5.135.92.133:52841/out/u/107_1.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1,INT: AL JEZARA
 https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8?checkedby_iptvcat.com
-#EXTINF:-1,IN: ANIMAL PLANET
-https://stream.simpaisa.com/pitvlive2/animal_360p/playlist.m3u8?checkedby_iptvcat.com
 #EXTINF:-1,PK: DUNYA NEWS
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
-#EXTINF:-1,IN: STAR PLUS HD
-http://ddn.amrbd.com:8081/live/starplus/playlist.m3u8
-#EXTINF:-1,IN: STAR GOLD HD
-http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8
-#EXTINF:-1,IN: SONY SAB
-http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
-#EXTINF:-1,IN: SONY SIX HD
-http://ddn.amrbd.com:8081/live/sonysix/playlist.m3u8
 #EXTINF:-1,RU: RT
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
 #EXTINF:-1,IN: INDIA TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
-#EXTINF:-1,USA: MTV
-http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1,RU: BOLLYWOOD CLASSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,BD: DBC NEWS
@@ -469,42 +339,18 @@ https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
 http://51.52.156.22:8888/http/003
 #EXTINF:-1,INT: FASISON TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-#EXTINF:-1,ASIA: FOX LIFE
-https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
 #EXTINF:-1,ASIA: KIK
 http://210.210.155.66/h/h07/01.m3u8
-#EXTINF:-1,ASIA: FOX SPORTS
-https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
-#EXTINF:-1,ASIA: FOX CRIME
-https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 #EXTINF:-1,INT: HD FASHION
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,USA: ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8 
-#EXTINF:-1,MAL: STAR CRICKET
-https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=uLys6&v=20200308
-#EXTINF:-1,MAL: FOX SPORTS
-https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,MAL: DISCOVERY ASIA
-https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,MAL: BIEN SPORTS
-https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,MAL: BOOMERANG
-https://delivery.macan.live/stream/boomerang/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,MAL: HBO
-https://delivery.macan.live/stream/hbo/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,USA: VH1
-http://185.59.223.82:8080/vh1/mpegts
 #EXTINF:-1,MAL: STAR SPORTS
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 #EXTINF:-1,INT: Al Jazeera
 https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
 #EXTINF:-1,MAL: AXN
 https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
-#EXTINF:-1,MAL: FX
-https://cdn-laos.workpoint.news/hd-fx_720/index.m3u8
-#EXTINF:-1,MAL: FOX CRIME
-https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
 #EXTINF:-1,MAL: NAT GEO WILD
 https://cdn-laos.workpoint.news/hd-natgeowild_720/index.m3u8
 #EXTINF:-1,MAL: NAT GEO
@@ -519,26 +365,14 @@ https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
 #EXTINF:-1,INT: BBC WORLD NEWS
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1,ME: STAR MOVIES
-http://ddn.amrbd.com:8081/live/starmovies/playlist.m3u8
-#EXTINF:-1,IN: STAR SPORTS 1
-http://ddn.amrbd.com:8081/live/starsports1/playlist.m3u8
-#EXTINF:-1,IN: STAR SPORTS 2
-http://ddn.amrbd.com:8081/live/starsports2/playlist.m3u8
-#EXTINF:-1,ID: NAT GEO WILD
-https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,UK: START TIME
 https://v-pi.mybtv.net/event/17.2/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
 #EXTINF:-1,IN: AAJ TAK
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L720P/chunklist_b700000.m3u8
 #EXTINF:-1,UK: Boston 25 News (WFXT)
-https://ch.iptvmate.net/6b2e4d0c46578a2d1087181cc07ccc75.m3u8
+https://ch.iptvmate.net/6b2e4d0c4657a2d1087181cc07ccc75.m3u8
 #EXTINF:-1,ASIA: NAT GEO
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
-#EXTINF:-1,IN: NAT GEO
-http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
-#EXTINF:-1,RU: DISCOVERY CHANNEL
-http://185.22.183.147:8085/media/hls_183_147/discovery/index.m3u8
 #EXTINF:-1,JP: NHK WORLD
 http://210.210.155.66/h/h23/02.m3u8
 #EXTINF:-1,MAL: KIK
@@ -546,13 +380,9 @@ http://210.210.155.66/h/h07/01.m3u8
 #EXTINF:-1,ASIA: BLOOMBERG
 http://210.210.155.66/h/h03/02.m3u8
 #EXTINF:-1,MAL: LIFE STYLE
-http://210.210.155.66/h/h28/02.m3u8
-#EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/1200px-Sony_MAX.svg.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX (IN) 
-http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8 
+http://210.210.155.66/h/h28/02.m3u8 
 #EXTINF:-1,USA: The Outdoor Cooking Channel
 https://ch.iptvmate.net/11e118e202992ae500578c6f72bcf142.m3u8?fluxustv.m3u8
-#EXTINF:-1,ME: English Club
-http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 #EXTINF:-1,UK: British Muslim TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
 #EXTINF:-1,ME: Ahlulbayt tv
@@ -585,92 +415,28 @@ https://www.ast.tv/stream/2/ultra.m3u8
 http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,USA: FOOD CHANNEL
 http://5.135.92.133:52841/out/u/502_1.m3u8
-#EXTINF:-1,ME: MBC MAX
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,US: FOX4
 http://api.new.livestream.com/accounts/6395980/events/2598380/live.m3u8
 #EXTINF:-1,UK: ITV2
 http://51.52.156.22:8888/http/005
-#EXTINF:-1,IN: DISCOVERY CHANNEL
-https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8
 #EXTINF:-1,IN: ZEE BANGLA
 http://43.251.86.2:8080/hls/channel_1.m3u8
 #EXTINF:-1,CA: ONE STUDIO
 https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,US: ET LIVE
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
-#EXTINF:-1,ME: DOCU BOX
-http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8?fluxustv.m3u8
 #EXTINF:-1,MAL: FOX ACTION MOVIES
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1,UK: Portal Foxmix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1,US: RT
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8
-#EXTINF:-1,IN: DISCOVERY CHANNEL
-https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8
 #EXTINF:-1,INT: HUSTLER HD
 http://188.35.9.26:2030/udp/047c
 #EXTINF:-1,INT: NYX MEDIA
 https://cdn1.ibizastream.biz:441/free/2/playlist.m3u8
 #EXTINF:-1,INT: NYX MEDIA
 https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/chunklist_w805691612.m3u8
-#EXTINF:-1,IN: ZEE HINDUSTAN
-http://103.144.200.7:8080/hls/zeetv/index.m3u8
-#EXTINF:-1,JKT: DISNEY XD
-https://delivery.macan.live/stream/disneyxd/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,APAC: ZEE TV
-https://delivery.macan.live/stream/zeetv/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,ASIA: BABY TV
-https://delivery.macan.live/stream/babytv/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,BBK: NICK
-https://delivery.macan.live/stream/nickelodeon/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,JKT: CARTOON NETWORK
-https://delivery.macan.live/stream/cartoonnetwork/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,BBK: TLC
-https://delivery.macan.live/stream/tlc/index.m3u8?token=uLys6&v=20200308
-#EXTINF:-1,JKT: HISTORY
-https://delivery.macan.live/stream/history/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,MAL: ZOOMOO
-https://delivery.macan.live/stream/zoomoo/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,MAL: HGTV
-https://delivery.macan.live/stream/hgtv/index.m3u8?token=uLys6&v=20200308
-#EXTINF:-1,MAL: CINEMAX
-https://delivery.macan.live/stream/cinemax/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,MAL: ASIAN FOOD CHANNEL
-https://delivery.macan.live/stream/id_afc/index.m3u8?token=uLys6&v=20200308
-#EXTINF:-1,ID: FOX
-https://delivery.macan.live/stream/id_fox/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,ID: ANIMAL PLANET
-https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,ID: FX
-https://delivery.macan.live/stream/id_fx/index.m3u8?token=uLys6&v=20200308
-#EXTINF:-1,ID: DISCOVERY CHANNEL
-https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,ID: CHANNEL V
-https://delivery.macan.live/stream/id_channelv/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,IN: WARNER TV
-https://delivery.macan.live/stream/warnertv/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,ID: LIFETIME
-https://delivery.macan.live/stream/lifetime/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,MAL: FIGHTSPORT
-https://delivery.macan.live/stream/fightsport/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,ID: AXN
-https://delivery.macan.live/stream/id_axn/index.m3u8?token=uLys6&v=20200308
-#EXTINF:-1,ID: FOX LIFE
-https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=uLys6&v=20200308
-#EXTINF:-1,ID: DISCOVERY CHANNEL
-https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=uLys6&v=20200308
-#EXTINF:-1,ID: NHK WORLD
-https://delivery.macan.live/stream/id_nhkworld/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,ID: CNA
-https://delivery.macan.live/stream/id_cna/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,ID: BBC WORLD NEWS
-https://delivery.macan.live/stream/id_bbcworldnews/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,ID: DISNEY CHANNEL
-https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=uLys6&v=20200308 
-#EXTINF:-1,ID: BLOOMBERG
-https://delivery.macan.live/stream/id_bloomberg/index.m3u8?token=uLys6&v=20200308  
 #EXTINF:-1,JKT: ID HD
 http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
 #EXTINF:-1,IN: NEWS 18
@@ -875,10 +641,6 @@ http://190.80.3.28/CBS/CBS.isml/index.m3u8
 http://188.35.9.26:5031/udp/058j
 #EXTINF:-1,ASIA: BOING
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-#EXTINF:-1,ASIA: THRILL
-https://cdn-laos.workpoint.news/sd-thrill_480/index.m3u8
-#EXTINF:-1,ASIA: DISCOVERY
-http://185.22.183.147:8085/media/hls_183_147/discovery/index.m3u8
 #EXTINF:-1,ASIA: DISNEY
 http://playlist.hmara.tv:80/4a8a78be/cede4d97dc3f7f6ac6d9298834ab9d96684147d8.m3u8
 #EXTINF:-1,ASIA: AXN
