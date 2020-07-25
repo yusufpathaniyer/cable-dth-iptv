@@ -499,14 +499,6 @@ http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 http://188.35.9.26:2031/udp/031a
 #EXTINF:-1,ASIA: HBO
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
-#EXTINF:-1,APAC: ZEE CINEMA
-http://103.205.133.42:1935/local/zee_cinema_720/playlist.m3u8
-#EXTINF:-1,IN: STAR PLUS HD
-http://130.185.150.79:1935/db24/starplus/playlist.m3u8
-#EXTINF:-1,IN: ZEE BANGLA
-http://130.185.150.79:1935/db24/zeebangla/playlist.m3u8
-#EXTINF:-1,ASIA: FX
-http://111.13.111.192/125.227.198.89:8027
 #EXTINF:-1,IN: ZEE THEATER
 http://tamilgo.com/zee5/z5theather.php?c=out&e=.m3u8
 #EXTINF:-1,ASIA: HISTORY2
@@ -545,8 +537,6 @@ http://195.88.126.168:8008/play/a07d/index.m3u8?em9uYS1pcHR2LnJ1
 http://178.217.72.66:80/225.201.2.33/tracks-v1a1/mono.m3u8
 #EXTINF:-1,UK: DEEJAY TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1,ME: DISNEY CHANNEL HD
-http://app.powerfhd.me/live/sup.php?z=998&u=osmpzewxjq&s=3515815441&id=460&t=live&f=ts
 #EXTINF:-1,ME: BEIN SPORTS 3
 https://www.streamer2mytv.com:443/cache/Bein-A-KL-V-E-3/master.m3u8
 #EXTINF:-1,ME: BEIN SPORTS 1
@@ -615,34 +605,18 @@ https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1,UK: SKY NEWS
 https://cdn-laos.workpoint.news/uk-skynews_480/index.m3u8
-#EXTINF:-1,USA: MMN
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
-#EXTINF:-1,USA: YOUNG HOLLYWOOD
-https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/low/c.m3u8
 #EXTINF:-1,USA: TV SPORTS
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1,USA: PEOPLE TV
-https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 #EXTINF:-1,USA: OUTDOOR CHANNEL
 https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
 #EXTINF:-1,UK: COURT TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
-#EXTINF:-1,USA: CW
-http://190.80.3.28/CW/CW.isml/index.m3u8
-#EXTINF:-1,USA: FOX
-http://190.80.3.28/FOX/FOX.isml/index.m3u8
-#EXTINF:-1,USA: ABC
-http://190.80.3.28/ABC/ABC.isml/index.m3u8
 #EXTINF:-1,USA: NBC 15 Madison (WMTV)
 http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
-#EXTINF:-1,USA: CBS 4
-http://190.80.3.28/CBS/CBS.isml/index.m3u8
 #EXTINF:-1,INT: REALITY KING
 http://188.35.9.26:5031/udp/058j
 #EXTINF:-1,ASIA: BOING
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-#EXTINF:-1,ASIA: DISNEY
-http://playlist.hmara.tv:80/4a8a78be/cede4d97dc3f7f6ac6d9298834ab9d96684147d8.m3u8
 #EXTINF:-1,ASIA: AXN
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1,ASIA: ANIMAL PLANET
@@ -667,22 +641,13 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1,INT: Rugby World TV
 https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
-#EXTINF:-1,APAC: STAR PLUS
-http://137.59.155.253:8088/hls/Star_Plus.m3u8
-#EXTINF:-1,ME: STAR GOLD
-http://137.59.155.253:8088/hls/Star_Gold.m3u8
-#EXTINF:-1,IN: SONY AATH
-http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
-#EXTINF:-1,APAC: COLORS TV
-http://137.59.155.253:8088/hls/Colors.m3u8
 #EXTINF:-1,INT: BBC WORLD NEWS
 http://220.158.149.28:8180/TV00000000000000000112@HHZT
 #EXTINF:-1,USA: BLOCK TV
 https://video.sekindo.com/blocktv/ch1/tracks-v3a1/mono.m3u8
 #EXTINF:-1,USA: Popular Science
 http://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
-#EXTINF:-1,INT: BULK TV
-https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
+#EXTINF:-1,INT: BULhttps://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
 #EXTINF:-1,BBC 2
 http://80.32.125.233:8000/play/a002/index.m3u8
 #EXTINF:-1,ITV 1
@@ -1992,3 +1957,5 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/playlist.m3u8
 #EXTINF:-1,CHA: ANIMAL
 http://203.154.243.32:8088/live/wanimal/index.m3u8
+#EXTINF:-1,US: BULL
+https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
