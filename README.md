@@ -1872,3 +1872,5 @@ http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
 http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,IN: AVC NEWS
 https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
+#EXTINF:-1,IN: ASIANET NEWS
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8
