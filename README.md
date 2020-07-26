@@ -977,62 +977,10 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_
 https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
 #EXTINF:-1,IN: StarMovies_SELECT_HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
-#EXTINF:-1,UK: HUSTLER TV
-http://84.85.106.110:8001/1:0:1:100D:451:35:C00000:0:0:0
-#EXTINF:-1,FoxLife HD
-http://80.72.68.81:9981/stream/channelid/33589374
-#EXTINF:-1,Duck TV
-http://80.72.68.81:9981/stream/channelid/1429657265
-#EXTINF:-1,Baby TV
-http://80.72.68.81:9981/stream/channelid/39210794
-#EXTINF:-1,National Geo HD
-http://80.72.68.81:9981/stream/channelid/1251759117
-#EXTINF:-1,National Geographic
-http://80.72.68.81:9981/stream/channelid/1763818855
-#EXTINF:-1,Nat Geo Wild HD
-http://80.72.68.81:9981/stream/channelid/2043695539
-#EXTINF:-1,Nat Geo Wild
-http://80.72.68.81:9981/stream/channelid/1832463663
-#EXTINF:-1,Discovery
-http://80.72.68.81:9981/stream/channelid/1761827731
-#EXTINF:-1,Discovery HD
-http://80.72.68.81:9981/stream/channelid/1855527277
-#EXTINF:-1,TLC
-http://80.72.68.81:9981/stream/channelid/1852573847
-#EXTINF:-1,Travel Channel HD
-http://80.72.68.81:9981/stream/channelid/1073980809
-#EXTINF:-1,Travel Channel
-http://80.72.68.81:9981/stream/channelid/364486843
-#EXTINF:-1,Euronews
-http://80.72.68.81:9981/stream/channelid/1350116174
-#EXTINF:-1,FOXLife
-http://80.72.68.81:9981/stream/channelid/2087860121
-#EXTINF:-1,FoxCrime HD
-http://80.72.68.81:9981/stream/channelid/1951792200
-#EXTINF:-1,FOX Crime
-http://80.72.68.81:9981/stream/channelid/668620103
-#EXTINF:-1,FOX HD
-http://80.72.68.81:9981/stream/channelid/190985329
-#EXTINF:-1,FOX
-http://80.72.68.81:9981/stream/channelid/1626939317
-#EXTINF:-1,Disney
-http://103.148.44.22:5564/DisneyCH
-#EXTINF:-1,EURONEWS
-http://103.148.44.22:5648/euroNewS
-#EXTINF:-1,TV5 Monde
-http://103.148.44.22:5646/TV5Monde
-#EXTINF:-1,FX HD
-http://103.148.44.22:5563/fxhd
-#EXTINF:-1,TV5 Monde
-http://103.148.44.22:5646/TV5Monde
-#EXTINF:-1,foxsport
-http://103.148.44.22:8876/play/a0ab
 #EXTINF:-1,ME: NAT GEO DUBAI
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 #EXTINF:-1,APAC: NAT GEO
 http://178.132.3.162:88/nat_geo/index.m3u8?token=test
-#EXTINF:-1,UK: ERO XXX HD
-http://catchup.iptv.iinet.rs/chunklist.m3u8?id=180&profile=3&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA
 #EXTINF:-1,UK: UNIVERSEL
 http://196.179.225.154:10001/stream/channelid/1284278211?profile=pass
 #EXTINF:-1,APAC: BBC EARTH
@@ -1045,54 +993,12 @@ https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
 http://103.214.202.218:8081/live/sony-40/chunks.m3u8
 #EXTINF:-1,INT: TRAVEL MIX
 http://89.38.8.131:39520
-#EXTINF:-1,INT: SEX TV
-https://edge992.ghanacloud.ga/empressleaktv/index.m3u8
 #EXTINF:-1,IN: ZEE BOLLYWOOD
 http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8
 #EXTINF:-1,IN: ZEE CINEMA HD
 http://103.141.66.36/bpk-tv/10430/default/manifest.mpd?=.m3u8
-#EXTINF:-1,IN: MTV BEATS
-http://103.141.66.36/bpk-tv/10178/default/manifest.mpd
-#EXTINF:-1,UK: Lotus Macau 
-http://103.135.208.14:80/ibox/bd/69
-#EXTINF:-1,IN: HBO 
-http://103.135.208.14:80/ibox/bd/63
-#EXTINF:-1,IN: Star Sports Select 2 HD 
-http://103.135.208.14:80/ibox/bd/83
-#EXTINF:-1,IN: STAR SPORTS SELECT 1 HD 
-http://103.135.208.14:80/ibox/bd/82
 #EXTINF:-1,INT: MEN X
 http://84.85.106.110:8001/1:0:1:5284:C96:3:EB0000:0:0:0:
-#EXTINF:-1,IN: STAR GOLD HD
-http://103.135.208.14:80/ibox/bd/99
-#EXTINF:-1,IN: STAR GOLD HD
-http://103.214.202.218:8081/live/stargold/chunks.m3u8
-#EXTINF:-1,IN: STAR PLUS HD
-http://103.214.202.218:8081/live/starplus/chunks.m3u8
-#EXTINF:-1,IN: STAR SPORTS 2 HD
-http://103.214.202.218:8081/live/starsports2/chunks.m3u8
-#EXTINF:-1,IN: DISCOVERY HD
-http://103.214.202.218:8081/live/starsports1/chunks.m3u8
-#EXTINF:-1,IN: STAR MOVIES HD
-http://foobtv.co.in:80/iptv/iptv.php?id=47859
-#EXTINF:-1,IN: STAR WORLD PRIUME HD
-http://foobtv.co.in:80/iptv/iptv.php?id=47860
-#EXTINF:-1,IN: HBO HD
-http://foobtv.co.in:80/iptv/iptv.php?id=47866
-#EXTINF:-1,IN: POGO
-http://202.163.117.6:9981/stream/channelid/872564616
-#EXTINF:-1,IN: NAT GEO HD
-http://foobtv.co.in/iptv/iptv.php?id=47873
-#EXTINF:-1,IN: DD SPORTS
-http://foobtv.co.in/iptv/iptv.php?id=48121
-#EXTINF:-1,IN: HOUSEFUL MOVIES
-http://foobtv.co.in/iptv/iptv.php?id=48192
-#EXTINF:-1,IN: VH1
-http://foobtv.co.in/iptv/iptv.php?id=47871
-#EXTINF:-1,IN: DISCOVERY
-http://foobtv.co.in/iptv/iptv.php?id=47878
-#EXTINF:-1,UK: PRIVATE
-http://fr01.spr24.net/5758/index.m3u8?token=rCEqTFvRhtEvXt
 #EXTINF:-1,IN: SONY TEN 3
 http://202.163.117.6:9981/stream/channelid/1156450698
 #EXTINF:-1,RU: NAT GEO WILD
@@ -1105,11 +1011,7 @@ http://185.236.229.2:8000/play/a010/index.m3u8
 http://185.236.229.2:8000/play/a01h/index.m3u8
 #EXTINF:-1,UK: E!
 http://185.236.229.2:8000/play/a03y/index.m3u8
-#EXTINF:-1,ASIA: HOT PLAY
-http://t.gerss.cn/dl/htv.php?id=401
-#EXTINF:-1,IN: 
-http://t.gerss.cn/dl/htv.php?id=414
-#EXTINF:-1,INT: HYD HOLLYWOOD
+#EXTINF:-: HYD HOLLYWOOD
 http://185.236.229.2:8000/play/a05f/index.m3u8
 #EXTINF:-1,USA: MTV
 http://185.236.229.2:8000/play/a05m/index.m3u8
@@ -1121,40 +1023,6 @@ https://z5ams.akamaized.net/andtvhdusa/index.m3u8?hdnts=st=1594464073~exp=159446
 https://z5ams.akamaized.net/andtvhd/index.m3u8?hdnts=st=1594464344~exp=1594467344~acl=/*~hmac=92f65c9bd86a705710f030145a466c1dac0dadcb60631365cf6c39ffb4fc5d7d
 #EXTINF:-1,IN: DD 1
 http://54.255.155.24:1935/Live/_definst_/amlst:sweetbcha1novD235L240P/playlist.m3u8
-#EXTINF:-1,UK: FOX
-http://34.65.21.163:5675/uk2020/foxuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6MDI6NDggUE0maGFzaF92YWx1ZT1DTDJzSmZSSEtZNkZFODN5K1A5bFVnPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,UK: HUM
-http://185.149.90.126:4422/pak2020/humtveu/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6MDY6MDIgUE0maGFzaF92YWx1ZT1nb2xUc0RZMDQxVEUyaytsMTczS0xBPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1,ASIA: SONY TV VPN
-http://34.65.21.163:5675/ind2020/sonytvaus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6MTg6NDggUE0maGFzaF92YWx1ZT1ib3NvOEdQTCt4bXB3am40b0dwUXNBPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,UK: SONY HD VPN
-http://34.65.21.163:5675/ind2020/sonytvusa/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6MjA6MDggUE0maGFzaF92YWx1ZT1ZWEN5SFpYUEg0VUJHWll6RDZmRHBBPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,ASIA: SONY SAB VPN
-http://34.65.21.163:5675/ind2020/sabtvasia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6MjI6MjEgUE0maGFzaF92YWx1ZT1uQ2k2SHEySjFTSkFFc0dTdHpqUC93PT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,UK: SONY SAB
-http://34.65.21.163:5675/ind2020/sabtvuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6MjQ6NDUgUE0maGFzaF92YWx1ZT1NYVBwcXRvZnRKK0pmZVJsVitEZDFBPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,USA: ZEE TV
-http://34.65.21.163:5675/ind2020/sabtvuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6MjQ6NDUgUE0maGFzaF92YWx1ZT1NYVBwcXRvZnRKK0pmZVJsVitEZDFBPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,ASIA: ZEE TV
-https://z5ams.akamaized.net/apacsea/index.m3u8?hdnts=st=1594472605~exp=1594475605~acl=/*~hmac=98fd490e4e4f437ba69cdcfd4976db5cc3375f0b69c3bb53aa76680f1f37309a
-#EXTINF:-1,IN: & PICTURES HD
-https://z5ams.akamaized.net/andpicshd/index.m3u8?hdnts=st=1594473145~exp=1594476145~acl=/*~hmac=c5c6d107927fde6feaf14a4b6375884b0b177490ae4855db9d0bdc95e4205912
-#EXTINF:-1,IN: & FLIX HD
-https://z5ams.akamaized.net/andflixhd/index.m3u8?hdnts=st=1594473415~exp=1594476415~acl=/*~hmac=12a2b66dc3bd99e9479925ee8de9449bc1d46f2d03570407daa8112f106a5bc6
-#EXTINF:-1,PK: FLIM WORLD
-http://185.149.90.126:4422/pak2020/filmworld/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6NDY6MjggUE0maGFzaF92YWx1ZT1LY010blFOcVdxUEhRT2E1S2lDV09nPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1,IN: MN+ HD
-http://34.65.21.163:5675/uk2020/mnplushd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6NTI6MzIgUE0maGFzaF92YWx1ZT0yVXNGdkF0YzVJckE3cTlKWWczaVpBPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,IN: MNX HD
-http://34.65.21.163:5675/uk2020/mnxhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6NTQ6NDEgUE0maGFzaF92YWx1ZT1yS205RjM2ZVZ2eGp4U3QybVVzdWx3PT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,ASIA: SONY MAX VPN
-http://34.65.21.163:5675/ind2020/setmaxaus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6NTg6MTQgUE0maGFzaF92YWx1ZT1FT0JkQTFxcmxJMEdwZ2YxK0pmSyt3PT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,UK: SONY MAX VPN
-http://34.65.21.163:5675/ind2020/SATMAXUK/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6NTk6NDEgUE0maGFzaF92YWx1ZT1NMjRHYWJKRjhtMUlQUEZRTWlLdUxBPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,IN: STAR GOLD
-http://zer0live.hjkm.info:13292/juno/stargold/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDI6MDI6MDIgUE0maGFzaF92YWx1ZT1ZRjFadDJkT0llV1dKZFNKa3krTlZRPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,IN: WB TV
-http://34.65.21.163:5675/uk2020/warnerbros/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDI6MDU6MjEgUE0maGFzaF92YWx1ZT0rTFpVRy9KdFdJdVJpdHZMWkNPaDVnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,INT: XXX TV
 https://ded6453-edge9.bcvcdn.com/hls/stream_KrissCrystall/public/stream_KrissCrystall/chunks.m3u8?__fvdNEW
 #EXTINF:-1,IN: ZEE NEWS
@@ -1229,42 +1097,6 @@ http://103.141.66.36/bpk-tv/10106/default/index.m3u8
 http://103.141.66.36/bpk-tv/10102/default/index.m3u8
 #EXTINF:-1,PK: PTV WORLD
 http://103.141.66.36/bpk-tv/10101/default/index.m3u8
-#EXTINF:-1,IN: ZEE CINEMA HD
-https://z5ams.akamaized.net/zcinemahd/index.m3u8?hdnts=st=1594548809~exp=1594551809~acl=/*~hmac=adccad46ba97f28e99bf626d770ecd77586de8b7037652b16fe9f26c24399e2b
-#EXTINF:-1,IN: &PRIVE HD
-https://z5ams.akamaized.net/zcinemahd/index.m3u8?hdnts=st=1594548809~exp=1594551809~acl=/*~hmac=adccad46ba97f28e99bf626d770ecd77586de8b7037652b16fe9f26c24399e2b
-#EXTINF:-1,IN: ZEE ACTION
-https://z5ams.akamaized.net/action/index.m3u8?hdnts=st=1594549349~exp=1594552349~acl=/*~hmac=e63676b4bb1cfb3909b580a2b526d992839f9884766ec28c181058d4a2e2b177
-#EXTINF:-1,IN: BABY TV
-http://34.65.99.24:2132/kids2019/babytv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDEwOjUwOjQ0IEFNJmhhc2hfdmFsdWU9SU5Wako0SlR3WWRxSW5OekVTMHJCUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: BIG MAGIC
-https://z5ams.akamaized.net/bigmagic/index.m3u8?hdnts=st=1594549619~exp=1594552619~acl=/*~hmac=706045e9c5e521b3365fc13199d3bb09fa203acf74bd2f43dfa78128ef41e451
-#EXTINF:-1,UK: BOOMERANG
-http://34.65.99.24:2132/kids2019/boomerang/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDEwOjU0OjQ3IEFNJmhhc2hfdmFsdWU9ZnhQU1U1Ty9JQno3M3AvK0JDdEQrZz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: CARTOON NETWORK
-http://34.65.99.24:2132/kids2019/cartoonhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDEwOjU2OjQyIEFNJmhhc2hfdmFsdWU9dVhPZE15QXZDZVltS0dQcUNXUlRLQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,PK: CARTOON NETWORK
-http://34.65.99.24:2132/kids2019/cartoonnetpak/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDEwOjU3OjUzIEFNJmhhc2hfdmFsdWU9RWZDNExQd3diSWQ3VG8rWFN1Y1hOdz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: DISCOVERY KIDS
-http://34.65.99.24:2132/kids2019/discoverykidshindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDEwOjU5OjI5IEFNJmhhc2hfdmFsdWU9VUl4UXdKTE95RjVEN1c3T0hPeUZyUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: DISNEY CHANNEL
-http://zer0live.hjkm.info:13292/neptune/disneychannelhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDExOjAyOjAwIEFNJmhhc2hfdmFsdWU9S0lzMkZ5UTV4Z3ptVXFua3Fwdk13QT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: HUNGAMA TV
-http://34.65.99.24:2132/kids2019/hungama/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDExOjA0OjMwIEFNJmhhc2hfdmFsdWU9OFp2WXhGZ2Rtb2tZamdJR2NoYzdQQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: MARBEL HQ
-http://34.65.99.24:2132/kids2019/marvelhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDExOjA2OjU3IEFNJmhhc2hfdmFsdWU9aU9iTHBycHZUOWdJQVhjSk9mb0JXdz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: NICK
-http://34.65.99.24:2132/kids2019/nickelodeonhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDExOjA4OjU3IEFNJmhhc2hfdmFsdWU9RVBhbjJWNGxsdzd0NUpwTFJXTVNuZz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,PK: NICK
-http://34.65.99.24:2132/kids2019/nickpak/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDExOjEwOjM2IEFNJmhhc2hfdmFsdWU9Q0YvT0JzNW0wYXZtL1g4KzNTUks0QT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,UK: NICK JR
-http://34.65.99.24:2132/kids2019/nickjr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDExOjEzOjI0IEFNJmhhc2hfdmFsdWU9ekRweDNSRW5IZGRLMHBBU25WV1U2QT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: POGO
-http://34.65.99.24:2132/kids2019/pogohindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDExOjE2OjAyIEFNJmhhc2hfdmFsdWU9SU1HcnRSdXJPWkhEQm05VUV6YndrZz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: SONY YAY
-http://34.65.99.24:2132/kids2019/sonyyayhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDExOjE5OjE1IEFNJmhhc2hfdmFsdWU9bWtQbkgyVnpZVWw2UW12ajNGTDRCUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: WOW KIDS
-http://34.65.99.24:2132/kids2019/wowkidshindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDExOjIyOjExIEFNJmhhc2hfdmFsdWU9YVd3OXpLTncyL0xHeUZxNmJFSE15Zz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1,INT: sex
 http://9c67d51b.akadatel.com/iptv/NAQ9GGSU4ACX5N/6220/index.m3u8
 #EXTINF:-1,INT: SEX
@@ -1273,264 +1105,10 @@ http://9c67d51b.akadatel.com/iptv/NAQ9GGSU4ACX5N/6196/index.m3u8
 https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
 #EXTINF:-1,ASIA: HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1,PK: HUM MASHALA
-http://185.149.90.126:4422/pak2020/hummasala/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDExOjIwOjQ1IEFNJmhhc2hfdmFsdWU9TmYxWEd1OUV2MjBJZHc1Q0ErMHFJQT09JnZhbGlkbWludXRlcz01
-#EXTINF:-1,IN: WION
-https://z5ams.akamaized.net/wion/index.m3u8?hdnts=st=1594638198~exp=1594641198~acl=/*~hmac=edba5275d2e54871c0badcc65eed934c6a9afe0542525ef53b2c3b9f5021933e
-#EXTINF:-1,IN: DIVYA TV
-https://z5ams.akamaized.net/divyatv/index.m3u8?hdnts=st=1594654291~exp=1594657291~acl=/*~hmac=ec6f6e35b2ee1ec315aad19e4dac1a7cc6ffdadd1f218de7e43043f615c74db5
-#EXTINF:-1,IN: SANSKAR TV
-https://z5ams.akamaized.net/sanskartv/index.m3u8?hdnts=st=1594654581~exp=1594657581~acl=/*~hmac=4a3e24a8d5cd49db795d8420177af38479776851a8e464b36134767867121af4
-#EXTINF:-1,UK: TV ONE
-http://185.149.90.92:3244/bangla2020/tvoneuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDQ6MDU6MTkgUE0maGFzaF92YWx1ZT1KU1lJempyT3B6NEw4bXB6b3hKMmVRPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,IN: SATSANG
-https://z5ams.akamaized.net/satsangtv/index.m3u8?hdnts=st=1594654853~exp=1594657853~acl=/*~hmac=37709c5f15571f6510239a76b1eae7fea6828d34b1e5e56e54a6f82b702efc38
-#EXTINF:-1,IN: STAR SPORTS 3 VPN
-http://34.65.220.96:4747/sports2020/starsports3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDQ6MTc6NDkgUE0maGFzaF92YWx1ZT1RWXhxRVY1RmFHOGRrV21VeGdiRER3PT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,ME: COLORS vpn
-http://34.91.11.215:5675/ind2020/colorsme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDQ6MjM6MjUgUE0maGFzaF92YWx1ZT1nVXkxQlBIQzE0ZUttTHg0bDA5TkxRPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,UK: COLORS vpn
-http://34.91.11.215:5675/ind2020/colorseurope/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDQ6MjQ6NDIgUE0maGFzaF92YWx1ZT1ucjYxMzVjMjU3ZDd2ZXhBbXdYQyt3PT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,IN: COLORS vpn
-http://34.91.11.215:5675/ind2020/colorsindia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDQ6MjU6NDUgUE0maGFzaF92YWx1ZT12a1BWRUcxZjBZYVN1Rlk3ZTRMeHVBPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,IN: STAR UTSAV vpn
-http://34.91.11.215:5675/ind2020/starutsuv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDQ6Mjg6MjcgUE0maGFzaF92YWx1ZT01YURMRGQ2Rzc1MFYxM0hyek5reUFnPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,IN: STAR PLUS VPN
-http://34.91.11.215:5675/ind2020/starplusin/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDQ6MzA6MDYgUE0maGFzaF92YWx1ZT0xdzNud2gwUFFqY1lyMHhqd1ArUkpRPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,UK: ZEE TV
-https://z5ams.akamaized.net/zeetvsduk/index.m3u8?hdnts=st=1594656384~exp=1594659384~acl=/*~hmac=6de19ad4273de070623393d08b29a0801b217e4a1e82c9ac21bee8c911097724
-#EXTINF:-1,UK: B4U MUSIC
-http://zer0live.hjkm.info:13292/neptune/b4umusic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDQ6NDA6NTYgUE0maGFzaF92YWx1ZT1PTnJwL1duK2MvWjhoYU5KeEtsZnZ3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,ASIA: BBC EARTH
 https://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
-#EXTINF:-1,UK: COLORS
-http://107.152.234.10:8080/indian/hindi-COLORSUK/index.m3u8
 #EXTINF:-1,IN: ZEE TV
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/zeetv/isml/index.m3u8
-#EXTINF:-1,UK: A PLUS vpn
-http://78.129.241.19:8554/hera/apluseu/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjAyOjEwIEFNJmhhc2hfdmFsdWU9MCsvZmw3NUxTSWlWcEppN0NpZEhzZz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,UK: HUM vpn
-http://78.129.241.19:8554/hera/humeu/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjA2OjIyIEFNJmhhc2hfdmFsdWU9SDRUVkJuMWdvYzVIWFBiV05SdGJIdz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: ARRE VPN
-http://dpasdl08.tth.cl:8745/eros/arre/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjA5OjQwIEFNJmhhc2hfdmFsdWU9NVptTUErQTFOMDJQNVBHOVAyd21PUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: BIG MAGIC vpn
-http://45.58.139.242:9630/toto/bigmagic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjExOjA5IEFNJmhhc2hfdmFsdWU9MWVtd0JNZzhBbU8wS1V6VEhKRnhnZz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: UTV BINDASS VPN
-http://dpasdl08.tth.cl:8745/eros/utvbindaas/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjEyOjI3IEFNJmhhc2hfdmFsdWU9YmVBSmZUdzFRekJydGFIcHlrSnMxQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: COLORS HD VPN
-http://51.15.1.206:5432/xrdctfv/colorchd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjEzOjM1IEFNJmhhc2hfdmFsdWU9SS82b1lGYjdKSnhaNlJtL21MaXM5QT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: COLORS HD VPN
-http://dpasdl08.tth.cl:8745/eros/colorstvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjE1OjAzIEFNJmhhc2hfdmFsdWU9b3ZOYURGbkpuVnNMQzBKUlM4UHNpUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: COLORS VPN
-http://51.15.175.14:5432/miunyt/color/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjE2OjE2IEFNJmhhc2hfdmFsdWU9bmErUWVHNU4rTENLbkVydWxRRFV6dz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: COLORS VPN
-http://geni.ktk.si:49310/dione/colorsindia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjE3OjA2IEFNJmhhc2hfdmFsdWU9Mkxva2xadnIxMFZhL0EyeW5wdThpQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,ME: COLORS vpn
-http://45.58.139.242:9630/toto/colorstvme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjE4OjE1IEFNJmhhc2hfdmFsdWU9Zy9VVWZ3MWNVdTBqa3VsRGRGaGF4Zz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: COLORS VPN
-http://45.58.139.242:9630/toto/colorstv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjE5OjIzIEFNJmhhc2hfdmFsdWU9UWJ4RzNtbG1LNGl2YUd3QVZubE0yZz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,UK: COLORS VPN
-http://45.58.139.242:9630/toto/colorstvuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjIwOjI4IEFNJmhhc2hfdmFsdWU9TUhiU243TXI5SXhLYzdoWGxkbzNoQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: COLORS VPN
-http://ediug.info.gf:63590/corpus/colorssd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjIxOjM2IEFNJmhhc2hfdmFsdWU9VUtLWjFNNE5WczU1dnRNazhLbmc5QT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: DANGAL VPN
-http://45.58.139.242:9630/toto/dangaaltv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjIzOjU1IEFNJmhhc2hfdmFsdWU9cTVtV3FKRldlaEhkeUs3ekFPUEhVUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: DD 1 VPN
-http://45.58.139.242:9630/toto/ddnational/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjI0OjUyIEFNJmhhc2hfdmFsdWU9VjljWDlKVktyUnl5N25nRllsaTgrZz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: MTV PLUS HD VPN
-http://dpasdl08.tth.cl:8745/eros/mtvhdplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjI2OjA0IEFNJmhhc2hfdmFsdWU9dkpLVThoV290TEpKb1hSdWV4bVFFUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,ASIA: MTV INDIA VPN
-http://45.58.139.242:9630/toto/mtvindia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjI3OjAzIEFNJmhhc2hfdmFsdWU9bjdUUmpSV3lCd3ViV2lIb1ZrTWdwZz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: MTV VPN
-http://dpasdl08.tth.cl:8745/eros/mtvindia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjI4OjQ5IEFNJmhhc2hfdmFsdWU9Y1doNGZZWUx0VGpjOTc4UnN2QXNDUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: RISHTEY VPN
-http://45.58.139.242:9630/toto/rishteyindia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjI5OjU1IEFNJmhhc2hfdmFsdWU9ZDRNczNadDRwZERZbDVSem0xekM2QT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,UK: RISHTEY vpn
-http://45.58.139.242:9630/toto/rishteyeu/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjMxOjEwIEFNJmhhc2hfdmFsdWU9MG1uQVlsMVRSWjBuWG41ZXpWc2dFQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,ME: RISHTEY VPN
-http://45.58.139.242:9630/toto/rishtayasia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjMyOjEyIEFNJmhhc2hfdmFsdWU9WW45U1NubTAxWld2ZXcyM2FLVTdxdz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: SHAHARA ONE VPN
-http://80.243.180.72:5432/eos/saharaone/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjMzOjA5IEFNJmhhc2hfdmFsdWU9V1phQzhJanVLRUxRTE1YZVZ4Vk5jUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: SONY SAB VPN
-http://45.58.139.242:9456/xrdctfv/sonysab/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjM0OjM5IEFNJmhhc2hfdmFsdWU9UWFBQ2F0V1cxNkVpb1FKUFZOUjhUZz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: SONY SAB VPN
-http://45.58.139.242:9630/toto/sonysabtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjM1OjQ0IEFNJmhhc2hfdmFsdWU9cWxYUVhIZTdrMXo3WXhYVEswdVNrQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,UK: SONY SAB vpn
-http://45.58.139.242:9630/toto/sonysabuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjM2OjU4IEFNJmhhc2hfdmFsdWU9Z2JMbE54ZUsya2lnWVF2Y2lnK3p6Zz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: SONY HD VPN
-http://195.154.119.3:5432/xrdctfv/sonysabhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjM4OjAzIEFNJmhhc2hfdmFsdWU9cHJYaVV6UjZOK2tZMDZLVWt4UjIrQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: SONY HD VPN
-http://45.58.139.242:9630/toto/sonysabhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjM5OjEyIEFNJmhhc2hfdmFsdWU9cUpBcjhWT1ZoODhjY3BXQ1BXanM0Zz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: SONY VPN
-http://45.58.139.242:9456/xrdctfv/sonytv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjQwOjMzIEFNJmhhc2hfdmFsdWU9eHFvWFZCTkJZUjZ4bUtEdkl2bXRDUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: SONY VPN
-http://dpasdl08.tth.cl:8745/eros/sonytv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjQxOjM2IEFNJmhhc2hfdmFsdWU9Ty9kbnZIOEhuSFErYkJNcFk4TWlUUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: SONY VPN
-http://geni.ktk.si:49310/dione/sonytvindia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjQzOjQ0IEFNJmhhc2hfdmFsdWU9bGtxMlBHVndWS21zWkdnNmFSbVM3QT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: SONY HD VPN
-http://51.15.175.14:5432/xrdctfv/sonytvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjQ1OjUxIEFNJmhhc2hfdmFsdWU9bjFRN0IvTnYzM2JzZjE1NzJXMFNCUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: SONY HD VPN
-http://45.58.139.242:9630/toto/sonytvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjQ2OjUzIEFNJmhhc2hfdmFsdWU9UmUzSDlvdWFqRXJMRUNmTzZuMnMrUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,ME: STAR BHARAT VPN
-http://dpasdl08.tth.cl:8745/eros/starbharatme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjUxOjQ0IEFNJmhhc2hfdmFsdWU9bEI3Q0I1aTZiMmY3Z0NqZGdNV25Idz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: STAR BHARAT HD VPN
-http://dpasdl08.tth.cl:8745/eros/starbharathd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjU0OjE3IEFNJmhhc2hfdmFsdWU9dERqRjRjTGpYMDd6aElmZFF1MVFtQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,UK: STAR BHARAT VPN
-http://dpasdl08.tth.cl:8745/eros/starbharatuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjU0OjUzIEFNJmhhc2hfdmFsdWU9N1UzS1k3dlR1RnQyZ1hjaDNiSmdkUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: STAR PLUS VPN
-http://dpasdl08.tth.cl:8745/eros/starplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjU1OjU4IEFNJmhhc2hfdmFsdWU9cldKSDNYZ0tQRHhBQWxEK0dqaXlaQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,ME: STAR PLUS VPN
-http://dpasdl08.tth.cl:8745/eros/starplusme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjU3OjI3IEFNJmhhc2hfdmFsdWU9Wng4RzJIQ1dMWCt3bldHY0dmVU1nQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,UK: STAR PLUS vpn
-http://dpasdl08.tth.cl:8745/eros/starplusuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjU5OjAzIEFNJmhhc2hfdmFsdWU9a1g4K2ZDRTI0Ylc3eS8wTkprT3d4Zz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: STAR PLUS HD VPN
-http://dpasdl08.tth.cl:8745/eros/starplushd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDExOjU5OjQ1IEFNJmhhc2hfdmFsdWU9blF5T0dBZXF5SFdrNjQ3MGMxYTR3dz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: STAR USTAV VPN
-http://dpasdl08.tth.cl:8745/eros/starutsav/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjAwOjQ5IFBNJmhhc2hfdmFsdWU9TWdjRFdXQVgxM3VIZVF0ZWs2WTV5dz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: ZEE ANMOL VPN
-http://dpasdl08.tth.cl:8745/eros/zeeanmol/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjAxOjUxIFBNJmhhc2hfdmFsdWU9dmtLM2Fxa1V3YWYrdWJnOHN5aGJxUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: ZEE TV VPN
-http://51.15.1.206:5432/xrdctfv/zeet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjAzOjIzIFBNJmhhc2hfdmFsdWU9Q3hQcTduTkVWSndHWWpDTlBEOVlJZz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: ZEE TV VPN
-http://dpasdl08.tth.cl:8745/eros/zeetv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjA0OjMzIFBNJmhhc2hfdmFsdWU9RVpGQmRrVDdnV05rUXZYcm44K0JVUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,UK: ZEE TV VPN
-http://dpasdl08.tth.cl:8745/eros/zeetvuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjA1OjM0IFBNJmhhc2hfdmFsdWU9UWR2OWF1cnQ1aVJ3Z2lCRFNrWnllUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,US: E!
-http://dpasdl08.tth.cl:8745/thana/eentertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjA4OjE3IFBNJmhhc2hfdmFsdWU9N1JLQ1VyRVFEZXpvR09sUE45VkhCZz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,US: FX
-http://stream.tvtap.live:8081/live/us-fx.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjEwOjM2IFBNJmhhc2hfdmFsdWU9ZlNIT0l3M0U1U2svSWt5TGxIbmtUdz09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1,US: TLC
-http://dpasdl08.tth.cl:8745/thana/tlc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjEyOjExIFBNJmhhc2hfdmFsdWU9TVBhRlhmeTVRdXh1d2M4Z2R2Rmtzdz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,US: VH1
-http://dpasdl08.tth.cl:8745/thana/vh1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjEzOjE5IFBNJmhhc2hfdmFsdWU9Z05DVCtOK1NCczBqdkpCQ1pzT0FMZz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,UK: BBC ENTERTAINMENT
-http://stream.tvtap.live:8081/live/bbcent.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjE0OjQxIFBNJmhhc2hfdmFsdWU9ZGp1NVRSN1lVMWVRZ1VmMHl0MVZkdz09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1,UK: COMEDY CENTRAL
-http://stream.tvtap.live:8081/live/cc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjE3OjEzIFBNJmhhc2hfdmFsdWU9TjVrUlAwTFRUNzI5QjdYZldnM0Y0UT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1,UK: MTV
-http://45.58.139.242:9630/libris/MTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjE4OjM2IFBNJmhhc2hfdmFsdWU9VUxDYU1BTVVVdktVL3NtTnFFbEJNZz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,UK: TLC
-http://45.58.139.242:9630/libris/TLC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDEyOjE5OjQ1IFBNJmhhc2hfdmFsdWU9VHZXU2tRL1dhTTlEeklRcFBhb2tyQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: AAJ TAK HD
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1,IN: AAJ TAK
-http://51.15.1.206:5432/miunyt/ajtn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDEwOjExOjI5IEFNJmhhc2hfdmFsdWU9ZlFZWmNaSzlOcUg3aGdhUmIvMFRJQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: AAJ TAK
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1594829557/ei/ldYOX4e7Euafz7sPyJOGyAY/ip/45.10.234.221/id/0w_fM3ub5nA.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r2---sn-npoe7ner.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/my/vprv/1/playlist_type/DVR/initcwndbps/5840/mh/N_/mm/44/mn/sn-npoe7ner/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/mt/1594807814/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRAIgMKgEv8RYsIgHRemafUz7odSP9bttlaxDWLtOCnu2S0ACIF6mianJbMdXUzijpm2b4SzxOZcPLou-aU_REYXiNheM/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhANudRLBGVGMB3MD3xUSEjKsBpylYIhc5sgBZIlfu6IQgAiADfQ0jIj3CKRAMlsNiI5xH-7X4at8Q06OmO2pPlm0OpQ%3D%3D/playlist/index.m3u8
-#EXTINF:-1,IN: AAJ TAK
-http://45.58.139.242:9630/toto/aajtaknews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDEwOjE0OjM1IEFNJmhhc2hfdmFsdWU9OEtIQTRyTUJhM2pEMnFkeDlPNnhNdz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: AAJ TAK
-https://yuppmsleumo2.akamaized.net/hls/live/2008784/aajtakhttps/aajtakhttps/playlist.m3u8?hdnts=st=1594808141~exp=1594808741~acl=!*/2008784/aajtakhttps/*!/payload/yuppTVCom_5_-1_c538123bdca74a7b_MY_45.10.234.221/*~hmac=40aa229d59a169699bf9c9bf8f464c8dd3f803429f1b1e2d3205f88ef04d0a3f
-#EXTINF:-1,IN: ABP NEWS
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
-#EXTINF:-1,IN: ABP NEWS
-https://catchup.yuppcdn.net/amazonv2/20/preview/abpnews/master/master.m3u8?hdnts=st=1594808434~exp=1594809034~acl=!*/20/preview/abpnews/*!/payload/yuppTVCom_5_-1_dc792c2682f44293_MY_45.10.234.221/*~hmac=c72536f7f35b63f8edb05cbe958e544eaec86306e721db7715fb78fdeefb22f2
-#EXTINF:-1,IN: ABP NEWS
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1594830112/ei/wNgOX4vBLvLY3LUP2PmKiAM/ip/45.10.234.221/id/ufeGM9_Jn7M.0/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r6---sn-npoeene7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4530/mh/PD/mm/44/mn/sn-npoeene7/ms/lva/mv/m/mvi/6/pl/24/dover/11/keepalive/yes/beids/9466588/mt/1594808415/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgUzXQEBGmo7YBt5m7kbFwv1TLdg_j3EQ9TO68pVPwQEYCIQC2PITL1Q3EyXCsG4Hlc0vwzjaC9oYGqdna4J5PPNR6jg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgFvIcezxuX9n077toHXiyLTf4qkiLWPpgc6AwgxsLmvECIQDgSAy4CXFFa5Ma4zNmW1I8lCvdJ_WEJ9UYZvUPXuWNqA%3D%3D/playlist/index.m3u8
-#EXTINF:-1,IN: ABP NEWS HD
-http://163.172.87.170:5432/miunyt/abpn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDEwOjIzOjE4IEFNJmhhc2hfdmFsdWU9T3RkdGFQMWdjSXd3c0F0Mlg4MTJvUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: ABP NEWS HD
-http://45.58.139.242:9630/toto/apbnews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDEwOjI0OjEyIEFNJmhhc2hfdmFsdWU9RlBXdWc5Q254cWhBdkFsQWdid0EzQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: DD NEWS
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1594830383/ei/z9kOX4mkKIb8owPQ4J-ICQ/ip/45.10.234.221/id/FAcXuqHgkqE.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r5---sn-npoeeney.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/5170/mh/p4/mm/44/mn/sn-npoeeney/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/fexp/23883098/mt/1594808656/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgHYrAjTe8WZ7zLEzkG1-8kNKDbPLKX4bC1tFiJEMnFjoCIBHBjEBCe2D_X2Ha9UYQJ76mqEiPJaEQvDqMP7TacMhM/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAPkPdkwonkYdU-5P2_8P4HUv2VVOniEnjkqFB97YV9fEAiBsLzwa1FbgxPY8_tlCfqR2rOa0TmLS5RXW3YGdVov3Xw%3D%3D/playlist/index.m3u8
-#EXTINF:-1,IN: CCN NEWS 18
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1594830675/ei/89oOX76TKouB9fwP57-r8As/ip/45.10.234.221/id/IEOj5ioPa18.0/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r2---sn-npoeenl7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/6730/mh/JY/mm/44/mn/sn-npoeenl7/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/mt/1594808956/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgMpDy4uD9ieJ7Jq5QBmGF-f95Ca8n1jZQVRBxaJSl71UCIAe_6pyIku_-IYB5g4K75N_CTcJ5t97BqqVSpeBLEWWm/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgPTWuQY7M1XcA05tayob9d9VMYRDZ68_7MohxyE1bd1UCIQCZAX-gqcrkh1MUH1kdE0kArf0Ss6sp5y_rFUcxT-FgKw%3D%3D/playlist/index.m3u8
-#EXTINF:-1,IN: INDIA TV
-http://45.58.139.242:9630/toto/indiatvnews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDEwOjMzOjQ0IEFNJmhhc2hfdmFsdWU9ZlJSMVAyTHE0SHQ5OWdFWHYwODl3UT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: INDIA TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1594830895/ei/z9sOX9WDK-DU4-EP8KKBqAM/ip/45.10.234.221/id/oIYJ2STG4Ks.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r2---sn-npoe7ner.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/7290/mh/Bd/mm/44/mn/sn-npoe7ner/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/fexp/23883097/mt/1594809135/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgO1JMD9PLTZEjL6Dzu-X-AOXj58H_RlrzLJ7ERrvrwrcCIG3sV7LWDIVcMTG6nR1pTyWnn9To6YLzfujM1wwLlayA/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAOVQqVnK8aU32w84RaLdhUsOeZ6D2zUMt_Mhwu8vghuCAiB9wJKaaLmitq9CnnC2Lcl0YWn3XldBbXEGOObG2pN6Mw%3D%3D/playlist/index.m3u8
-#EXTINF:-1,IN: INDIA TV
-https://yuppmsleumo2.akamaized.net/hls/live/2008775/ndtvhindiweb/ndtvhindiweb/playlist.m3u8?hdnts=st=1594809386~exp=1594809986~acl=!*/2008775/ndtvhindiweb/*!/payload/yuppTVCom_5_-1_2df01f0864fa46cf_MY_45.10.234.221/*~hmac=edeb366f3a0f9c5a14823bc65251e62b392c9f3ae9db7a7b76ff8bf87750c5ee
-#EXTINF:-1,IN: NDTV INDIA 
-http://195.154.108.53:5432/miunyt/ntnin/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDEwOjM3OjE0IEFNJmhhc2hfdmFsdWU9L29mbW1aWW0xTU8wY1JXZURlOTU0Zz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: NDTV INDIA
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1594831088/ei/kNwOX4j_JsnIvATc9omICQ/ip/45.10.234.221/id/l9ViEIip9q4.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r4---sn-npoeened.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/6130/mh/uL/mm/44/mn/sn-npoeened/ms/lva/mv/m/mvi/4/pl/24/dover/11/keepalive/yes/mt/1594809376/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAK9HszuZsnfLQiipVZOqZdMDrmXKCFHhtGZGS-qwqgryAiAz1Xm4-pLSUZfIju3gVgVlg1XZCtTrdqAQxbQ2hyPlcw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAIktgXVKjjtg8tKweo-355x1e24CVICZ4CXc0aSL2-vnAiBmr6EujxX4D2Or1gLRp-ZQ0IKw0lQsjJKUVZXryi2zWw%3D%3D/playlist/index.m3u8
-#EXTINF:-1,IN: NDTV GOOD TIMES
-http://dpasdl08.tth.cl:8745/eros/ndtvgoodtimesnews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDEwOjM5OjIxIEFNJmhhc2hfdmFsdWU9SnlJdnlOcVdhUVN3MzlQZXZ0M2ZqUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: NEWS 18
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1594831314/ei/ct0OX-anN-68z7sPkNei4AM/ip/45.10.234.221/id/25egxKlHOfg.0/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r3---sn-npoe7n7y.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/6950/mh/XV/mm/44/mn/sn-npoe7n7y/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/beids/9466588/mt/1594809614/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgZplsi3BSn-wh0_Ao8puFFtDS4F5d3PR28lCYWSATJVgCIBihu54eFr57G3KaqKvC2GN2AciabeZyaHoMZCUEvDKZ/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgWdUHJnLeAlKwFsrZlxznP3leLiJdLeE4NN2KtqC37YECIDExhy68dayOjBJBgZ6C9NFWy6PRMveQX1wTob7rdZ9Z/playlist/index.m3u8
-#EXTINF:-1,IN: R. BHARAT
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1594831403/ei/y90OX_bgAsLNogP34ZiAAg/ip/45.10.234.221/id/wmbkEmiTbCI.0/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r5---sn-npoe7nl6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/6950/mh/Ws/mm/44/mn/sn-npoe7nl6/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/mt/1594809673/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAPyMod_XOYtbW_-h1s8GW8zLEGSmqD5I2VTVgbxLhvhIAiBndzswN1Mc3x1oZK9y9jhGh2ITBz1BtZjXezP-ZBXQDg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgO1iSPHyI7x8jsQCbvdJzvuC1t2oQOF2ENM_iY_PXVqsCIQCNPfBZ7aW2cvqCsRCX-8aOq3LVgHu49-R_1ilx93NgZw%3D%3D/playlist/index.m3u8
-#EXTINF:-1,IN: SAHARA SAMAY
-https://msllive.yuppcdn.net/live/yuppmslukmo1/hls/live/2009376/saharasamaynew/saharasamaynew/playlist/master.m3u8?hdnts=st=1594809870~exp=1594810470~acl=!*/saharasamaynew/saharasamaynew/*!/payload/yuppTVCom_5_-1_fc5017bd1fe14afb_MY_45.10.234.221/*~hmac=f813c6a53150771885837ff29071578c82c65ab4fe088fdf80ca177533f4a09f
-#EXTINF:-1,IN: WOIN
-http://89.163.255.249:8554/selen/wion/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDEwOjQ4OjAzIEFNJmhhc2hfdmFsdWU9T24vdXo2RW1ONjA4eDVtNnlNMjl0dz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,INT: RT
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1594831788/ei/TN8OX8WpC4Obz7sPm-m8wAk/ip/45.10.234.221/id/NvCSr7qzAAM.2/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D134/hls_chunk_host/r4---sn-npoeenek.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/6490/mh/HH/mm/44/mn/sn-npoeenek/ms/lva/mv/m/mvi/4/pl/24/dover/11/keepalive/yes/beids/9466587/mt/1594810036/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgPv0smzoXZoqwOeJe-YAJRxOeIrxR8vWB6KyOnrclG5cCICSs_e2j_SUb1vMtpvONrRoTH-M7t5DbQ9Dxezo8c4yE/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgIx46BdiU1k7cSSS7GrSAeVE92xCjvLzwGG_gmbwUkwsCIQCF-GLRJYhHeyBFgzGV66QUJcolBjQB0DSzUmMpl5EDrA%3D%3D/playlist/index.m3u8
-#EXTINF:-1,US: AJ ZEERA
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1594831922/ei/0t8OX5qCI_DP4-EP4KStQA/ip/45.10.234.221/id/2EppLNonncc.0/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D134/hls_chunk_host/r5---sn-npoe7nez.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/5640/mh/1W/mm/44/mn/sn-npoe7nez/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/fexp/23883097/mt/1594810215/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgUq8-8gfztyuDu9CO8EleP5iA_r1c0VMP-HRaD3k5jUACIQD8qABN54X-LMydUa_9xoRbjLgtsqND7D5TNuIUilBaXA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgFGXqbMWCqAS_3TRbv0JKiZQD8rzc_OEVzzk8WGjL9tUCIQC2637r2fTIYZPFvBfONwTelj7VgrUqqzWFj2_eU9hnrA%3D%3D/playlist/index.m3u8
-#EXTINF:-1,US: BBC WORLD NEWS
-https://1636691764.rsc.cdn77.org/3qQWfHnInYWNY4WGu1k11A==,1594817655/LS-ATL-54548-11/index.m3u8
-#EXTINF:-1,US: CNN
-http://dpasdl08.tth.cl:8745/thana/cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDEwOjU2OjIwIEFNJmhhc2hfdmFsdWU9NDZ2dVh2QmJtelNwRDh0M2NHNzFkdz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,US: CNN
-http://51.15.172.96:5432/miunyt/cnnhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDEwOjU3OjIyIEFNJmhhc2hfdmFsdWU9UklhZk9IRWZweEdaeVUzUkdiRFExZz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,US: CNN
-https://1861340594.rsc.cdn77.org/BtN3KmadWe0vhansuvZxDA==,1594816284/ls-54548-1/index.m3u8
-#EXTINF:-1,US: RT 
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1594832396/ei/rOEOX8m2J7ji4-EPg-S3sAQ/ip/45.10.234.221/id/jRhYIu-TEcs.4/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D134/hls_chunk_host/r5---sn-npoe7ne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/5720/mh/N4/mm/44/mn/sn-npoe7ne7/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/mt/1594810696/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgYvINeeLKDq6KfgnSX56P72MVsE50_yy8sslBKSsOghsCIGaANnXLvYey2RjAp1-0RsBg7igJYYxQAMOrsyebOltZ/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAIJm5gzQU011urerzGwBTyK7gNqWXN4D2K5669Gp2BvyAiEAnoLrMpte4urNNepu9ZR-RvTlpKD8UhQkJDN0dkodJ5E%3D/playlist/index.m3u8
-#EXTINF:-1,US: CNBC NEWS
-https://1674331492.rsc.cdn77.org/tDPXoVwJIj7GmKCQUhDvTQ==,1594818053/LS-ATL-54548-14/index.m3u8
-#EXTINF:-1,US: CNBC NEWS
-http://dpasdl08.tth.cl:8745/thana/CNBC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjAxOjQxIEFNJmhhc2hfdmFsdWU9eklHYW1HRlFibW1aWkpnYjg3eW83UT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,US: BBC NEWS
-https://1636691764.rsc.cdn77.org/W3B_5_qfmbWU9hdyyF66ag==,1594818250/LS-ATL-54548-11/index.m3u8
-#EXTINF:-1,US: RT 
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1594833015/ei/F-QOX6f2N6TOz7sPrPKmkAU/ip/45.10.234.221/id/hdUUwBizbIw.0/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r2---sn-npoeenez.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/7140/mh/0-/mm/44/mn/sn-npoeenez/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/mt/1594811357/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAJotu2dV4EnLv0nLChd2ZjD3C1_Io6N2lziQldlSTYBqAiEA0W3cRU0iOr0NHus38dpgc6Aak-R3hOlvvxz6uG3__zU%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAJaynBCdwMZvK-fXIqAExT4xXClnjLHpqzDaTo4Ln_JMAiEA3eXGR6UMNCIAhcxCW9JR_CdmtaTYysul2VE6qVv6Zfg%3D/playlist/index.m3u8
-#EXTINF:-1,PK: GEO SUPER
-http://51.15.175.14:5432/xrdctfv/gsuper/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjExOjM5IEFNJmhhc2hfdmFsdWU9V0VmRW93RUVSYU96T1RXdHk5dG9DUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,PK: GEO SUPER
-http://ediug.info.gf:63590/corpus/geosuper/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjEyOjU5IEFNJmhhc2hfdmFsdWU9TzlwenZKci9YVmthTXhEVVk2N1JKdz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,PK: PTV NEWS
-http://163.172.58.208:5432/xrdctfv/ptvsp/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjE0OjU3IEFNJmhhc2hfdmFsdWU9clg4UjdoeGpxUFp4bWdqY0ljVkNkdz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,PK: TEN SPORTS
-http://45.58.139.242:9456/xrdctfv/tens/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjE2OjE0IEFNJmhhc2hfdmFsdWU9SnJzUkZROGtMb2xENnRjTkhSakhnUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,PK: TEN SPORTS
-http://ediug.info.gf:63590/corpus/tensports/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjE4OjA4IEFNJmhhc2hfdmFsdWU9aFVNZVBHRy9MVTAxZnlFWnNMUk1uQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: DD RETRO
-http://51.15.1.206:5432/xrdctfv/ddsp/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjE5OjM2IEFNJmhhc2hfdmFsdWU9KzBjUERteStTU2NaeU5yQ20vYkc2Zz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: STAR SPORTS 2 HD
-http://dpasdl08.tth.cl:8745/eros/starsports1hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjIyOjMzIEFNJmhhc2hfdmFsdWU9NFhWdUNwYXpsTk0rRlFkRXlBRHN3QT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: STAR SPORTS SELECTED 1
-http://dpasdl08.tth.cl:8745/eros/starsportsselect1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjIzOjQ0IEFNJmhhc2hfdmFsdWU9NVFOWFFBNEpVU1A4NnVnQmhqeWNVQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: STAR SPORTS SELECT 2
-http://dpasdl08.tth.cl:8745/eros/starsportsselect2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjI1OjE4IEFNJmhhc2hfdmFsdWU9ZndBTUkwcHdYK25xQVZWai9qNVRhdz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: STAR SPORTS 1 HINDI
-http://dpasdl08.tth.cl:8745/eros/starsports1hindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjI3OjM1IEFNJmhhc2hfdmFsdWU9OXBiYk54U045WEVMMHU2QmhUa04wUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: STAR SPORTS 2
-http://dpasdl08.tth.cl:8745/eros/starsports2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjI4OjM3IEFNJmhhc2hfdmFsdWU9cXM1NThaWkNEaGpsYlhMTzRzVkdaQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: STAR SPORTS 3
-http://dpasdl08.tth.cl:8745/eros/ssp3new/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjI5OjM3IEFNJmhhc2hfdmFsdWU9MS9wS01XdkxUeWdack5od1U0TlRFZz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,IN: LORD BHUDHA
-http://dpasdl08.tth.cl:8745/eros/starsportsfirst/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjMwOjMwIEFNJmhhc2hfdmFsdWU9SnpmZ2c0NE1YNkcyN2gydmQzTTZGUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,INT: ASTRO CRICKET
-http://51.15.1.206:5432/xrdctfv/astrocric/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjMzOjA0IEFNJmhhc2hfdmFsdWU9RC9hcU00Z2F0bTVjWDl4TnB1cnppQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,US: BEIN SPORTS HD
-http://195.154.108.53:5432/xrdctfv/beinspusa/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjM0OjEwIEFNJmhhc2hfdmFsdWU9azRZVjNKOGduL20ycnNYTzZLUE1RZz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,US: BTN
-http://dpasdl08.tth.cl:8745/thana/bigten/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjM1OjQwIEFNJmhhc2hfdmFsdWU9TktHNEtNQS9SM3E4andQdjJpMjdDdz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,US: ESPN
-http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjQyOjUxIEFNJmhhc2hfdmFsdWU9T0VuWHEyMm9pZ2NJUEhEU25jQTd5dz09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1,US: ESPN
-http://ediug.info.gf:63590/alibi/ESPN1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjQzOjUzIEFNJmhhc2hfdmFsdWU9Vmp6anp1bWdHOHBCZ0paLzAwMklFQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,US: FREE SPORTS
-http://dpasdl08.tth.cl:8745/hades/freesports/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjQ0OjU0IEFNJmhhc2hfdmFsdWU9K05SVjI3M2dOQyt6RjRxUDBCVG5sUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,US: GOLF
-http://80.243.180.72:5432/eos/nbcgolf/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjQ5OjI3IEFNJmhhc2hfdmFsdWU9RjRGcSsvQ1dSdzQ5bUhMYnFvcWNkUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,US: PERIAM SPORTS
-http://ediug.info.gf:63590/alibi/premire/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjUwOjI3IEFNJmhhc2hfdmFsdWU9Yy8rUmZPd2xHRGlGR1h4aVh2RXlWdz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,US: SPORTS NET WORLD
-http://ediug.info.gf:63590/corpus/sportsnetworld/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjUyOjAxIEFNJmhhc2hfdmFsdWU9U055ZG5NWmtPZnZXWjgvanl2Y3VKdz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,US: WILLOW HD
-http://51.15.175.14:5432/xrdctfv/whd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjU0OjI2IEFNJmhhc2hfdmFsdWU9NFgvTVg5aCt1T3gzZHdWdnRuMGdMQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,US: WWE
-http://195.154.108.53:5432/xrdctfv/wwe/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjU1OjMxIEFNJmhhc2hfdmFsdWU9a3IrQVY1Yk9WOC85cGV6WmZkQkdCZz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,US: WWE
-http://ediug.info.gf:63590/corpus/wwesd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjU2OjMwIEFNJmhhc2hfdmFsdWU9UFA3OUNJSGtoLzk3RUFmL0xjM2lqdz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,UK: RACING
-http://195.154.108.53:5432/xrdctfv/racinguk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjU3OjUwIEFNJmhhc2hfdmFsdWU9NXloRVpJVGxCUGFkZ2tYL0tvTzNCZz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,UK:SKY SPORTS RACING
-http://45.58.139.242:9456/xrdctfv/atraces/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDExOjU4OjUyIEFNJmhhc2hfdmFsdWU9T3hSUllSVTAyT3pDbVlWZnBSejhqZz09JnZhbGlkbWludXRlcz0y
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/zeetv/isml/ind
 #EXTINF:-1,IN: SONY MAX HD
 http://jiocdn.fun/sonyliv/liv.php?c=4867313348001&e=.m3u8
 #EXTINF:-1,IN: &PICTURES HD
@@ -1549,7 +1127,7 @@ http://tv-cdn.ihub.live:8080/j-StarGoldHD/tracks-v1a1/mono.m3u8
 http://193.64.188.131:8021/bysid/529
 #EXTINF:-1,UK: STAR BHARAT
 http://tv-cdn.ihub.live:8080/j-StarBharat/tracks-v1a1/mono.m3u8
-#EXTINF:-1,UK: STAR PLUS HD
+#EXTINF:-1,IN: STAR PLUS HD
 http://tv-cdn.ihub.live:8080/j-StarPlusHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ASIA: NAT GEO
 http://193.64.188.131:8021/bysid/449
