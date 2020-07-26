@@ -1233,3 +1233,7 @@ http://indtv.online/Ten_3.m3u8
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 #EXTINF:-1,IN: SONY SAB HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
+#EXTINF:-1,USA: UNIVERSAL
+http://196.179.225.154:10001/stream/channelid/1284278211?profile=pass
+#EXTINF:-1,USA: TCT KIDS
+https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
