@@ -1245,3 +1245,5 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 #EXTINF:-1,IN: SONY SIX
 http://103.205.133.19/hls/sonysix.m3u8
+#EXTINF:-1,USA: DSTV
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
