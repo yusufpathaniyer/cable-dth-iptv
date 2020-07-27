@@ -1247,3 +1247,9 @@ http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:-1,USA: DSTV
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
+#EXTINF:-1,UK: HOT
+http://185.236.229.2:8000/play/a00x/index.m3u8
+#EXTINF:-1,UK: ID
+http://185.236.229.2:8000/play/a0at/index.m3u8
+#EXTINF:-1,UK: DISNEY CHANNEL
+http://185.236.229.2:8000/play/a01n/index.m3u8
