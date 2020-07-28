@@ -1253,3 +1253,5 @@ http://185.236.229.2:8000/play/a00x/index.m3u8
 http://185.236.229.2:8000/play/a0at/index.m3u8
 #EXTINF:-1,UK: DISNEY CHANNEL
 http://185.236.229.2:8000/play/a01n/index.m3u8
+#EXTINF:-1,AU: FOX SPORTS 1 HD
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
