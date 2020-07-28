@@ -1255,3 +1255,13 @@ http://185.236.229.2:8000/play/a0at/index.m3u8
 http://185.236.229.2:8000/play/a01n/index.m3u8
 #EXTINF:-1,AU: FOX SPORTS 1 HD
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1,IN: SONY TV HD
+https://pubads.g.doubleclick.net/ssai/event/cHIHBOTYQbWT6lDM8YChxA/master.m3u8
+#EXTINF:-1,IN: SONY SAB TV HD
+https://pubads.g.doubleclick.net/ssai/event/fi5oKDz-RnC4XnNBHtxvOQ/master.m3u8
+#EXTINF:-1,IN: SONY PAL
+https://pubads.g.doubleclick.net/ssai/event/11O4fBjGSwWlNUCxWhgHhg/master.m3u8
+#EXTINF:-1,IN: SONY MAX HD
+https://pubads.g.doubleclick.net/ssai/event/k6GbaC0hQZiKkOtvuSV_Uw/master.m3u8
+#EXTINF:-1,IN: SONY WAH
+https://pubads.g.doubleclick.net/ssai/event/10_vqSZWSae32wBBBSf72Q/master.m3u8
