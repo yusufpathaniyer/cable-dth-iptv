@@ -1309,4 +1309,13 @@ http://31.14.40.58:8080/ZEEMARATHI_h264/index.m3u8
 http://31.14.40.58:8080/ZEETELUGU_h264/index.m3u8
 #EXTINF:-1,ZEE MARATHI
 http://31.14.40.58:9083/ZEEMARATHI_h264/index.m3u8
-
+#EXTINF:-1,Dave
+http://62.112.9.63:88/dave_uk/index.m3u8?token=test
+#EXTINF:-1,Gold
+http://62.112.9.63:88/gold_uk/index.m3u8?token=test
+#EXTINF:-1,CNN
+http://62.112.9.63:88/cnn_uk/index.m3u8?token=test
+#EXTINF:-1,Sky News
+http://62.112.9.63:88/sky_news_uk/index.m3u8?token=test
+#EXTINF:-1,BBC News
+http://62.112.9.63:88/bbc_news_uk/index.m3u8?token=test
