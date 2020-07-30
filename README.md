@@ -1265,3 +1265,19 @@ https://pubads.g.doubleclick.net/ssai/event/11O4fBjGSwWlNUCxWhgHhg/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/k6GbaC0hQZiKkOtvuSV_Uw/master.m3u8
 #EXTINF:-1,IN: SONY WAH
 https://pubads.g.doubleclick.net/ssai/event/10_vqSZWSae32wBBBSf72Q/master.m3u8
+#EXTINF:-1,IN: SONY TEN 2
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+#EXTINF:-1,IN: STAR PLUS HD
+http://103.214.202.218:8081/live/starplus/chunks.m3u8
+#EXTINF:-1,IN: ANIMAL PLANET
+http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
+#EXTINF:-1,IN: DISCOVERY
+http://103.214.202.218:8081/live/discovery-12/chunks.m3u8
+#EXTINF:-1,IN: STAR SPORTS 2
+http://103.214.202.218:8081/live/starsports2/chunks.m3u8
+#EXTINF:-1,IN: STAR GOLD
+http://103.214.202.218:8081/live/stargold/chunks.m3u8
+#EXTINF:-1,IN: STAR SPORTS 1
+http://103.214.202.218:8081/live/starsports1/chunks.m3u8
+
+
