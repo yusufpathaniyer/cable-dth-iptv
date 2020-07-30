@@ -1279,5 +1279,7 @@ http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 http://103.214.202.218:8081/live/stargold/chunks.m3u8
 #EXTINF:-1,IN: STAR SPORTS 1
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8
+#EXTINF:-1,USA: AMERICAN HORROR
+http://170.178.189.66:1935/live/Stream1/.m3u8
 
 
