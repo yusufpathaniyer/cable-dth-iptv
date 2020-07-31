@@ -1319,3 +1319,7 @@ http://62.112.9.63:88/cnn_uk/index.m3u8?token=test
 http://62.112.9.63:88/sky_news_uk/index.m3u8?token=test
 #EXTINF:-1,BBC News
 http://62.112.9.63:88/bbc_news_uk/index.m3u8?token=test
+#EXTINF:-1,IN: MNX
+http://103.214.202.218:8081/live/mnx/chunks.m3u8
+#EXTINF:-1,USA: Gaunda Punjab TV
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
