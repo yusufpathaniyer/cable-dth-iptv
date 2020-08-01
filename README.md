@@ -1139,20 +1139,6 @@ http://stream-e30453a4b.nmbs.top/m3u/Nepal/6a45212329.m3u8
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1,IN: STAR MOVIES
 https://stream.amrbd.com/kn7a/index.m3u8
-#EXTINF:-1,IN: ZEE TV HD
-http://indtv.online/Zee_TV_HD.m3u8
-#EXTINF:-1,IN: & TV HD
-http://indtv.online/And_TV_HD.m3u8
-#EXTINF:-1,IN: SONY TV HD
-http://indtv.online/Sony_HD.m3u8
-#EXTINF:-1,IN: SONY MAX HD
-http://indtv.online/Sony_Max_HD.m3u8
-#EXTINF:-1,IN: SONY SAB HD
-http://indtv.online/Sony_Sab_HD.m3u8
-#EXTINF:-1,IN: SONY PIX HD
-http://indtv.online/Sony_Pix_HD.m3u8
-#EXTINF:-1,IN: ZEE CINEMA HD
-http://indtv.online/Zee_Cinema_HD.m3u8
 #EXTINF:-1,IN: & TV
 http://103.205.133.19/hls/andtv.m3u8
 #EXTINF:-1,IN: ZEE TV
@@ -1195,14 +1181,6 @@ http://103.141.66.36/bpk-tv/10311/default/index.m3u8
 http://103.141.66.36/bpk-tv/10304/default/index.m3u8
 #EXTINF:-1,IN: NDTV INDIA
 http://103.141.66.36/bpk-tv/10305/default/index.m3u8
-#EXTINF:-1,IN: SONY PAL
-http://indtv.online/Sony_PAL.m3u8
-#EXTINF:-1,IN: SONY SAB
-http://indtv.online/Sony_SAB.m3u8
-#EXTINF:-1,IN: SONY BBC EARTH HD
-http://indtv.online/Sony_BBC_Earth_HD.m3u8
-#EXTINF:-1,IN: JIO BOLLYWOOD HD
-http://indtv.online/EROSNOW_Hindi_Premium.m3u8
 #EXTINF:-1,ME: ZEE TV HD
 http://z5amshls.akamaized.net/ztvme/tracks-v1a1/index.m3u8
 #EXTINF:-1,IN: FOOD FOOD
@@ -1223,12 +1201,6 @@ http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8?
 https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
 #EXTINF:-1,IN: ASIANET NEWS
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8
-#EXTINF:-1,IN: SONY TEN 1
-http://indtv.online/Ten_1.m3u8
-#EXTINF:-1,IN: SONY TEN 2
-http://indtv.online/Ten_2.m3u8
-#EXTINF:-1,IN: SONY TEN 3
-http://indtv.online/Ten_3.m3u8
 #EXTINF:-1,ME: ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 #EXTINF:-1,IN: SONY SAB HD
@@ -1295,18 +1267,12 @@ http://31.14.40.58:9083/COLORSGUJARATI_h264/index.m3u8
 http://31.14.40.58:9083/HIDAYAT_h264/index.m3u8
 #EXTINF:-1,AHLULBAYT
 http://31.14.40.58:9083/AHLULBAYT_h264/index.m3u8
-#EXTINF:-1,Channel4
-http://31.14.40.58:9083/channel4/index.m3u8
-#EXTINF:-1,Channel5
-http://31.14.40.58:9083/channel5/index.m3u8
-#EXTINF:-1,Channel9
-http://31.14.40.58:9083/channel9/index.m3u8
 #EXTINF:-1,GEMINIMOVIES
 http://31.14.40.58:8080/GEMINIMOVIES_h264/index.m3u8
 #EXTINF:-1,ZEEMARATH
 http://31.14.40.58:8080/ZEEMARATHI_h264/index.m3u8
 #EXTINF:-1,ZEETELUGU
-http://31.14.40.58:8080/ZEETELUGU_h264/index.m3u8
+http://31.14.40.58:80/ZEETELUGU_h264/index.m3u8
 #EXTINF:-1,ZEE MARATHI
 http://31.14.40.58:9083/ZEEMARATHI_h264/index.m3u8
 #EXTINF:-1,Dave
