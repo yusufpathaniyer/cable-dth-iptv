@@ -1337,3 +1337,7 @@ https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeetvsduk
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=ztvme
 #EXTINF:-1,USA: ZEE SMILE
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=smileusa
+#EXTINF:-1,IN: DISCOVERY SCIENCE
+http://177.91.162.202:8000/play/DiscoveryScience/index.m3u8
+#EXTINF:-1,IN: SONY MAX HD
+http://indtv.online/sonyliv/SonyMaxhd.m3u8
