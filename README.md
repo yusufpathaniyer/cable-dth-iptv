@@ -1331,3 +1331,9 @@ http://indtv.online/jiotv/Movies_Now_HD.m3u8
 http://indtv.online/jiotv/Zeee_Tv_HD.m3u8
 #EXTINF:-1,IN: SONY SAB
 http://indtv.online/jiotv/Sony_Sab.m3u8
+#EXTINF:-1,UK: ZEE TV
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeetvsduk
+#EXTINF:-1,ME: ZEE TV HD
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=ztvme
+#EXTINF:-1,USA: ZEE SMILE
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=smileusa
