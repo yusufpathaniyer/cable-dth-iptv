@@ -1323,3 +1323,11 @@ http://62.112.9.63:88/bbc_news_uk/index.m3u8?token=test
 http://103.214.202.218:8081/live/mnx/chunks.m3u8
 #EXTINF:-1,USA: Gaunda Punjab TV
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1,IN: MOVIES NOW 2 HD
+http://indtv.online/jiotv/Movies_Now2_HD.m3u8
+#EXTINF:-1,IN: MOVIES NOW  HD
+http://indtv.online/jiotv/Movies_Now_HD.m3u8
+#EXTINF:-1,IN: ZEE TV HD
+http://indtv.online/jiotv/Zeee_Tv_HD.m3u8
+#EXTINF:-1,IN: SONY SAB
+http://indtv.online/jiotv/Sony_Sab.m3u8
