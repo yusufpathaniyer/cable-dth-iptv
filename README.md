@@ -1313,3 +1313,7 @@ http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
 http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
 #EXTINF:-1,ASIA: HISTORY 2
 http://203.150.107.30:8081/tested2iptv/core106/playlist.m3u8
+#EXTINF:-1,USA: DISNEY CHANNEL
+http://185.236.229.2:8000/play/a01n/index.m3u8
+#EXTINF:-1,RUS: NAT GEO WILD
+http://185.236.229.2:8000/play/a03q/index.m3u8
