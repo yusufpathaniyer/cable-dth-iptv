@@ -1305,7 +1305,7 @@ https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=ztvme
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=smileusa
 #EXTINF:-1,IN: DISCOVERY SCIENCE
 http://177.91.162.202:8000/play/DiscoveryScience/index.m3u8
-#EXTINF:-1,IN: SONY MAX HD
+#EXTINF:-1,IN:SONY MAX HD
 http://indtv.online/sonyliv/SonyMaxhd.m3u8
 #EXTINF:-1,ASIA: WB TV
 http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
@@ -1317,3 +1317,5 @@ http://203.150.107.30:8081/tested2iptv/core106/playlist.m3u8
 http://185.236.229.2:8000/play/a01n/index.m3u8
 #EXTINF:-1,RUS: NAT GEO WILD
 http://185.236.229.2:8000/play/a03q/index.m3u8
+#EXTINF:-1,IN: GEMINI COMEDY
+http://indtv.online/sunnxt/GeminiComedy.m3u8
