@@ -1319,3 +1319,5 @@ http://185.236.229.2:8000/play/a01n/index.m3u8
 http://185.236.229.2:8000/play/a03q/index.m3u8
 #EXTINF:-1,IN: GEMINI COMEDY
 http://indtv.online/sunnxt/GeminiComedy.m3u8
+#EXTINF:-1,IN: &XPLOR HD
+http://indtv.online/zee5/0-9-209.m3u8
