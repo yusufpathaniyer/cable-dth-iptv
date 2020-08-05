@@ -1109,8 +1109,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 https://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
 #EXTINF:-1,IN: ZEE TV
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/zeetv/isml/ind
-#EXTINF:-1,IN: SONY MAX HD
-http://jiocdn.fun/sonyliv/liv.php?c=4867313348001&e=.m3u8
 #EXTINF:-1,IN: &PICTURES HD
 https://stream.amrbd.com/AndPicturesHD/index.m3u8
 #EXTINF:-1,IN: ANIMAL PLANET
@@ -1119,16 +1117,8 @@ https://stream.amrbd.com/kn6a/index.m3u8
 https://stream.amrbd.com/kn2a/index.m3u8
 #EXTINF:-1,IN: SONY HD
 http://heela.ddns.net:2700/live/sonyindia/index.m3u8
-#EXTINF:-1,IN: SONY HD
-http://tv-cdn.ihub.live:8080/j-SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: STAR GOLD HD
-http://tv-cdn.ihub.live:8080/j-StarGoldHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ASIA: FOX
 http://193.64.188.131:8021/bysid/529
-#EXTINF:-1,UK: STAR BHARAT
-http://tv-cdn.ihub.live:8080/j-StarBharat/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN: STAR PLUS HD
-http://tv-cdn.ihub.live:8080/j-StarPlusHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ASIA: NAT GEO
 http://193.64.188.131:8021/bysid/449
 #EXTINF:-1,ASIA: DISCOVERY HISTORY
