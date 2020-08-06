@@ -1241,7 +1241,7 @@ http://170.178.189.66:1935/live/Stream1/.m3u8
 http://31.14.40.58:8080/GEMINIMOVIES_h264/index.m3u8
 #EXTINF:-1,UK: Dave
 http://62.112.9.63:88/dave_uk/index.m3u8?token=test
-INF:-1,UK: Gold
+#EXTINF:-1,UK: Gold
 http://62.112.9.63:88/gold_uk/index.m3u8?token=test
 #EXTINF:-1,UK: CNN
 http://62.112.9.63:88/cnn_uk/index.m3u8?token=test
