@@ -1129,10 +1129,6 @@ http://stream-e30453a4b.nmbs.top/m3u/Nepal/6a45212329.m3u8
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1,IN: STAR MOVIES
 https://stream.amrbd.com/kn7a/index.m3u8
-#EXTINF:-1,IN: & TV
-http://103.205.133.19/hls/andtv.m3u8
-#EXTINF:-1,IN: ZEE TV
-http://103.205.133.19/hls/zeetv.m3u8
 #EXTINF:-1,IN: STAR SPORTS 1 HD
 http://87.117.234.107:1935/live/StarSports1FHD/playlist.m3u8
 #EXTINF:-1,IN: STAR SPORTS SELECT 1 HD
@@ -1205,10 +1201,8 @@ https://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8?silma.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1,IN: SOORIYAN TV
 http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
-#EXTINF:-1,IN: SONY SIX
-http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:-1,USA: DSTV
-https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
+https://vcndstv.teleosmedia.com/stream/dv/dstv/seglist_720p.m3u8
 #EXTINF:-1,UK: HOT
 http://185.236.229.2:8000/play/a00x/index.m3u8
 #EXTINF:-1,UK: ID
@@ -1243,29 +1237,11 @@ http://103.214.202.218:8081/live/stargold/chunks.m3u8
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1,USA: AMERICAN HORROR
 http://170.178.189.66:1935/live/Stream1/.m3u8
-#EXTINF:-1,IN: HADI
-http://31.14.40.58:9083/HADI_h264/index.m3u8
-#EXTINF:-1,IN: AAJTAK
-http://31.14.40.58:9083/AAJTAK_h264/index.m3u8
-#EXTINF:-1,IN: ZEE CINEMALU
-http://31.14.40.58:9083/ZEECINEMALU_h264/index.m3u8
-#EXTINF:-1,IN: ZEE KANNADA
-http://31.14.40.58:9083/ZEEKANNADA_h264/index.m3u8
-#EXTINF:-1,IN: COLORS GUJARATI
-http://31.14.40.58:9083/COLORSGUJARATI_h264/index.m3u8
-#EXTINF:-1,IN: HIDAYAT
-http://31.14.40.58:9083/HIDAYAT_h264/index.m3u8
-#EXTINF:-1,IN: AHLULBAYT
-http://31.14.40.58:9083/AHLULBAYT_h264/index.m3u8
 #EXTINF:-1,IN: GEMINI MOVIES
 http://31.14.40.58:8080/GEMINIMOVIES_h264/index.m3u8
-#EXTINF:-1,IN: ZEE TELUGU
-http://31.14.40.58:80/ZEETELUGU_h264/index.m3u8
-#EXTINF:-1,IN: ZEE MARATHI
-http://31.14.40.58:9083/ZEEMARATHI_h264/index.m3u8
 #EXTINF:-1,UK: Dave
 http://62.112.9.63:88/dave_uk/index.m3u8?token=test
-#EXTINF:-1,UK: Gold
+INF:-1,UK: Gold
 http://62.112.9.63:88/gold_uk/index.m3u8?token=test
 #EXTINF:-1,UK: CNN
 http://62.112.9.63:88/cnn_uk/index.m3u8?token=test
@@ -1277,24 +1253,10 @@ http://62.112.9.63:88/bbc_news_uk/index.m3u8?token=test
 http://103.214.202.218:8081/live/mnx/chunks.m3u8
 #EXTINF:-1,USA: Gaunda Punjab TV
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1,IN: MOVIES NOW 2 HD
-http://indtv.online/jiotv/Movies_Now2_HD.m3u8
-#EXTINF:-1,IN: MOVIES NOW  HD
-http://indtv.online/jiotv/Movies_Now_HD.m3u8
-#EXTINF:-1,IN: ZEE TV HD
-http://indtv.online/jiotv/Zeee_Tv_HD.m3u8
-#EXTINF:-1,IN: SONY SAB
-http://indtv.online/jiotv/Sony_Sab.m3u8
-#EXTINF:-1,UK: ZEE TV
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeetvsduk
-#EXTINF:-1,ME: ZEE TV HD
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=ztvme
-#EXTINF:-1,USA: ZEE SMILE
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=smileusa
 #EXTINF:-1,IN: DISCOVERY SCIENCE
 http://177.91.162.202:8000/play/DiscoveryScience/index.m3u8
 #EXTINF:-1,IN:SONY MAX HD
-http://indtv.online/sonyliv/SonyMaxhd.m3u8
+http://indtv.online/sonyliv/SonyMaxhd.m3u8ó
 #EXTINF:-1,ASIA: WB TV
 http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
 #EXTINF:-1,ASIA: HISTORY TV
@@ -1305,8 +1267,6 @@ http://203.150.107.30:8081/tested2iptv/core106/playlist.m3u8
 http://185.236.229.2:8000/play/a01n/index.m3u8
 #EXTINF:-1,RUS: NAT GEO WILD
 http://185.236.229.2:8000/play/a03q/index.m3u8
-#EXTINF:-1,IN: GEMINI COMEDY
-http://indtv.online/sunnxt/GeminiComedy.m3u8
 #EXTINF:-1,IN: &XPLOR HD
 http://indtv.online/zee5/0-9-209.m3u8
 #EXTINF:-1,IN: E24
