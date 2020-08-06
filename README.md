@@ -1243,37 +1243,35 @@ http://103.214.202.218:8081/live/stargold/chunks.m3u8
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1,USA: AMERICAN HORROR
 http://170.178.189.66:1935/live/Stream1/.m3u8
-#EXTINF:-1,HADI
+#EXTINF:-1,IN: HADI
 http://31.14.40.58:9083/HADI_h264/index.m3u8
-#EXTINF:-1,AAJTAK
+#EXTINF:-1,IN: AAJTAK
 http://31.14.40.58:9083/AAJTAK_h264/index.m3u8
-#EXTINF:-1,ZEECINEMALU
+#EXTINF:-1,IN: ZEE CINEMALU
 http://31.14.40.58:9083/ZEECINEMALU_h264/index.m3u8
-#EXTINF:-1,ZEEKANNADA
+#EXTINF:-1,IN: ZEE KANNADA
 http://31.14.40.58:9083/ZEEKANNADA_h264/index.m3u8
-#EXTINF:-1,COLORSGUJARATI
+#EXTINF:-1,IN: COLORS GUJARATI
 http://31.14.40.58:9083/COLORSGUJARATI_h264/index.m3u8
-#EXTINF:-1,HIDAYAT
+#EXTINF:-1,IN: HIDAYAT
 http://31.14.40.58:9083/HIDAYAT_h264/index.m3u8
-#EXTINF:-1,AHLULBAYT
+#EXTINF:-1,IN: AHLULBAYT
 http://31.14.40.58:9083/AHLULBAYT_h264/index.m3u8
-#EXTINF:-1,GEMINIMOVIES
+#EXTINF:-1,IN: GEMINI MOVIES
 http://31.14.40.58:8080/GEMINIMOVIES_h264/index.m3u8
-#EXTINF:-1,ZEEMARATH
-http://31.14.40.58:8080/ZEEMARATHI_h264/index.m3u8
-#EXTINF:-1,ZEETELUGU
+#EXTINF:-1,IN: ZEE TELUGU
 http://31.14.40.58:80/ZEETELUGU_h264/index.m3u8
-#EXTINF:-1,ZEE MARATHI
+#EXTINF:-1,IN: ZEE MARATHI
 http://31.14.40.58:9083/ZEEMARATHI_h264/index.m3u8
-#EXTINF:-1,Dave
+#EXTINF:-1,UK: Dave
 http://62.112.9.63:88/dave_uk/index.m3u8?token=test
-#EXTINF:-1,Gold
+#EXTINF:-1,UK: Gold
 http://62.112.9.63:88/gold_uk/index.m3u8?token=test
-#EXTINF:-1,CNN
+#EXTINF:-1,UK: CNN
 http://62.112.9.63:88/cnn_uk/index.m3u8?token=test
-#EXTINF:-1,Sky News
+#EXTINF:-1,UK: Sky News
 http://62.112.9.63:88/sky_news_uk/index.m3u8?token=test
-#EXTINF:-1,BBC News
+#EXTINF:-1,UK: BBC News
 http://62.112.9.63:88/bbc_news_uk/index.m3u8?token=test
 #EXTINF:-1,IN: MNX
 http://103.214.202.218:8081/live/mnx/chunks.m3u8
@@ -1315,3 +1313,9 @@ http://indtv.online/zee5/0-9-209.m3u8
 http://indtv.online/zee5/0-9-207.m3u8
 #EXTINF:-1,IN: NEWS 24
 http://indtv.online/zee5/0-9-206.m3u8
+#EXTINF:-1,IN: Raasi Music HD
+http://singamcloud.in/rasimusic/playlist.m3u8
+#EXTINF:-1,IN: Raasi TV
+http://singamcloud.in/rasitv/playlist.m3u8
+#EXTINF:-1,IN: Raasi Movies
+http://singamcloud.in/rasimovies/playlist.m3u8
