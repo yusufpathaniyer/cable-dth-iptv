@@ -1285,3 +1285,5 @@ http://148.69.92.171:4022/udp/239.100.28.18:1234
 http://103.141.66.36/bpk-tv/10082/default/index.m3u8
 #EXTINF:-1,IN: BANGLA TALKIES
 http://103.141.66.36/bpk-tv/10081/default/index.m3u8
+#EXTINF:-1,IN: IMAYAM
+http://103.141.66.36/bpk-tv/10166/default/index.m3u8
