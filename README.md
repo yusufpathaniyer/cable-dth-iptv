@@ -1319,3 +1319,5 @@ http://singamcloud.in/rasimusic/playlist.m3u8
 http://singamcloud.in/rasitv/playlist.m3u8
 #EXTINF:-1,IN: Raasi Movies
 http://singamcloud.in/rasimovies/playlist.m3u8
+#EXTINF:-1,UK: SEX TREME
+http://148.69.92.171:4022/udp/239.100.28.18:1234
