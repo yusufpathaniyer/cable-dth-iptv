@@ -799,7 +799,6 @@ http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1,IN: MNX
 http://103.214.202.218:8081/live/mnx/chunks.m3u8
-
 #EXTINF:-1,UK: HUSTLER TV
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&
 #EXTINF:-1,UK: ANIMAL PLANET
@@ -816,106 +815,6 @@ http://103.214.202.218:8081/live/zoom-60/chunks.m3u8
 http://live02-cdn.tv.ti.ru:80/dtv/id374_NBN_SG--NatGeo_Wild_HD/04/plst.m3u8
 #EXTINF:-1,PK: PTV SPORTS
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/chunks.m3u8
-#EXTINF:-1,IN: CARTOON NETWORK
-http://103.135.208.14/live/ibox/bd/2.m3u8?RocketTV
-#EXTINF:-1,IN: STAR JALSHA HD
-http://103.135.208.14/live/ibox/bd/3.m3u8?RocketTV
-#EXTINF:-1,IN: ZEE BANGLA HD
-http://103.135.208.14/live/ibd/96.m3u8?RocketTV
-#EXTINF:-1,IN: &TV PICTURES HD
-http://103.135.208.14/live/ibox/bd/94.m3u8?RocketTV
-#EXTINF:-1,IN: 9XM
-http://103.135.208.14/live/ibox/bd/90.m3u8?RocketTV
-#EXTINF:-1,IN: STAR MOVIES HD
-http://103.135.208.14/live/ibox/bd/82.m3u8?RocketTV
-#EXTINF:-1,IN: STAR WORLD HD
-http://103.135.208.14/live/ibox/bd/78.m3u8?RocketTV
-#EXTINF:-1,IN: ROMEDY NOW
-http://103.135.208.14/live/ibox/bd/72.m3u8?RocketTV
-#EXTINF:-1,IN: MNX
-http://103.135.208.14/live/ibox/bd/70.m3u8?RocketTV
-#EXTINF:-1,INT: BBC WORLD NEWS
-http://103.135.208.14/live/ibox/bd/68.m3u8?RocketTV
-#EXTINF:-1,IN: STAR WORLD
-http://103.135.208.14/live/ibox/bd/66.m3u8?RocketTV
-#EXTINF:-1,IN: TLC HD
-http://103.135.208.14/live/ibox/bd/62.m3u8?RocketTV
-#EXTINF:-1,IN: STAR SPORTS 2
-http://103.135.208.14/live/ibox/bd/54.m3u8?RocketTV
-#EXTINF:-1,PK: ARY DIGITAL
-http://103.135.208.14/live/ibox/bd/56.m3u8?RocketTV
-#EXTINF:-1,IN: TIMES NOW
-http://103.135.208.14/live/ibox/bd/52.m3u8?RocketTV
-#EXTINF:-1,ME: STAR BHARAT
-http://103.135.208.14/live/ibox/bd/50.m3u8?RocketTV
-#EXTINF:-1,IN: ZEE ACTION
-http://103.135.208.14/live/ibox/bd/46.m3u8?RocketTV
-#EXTINF:-1,IN: STAR BHARAT HD
-http://103.135.208.14/live/ibox/bd/44.m3u8?RocketTV
-#EXTINF:-1,IN: STAR GOLD HD
-http://103.135.208.14/live/ibox/bd/40.m3u8?RocketTV
-#EXTINF:-1,IN: COLORS HD
-http://103.135.208.14/live/ibox/bd/42.m3u8?RocketTV
-#EXTINF:-1,IN: ZOOM
-http://103.135.208.14/live/ibox/bd/14.m3u8?RocketTV
-#EXTINF:-1,IN: MONURANHAN TV
-http://103.135.208.14/live/ibox/bd/12.m3u8?RocketTV
-#EXTINF:-1,IN: NICK
-http://103.135.208.14/live/ibox/bd/57.m3u8?RocketTV
-#EXTINF:-1,IN: STAR SPORTS 3
-http://103.135.208.14/live/ibox/bd/8.m3u8?RocketTV
-#EXTINF:-1,IN: 9XM
-http://103.135.208.14/live/ibox/bd/90.m3u8?RocketTV
-#EXTINF:-1,IN: B4U MUSIC
-http://103.135.208.14/live/ibox/bd/108.m3u8?RocketTV
-#EXTINF:-1,ASIA: CNN STYLE
-http://103.135.208.14/live/ibox/bd/106.m3u8?RocketTV
-#EXTINF:-1,ME: ZEE CINEMA
-http://103.135.208.14/live/ibox/bd/110.m3u8?RocketTV
-#EXTINF:-1,UK: DW
-http://103.135.208.14/live/ibox/bd/105.m3u8?RocketTV
-#EXTINF:-1,IN: MUSIC INDIA
-http://103.135.208.14/live/ibox/bd/103.m3u8?RocketTV
-#EXTINF:-1,IN: STAR MOVIES HD
-http://103.135.208.14/live/ibox/bd/101.m3u8?RocketTV
-#EXTINF:-1,IN: STAR GOLD 2
-http://103.135.208.14/live/ibox/bd/99.m3u8?RocketTV
-#EXTINF:-1,IN: STAR WORLD HD
-http://103.135.208.14/live/ibox/bd/97.m3u8?RocketTV
-#EXTINF:-1,IN: ALZEERA
-http://103.135.208.14/live/ibox/bd/95.m3u8?RocketTV
-#EXTINF:-1,IN: ANIMAL PLANET
-http://103.135.208.14/live/ibox/bd/93.m3u8?RocketTV
-#EXTINF:-1,IN:
-http://103.135.208.14/live/ibox/bd/83.m3u8?RocketTV
-#EXTINF:-1,IN:
-http://103.135.208.14/live/ibox/bd/79.m3u8?RocketTV
-#EXTINF:-1,IN: 
-http://103.135.208.14/live/ibox/bd/77.m3u8?RocketTV
-#EXTINF:-1,JP: NHK WORLD
-http://103.135.208.14/live/ibox/bd/75.m3u8?RocketTV
-#EXTINF:-1,IN: FLY 18 HD
-http://103.135.208.14/live/ibox/bd/73.m3u8?RocketTV
-#EXTINF:-1,IN: MOVIES NOW
-http://103.135.208.14/live/ibox/bd/71.m3u8?RocketTV
-#EXTINF:-1,IN:
-http://103.135.208.14/live/ibox/bd/63.m3u8?RocketTV
-#EXTINF:-1,ASIA: NAT GEO
-http://103.135.208.14/live/ibox/bd/61.m3u8?RocketTV
-#EXTINF:-1,IN: STAR SPORTS 1
-http://103.135.208.14/live/ibox/bd/53.m3u8?RocketTV
-#EXTINF:-1,PK: HUM MARSALA
-http://103.135.208.14/live/ibox/bd/49.m3u8?RocketTV
-#EXTINF:-1,APAC: ZEE TV
-http://103.135.208.14/live/ibox/bd/51.m3u8?RocketTV
-#EXTINF:-1,APAC: STAR PLUS
-http://103.135.208.14/live/ibox/bd/41.m3u8?RocketTV
-#EXTINF:-1,IN: COLORS BANGLA
-http://103.135.208.14/live/ibox/bd/35.m3u8?RocketTV
-#EXTINF:-1,AU: FOX SPORTS 3
-http://103.135.208.14/live/ibox/bd/9.m3u8?RocketTV
-#EXTINF:-1,IN: UTV MOVIES
-http://103.135.208.14/live/ibox/bd/7.m3u8?RocketTV
 #EXTINF:-1,ME: DUBAI ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
 #EXTINF:-1,INT: LOOKSOORTS
@@ -954,7 +853,6 @@ http://188.40.48.89/restrimfree/fWVyipZrS0/4427?checkedby:iptvcat.com
 https://bol.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
 #EXTINF:-1,UK: HBO
 https://iptv.burhansyam.com/hbotest/hbo.m3u8
-#EXTINF:-1,UK: CHANNttp://80.32.125.233:8000/play/a004/index.m3u8
 #EXTINF:-1,IN: WION
 http://z5amshls.akamaized.net/wion/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,RU: NICK
@@ -996,7 +894,7 @@ http://89.38.8.131:39520
 #EXTINF:-1,IN: ZEE BOLLYWOOD
 http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8
 #EXTINF:-1,IN: ZEE CINEMA HD
-http://103.141.66.36/bpk-tv/10430/default/manifest.mpd?=.m3u8
+http/103.141.66.36/bpk-tv/10430/default/manifest.mpd?=.m3u8
 #EXTINF:-1,INT: MEN X
 http://84.85.106.110:8001/1:0:1:5284:C96:3:EB0000:0:0:0:
 #EXTINF:-1,IN: SONY TEN 3
