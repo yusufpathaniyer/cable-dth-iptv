@@ -1107,5 +1107,16 @@ http://103.141.66.36/bpk-tv/10082/default/index.m3u8
 http://103.141.66.36/bpk-tv/10081/default/index.m3u8
 #EXTINF:-1,IN: IMAYAM
 http://103.141.66.36/bpk-tv/10166/default/index.m3u8
-#EXTINF:-1,IN: 
+#EXTINF:-1,IN: ATHAVANTV
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1,IN: Peppers TV
+https://live.wmncdn.net/peppers/live.stream/index.m3u8
+#EXTINF:-1,IN: CSK TV
+http://185.105.4.244:1935/livesp/csktv1/playlist.m3u8
+#EXTINF:-1,IN: SARAS TV
+https://live.streamjo.com/sarastv/sarastv.m3u8
+#EXTINF:-1,ASIA: HBO
+http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE?checkedby:iptvcat.com
+#EXTINF:-1,IN: SURIAC TV
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,IN: SURIAC
