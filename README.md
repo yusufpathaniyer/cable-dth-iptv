@@ -1107,3 +1107,5 @@ http://103.141.66.36/bpk-tv/10082/default/index.m3u8
 http://103.141.66.36/bpk-tv/10081/default/index.m3u8
 #EXTINF:-1,IN: IMAYAM
 http://103.141.66.36/bpk-tv/10166/default/index.m3u8
+#EXTINF:-1,IN: 
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
