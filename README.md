@@ -1135,3 +1135,7 @@ https://playlive.goonj.pk/expressentweb_480p/index.m3u8
 https://playlive.goonj.pk/bolentweb_480p/index.m3u8
 #EXTINF:-1,IN: SONY SAB
 http://103.214.202.218:8081/live/sonysab/playlist.m3u8
+#EXTINF:-1,IN: SONY HD
+http://ccn.anytv.live:8080/sony/track-v1a1/mono.m3u8
+#EXTINF:-1,IN: SONY MAX
+http://ccn.anytv.live:8080/sonymax/track-v1a1/mono.m3u8
