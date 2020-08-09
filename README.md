@@ -1135,5 +1135,3 @@ https://playlive.goonj.pk/expressentweb_480p/index.m3u8
 https://playlive.goonj.pk/bolentweb_480p/index.m3u8
 #EXTINF:-1,IN: SONY SAB
 http://103.214.202.218:8081/live/sonysab/playlist.m3u8
-#EXTINF:-1,ASIA: CARTOON NETWORK HD
-http://internetowa.tv/?c=hlsPlay&channel=cartoonnetwork&token=2bdae9ac2bd68cf8200f99d6672d0b5cca6d583abbb1da9646e66138cc2fad99dd1c081abfbab2fb3004cc8634231d9a5ade8d47cbe80f3f9269f0420ac8c4bc
