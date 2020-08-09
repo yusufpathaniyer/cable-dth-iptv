@@ -1119,4 +1119,16 @@ https://live.streamjo.com/sarastv/sarastv.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE?checkedby:iptvcat.com
 #EXTINF:-1,IN: SURIAC TV
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,IN: SURIAC
+#EXTINF:-1,ASIA: ZEE TV
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:-1,ASIA: ZEE CINEMA
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1,ASIA: STAR PLUS
+https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+#EXTINF:-1,ME: STAR GOLD
+https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+#EXTINF:-1,ME: STAR BHARAT
+https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+#EXTINF:-1,ASIA: COLORS TV
+https://itpolly.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
+
