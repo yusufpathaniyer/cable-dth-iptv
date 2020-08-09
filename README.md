@@ -1075,8 +1075,6 @@ http://103.214.202.218:8081/live/mnx/chunks.m3u8
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1,IN: DISCOVERY SCIENCE
 http://177.91.162.202:8000/play/DiscoveryScience/index.m3u8
-#EXTINF:-1,IN:SONY MAX HD
-http://indtv.online/sonyliv/SonyMaxhd.m3u8ó
 #EXTINF:-1,ASIA: WB TV
 http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
 #EXTINF:-1,ASIA: HISTORY TV
