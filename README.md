@@ -1131,4 +1131,7 @@ https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1,ASIA: COLORS TV
 https://itpolly.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
-
+#EXTINF:-1,PK: EXPRESS
+https://playlive.goonj.pk/expressentweb_480p/index.m3u8
+#EXTINF:-1,PK: BOL
+https://playlive.goonj.pk/bolentweb_480p/index.m3u8
