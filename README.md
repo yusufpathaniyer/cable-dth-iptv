@@ -1139,3 +1139,9 @@ http://103.214.202.218:8081/live/sonysab/playlist.m3u8
 http://ccn.anytv.live:8080/sony/track-v1a1/mono.m3u8
 #EXTINF:-1,IN: SONY MAX
 http://ccn.anytv.live:8080/sonymax/track-v1a1/mono.m3u8
+#EXTINF:-1,IN: STAR GOLD HD
+http://star.indtv.online/live/star_gold/chunks.m3u8
+#EXTINF:-1,ASIA: STAR PLUS
+http://star.indtv.online/live/star_plus/chunks.m3u8
+#EXTINF:-1,ME: STAR BHARAT
+http://star.indtv.online/live/star_bharat/chunks.m3u8
