@@ -1145,3 +1145,15 @@ http://star.indtv.online/live/star_gold/chunks.m3u8
 http://star.indtv.online/live/star_plus/chunks.m3u8
 #EXTINF:-1,ME: STAR BHARAT
 http://star.indtv.online/live/star_bharat/chunks.m3u8
+#EXTINF:-1,IN: NICK
+https://star.indtv.online/live/nickelodeon/chunks.m3u8
+#EXTINF:-1,IN: STAR WORLD
+http://star.indtv.online/live/star_world/chunks.m3u8
+#EXTINF:-1,ASIA: ZEE CINEMA
+http://star.indtv.online/live/zee_cinema/chunks.m3u8
+#EXTINF:-1,ASIA: ZEE TV
+http://star.indtv.online/live/zee_tv/chunks.m3u8
+#EXTINF:-1,IN: NAT GEO WILD
+https://star.indtv.online/live/nat_Geo_wild/chunks.m3u8
+#EXTINF:-1,IN: ZING
+https://star.indtv.online/live/zing/chunks.m3u8
