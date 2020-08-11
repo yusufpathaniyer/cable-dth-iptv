@@ -1157,3 +1157,5 @@ http://star.indtv.online/live/zee_tv/chunks.m3u8
 https://star.indtv.online/live/nat_Geo_wild/chunks.m3u8
 #EXTINF:-1,IN: ZING
 https://star.indtv.online/live/zing/chunks.m3u8
+#EXTINF:-1,IN: NICK JR
+https://star.indtv.online/live/nick_jr/chunks.m3u8
