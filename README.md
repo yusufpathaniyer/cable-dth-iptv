@@ -1159,3 +1159,9 @@ https://star.indtv.online/live/nat_Geo_wild/chunks.m3u8
 https://star.indtv.online/live/zing/chunks.m3u8
 #EXTINF:-1,IN: NICK JR
 https://star.indtv.online/live/nick_jr/chunks.m3u8
+#EXTINF:-1,IN: SONY TEN 2 HD
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+#EXTINF:-1,IN: SONY TEN 1
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+#EXTINF:-1,IN: SONY TEN 3
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
