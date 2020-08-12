@@ -1177,3 +1177,59 @@ http://125.209.99.45:43568/BRN/TenSports.stream/playlist.m3u8
 https://streamitv.multitvsolution.in/idvo/ddsports_360p/index.m3u8
 #EXTINF:-1,IN: DD RETRO
 https://streamitv.multitvsolution.in/idvo/ddretro_360p/index.m3u8
+#EXTINF:-1,IN: SONY TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/26.m3u8
+#EXTINF:-1,IN: STAR PLUS
+http://iptv.kitv.live:1935/live/Shari/MTV-P/27.m3u8
+#EXTINF:-1,IN: TRAVEL XP HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/23.m3u8
+#EXTINF:-1,IN: ZEE BANGLA HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/21.m3u8
+#EXTINF:-1,IN: SONY AATH
+http://iptv.kitv.live:1935/live/Shari/MTV-P/20.m3u8
+#EXTINF:-1,IN: ZEE TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/28.m3u8
+#EXTINF:-1,IN: ZEE CINEMA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/29.m3u8
+#EXTINF:-1,IN: COLORS TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/30.m3u8
+#EXTINF:-1,IN: SONY MAX HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
+#EXTINF:-1,PK: HUM MASALA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/33.m3u8
+#EXTINF:-1,PK: HUM SITARY
+http://iptv.kitv.live:1935/live/Shari/MTV-P/34.m3u8
+#EXTINF:-1,IN: BILIFIX MOVIES
+http://iptv.kitv.live:1935/live/Shari/MTV-P/35.m3u8
+#EXTINF:-1,IN: B4U MOVIES
+http://iptv.kitv.live:1935/live/Shari/MTV-P/36.m3u8
+#EXTINF:-1,IN: ENTER 10 MOVIES
+http://iptv.kitv.live:1935/live/Shari/MTV-P/37.m3u8
+#EXTINF:-1,IN: MN+ HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/38.m3u8
+#EXTINF:-1,IN: &FLIX
+http://iptv.kitv.live:1935/live/Shari/MTV-P/40.m3u8
+#EXTINF:-1,IN: AXN
+http://iptv.kitv.live:1935/live/Shari/MTV-P/42.m3u8
+#EXTINF:-1,IN: HBO
+http://iptv.kitv.live:1935/live/Shari/MTV-P/44.m3u8
+#EXTINF:-1,IN: TLC
+http://iptv.kitv.live:1935/live/Shari/MTV-P/45.m3u8
+#EXTINF:-1,ASIA: BBC LIFESTYLE
+http://iptv.kitv.live:1935/live/Shari/MTV-P/46.m3u8
+#EXTINF:-1,IN: SONY TEN 1
+http://iptv.kitv.live:1935/live/Shari/MTV-P/47.m3u8
+#EXTINF:-1,IN: SONY TEN 2 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/50.m3u8
+#EXTINF:-1,IN: STAR SPORTS SELECT 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
+#EXTINF:-1,IN: STAR SPORTS 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8
+#EXTINF:-1,IN: STAR SPORTS SELECT 2 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
+#EXTINF:-1,IN: D SPORTS
+http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8
+#EXTINF:-1,IN: BBC WORLD NEWS
+http://iptv.kitv.live:1935/live/Shari/MTV-P/56.m3u8
+
+
