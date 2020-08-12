@@ -1231,5 +1231,40 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8
 #EXTINF:-1,IN: BBC WORLD NEWS
 http://iptv.kitv.live:1935/live/Shari/MTV-P/56.m3u8
-
+#EXTINF:-1,IN: AJZEERA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/58.m3u8
+#EXTINF:-1,ASIA: BBC EARTH
+http://iptv.kitv.live:1935/live/Shari/MTV-P/62.m3u8
+#EXTINF:-1,IN: DISCOVERY HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8
+#EXTINF:-1,IN: CARTOON NETWORK
+http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8
+#EXTINF:-1,IN: DISNEY XD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
+#EXTINF:-1,ASIA: BBC CARIBES
+http://iptv.kitv.live:1935/live/Shari/MTV-P/67.m3u8
+#EXTINF:-1,PK: 8XM HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/72.m3u8
+#EXTINF:-1,IN: ZEE ETC
+http://iptv.kitv.live:1935/live/Shari/MTV-P/73.m3u8
+#EXTINF:-1,IN: MTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/75.m3u8
+#EXTINF:-1,IN: 9X JALAWA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/76.m3u8
+#EXTINF:-1,IN: MASTII
+http://iptv.kitv.live:1935/live/Shari/MTV-P/78.m3u8
+#EXTINF:-1,IN: B4U MUSIC
+http://iptv.kitv.live:1935/live/Shari/MTV-P/79.m3u8
+#EXTINF:-1,IN: ZING
+http://iptv.kitv.live:1935/live/Shari/MTV-P/81.m3u8
+#EXTINF:-1,IN: JALAWA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/82.m3u8
+#EXTINF:-1,IN: E24
+http://iptv.kitv.live:1935/live/Shari/MTV-P/83.m3u8
+#EXTINF:-1,IN: MUSIC INDIA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/84.m3u8
+#EXTINF:-1,IN: HISTORY TV 18
+http://iptv.kitv.live:1935/live/Shari/MTV-P/86.m3u8
+#EXTINF:-1,IN: DW 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/101.m3u8
 
