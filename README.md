@@ -1175,4 +1175,6 @@ https://hls5.zedflix.pk/hls/aplusweb_240p.m3u8
 http://125.209.99.45:43568/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1,IN: DD SPORTS
 https://streamitv.multitvsolution.in/idvo/ddsports_360p/index.m3u8
+#EXTINF:-1,IN: DD RETRO
 
+https://streamitv.multitvsolution.in/idvo/ddretro_360p/index.m3u8
