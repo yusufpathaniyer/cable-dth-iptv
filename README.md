@@ -1165,3 +1165,8 @@ http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1,IN: SONY TEN 3
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
+#EXTINF:-1,ASIA: ZEE TV
+http://zigfreed.ru/IP0/76.m3u8
+#EXTINF:-1,RU: BOLLYWOOD HD
+http://zigfreed.ru/IP0/11.m3u8
+
