@@ -1169,4 +1169,6 @@ http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 http://zigfreed.ru/IP0/76.m3u8
 #EXTINF:-1,RU: BOLLYWOOD HD
 http://zigfreed.ru/IP0/11.m3u8
+#EXTINF:-1,PK: A PLUS
+https://hls5.zedflix.pk/hls/aplusweb_240p.m3u8
 
