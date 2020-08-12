@@ -1171,4 +1171,6 @@ http://zigfreed.ru/IP0/76.m3u8
 http://zigfreed.ru/IP0/11.m3u8
 #EXTINF:-1,PK: A PLUS
 https://hls5.zedflix.pk/hls/aplusweb_240p.m3u8
+#EXTINF:-1,PK: TEN SPORTS
+http://125.209.99.45:43568/BRN/TenSports.stream/playlist.m3u8
 
