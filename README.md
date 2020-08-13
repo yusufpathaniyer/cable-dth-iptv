@@ -1269,3 +1269,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/86.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/101.m3u8
 #EXTINF:-1, USA: INSIGHT TV
 https://insighttv-stirr.amagi.tv/playlist.m3u8
+#EXTINF:-1,UK: VUNES
+http://148.69.92.171:4022/udp/239.100.26.10:1234
+#EXTINF:-1,IN: DISCOVERY KIDS
+https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?checkedby:rockettvapk.blogspot.com
