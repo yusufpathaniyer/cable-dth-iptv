@@ -1267,4 +1267,5 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/84.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/86.m3u8
 #EXTINF:-1,IN: DW 
 http://iptv.kitv.live:1935/live/Shari/MTV-P/101.m3u8
-
+#EXTINF:-1, USA: INSIGHT TV
+https://insighttv-stirr.amagi.tv/playlist.m3u8
