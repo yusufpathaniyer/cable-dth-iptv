@@ -1291,3 +1291,15 @@ http://indtv.online/sunnxt/sunnxt/UdayaMovies.m3u8
 http://indtv.online/sunnxt/sunnxt/UdayaTv.m3u8
 #EXTINF:-1,IN: SUN BANGLA
 http://indtv.online/sunnxt/sunnxt/SunBangla.m3u8
+#EXTINF:-1,IN: SURYA MOVIES 
+http://indtv.online/sunnxt/sunnxt/SuryaMovies.m3u8
+#EXTINF:-1,IN: SURYA TV 
+http://indtv.online/sunnxt/sunnxt/SuryaTv.m3u8
+#EXTINF:-1,IN: SUN MUSIC HD
+http://indtv.online/sunnxt/sunnxt/SunMusicHD.m3u8
+#EXTINF:-1,IN: KTV HD
+http://indtv.online/sunnxt/sunnxt/KTvHD.m3u8
+#EXTINF:-1,IN: KOCHU TV 
+http://indtv.online/sunnxt/sunnxt/KochuTv.m3u8
+#EXTINF:-1,IN: ADTIHYA TV
+http://indtv.online/sunnxt/sunnxt/AdithyaTv.m3u8
