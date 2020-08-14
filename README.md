@@ -1303,3 +1303,11 @@ http://indtv.online/sunnxt/sunnxt/KTvHD.m3u8
 http://indtv.online/sunnxt/sunnxt/KochuTv.m3u8
 #EXTINF:-1,IN: ADTIHYA TV
 http://indtv.online/sunnxt/sunnxt/AdithyaTv.m3u8
+#EXTINF:-1,IN: CHINTU TV
+http://indtv.online/sunnxt/sunnxt/ChintuTv.m3u8
+#EXTINF:-1,IN: UDAYA COMEDY 
+http://indtv.online/sunnxt/sunnxt/UdayaComedy.m3u8
+#EXTINF:-1,IN: GEMINI LIFE
+http://indtv.online/sunnxt/sunnxt/GeminiLife.m3u8
+#EXTINF:-1,IN: SUN NEWS
+http://indtv.online/sunnxt/sunnxt/SunNews.m3u8
