@@ -1279,3 +1279,9 @@ http://tamilgo.com/api/auth/jio/jiostream.m3u8?c=Colors_HD
 http://tamilgo.com/api/auth/jio/jiostream.m3u8?c=Sony_HD
 #EXTINF:-1,IN: ZEE TV HD
 http://tamilgo.com/api/auth/jio/jiostream.m3u8?c=Zee_Tv_HD
+#EXTINF:-1,IN: GEMINI MOVIES HD
+http://indtv.online/sunnxt/sunnxt/GeminiMoviesHD.m3u8
+#EXTINF:-1,IN: SUN TV HD
+http://indtv.online/sunnxt/sunnxt/SunTvHD.m3u8
+#EXTINF:-1,IN: GEMINI TV HD
+http://indtv.online/sunnxt/sunnxt/GeminiTvHD.m3u8
