@@ -1273,3 +1273,9 @@ https://insighttv-stirr.amagi.tv/playlist.m3u8
 http://148.69.92.171:4022/udp/239.100.26.10:1234
 #EXTINF:-1,IN: DISCOVERY KIDS
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?checkedby:rockettvapk.blogspot.com
+#EXTINF:-1,IN: COLORS HD
+http://tamilgo.com/api/auth/jio/jiostream.m3u8?c=Colors_HD
+#EXTINF:-1,IN: SONY HD
+http://tamilgo.com/api/auth/jio/jiostream.m3u8?c=Sony_HD
+#EXTINF:-1,IN: ZEE TV HD
+http://tamilgo.com/api/auth/jio/jiostream.m3u8?c=Zee_Tv_HD
