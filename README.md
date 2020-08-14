@@ -1311,3 +1311,7 @@ http://indtv.online/sunnxt/sunnxt/UdayaComedy.m3u8
 http://indtv.online/sunnxt/sunnxt/GeminiLife.m3u8
 #EXTINF:-1,IN: SUN NEWS
 http://indtv.online/sunnxt/sunnxt/SunNews.m3u8
+#EXTINF:-1,IN: HBO HD
+http://tamilgo.com/api/auth/jio/jiostream.m3u8?c=Hbo_HD
+#EXTINF:-1,IN: AND TV HD
+http://tamilgo.com/api/auth/jio/jiostream.m3u8?c=And_Tv_HD
