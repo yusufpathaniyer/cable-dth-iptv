@@ -1285,3 +1285,9 @@ http://indtv.online/sunnxt/sunnxt/GeminiMoviesHD.m3u8
 http://indtv.online/sunnxt/sunnxt/SunTvHD.m3u8
 #EXTINF:-1,IN: GEMINI TV HD
 http://indtv.online/sunnxt/sunnxt/GeminiTvHD.m3u8
+#EXTINF:-1,IN: UDAYA MOVIES HD
+http://indtv.online/sunnxt/sunnxt/UdayaMovies.m3u8
+#EXTINF:-1,IN: UDAYA TV 
+http://indtv.online/sunnxt/sunnxt/UdayaTv.m3u8
+#EXTINF:-1,IN: SUN BANGLA
+http://indtv.online/sunnxt/sunnxt/SunBangla.m3u8
