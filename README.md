@@ -1323,3 +1323,5 @@ http://ccn.anytv.live:8080/starplus/track-v1a1/mono.m3u8
 http://ccn.anytv.live:8080/zeetv/track-v1a1/mono.m3u8
 #EXTINF:-1,IN: DISCOVERY SCIENCE
 http://streamitv.multitvsolution.in/idvo/discoversciencehindi_360p/index.m3u8
+#EXTINF:-1,IN: DISCOVERY HD
+https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8?checkedby:rockettvapk.blogspot.com
