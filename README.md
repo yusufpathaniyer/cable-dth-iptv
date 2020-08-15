@@ -1317,3 +1317,7 @@ http://tamilgo.com/api/auth/jio/jiostream.m3u8?c=Hbo_HD
 http://tamilgo.com/api/auth/jio/jiostream.m3u8?c=And_Tv_HD
 #EXTINF:-1,USA: CARTOON NETWORK
 http://flusonic-1.platinum-tv.com/cartoon_network/index.m3u8?token=test&lang=eng
+#EXTINF:-1,ASIA: STAR PLUS
+http://ccn.anytv.live:8080/starplus/track-v1a1/mono.m3u8
+#EXTINF:-1,ASIA: ZEE TV
+http://ccn.anytv.live:8080/zeetv/track-v1a1/mono.m3u8
